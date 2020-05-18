@@ -1,0 +1,46 @@
+---
+---
+
+@import "{{ site.theme }}";
+#banner{
+    background: #06507d;
+    border: 1px solid #4e6979;
+}
+
+#banner .fork{
+    background-color:#9ab09a;
+}
+
+#banner .button{
+    border: 1px solid #3f6843;
+}
+
+#banner .button:hover {
+    background-color: #77b277;
+}
+
+.backlink a{
+    font-weight: bold;
+    color: #333;
+    text-decoration: none;
+    font-size: 1.2em;
+    margin-bottom: 2em;
+}
+
+nav > ul{
+    margin: 30px 0 20px;
+}
+
+td{
+    border-left: 1px solid #4e6979;
+    border-right: 1px solid #4e6979;
+}
+
+th:first-child{
+    color:#4e6979;
+}
+td:first-child{
+    color:#4e6979;
+    border-left: 1px solid #4e6979;
+    border-right: 1px solid #4e6979;
+}
