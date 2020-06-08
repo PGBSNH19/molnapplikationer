@@ -33,4 +33,5 @@ Beskrivning av mål, moment och bedömning i kursen, hittar ni här:
 
 # Annan information
 
-
+* [Kursbok](info_learningmaterial.md) : I kursen använder vi boken *Learn Azure in a Month of Lunches, Second Edition* som frivillig material (den behövs inte för att kunna klara av kursen)
+* [Verktygslådan](info_tools.md) : Vi kommer i kursen att använda en rad olika verktyg, dissa är beskrivet i detta dokument
