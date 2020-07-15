@@ -6,7 +6,7 @@
 
 ISBN: 9781617297625
 
-Tyvärr är boken inte klar i en fysisk version än. Och vi kommer inte att köra slavisk efter denna bok, men den kommer ändå att danna en ram som kursen bygger på. Boken är **inte** obligatorisk.
+Vi kommer inte att köra slavisk efter denna bok, men den kommer ändå att danna en ram som kursen bygger på. Boken är **inte** obligatorisk, men rekommenderat.
 
 ## Online kurs
 
