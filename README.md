@@ -6,7 +6,7 @@ Kursen syftar till att den studerande utvecklar kunskap om och förståelse för
 
 Vecka|Måndag|Tisdag |Onsdag |Torsdag|Fredag
 -----|-------|-------|------|------|------
-36|01: 2020-08-31<br />Röda tråd: Internet och moln<br />8:30 - 16:30|        |02: 2020-09-02<br />Infrastruktur som kod<br />8:30 - 16:30||
+36|01: 2020-08-31<br />Röda tråd: [Internet och moln](lecture_01_internet_och_moln.md)<br />8:30 - 16:30|        |02: 2020-09-02<br />Azure och Infrastruktur som kod<br />8:30 - 16:30||
 37|03: 2020-09-07<br />Webb applikationer i molnet<br />8:30 - 16:00||04: 2020-09-09<br />Data i molnet<br />8:30 - 16:30||
 38|05: 2020-09-14<br />Automatiserat release<br />8:30 - 16:30||06: 2020-09-16<br />Nätverk i molnet<br />8:30 - 16:30||
 39|07: 2020-09-21<br />Databaser i molnet<br />8:30 - 16:30||08: 2020-09-23<br />Monitorering av moln applikationer<br />8:30 - 16:30||        
