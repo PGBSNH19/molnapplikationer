@@ -4,16 +4,24 @@ Lektion 2 av 12, onsdag den 2:a september 2020
 
 ![Draft](/assets/images/draft.png)
 
-Målet med denna lektion är... TBD
+Målet med denna lektion är komma på gång att använda virtuella maskiner, och börja prata om vad Azure är, och innehåller. 
+
+Ni kommer att jobba med virtuelle Linux maskiner, så om du är osäker på Linux kolla bakgrunds litteraturen. Anledningen till detta är att Linux typ är standard OS i molnen.
 
 ## Lektionsplan
 Lektion från kl. 8:30 till kl. 16:30
 
-* x
+* 8:30 Uppsamling från förra lektion (Internet och moln)
+  * Bording card
+* 9:00 Presentation av dagens teori: Virtuelle maskiner och Azure
+* 9:30 Grupp övning
 
 Lunch 12:00 till 13:00
 
-* x
+* 13:00 Programmeringsövning i grupp
+* 16:00 Avslutning och frågor i klassen
+* 16:30 Slut på lektion
+  * Landing card
 
 # Lektionsteori
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
@@ -33,8 +41,13 @@ Lunch 12:00 till 13:00
 
 *Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
 
-* [Get started guide for Azure IT operators](https://docsmsftpdfs.blob.core.windows.net/guides/azure/azure-ops-guide.pdf)
+## Virtual machines
+
 * TBD
+
+## Azure
+
+* [Get started guide for Azure IT operators](https://docsmsftpdfs.blob.core.windows.net/guides/azure/azure-ops-guide.pdf)
 
 ## Linux
 
