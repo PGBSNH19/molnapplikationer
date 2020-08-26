@@ -1,1 +1,1 @@
-Test
+This repo contains the lecture information for the course "Utveckling av moln baserade applikationer" at Teknikhögskolan in Gothenburg, Sweden. Fall 2020
