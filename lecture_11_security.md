@@ -4,15 +4,27 @@ Lektion 11 av 12, måndag den 5:e oktober 2020
 
 ![Draft](/assets/images/draft.png)
 
-Målet med denna lektion är... TBD
+Målet med denna lektion är att lära vilka säkerhetsmekanismer som finns i Azure och vad man speciellt ska vara uppmärksam på när man utvecklar moln applikationer.
 
-1. Azure security
-2. Backup
-3. Encryption
-4. Key vault
-5. Security center
-6. Praktisk Sikkerhed
-   1. Hack en computer
+## Lektionsplan
+Lektion från kl. 8:30 till kl. 16:30
+
+* x
+
+Lunch 12:00 till 13:00
+
+* x
+
+# Lektionsteori
+*Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
+
+* Azure security
+* Backup
+* Encryption
+* Key vault
+* Security center
+* Praktisk Sikkerhed
+  1. Hack en computer
 
 
 https://github.com/malcomvetter/WidgetSender
@@ -30,24 +42,9 @@ https://www.youtube.com/watch?v=Usq3SO_Fvjg
 
 https://www.youtube.com/watch?v=kd33UVZhnAA
 
-## Lektionsplan
-Lektion från kl. 8:30 till kl. 16:30
-
-* x
-
-Lunch 12:00 till 13:00
-
-* x
-
-# Lektionsteori
-Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.
-
-* TBD
-* TBD
-
 # Bakgrunds litteratur
 
-Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.
+*Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
 
 * TBD
 * TBD

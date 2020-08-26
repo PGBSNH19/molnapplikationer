@@ -37,7 +37,7 @@ Lunch 12:00 till 13:00
 ## Infrastructure as Code
 
 * TBD
-* TBD
+* [What is Azure Resource Manager?](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overview)
 
 ## Pulumi
 
@@ -59,3 +59,4 @@ https://blog.kylegalbraith.com/2018/12/21/how-pulumi-compares-to-terraform-for-i
 
 create a virtual machine using Pulumi
 
+write a blog entry of your learnings

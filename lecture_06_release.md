@@ -4,16 +4,7 @@ Lektion 6 av 12, onsdag den 16:e september 2020
 
 ![Draft](/assets/images/draft.png)
 
-Målet med denna lektion är... TBD
-
-1. CI / CD
-https://opensource.com/article/19/4/devops-pipeline
-2. DevOps Pipelines
-https://itnext.io/how-to-create-and-configure-azure-devops-pipelines-agent-88848763f109
-https://docs.microsoft.com/en-us/azure/devops/pipelines/?view=azure-devops
-https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/what-is-azure-pipelines?view=azure-devops
-3. Deployment
-Ekstra: Docker
+Målet med denna lektion är att lära hur man kan automatisera sina bygg och release (med utgångspunkt i Azure DevOps). 
 
 ## Lektionsplan
 Lektion från kl. 8:30 till kl. 16:30
@@ -27,8 +18,14 @@ Lunch 12:00 till 13:00
 # Lektionsteori
 Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.
 
-* TBD
-* TBD
+* CI / CD
+  https://opensource.com/article/19/4/devops-pipeline
+* DevOps Pipelines
+  https://itnext.io/how-to-create-and-configure-azure-devops-pipelines-agent-88848763f109
+  https://docs.microsoft.com/en-us/azure/devops/pipelines/?view=azure-devops
+  https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/what-is-azure-pipelines?view=azure-devops
+* Deployment
+  Ekstra: Docker
 
 # Bakgrunds litteratur
 
