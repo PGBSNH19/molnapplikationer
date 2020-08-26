@@ -1,6 +1,6 @@
 # TBA
 
-Måndag 1:a september 2020
+Lektion 0 av 0, måndag den 1:a xx 2020
 
 ![Draft](/assets/images/draft.png)
 

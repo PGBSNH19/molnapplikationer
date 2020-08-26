@@ -1,6 +1,6 @@
 # Röda tråd: Livscykel och miljö + LIA
 
-Onsdag 7:e oktober 2020
+Lektion 12 av 12, onsdag den 7:e oktober 2020
 
 ![Draft](/assets/images/draft.png)
 

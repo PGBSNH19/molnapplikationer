@@ -1,6 +1,6 @@
 # Infrastruktur som kod
 
-Måndag 7:e september 2020
+Lektion 3 av 12, måndag den 7:e september 2020
 
 ![Draft](/assets/images/draft.png)
 

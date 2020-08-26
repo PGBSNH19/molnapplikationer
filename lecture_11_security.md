@@ -1,6 +1,6 @@
 # Moln säkerhet
 
-Torsdag 1:a oktober 2020
+Lektion 11 av 12, måndag den 5:e oktober 2020
 
 ![Draft](/assets/images/draft.png)
 

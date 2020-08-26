@@ -1,6 +1,6 @@
 # Databaser i molnet
 
-Måndag 21:a september 2020
+Lektion 8 av 12, onsdag den 23:e september 2020
 
 ![Draft](/assets/images/draft.png)
 

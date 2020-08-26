@@ -1,6 +1,6 @@
 # Skalning, upp och ut
 
-Måndag 28:e september 2020
+Lektion 10 av 12, torsdag den 1:a oktober 2020
 
 ![Draft](/assets/images/draft.png)
 

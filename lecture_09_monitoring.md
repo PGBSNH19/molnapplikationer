@@ -1,6 +1,6 @@
 # Monitorering av moln applikationer
 
-Onsdag 23:e september 2020
+Lektion 9 av 12, måndag den 28:e september 2020
 
 ![Draft](/assets/images/draft.png)
 

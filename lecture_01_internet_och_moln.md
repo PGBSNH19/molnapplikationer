@@ -1,6 +1,6 @@
 # Röda tråd: Internet och moln
 
-Måndag 30:e augusti 2020, online
+Lektion 1 av 12, måndag den 30:e augusti 2020, online
 
 ![Draft](/assets/images/draft.png)
 
