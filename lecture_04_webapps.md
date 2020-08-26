@@ -6,6 +6,10 @@ Lektion 4 av 12, onsdag den 9:e september 2020
 
 Målet med denna lektion är... TBD
 
+1. Azure Web Apps
+2. Micro services
+3. Serverless
+
 ## Lektionsplan
 Lektion från kl. 8:30 till kl. 16:30
 

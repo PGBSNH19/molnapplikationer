@@ -6,6 +6,11 @@ Lektion 5 av 12, måndag den 14:e september 2020
 
 Målet med denna lektion är... TBD
 
+1. GDPR
+2. Azure storage
+
+Manage and connect to Databases hosted in Azure.
+
 ## Lektionsplan
 Lektion från kl. 8:30 till kl. 16:30
 

@@ -6,6 +6,15 @@ Lektion 12 av 12, onsdag den 7:e oktober 2020
 
 Målet med denna lektion är... TBD
 
+green cloud
+
+1. https://bigdataanalyticsnews.com/green-cloud-computing-sustainable-use/
+2. https://www.slideshare.net/bluse2/green-cloud-computing
+3. https://www.slideshare.net/IamShreyasK/green-cloud-computing-25761737
+4. https://ieeexplore.ieee.org/document/8584429
+5. http://www.clickclean.org/international/en/
+   1. https://storage.googleapis.com/planet4-international-stateless/2012/04/e7c8ff21-howcleanisyourcloud.pdf
+
 ## Lektionsplan
 Lektion från kl. 8:30 till kl. 16:30
 

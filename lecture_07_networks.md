@@ -6,6 +6,14 @@ Lektion 7 av 12, måndag den 21:a september 2020
 
 Målet med denna lektion är... TBD
 
+Virtual networks are necessary to support communications betweenvirtual machines. You can define subnets, custom IP address, DNS settings, security filtering, and load balancing.By using a VPN gateway or an ExpressRoute circuit, you can connect Azure virtual networks to your on-premises networks.
+
+1. Azure Networking
+2. Teoretisk Sikkerhed
+   1. HTTPS
+   2. Firewalls
+   3. VPN
+
 ## Lektionsplan
 Lektion från kl. 8:30 till kl. 16:30
 

@@ -6,6 +6,12 @@ Lektion 8 av 12, onsdag den 23:e september 2020
 
 Målet med denna lektion är... TBD
 
+Azure databases
+
+Cosmos
+
+SQL Server
+
 ## Lektionsplan
 Lektion från kl. 8:30 till kl. 16:30
 

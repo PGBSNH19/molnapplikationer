@@ -6,6 +6,10 @@ Lektion 9 av 12, måndag den 28:e september 2020
 
 Målet med denna lektion är... TBD
 
+Monitoring and trubelshooting
+
+https://docs.microsoft.com/en-us/aspnet/core/azure/devops/monitoring?view=aspnetcore-3.1
+
 ## Lektionsplan
 Lektion från kl. 8:30 till kl. 16:30
 

@@ -6,6 +6,9 @@ Lektion 10 av 12, torsdag den 1:a oktober 2020
 
 Målet med denna lektion är... TBD
 
+1. Load balancing
+2. Scaling out and up
+
 ## Lektionsplan
 Lektion från kl. 8:30 till kl. 16:30
 

@@ -62,6 +62,7 @@ Den protokoll som webbläsare användare till att prata med webserveren, via TCP
 * Video (5 min): [What are the Business Benefits of Cloud Computing, IaaS, PaaS and SaaS?](https://www.youtube.com/watch?v=whkyRvugqlM)
 * [Different Types of Cloud Computing Service Models](https://www.bluepiit.com/blog/different-types-of-cloud-computing-service-models/)
 * [Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players](https://www.zdnet.com/article/the-top-cloud-providers-of-2020-aws-microsoft-azure-google-cloud-hybrid-saas/)
+* [Cloud Services Terminology Guide: Comparing AWS vs Azure vs Google](https://www.cloudhealthtech.com/blog/cloud-comparison-guide-glossary-aws-azure-gcp)
 
 # Bakgrunds litteratur
 Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.

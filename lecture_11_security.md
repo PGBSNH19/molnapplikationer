@@ -6,6 +6,30 @@ Lektion 11 av 12, måndag den 5:e oktober 2020
 
 Målet med denna lektion är... TBD
 
+1. Azure security
+2. Backup
+3. Encryption
+4. Key vault
+5. Security center
+6. Praktisk Sikkerhed
+   1. Hack en computer
+
+
+https://github.com/malcomvetter/WidgetSender
+https://github.com/terracotta-bank/terracotta-bank
+
+https://teachingsecurity.org/lesson-1-the-security-mindset/
+https://www.cybersecuritychallenge.org.uk/resources/teachers
+https://owasp.org/
+https://owasp.org/www-project-top-ten/
+https://geekflare.com/ethical-hacker-training-grounds/
+
+
+
+https://www.youtube.com/watch?v=Usq3SO_Fvjg
+
+https://www.youtube.com/watch?v=kd33UVZhnAA
+
 ## Lektionsplan
 Lektion från kl. 8:30 till kl. 16:30
 
