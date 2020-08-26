@@ -2,10 +2,8 @@
 
 Lektion 1 av 12, måndag den 30:e augusti 2020, online
 
-![Draft](/assets/images/draft.png)
-
-Målet med denna lektion är komma igång igen efter sommeren.
-Denna lektion är en uppstarts lektion, och introducera dom ämnen som dom kommande 12 lektioner kommer att bygga videra på. Det primäre mål i denne lektion är att bygga på eran kunskap från webutveckling backend.
+Målet med denna lektion är komma igång igen efter sommaren.
+Denna lektion är en uppstarts lektion, och introducera övergripande dom ämnen som dom kommande 12 lektioner kommer att bygga på. Det primäre mål i denne lektion är att bygga på eran kunskap från webutveckling backend.
 
 >  Inget i molnet har ett värde för någon annan än den som använder det
 
@@ -17,7 +15,7 @@ Lektion från kl. 8:30 till kl. 16:30
 * 9:00 Presentation av dagens teori: Internet och moln
 * 10:00 Indelning av grupper
 * 10:15 Grupp diskussion av dagens ämnen
-* 11:00 Förövning inför eftermiddagens programmeringsövning
+* 11:00 Presentation av diskussion
 
 Lunch 12:00 till 13:00
 
@@ -100,8 +98,12 @@ Link till [The end of the internet](http://hmpg.net/)
 
 [How big is the internet?](https://starry.com/blog/inside-the-internet/how-big-is-the-internet)
 
-# Frivillig övning
-## Telnet en webserver
+# Grupp diskussion
+
+TBA
+
+# Övningar
+## Telnet en webbserver
 
 Det är möjligt att manuellt förbinda sig till en webbserver, och denna övning visar vad en webbläsare gör bakom det fina skalet.
 
