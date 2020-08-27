@@ -22,10 +22,23 @@ Beskrivning av mål, moment och bedömning i kursen, hittar ni här:
 * [Kursen](info_course.md)
 * [Youtube playlist](https://www.youtube.com/playlist?list=PLIZnNw5DogHdurntHiGj6v4KQ0CT5rQXu)
 
+# Buddy och teams
+
+Listen på vem som är buddy med vem kommer at finnas på Ping Pong
+
+Om vi jobbar i grupp finns listan på vem som är i grupp med vem på Ping Pong
+
+## Buddy
+
+Målet är at ni kommer att ha samma buddy under hela kursen. Stephan väljer vem som är buddy med vem, men försöker att få till allas önskemål. 
+
 # Projekt och deadlines
 
-
 # Kurs element
+
+[Distansundervisning](remote.md) via Teams
+
+[Blogg](assement_blog.md) en del av bedömningen
 
 # Kontakt
 * Frågor om kursen: Stephan Johansen, [PingPong](https://yh.pingpong.se/courseId/xx/) och på Discord

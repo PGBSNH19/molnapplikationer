@@ -26,7 +26,7 @@ Lunch 12:00 till 13:00
 
 # Lektionsteori
 
-Detta är material (artiklar, videoer, blogs etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.
+*Detta är material (artiklar, videoer, blogs etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
 
 [What Are Network Protocols?](https://www.lifewire.com/definition-of-protocol-network-817949)
 
@@ -63,7 +63,7 @@ Den protokoll som webbläsare användare till att prata med webserveren, via TCP
 * [Cloud Services Terminology Guide: Comparing AWS vs Azure vs Google](https://www.cloudhealthtech.com/blog/cloud-comparison-guide-glossary-aws-azure-gcp)
 
 # Bakgrunds litteratur
-Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.
+*Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
 
 ## TCP/IP
 * [Difference Between IPv4 and IPv6](https://techdifferences.com/difference-between-ipv4-and-ipv6.html)

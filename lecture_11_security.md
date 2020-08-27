@@ -27,20 +27,42 @@ Lunch 12:00 till 13:00
   1. Hack en computer
 
 
-https://github.com/malcomvetter/WidgetSender
-https://github.com/terracotta-bank/terracotta-bank
 
 https://teachingsecurity.org/lesson-1-the-security-mindset/
-https://www.cybersecuritychallenge.org.uk/resources/teachers
+
+
+Video: [Google Data Center Security: 6 Layers Deep](https://www.youtube.com/watch?v=kd33UVZhnAA)
+
+Video: [Cloud Cybersecurity in Under 5 Minutes](https://www.youtube.com/watch?v=k2684fuzHLs)
+
+## Azure
+
+https://docs.microsoft.com/en-us/azure/security/fundamentals/overview
+
+https://www.youtube.com/watch?v=0qAHaCLKTIk
+
+https://www.youtube.com/watch?v=rpOMEa7MBqk
+
+https://www.youtube.com/watch?v=OTGMi0ksjXY
+
+## CASB
+
+Video: [Cloud Access Security Brokers (CASB) in 5 Minutes](https://www.youtube.com/watch?v=qhAC--N6b8w)
+
+https://www.bitglass.com/blog/msft-azure-ad-conditional-access-vs-casb
+
+https://www.youtube.com/watch?v=wLsXZ9MzJxY
+
+## Compliance
+
+https://www.michalsons.com/blog/cloud-compliance/22643
+
+## Threats
+
 https://owasp.org/
 https://owasp.org/www-project-top-ten/
-https://geekflare.com/ethical-hacker-training-grounds/
 
-
-
-https://www.youtube.com/watch?v=Usq3SO_Fvjg
-
-https://www.youtube.com/watch?v=kd33UVZhnAA
+Video: [Cloud Security: It's Tuesday, Carl](https://www.youtube.com/watch?v=NI-plwor2Xw)
 
 # Bakgrunds litteratur
 
