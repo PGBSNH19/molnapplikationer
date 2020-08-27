@@ -20,6 +20,7 @@ Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretis
 
 * Azure Web Apps
   * https://azure.microsoft.com/en-us/services/app-service/web/
+  * video 7 min How to deploy a static web app https://www.youtube.com/watch?v=H2MPsgujpNk
 * Arkitektur
   * Micro services
   * https://www.ibm.com/cloud/blog/four-architecture-choices-for-application-development
@@ -31,6 +32,9 @@ Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretis
   * https://azure.microsoft.com/en-us/services/functions
   * https://www.taztopia.com/single-post/2019/07/28/Azure-Function-vs-Web-App-aka-Serverless-vs-PaaS
   * https://azure.microsoft.com/en-us/solutions/serverless/#solutions
+  * video 6 min How to create a function app https://www.youtube.com/watch?v=BEIZKCDElMs
+  * video 3 min The new Azure Functions experience https://www.youtube.com/watch?v=0bdT_9uOqkg
+  * video 7 min How to monitor Azure Functions https://www.youtube.com/watch?v=eVDZz8h0s00
 
 # Bakgrunds litteratur
 

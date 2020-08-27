@@ -22,8 +22,9 @@ Lunch 12:00 till 13:00
 
 * [Azure-databas för MariaDB](https://azure.microsoft.com/sv-se/services/mariadb/)
 * [Azure Cosmos DB](https://azure.microsoft.com/sv-se/services/cosmos-db/)
-
 * [Azure SQL Database](https://azure.microsoft.com/sv-se/services/sql-database/)
+  * https://www.youtube.com/watch?v=p7X8lH_XMtI
+  * https://www.spotlightcloud.io/blog/what-is-dtu-in-azure-sql-database-and-how-much-do-we-need
 
 # Bakgrunds litteratur
 

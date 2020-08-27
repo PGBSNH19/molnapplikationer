@@ -28,6 +28,10 @@ Virtual networks are necessary to support communications between virtual machine
 
 ## 
 
+
+
+
+
 # Bakgrunds litteratur
 
 *Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*

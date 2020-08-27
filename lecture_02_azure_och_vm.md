@@ -36,6 +36,8 @@ Lunch 12:00 till 13:00
 * Video (40 min): [Five Azure services every developer should know](https://channel9.msdn.com/Events/Connect/Microsoft-Connect--2018/T190)
 * Azure [Pricing calculator](https://azure.microsoft.com/en-us/pricing/calculator)
 * [Get started with Azure CLI](https://docs.microsoft.com/en-us/cli/azure/get-started-with-azure-cli?view=azure-cli-latest)
+* Video (9 min): [How to configure a new virtual machine with the Azure Portal](https://www.youtube.com/watch?v=z5J5MQkbqvE)
+* Video (7 min): [How to create a virtual machine in Azure](https://www.youtube.com/watch?v=rOiSRkxtTeU)
 
 # Bakgrunds litteratur
 
@@ -58,6 +60,9 @@ Lunch 12:00 till 13:00
 * Ryans Tutorials: [Linux Tutorial](https://ryanstutorials.net/linuxtutorial/)
 * [Get started with VS Code using C# and .NET Core on Ubuntu](https://channel9.msdn.com/Blogs/dotnet/Get-started-with-VS-Code-Csharp-dotnet-Core-Ubuntu)
   * [Install .NET Core SDK or .NET Core Runtime on Ubuntu](https://docs.microsoft.com/da-dk/dotnet/core/install/linux-ubuntu)
+* Create an SSH key
+  * [Powershell](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement)
+  * [Linux](https://confluence.atlassian.com/bitbucketserver/creating-ssh-keys-776639788.html)
 
 # Exemplar och övningar. 
 
@@ -75,6 +80,8 @@ Gör en SWAT analys på en virtuell maskin mot en fysik maskin, ha fölgande i �
 Create a local virtual machine
 
 Make your webserver from the previous exercise run on the 
+
+https://www.osboxes.org/ubuntu/
 
 ## Azure
 

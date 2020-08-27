@@ -20,9 +20,12 @@ Lunch 12:00 till 13:00
 # Lektionsteori
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
 
+* Wikipedia : https://en.wikipedia.org/wiki/Application_lifecycle_management
+* [Application Lifecycle Management](https://apprenda.com/library/glossary/a-definition-of-application-lifecycle-management/)
+* https://gevaperry.typepad.com/main/2009/11/application-lifecycle-in-the-cloud.html
+* https://thenewstack.io/cloud-native-application-lifecycle-difference-continuous-change/
 * green cloud
-
-  1. https://bigdataanalyticsnews.com/green-cloud-computing-sustainable-use/
+1. https://bigdataanalyticsnews.com/green-cloud-computing-sustainable-use/
   2. https://www.slideshare.net/bluse2/green-cloud-computing
   3. https://www.slideshare.net/IamShreyasK/green-cloud-computing-25761737
   4. https://ieeexplore.ieee.org/document/8584429

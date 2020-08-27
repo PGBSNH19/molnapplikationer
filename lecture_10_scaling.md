@@ -19,7 +19,10 @@ Lunch 12:00 till 13:00
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
 
 * Load balancing (networking)
+  * (Video 4 min) [How to create a load balancer](https://www.youtube.com/watch?v=-VMPzVoo5Nk)
 * Scaling out and up
+
+
 
 # Bakgrunds litteratur
 
