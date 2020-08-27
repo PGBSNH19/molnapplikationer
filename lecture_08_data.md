@@ -1,6 +1,6 @@
 # Data i molnet
 
-Lektion 5 av 12, måndag den 14:e september 2020
+Lektion 8 av 12, onsdag den 23:e september 2020
 
 ![Draft](/assets/images/draft.png)
 
@@ -21,6 +21,8 @@ Lunch 12:00 till 13:00
 * GDPR
   * https://www.datainspektionen.se/lagar--regler/dataskyddsforordningen/
 * Azure storage
+  * https://azure.microsoft.com/en-us/product-categories/storage/
+  * https://azure.microsoft.com/en-us/services/storage/
 
 Manage and connect to Databases hosted in Azure.
 
