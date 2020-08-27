@@ -1,6 +1,6 @@
 # Automatiserat release
 
-Lektion 6 av 12, onsdag den 16:e september 2020
+Lektion 4 av 12, onsdag den 9:e september 2020
 
 ![Draft](/assets/images/draft.png)
 
