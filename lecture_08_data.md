@@ -24,6 +24,8 @@ Lunch 12:00 till 13:00
   * https://azure.microsoft.com/en-us/product-categories/storage/
   * https://azure.microsoft.com/en-us/services/storage/
   * Video (4 min):[How to use blob versioning](https://www.youtube.com/watch?v=m7e9h1gedWQ)
+* Redis
+  * https://en.wikipedia.org/wiki/Redis
 
 video 5 min How to create a storage account and upload a blob https://www.youtube.com/watch?v=UJG6viKU_A8
 

@@ -47,4 +47,5 @@ Målet är at ni kommer att ha samma buddy under hela kursen. Stephan väljer ve
 # Annan information
 
 * [Kursbok](info_learningmaterial.md) : I kursen använder vi boken *Learn Azure in a Month of Lunches, Second Edition* som frivillig material (den behövs inte för att kunna klara av kursen)
+* [Viktiga länker](info_learningmaterial.md) : Microsoft har gjort mycket material som lära ut Azure, som är en del av deras certifieringar
 * [Verktygslådan](info_tools.md) : Vi kommer i kursen att använda en rad olika verktyg, dissa är beskrivet i detta dokument

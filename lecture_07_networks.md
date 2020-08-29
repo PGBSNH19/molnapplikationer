@@ -21,10 +21,20 @@ Lunch 12:00 till 13:00
 Virtual networks are necessary to support communications between virtual machines. You can define subnets, custom IP address, DNS settings, security filtering, and load balancing.By using a VPN gateway or an ExpressRoute circuit, you can connect Azure virtual networks to your on-premises networks.
 
 1. Azure Networking
+   1. https://azure.microsoft.com/en-us/services/virtual-network/
+   2. https://en.wikipedia.org/wiki/Virtual_private_cloud
+   3. https://medium.com/awesome-azure/azure-vs-aws-difference-between-azure-virtual-network-vnet-and-aws-virtual-private-cloud-vpc-2e8debc3290e
+   4. https://www.ibm.com/cloud/learn/vpc
 2. Teoretisk Sikkerhed
    1. HTTPS
    2. Firewalls
+      1. https://medium.com/swlh/understanding-firewall-types-4a2869deb687
+      2. https://medium.com/@neil.wilston123/firewall-in-network-security-2a98795fcac1
    3. VPN
+      1. https://medium.com/@zicodeng/how-vpn-works-b7549dcc6ce4
+3. Servicebus
+   1. Don't use syncronius calls
+   2. Use messeging
 
 ## 
 
@@ -42,3 +52,5 @@ Virtual networks are necessary to support communications between virtual machine
 # Exemplar och övningar. 
 
 Detta är övningar som du äntligen gör själv, i grupp eller i plenum tillsammans med hela klassen
+
+Use IaC to set up at least two servers on a virtual network, only one of the having a public ip

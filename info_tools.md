@@ -1,6 +1,9 @@
 # Verktygslådan
 ## Konton
 - [GitHub](https://github.com/) (För att hosta vår kod i alla projekt)
+- Azure
+  - Vi kommer att använda olika tjänster inom Azure
+  - Azure Student konto: https://azure.microsoft.com/en-us/free/students/
 
 ## Ramverk
 

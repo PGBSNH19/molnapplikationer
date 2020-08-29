@@ -25,6 +25,12 @@ Lunch 12:00 till 13:00
 * Monitoring and trubelshooting
 
   https://docs.microsoft.com/en-us/aspnet/core/azure/devops/monitoring?view=aspnetcore-3.1
+  
+* https://prometheus.io/
+
+* https://www.influxdata.com/
+
+* https://www.app-metrics.io/
 
 # Bakgrunds litteratur
 
