@@ -1,6 +1,6 @@
 # Röda tråd: Internet och moln
 
-Lektion 1 av 12, måndag den 30:e augusti 2020, online
+Lektion 1 av 12, måndag den 31:e augusti 2020, online
 
 Målet med denna lektion är komma igång igen efter sommaren.
 Denna lektion är en uppstarts lektion, och introducera övergripande dom ämnen som dom kommande 12 lektioner kommer att bygga på. Det primäre mål i denne lektion är att bygga på eran kunskap från webutveckling backend, och börja prata om vad molnet är, vi kommer specifikt att jobba med **Azure**. 
