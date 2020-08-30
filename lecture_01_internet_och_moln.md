@@ -62,6 +62,14 @@ Den protokoll som webbläsare användare till att prata med webserveren, via TCP
 * [Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players](https://www.zdnet.com/article/the-top-cloud-providers-of-2020-aws-microsoft-azure-google-cloud-hybrid-saas/)
 * [Cloud Services Terminology Guide: Comparing AWS vs Azure vs Google](https://www.cloudhealthtech.com/blog/cloud-comparison-guide-glossary-aws-azure-gcp)
 
+## Azure
+
+* Video (40 min): [Five Azure services every developer should know](https://channel9.msdn.com/Events/Connect/Microsoft-Connect--2018/T190)
+* Azure [Pricing calculator](https://azure.microsoft.com/en-us/pricing/calculator)
+* [Get started with Azure CLI](https://docs.microsoft.com/en-us/cli/azure/get-started-with-azure-cli?view=azure-cli-latest)
+* Video (9 min): [How to configure a new virtual machine with the Azure Portal](https://www.youtube.com/watch?v=z5J5MQkbqvE)
+* Video (7 min): [How to create a virtual machine in Azure](
+
 # Bakgrunds litteratur
 *Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
 
@@ -97,6 +105,25 @@ Den protokoll som webbläsare användare till att prata med webserveren, via TCP
 Link till [The end of the internet](http://hmpg.net/)
 
 [How big is the internet?](https://starry.com/blog/inside-the-internet/how-big-is-the-internet)
+
+## Azure
+
+* [Get started guide for Azure IT operators](https://docsmsftpdfs.blob.core.windows.net/guides/azure/azure-ops-guide.pdf)
+
+## Linux
+
+*Getting started with Linux*
+
+* [Linux: A Survival Guide for Beginners](https://medium.com/better-programming/linux-survival-guide-for-beginners-c18bfd982036)
+* [Windows Subsystem for Linux Installation Guide for Windows 10](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+  * [Upgrading to WSL 2](https://medium.com/@callback.insanity/upgrading-to-wsl-2-9883688fcfa5)
+  * [Trying the New WSL 2](https://scotch.io/bar-talk/trying-the-new-wsl-2-its-fast-windows-subsystem-for-linux)
+* Ryans Tutorials: [Linux Tutorial](https://ryanstutorials.net/linuxtutorial/)
+* [Get started with VS Code using C# and .NET Core on Ubuntu](https://channel9.msdn.com/Blogs/dotnet/Get-started-with-VS-Code-Csharp-dotnet-Core-Ubuntu)
+  * [Install .NET Core SDK or .NET Core Runtime on Ubuntu](https://docs.microsoft.com/da-dk/dotnet/core/install/linux-ubuntu)
+* Create an SSH key
+  * [Powershell](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement)
+  * [Linux](https://confluence.atlassian.com/bitbucketserver/creating-ssh-keys-776639788.html)
 
 # Grupp diskussion
 
@@ -150,3 +177,16 @@ Host: localhost
 
 Testa eventuellt att bygga ut webbservern så att den kan svara på olika anrop eller läsa en fil från disk.
 
+## Azure
+
+Create an account
+
+https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-cli
+
+Learn to use Azure's management tools from Visual Studio, Windows PowerShell and cross-platform Command-Line Interface.
+
+Sammanhåll en kostnad för en azure virtuell maskin mot en fysisk hostad maskin
+
+Create, scale and add content to web applications hosted on Microsoft Azure.
+Create, connect and manage Virtual Machines.
+Attach disks to and scale Virtual Machines.
