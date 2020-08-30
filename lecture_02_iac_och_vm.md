@@ -33,6 +33,8 @@ Lunch 12:00 till 13:00
 * Beginner Geek: [How to Create and Use Virtual Machines](https://www.howtogeek.com/196060/beginner-geek-how-to-create-and-use-virtual-machines/)
 * Wikipedia; [Virtual machine](https://en.wikipedia.org/wiki/Virtual_machine)
 * [How to create a virtual machine in Azure](https://www.youtube.com/watch?v=rOiSRkxtTeU)
+* Video (9 min): [How to configure a new virtual machine with the Azure Portal](https://www.youtube.com/watch?v=z5J5MQkbqvE)
+* Video (7 min): [How to create a virtual machine in Azure](https://www.youtube.com/watch?v=rOiSRkxtTeU)
 
 ## Infrastructure as Code
 

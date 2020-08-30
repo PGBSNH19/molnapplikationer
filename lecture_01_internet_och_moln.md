@@ -65,10 +65,9 @@ Den protokoll som webbläsare användare till att prata med webserveren, via TCP
 ## Azure
 
 * Video (40 min): [Five Azure services every developer should know](https://channel9.msdn.com/Events/Connect/Microsoft-Connect--2018/T190)
-* 
 * [Get started with Azure CLI](https://docs.microsoft.com/en-us/cli/azure/get-started-with-azure-cli?view=azure-cli-latest)
-* Video (9 min): [How to configure a new virtual machine with the Azure Portal](https://www.youtube.com/watch?v=z5J5MQkbqvE)
-* Video (7 min): [How to create a virtual machine in Azure](
+
+  
 
 # Bakgrunds litteratur
 *Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
