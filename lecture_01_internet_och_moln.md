@@ -3,15 +3,14 @@
 Lektion 1 av 12, måndag den 30:e augusti 2020, online
 
 Målet med denna lektion är komma igång igen efter sommaren.
-Denna lektion är en uppstarts lektion, och introducera övergripande dom ämnen som dom kommande 12 lektioner kommer att bygga på. Det primäre mål i denne lektion är att bygga på eran kunskap från webutveckling backend.
+Denna lektion är en uppstarts lektion, och introducera övergripande dom ämnen som dom kommande 12 lektioner kommer att bygga på. Det primäre mål i denne lektion är att bygga på eran kunskap från webutveckling backend, och börja prata om vad molnet är, vi kommer specifikt att jobba med **Azure**. 
 
 >  Inget i molnet har ett värde för någon annan än den som använder det
 
 ## Lektionsplan
 Lektion från kl. 8:30 till kl. 16:30
 
-* 8:30 Introduktion till kurs
-	* Bording card
+* 8:30 Välkomment till Utveckling av moln baserade applikationer
 * 9:00 Presentation av dagens teori: Internet och moln
 * 10:00 Indelning av grupper
 * 10:15 Grupp diskussion av dagens ämnen

@@ -4,7 +4,9 @@ Lektion 2 av 12, onsdag den 2:a september 2020
 
 ![Draft](/assets/images/draft.png)
 
-Målet med denna lektion är komma på gång att använda virtuella maskiner, och börja prata om vad Azure är, och innehåller. 
+Målet med denna lektion är komma på gång att använda virtuella maskiner och infrastructure as code (IaC).
+
+Där finns fler olika IaC system, men vi kommer att fokusera på det system som hettar **Pulumi**.
 
 Ni kommer att jobba med virtuelle Linux maskiner, så om du är osäker på Linux kolla bakgrunds litteraturen. Anledningen till detta är att Linux typ är standard OS i molnen.
 
@@ -13,7 +15,7 @@ Lektion från kl. 8:30 till kl. 16:30
 
 * 8:30 Uppsamling från förra lektion (Internet och moln)
   * Bording card
-* 9:00 Presentation av dagens teori: Virtuelle maskiner och Azure
+* 9:00 Presentation av dagens teori: Virtuelle maskiner och infrastruktur som kod
 * 9:30 Grupp övning
 
 Lunch 12:00 till 13:00
@@ -29,9 +31,8 @@ Lunch 12:00 till 13:00
 ## Virtual machines
 
 * Beginner Geek: [How to Create and Use Virtual Machines](https://www.howtogeek.com/196060/beginner-geek-how-to-create-and-use-virtual-machines/)
-* Wikipedia [Virtual machine](https://en.wikipedia.org/wiki/Virtual_machine)
-
-* https://www.youtube.com/watch?v=rOiSRkxtTeU)
+* Wikipedia; [Virtual machine](https://en.wikipedia.org/wiki/Virtual_machine)
+* [How to create a virtual machine in Azure](https://www.youtube.com/watch?v=rOiSRkxtTeU)
 
 ## Infrastructure as Code
 

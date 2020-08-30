@@ -4,7 +4,7 @@ Lektion 3 av 12, måndag den 7:e september 2020
 
 ![Draft](/assets/images/draft.png)
 
-Målet med denna lektion är ge en introduktion till dom två ämnen containrar och infrastructure as code (IaC). Där finns fler olika container system, men vi kommer att fokusera på **Docker**, likadan gäller för IaC här kommer vi att fokusera på det system som hettar **Pulumi**.
+Målet med denna lektion är ge en introduktion till ämnet containrar. Där finns fler olika container system, men vi kommer att fokusera på **Docker**.
 
 ## Lektionsplan
 Lektion från kl. 8:30 till kl. 16:30
@@ -23,13 +23,12 @@ Lunch 12:00 till 13:00
 * [WTF is a container?](https://techcrunch.com/2016/10/16/wtf-is-a-container)
 * Video (7 min): [Why you should care about containers](https://www.youtube.com/watch?v=EUitQ8DaZW8)
 
-
-
 ### Docker
 
 * https://en.wikipedia.org/wiki/Docker_(software)
 
-* 
+  
+
 
 # Bakgrunds litteratur
 
@@ -39,7 +38,8 @@ Lunch 12:00 till 13:00
 
 * Wikipedia: [OS-level virtualization](https://en.wikipedia.org/wiki/OS-level_virtualization)
 * [5 Container Alternatives to Docker](https://containerjournal.com/topics/container-ecosystems/5-container-alternatives-to-docker/)
-* 
+
+  
 
 
 
