@@ -42,9 +42,10 @@ Lunch 12:00 till 13:00
 ### Pulumi
 
 * Video (32 min): [Managing any Cloud with .NET](https://www.youtube.com/watch?v=hXhZiHtT8f0)
-
 * Video (11 min): On.NET [Getting started with cloud deployments with Pulumi and .NET](https://www.youtube.com/watch?v=sig68daTG-0) 
 * Pulumi: [Get Started with Azure](https://www.pulumi.com/docs/get-started/azure/)
+
+
 
 # Bakgrunds litteratur
 
@@ -72,18 +73,35 @@ https://blog.kylegalbraith.com/2018/12/21/how-pulumi-compares-to-terraform-for-i
 
 [Using Terraform in Azure DevOps Pipelines PART 2](https://www.youtube.com/watch?v=x631jUw1J04)
 
-# Exemplar och övningar. 
+## Linux
 
-*Detta är övningar som du äntligen gör själv, i grupp eller i plenum tillsammans med hela klassen*
+*Getting started with Linux*
 
-## Virtual machine
+* [Linux: A Survival Guide for Beginners](https://medium.com/better-programming/linux-survival-guide-for-beginners-c18bfd982036)
+* [Windows Subsystem for Linux Installation Guide for Windows 10](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+  * [Upgrading to WSL 2](https://medium.com/@callback.insanity/upgrading-to-wsl-2-9883688fcfa5)
+  * [Trying the New WSL 2](https://scotch.io/bar-talk/trying-the-new-wsl-2-its-fast-windows-subsystem-for-linux)
+* Ryans Tutorials: [Linux Tutorial](https://ryanstutorials.net/linuxtutorial/)
+* [Get started with VS Code using C# and .NET Core on Ubuntu](https://channel9.msdn.com/Blogs/dotnet/Get-started-with-VS-Code-Csharp-dotnet-Core-Ubuntu)
+  * [Install .NET Core SDK or .NET Core Runtime on Ubuntu](https://docs.microsoft.com/da-dk/dotnet/core/install/linux-ubuntu)
+* Create an SSH key
+  * [Powershell](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement)
+  * [Linux](https://confluence.atlassian.com/bitbucketserver/creating-ssh-keys-776639788.html)
 
-Gör en SWAT analys på en virtuell maskin mot en fysik maskin, ha fölgande i åtanka:
+# Grupp diskussion
+
+Gör en SWAT analys på en virtuell maskin mot en fysik maskin, ha följande i åtanke:
 
 * Hastighed
 * Säkkerhet
 * Stabilitet
 * Kostnad
+
+# Övningar 
+
+*Detta är övningar som du äntligen gör själv, i grupp eller i plenum tillsammans med hela klassen*
+
+## Local virtual machine
 
 Create a local virtual machine
 
@@ -91,9 +109,25 @@ Make your webserver from the previous exercise run on the
 
 https://www.osboxes.org/ubuntu/
 
-## Using Pulumi
+## Azure virtual machine
 
-create a virtual machine using Pulumi
+1. Set up a virtual linux machine using the Web Ui
+
+2. Install a linux virtual machine using the Azure CLI [hint](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-cli)
+
+3. create a virtual machine using Pulumi
+
+   
+
+
+
+
+
+Notes
+
+Create, scale and add content to web applications hosted on Microsoft Azure.
+Create, connect and manage Virtual Machines.
+Attach disks to and scale Virtual Machines.
 
 
 

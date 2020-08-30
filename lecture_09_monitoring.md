@@ -20,7 +20,7 @@ Lunch 12:00 till 13:00
 
 * TBD
 
-* TBD
+* https://docs.microsoft.com/en-us/azure/azure-monitor/platform/data-platform
 
 * Monitoring and trubelshooting
 

@@ -109,7 +109,7 @@ All documentation should be written using markdown (.md), you are free to choose
 
 **Automation**
 
-Try to automate as much as possible through IaC and scripts.
+Try to automate as much as possible through Docker, IaC and scripts.
 
 Store the automation in the git repository.
 
@@ -119,11 +119,13 @@ Everything should be kept within one git repository, hosted on GitHub.
 
 Make use to split the code into several projects. You should have one or more solution files.
 
+**Video**
+
+You should produce a [video](video_presentation.md) presentation which describes the project.
+
 # Grading
 
 You grading is to very high extend based on this project!
-
-You should produce a [video](video_presentation.md) presentation which describes the project.
 
 ## Code and documentation
 
@@ -143,6 +145,7 @@ Do as many branches you wish, bur in the end is it ONLY the content of you **mas
   * Unit test
   * Integration test
   * Functional testing
+* Video presentation of solution
 
 Elements which which is marked as **important**, gives a higher weight in your grading. And you should focus on these in your video presentation.
 

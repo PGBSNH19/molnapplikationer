@@ -10,11 +10,11 @@ Denna lektion är en uppstarts lektion, och introducera övergripande dom ämnen
 ## Lektionsplan
 Lektion från kl. 8:30 till kl. 16:30
 
-* 8:30 Välkomment till Utveckling av moln baserade applikationer
+* 8:30 Välkommen till Utveckling av moln baserade applikationer
 * 9:00 Presentation av dagens teori: Internet och moln
 * 10:00 Indelning av grupper
-* 10:15 Grupp diskussion av dagens ämnen
-* 11:00 Presentation av diskussion
+* 10:15 Buddy övnning + diskussion av dagens ämnen
+* 11:15 Presentation av diskussion
 
 Lunch 12:00 till 13:00
 
@@ -58,13 +58,14 @@ Den protokoll som webbläsare användare till att prata med webserveren, via TCP
 
 * Video (5 min): [What are the Business Benefits of Cloud Computing, IaaS, PaaS and SaaS?](https://www.youtube.com/watch?v=whkyRvugqlM)
 * [Different Types of Cloud Computing Service Models](https://www.bluepiit.com/blog/different-types-of-cloud-computing-service-models/)
+  * [What is IaaS vs SaaS vs PaaS and XaaS: what’s the difference](https://medium.com/@vanshvarshney_/what-is-iaas-vs-saas-vs-paas-and-xaas-whats-the-difference-examples-ceadeee146e6)
 * [Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players](https://www.zdnet.com/article/the-top-cloud-providers-of-2020-aws-microsoft-azure-google-cloud-hybrid-saas/)
 * [Cloud Services Terminology Guide: Comparing AWS vs Azure vs Google](https://www.cloudhealthtech.com/blog/cloud-comparison-guide-glossary-aws-azure-gcp)
 
 ## Azure
 
 * Video (40 min): [Five Azure services every developer should know](https://channel9.msdn.com/Events/Connect/Microsoft-Connect--2018/T190)
-* Azure [Pricing calculator](https://azure.microsoft.com/en-us/pricing/calculator)
+* 
 * [Get started with Azure CLI](https://docs.microsoft.com/en-us/cli/azure/get-started-with-azure-cli?view=azure-cli-latest)
 * Video (9 min): [How to configure a new virtual machine with the Azure Portal](https://www.youtube.com/watch?v=z5J5MQkbqvE)
 * Video (7 min): [How to create a virtual machine in Azure](
@@ -109,33 +110,14 @@ Link till [The end of the internet](http://hmpg.net/)
 
 * [Get started guide for Azure IT operators](https://docsmsftpdfs.blob.core.windows.net/guides/azure/azure-ops-guide.pdf)
 
-## Linux
-
-*Getting started with Linux*
-
-* [Linux: A Survival Guide for Beginners](https://medium.com/better-programming/linux-survival-guide-for-beginners-c18bfd982036)
-* [Windows Subsystem for Linux Installation Guide for Windows 10](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
-  * [Upgrading to WSL 2](https://medium.com/@callback.insanity/upgrading-to-wsl-2-9883688fcfa5)
-  * [Trying the New WSL 2](https://scotch.io/bar-talk/trying-the-new-wsl-2-its-fast-windows-subsystem-for-linux)
-* Ryans Tutorials: [Linux Tutorial](https://ryanstutorials.net/linuxtutorial/)
-* [Get started with VS Code using C# and .NET Core on Ubuntu](https://channel9.msdn.com/Blogs/dotnet/Get-started-with-VS-Code-Csharp-dotnet-Core-Ubuntu)
-  * [Install .NET Core SDK or .NET Core Runtime on Ubuntu](https://docs.microsoft.com/da-dk/dotnet/core/install/linux-ubuntu)
-* Create an SSH key
-  * [Powershell](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement)
-  * [Linux](https://confluence.atlassian.com/bitbucketserver/creating-ssh-keys-776639788.html)
-
-# Grupp diskussion
-
-TBA
-
-# Övningar
+# Övning med buddy
 ## Telnet en webbserver
 
 Det är möjligt att manuellt förbinda sig till en webbserver, och denna övning visar vad en webbläsare gör bakom det fina skalet.
 
-Först måsta man se till att programvaran [Telnet](https://en.wikipedia.org/wiki/Telnet) aktiverat i Windows. [Windows 10: Enabling Telnet Client](https://social.technet.microsoft.com/wiki/contents/articles/38433.windows-10-enabling-telnet-client.aspx)
+Först måsta man se till att ha programvaran [Telnet](https://en.wikipedia.org/wiki/Telnet) aktiverat i Windows (borde vara aktiverat i Linux som standard). [Windows 10: Enabling Telnet Client](https://social.technet.microsoft.com/wiki/contents/articles/38433.windows-10-enabling-telnet-client.aspx)
 
-Det är möjligt att testa detta med vilken som helst webbserver på nätet, stackoverflow är bara ett exempel:
+Det är möjligt att testa detta med vilken som helst webbserver på nätet, StackOverflow är bara ett exempel:
 
 Starta en kommandoprompt eller powershell, detta exempel kommer att starta telnet klienten och öppna en förbindelse till servern stackoverflow.com via port 80.
 Skriv:
@@ -149,9 +131,25 @@ Skärmen blir blank, det betyder att du har förbindelse till servern och att du
 GET /questions HTTP/1.0
 Host: stackoverflow.com
 ```
-Och tryck enter två gångar (två tomma rader). Du borde nu få ett svar från servern (högst sannolikt ett HTTP status 301, **varför**?).
+Och tryck *enter* två gångar (två tomma rader). Du borde nu få ett svar från servern (högst sannolikt ett HTTP status 301, **varför**?).
 
 Testa med en websida efter eget val, och eventuellt att ändra på input till servern.
+
+# Buddy diskussion
+
+Ta fram prisen per månad för en virtuell server per, hos olika moln operatör.
+
+* Azure: [Pricing calculator](https://azure.microsoft.com/en-us/pricing/calculator)
+* AWS: [Calculator](https://calculator.aws/)
+* etc
+
+Sammanhåll prisen med en eller fler hosting företag (svenska, nordiska eller inom EU).
+
+Tanken är att servern ska köra en simple websida med en enkel databas, alt installerat på samma server. Kanske krävs 2 CPUs, 8GB RAM och 10 GB disk på en Linux server i Europa
+
+Vad är för och nackdelar med cloud vs hosting?
+
+# Mini-projekt i grupp
 
 ## Programmera en simple webbserver
 
@@ -176,16 +174,12 @@ Host: localhost
 
 Testa eventuellt att bygga ut webbservern så att den kan svara på olika anrop eller läsa en fil från disk.
 
+# Individuell uppgift
+
+Detta är en förberedelse inför [lektion 2](lecture_02_iac_och_vm.md)
+
 ## Azure
 
-Create an account
+Create an account at Azure and install the [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-windows)
 
-https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-cli
-
-Learn to use Azure's management tools from Visual Studio, Windows PowerShell and cross-platform Command-Line Interface.
-
-Sammanhåll en kostnad för en azure virtuell maskin mot en fysisk hostad maskin
-
-Create, scale and add content to web applications hosted on Microsoft Azure.
-Create, connect and manage Virtual Machines.
-Attach disks to and scale Virtual Machines.
+Browse around to get a feeling of the possibilities in Azure, but besides this you don't need to do anything.
