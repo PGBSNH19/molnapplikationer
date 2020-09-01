@@ -163,3 +163,6 @@ Samt kör igång webb sitet
 
 Kör scriptet som en del av ert Pulumi program
 
+* Man kan göra detta via CustomData parametern (inte så snyggt, men borde funka)
+* Ska man göra det helt rätt ska man använda [Dynamic Providers](https://www.pulumi.com/docs/intro/concepts/programming-model/#providers) (som där tyvärr inte finns C# stöd för än)
+
