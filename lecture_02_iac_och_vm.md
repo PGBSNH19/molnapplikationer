@@ -14,7 +14,7 @@ Lektion från kl. 8:30 till kl. 16:30
 * 8:30 Uppsamling från förra lektion (Internet och moln)
   * Bording card
 * 9:00 Presentation av dagens teori: Virtuelle maskiner och infrastruktur som kod
-* 9:30 [Buddy uppgifter](#Buddy uppgifter)
+* 9:30 [Buddy uppgifter](#Buddy uppgifter) + blogg review
 
 Lunch 12:00 till 13:00
 
@@ -53,6 +53,8 @@ Lunch 12:00 till 13:00
 ## Infrastructure as Code
 
 * [What is Azure Resource Manager?](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overview)
+* Martin Fowler: [Blue Green Deployment](https://martinfowler.com/bliki/BlueGreenDeployment.html)
+* [5 Blue/Green Deployment Best Practices to Improve Your Releases](https://blog.inedo.com/blue-green-deployment-best-practices)
 
 ## Pulumi
 
@@ -137,7 +139,7 @@ gå till : SimpleWebHalloWorld/bin/Release/netcoreapp3.1/publish
 
 ## Azure virtual machine
 
-Få en ["Hallo world" .NET Core webb applikationen](https://github.com/skjohansen/SimpleWebHalloWorld) att köra på ert VM.
+Skåpa en virtuell maskin på dissa tre sätt, logg in och kör igång ["Hallo world" .NET Core webb applikationen](https://github.com/skjohansen/SimpleWebHalloWorld) att köra på ert VM.
 
 1. Set up a virtual linux machine using the Azure Web Portal
    - Video (9 min): [How to configure a new virtual machine with the Azure Portal](https://www.youtube.com/watch?v=z5J5MQkbqvE)
@@ -152,4 +154,12 @@ Få en ["Hallo world" .NET Core webb applikationen](https://github.com/skjohanse
    * [Web Server Using Azure Virtual Machine](https://github.com/pulumi/examples/tree/master/azure-cs-webserver), 
 
 För Pulumi projektet se till att pusha det till github, ni får ett github classroom projekt ni ska använda, akta att ni inte checker in lösenord etc.
+
+## IaC och VM - avancerat
+
+Skåpa ett script (Bash eller Powershell) som ser till att installera alt (primärt .NET Core) som behöves för att köra webb applikationen på servern.
+
+Samt kör igång webb sitet
+
+Kör scriptet som en del av ert Pulumi program
 
