@@ -114,11 +114,11 @@ Få en "Hallo world" .NET Core webb applikation att köra på ert VM.
 
 * Installera båda SDK och Runtime
 
-`git pull https://github.com/skjohansen/SimpleWebHalloWorld.git`
+`git clone https://github.com/skjohansen/SimpleWebHalloWorld.git`
 
-`dotnet run --urls http://0.0.0.0:80`
+`dotnet run --urls http://0.0.0.0:5000`
 
-Testa din webbläser om du kan öppna sidan, *http://0.0.0.0:80* får den att lystna på port 80 från alla IP adresser
+Testa din webbläser om du kan öppna sidan, *http://0.0.0.0:5000* får den att lystna på port 80 från alla IP adresser
 
 #### Release build av applikation
 
@@ -126,7 +126,7 @@ Testa din webbläser om du kan öppna sidan, *http://0.0.0.0:80* får den att ly
 
 gå till : SimpleWebHalloWorld/bin/Release/netcoreapp3.1/publish
 
-`dotnet SimpleWebHalloWorld.dll --urls http://0.0.0.0:80`
+`dotnet SimpleWebHalloWorld.dll --urls http://0.0.0.0:5000`
 
 # Grupp övningar 
 
