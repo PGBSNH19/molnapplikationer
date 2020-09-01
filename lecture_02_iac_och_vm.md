@@ -143,6 +143,7 @@ Få en ["Hallo world" .NET Core webb applikationen](https://github.com/skjohanse
    - [Hosting ASP.NET Core Web Application On Azure Linux VM](https://midnightprogrammer.net/post/hosting-aspnet-core-web-application-on-azure-linux-vm/)
 2. Install a linux virtual machine using the Azure CLI
    - [Create a Linux virtual machine with the Azure CLI](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-cli)
+   - [Tutorial: Create and Manage Linux VMs with the Azure CLI](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-manage-vm)
    - Video (7 min): [How to create a virtual machine in Azure](https://www.youtube.com/watch?v=rOiSRkxtTeU)
 3. Create a virtual machine in Azure using Pulumi (använd C#/.NET)
    * [Web Server Using Azure Virtual Machine](https://github.com/pulumi/examples/tree/master/azure-ts-webserver), exemplet dock i Typescipt
