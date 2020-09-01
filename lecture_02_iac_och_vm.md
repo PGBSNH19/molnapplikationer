@@ -94,7 +94,7 @@ Dagens blogg ska innehålla:
 * En detaljerat beskrivning av eran Pulumi lösning
 * Beskriv en lösning till hur man kan har kod versions kontroll utan att man behöver att checka-in hemliga informationer som API-keys och passwords
 
-*OBS* Akta vad ni skriver i eran blogg, så att ni inte skivar lösenord etc.
+*OBS* Akta vad ni skriver i eran blogg, så att ni inte skriver lösenord etc.
 
 ### Diskussion
 
