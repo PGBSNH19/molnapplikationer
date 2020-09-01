@@ -35,12 +35,13 @@ Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretis
   * video 6 min How to create a function app https://www.youtube.com/watch?v=BEIZKCDElMs
   * video 3 min The new Azure Functions experience https://www.youtube.com/watch?v=0bdT_9uOqkg
   * video 7 min How to monitor Azure Functions https://www.youtube.com/watch?v=eVDZz8h0s00
+  * Deploy to Azure Functions using Pulumi
 
 # Bakgrunds litteratur
 
 Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.
 
-* TBD
+* https://12factor.net/
 * TBD
 
 # Exemplar och övningar. 
