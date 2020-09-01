@@ -2,8 +2,6 @@
 
 Lektion 2 av 12, onsdag den 2:a september 2020
 
-![Draft](/assets/images/draft.png)
-
 Målet med denna lektion är komma på gång att använda virtuella maskiner och infrastructure as code (IaC).
 
 Där finns fler olika IaC system, men vi kommer att fokusera på det system som hettar **Pulumi**.
@@ -31,10 +29,7 @@ Lunch 12:00 till 13:00
 ## Virtual machines
 
 * Beginner Geek: [How to Create and Use Virtual Machines](https://www.howtogeek.com/196060/beginner-geek-how-to-create-and-use-virtual-machines/)
-* Wikipedia; [Virtual machine](https://en.wikipedia.org/wiki/Virtual_machine)
-* [How to create a virtual machine in Azure](https://www.youtube.com/watch?v=rOiSRkxtTeU)
-* Video (9 min): [How to configure a new virtual machine with the Azure Portal](https://www.youtube.com/watch?v=z5J5MQkbqvE)
-* Video (7 min): [How to create a virtual machine in Azure](https://www.youtube.com/watch?v=rOiSRkxtTeU)
+* 
 
 ## Infrastructure as Code
 
@@ -55,7 +50,7 @@ Lunch 12:00 till 13:00
 
 ## Virtual machines
 
-* TBD
+* Wikipedia: [Virtual machine](https://en.wikipedia.org/wiki/Virtual_machine)
 
 ## Infrastructure as Code
 
@@ -69,11 +64,11 @@ Use Pulumi to Create and Provision an Azure VM for IoT Edge (Node.js) https://ge
 
 Annat ramverk till att göra IaC
 
-[Pulumi vs. Terraform](https://www.pulumi.com/docs/intro/vs/terraform/)
+- [Pulumi vs. Terraform](https://www.pulumi.com/docs/intro/vs/terraform/)
 
-https://blog.kylegalbraith.com/2018/12/21/how-pulumi-compares-to-terraform-for-infrastructure-as-code/
+- https://blog.kylegalbraith.com/2018/12/21/how-pulumi-compares-to-terraform-for-infrastructure-as-code/
 
-[Using Terraform in Azure DevOps Pipelines PART 2](https://www.youtube.com/watch?v=x631jUw1J04)
+- [Using Terraform in Azure DevOps Pipelines PART 2](https://www.youtube.com/watch?v=x631jUw1J04)
 
 ## Linux
 
@@ -90,48 +85,47 @@ https://blog.kylegalbraith.com/2018/12/21/how-pulumi-compares-to-terraform-for-i
   * [Powershell](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement)
   * [Linux](https://confluence.atlassian.com/bitbucketserver/creating-ssh-keys-776639788.html)
 
-# Grupp diskussion
+# Buddy uppgifter
+
+### Dagens blogg
+
+Dagens blogg ska innehålla:
+
+* Eran SWAT analys
+* En övergripande beskrivningen av hur ni fick en Virtuell maskin att köra med Azure CLI
+* En detaljerat beskrivning av eran Pulumi lösning
+
+### Diskussion
 
 Gör en SWAT analys på en virtuell maskin mot en fysik maskin, ha följande i åtanke:
 
-* Hastighed
-* Säkkerhet
+* Hastighet
+* Säkerhet
 * Stabilitet
 * Kostnad
 
-# Övningar 
+### Få en virtuell maskin att köra lokalt på eran dator
+
+Ladda ner ett VM image, t.ex. en Ubuntu från [osboxes.org](https://www.osboxes.org/ubuntu/)
+
+Få en "Hallo world" .NET Core webb applikation att köra på ert VM.
+
+# Grupp övningar 
 
 *Detta är övningar som du äntligen gör själv, i grupp eller i plenum tillsammans med hela klassen*
 
-## Local virtual machine
-
-Create a local virtual machine
-
-Make your webserver from the previous exercise run on the 
-
-https://www.osboxes.org/ubuntu/
-
 ## Azure virtual machine
 
-1. Set up a virtual linux machine using the Web Ui
+Få en "Hallo world" .NET Core webb applikation att köra på ert VM.
 
-2. Install a linux virtual machine using the Azure CLI [hint](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-cli)
-
-3. create a virtual machine using Pulumi
-
-   
-
-
-
-
-
-Notes
-
-Create, scale and add content to web applications hosted on Microsoft Azure.
-Create, connect and manage Virtual Machines.
-Attach disks to and scale Virtual Machines.
-
-
+1. Set up a virtual linux machine using the Azure Web Portal
+   - Video (9 min): [How to configure a new virtual machine with the Azure Portal](https://www.youtube.com/watch?v=z5J5MQkbqvE)
+   - Video (7 min): [How to create a virtual machine in Azure](https://www.youtube.com/watch?v=rOiSRkxtTeU)
+2. Install a linux virtual machine using the Azure CLI
+   - [Create a Linux virtual machine with the Azure CLI](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-cli)
+   - Video (7 min): [How to create a virtual machine in Azure](https://www.youtube.com/watch?v=rOiSRkxtTeU)
+3. Create a virtual machine in Azure using Pulumi (använd C#/.NET)
+   * [Web Server Using Azure Virtual Machine](https://github.com/pulumi/examples/tree/master/azure-ts-webserver), exemplet dock i Typescipt
 
 
 
