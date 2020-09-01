@@ -88,10 +88,16 @@ https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/azure
 
 https://docs.microsoft.com/en-us/azure/aks/intro-kubernetes
 
+## Archicture as code
+
+[Architecture as Code](https://www.pulumi.com/blog/architecture-as-code-intro/)
+
+[Architecture as Code: Virtual Machines](https://www.pulumi.com/blog/architecture-as-code-vm/)
+
 # Exemplar och övningar. 
 
 *Detta är övningar som du äntligen gör själv, i grupp eller i plenum tillsammans med hela klassen*
 
-
+https://www.pulumi.com/docs/tutorials/azure/container-webserver/
 
 write a blog entry of your learnings

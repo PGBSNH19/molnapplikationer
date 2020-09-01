@@ -58,5 +58,7 @@ Video (6 min): [Continuous Deployment vs Continuous Delivery](https://www.youtub
 
 *Detta är övningar som du äntligen gör själv, i grupp eller tillsammans med hela klassen*
 
+https://www.pulumi.com/blog/cd-made-easy-with-pulumi-and-azure-pipelines/
+
 Add content to web apps from Visual Studio, through FTP and Dropbox.
 Create, publish and scale cloud services.s

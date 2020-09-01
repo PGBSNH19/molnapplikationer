@@ -56,7 +56,7 @@ Lunch 12:00 till 13:00
 
 ## Pulumi
 
-Use Pulumi to Create and Provision an Azure VM for IoT Edge (Node.js) https://geoffhudik.com/tech/2020/05/03/use-pulumi-to-create-and-provision-an-azure-vm-for-iot-edge/
+[Use Pulumi to Create and Provision an Azure VM for IoT Edge (Node.js)](https://geoffhudik.com/tech/2020/05/03/use-pulumi-to-create-and-provision-an-azure-vm-for-iot-edge/)
 
 ## Terraform
 
@@ -64,7 +64,7 @@ Annat ramverk till att göra IaC
 
 - [Pulumi vs. Terraform](https://www.pulumi.com/docs/intro/vs/terraform/)
 
-- https://blog.kylegalbraith.com/2018/12/21/how-pulumi-compares-to-terraform-for-infrastructure-as-code/
+- [How Pulumi Compares to Terraform for Infrastructure as Code](https://blog.kylegalbraith.com/2018/12/21/how-pulumi-compares-to-terraform-for-infrastructure-as-code/)
 
 - [Using Terraform in Azure DevOps Pipelines PART 2](https://www.youtube.com/watch?v=x631jUw1J04)
 
@@ -92,6 +92,8 @@ Dagens blogg ska innehålla:
 * Eran SWAT analys
 * En övergripande beskrivningen av hur ni fick en Virtuell maskin att köra med Azure CLI
 * En detaljerat beskrivning av eran Pulumi lösning
+
+*OBS* Akta vad ni skriver i eran blogg, så att ni inte skivar lösenord etc.
 
 ### Diskussion
 
@@ -146,7 +148,7 @@ Få en ["Hallo world" .NET Core webb applikationen](https://github.com/skjohanse
    - [Tutorial: Create and Manage Linux VMs with the Azure CLI](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-manage-vm)
    - Video (7 min): [How to create a virtual machine in Azure](https://www.youtube.com/watch?v=rOiSRkxtTeU)
 3. Create a virtual machine in Azure using Pulumi (använd C#/.NET)
-   * [Web Server Using Azure Virtual Machine](https://github.com/pulumi/examples/tree/master/azure-ts-webserver), exemplet dock i Typescipt
+   * [Web Server Using Azure Virtual Machine](https://github.com/pulumi/examples/tree/master/azure-cs-webserver), 
 
-
+För Pulumi projektet se till att pusha det till github, ni får ett github classroom projekt ni ska använda, akta att ni inte checker in lösenord etc.
 
