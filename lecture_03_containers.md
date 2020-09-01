@@ -84,6 +84,10 @@ Lunch 12:00 till 13:00
 
 [Azure Kubernetes Service (AKS) with Pulumi](https://www.pulumi.com/docs/tutorials/kubernetes/aks/)
 
+https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/azure-hosting-recommendations-for-asp-net-web-apps
+
+https://docs.microsoft.com/en-us/azure/aks/intro-kubernetes
+
 # Exemplar och övningar. 
 
 *Detta är övningar som du äntligen gör själv, i grupp eller i plenum tillsammans med hela klassen*

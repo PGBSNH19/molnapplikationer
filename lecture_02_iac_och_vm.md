@@ -14,11 +14,12 @@ Lektion från kl. 8:30 till kl. 16:30
 * 8:30 Uppsamling från förra lektion (Internet och moln)
   * Bording card
 * 9:00 Presentation av dagens teori: Virtuelle maskiner och infrastruktur som kod
-* 9:30 Grupp övning
+* 9:30 [Buddy uppgifter](#Buddy uppgifter)
 
 Lunch 12:00 till 13:00
 
-* 13:00 Programmeringsövning i grupp
+* 13:00 Status på buddy uppgifterna
+* 13:30 [Grupp övningar](#Grupp övningar) 
 * 16:00 Avslutning och frågor i klassen
 * 16:30 Slut på lektion
   * Landing card
@@ -29,7 +30,6 @@ Lunch 12:00 till 13:00
 ## Virtual machines
 
 * Beginner Geek: [How to Create and Use Virtual Machines](https://www.howtogeek.com/196060/beginner-geek-how-to-create-and-use-virtual-machines/)
-* 
 
 ## Infrastructure as Code
 
@@ -41,8 +41,6 @@ Lunch 12:00 till 13:00
 * Video (32 min): [Managing any Cloud with .NET](https://www.youtube.com/watch?v=hXhZiHtT8f0)
 * Video (11 min): On.NET [Getting started with cloud deployments with Pulumi and .NET](https://www.youtube.com/watch?v=sig68daTG-0) 
 * Pulumi: [Get Started with Azure](https://www.pulumi.com/docs/get-started/azure/)
-
-
 
 # Bakgrunds litteratur
 
@@ -97,7 +95,7 @@ Dagens blogg ska innehålla:
 
 ### Diskussion
 
-Gör en SWAT analys på en virtuell maskin mot en fysik maskin, ha följande i åtanke:
+Gör en [SWAT analys](https://blogg.pwc.se/foretagarbloggen/guide-till-en-vinnande-swot-analys) på en virtuell maskin mot en fysik maskin, ha följande i åtanke:
 
 * Hastighet
 * Säkerhet
@@ -110,17 +108,39 @@ Ladda ner ett VM image, t.ex. en Ubuntu från [osboxes.org](https://www.osboxes.
 
 Få en "Hallo world" .NET Core webb applikation att köra på ert VM.
 
+[Host ASP.NET Core on Linux with Nginx](https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/linux-nginx?view=aspnetcore-3.1)
+
+[Install .NET Core SDK or .NET Core Runtime on Ubuntu v18.04](https://docs.microsoft.com/da-dk/dotnet/core/install/linux-ubuntu#1804-)
+
+* Installera båda SDK och Runtime
+
+`git pull https://github.com/skjohansen/SimpleWebHalloWorld.git`
+
+`dotnet run --urls http://0.0.0.0:80`
+
+Testa din webbläser om du kan öppna sidan, *http://0.0.0.0:80* får den att lystna på port 80 från alla IP adresser
+
+#### Release build av applikation
+
+`dotnet publish --configuration Release`
+
+gå till : SimpleWebHalloWorld/bin/Release/netcoreapp3.1/publish
+
+`dotnet SimpleWebHalloWorld.dll --urls http://0.0.0.0:80`
+
 # Grupp övningar 
 
 *Detta är övningar som du äntligen gör själv, i grupp eller i plenum tillsammans med hela klassen*
 
 ## Azure virtual machine
 
-Få en "Hallo world" .NET Core webb applikation att köra på ert VM.
+Få en ["Hallo world" .NET Core webb applikationen](https://github.com/skjohansen/SimpleWebHalloWorld) att köra på ert VM.
 
 1. Set up a virtual linux machine using the Azure Web Portal
    - Video (9 min): [How to configure a new virtual machine with the Azure Portal](https://www.youtube.com/watch?v=z5J5MQkbqvE)
    - Video (7 min): [How to create a virtual machine in Azure](https://www.youtube.com/watch?v=rOiSRkxtTeU)
+   - Nice to have: [How to SSH into an Azure VM from Windows Terminal Menu](https://www.thomasmaurer.ch/2020/05/how-to-ssh-into-an-azure-vm-from-windows-terminal-menu/)
+   - [Hosting ASP.NET Core Web Application On Azure Linux VM](https://midnightprogrammer.net/post/hosting-aspnet-core-web-application-on-azure-linux-vm/)
 2. Install a linux virtual machine using the Azure CLI
    - [Create a Linux virtual machine with the Azure CLI](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-cli)
    - Video (7 min): [How to create a virtual machine in Azure](https://www.youtube.com/watch?v=rOiSRkxtTeU)
