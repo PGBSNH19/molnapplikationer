@@ -95,6 +95,7 @@ Dagens blogg ska innehålla:
 * En övergripande beskrivningen av hur ni fick en Virtuell maskin att köra med Azure CLI
 * En detaljerat beskrivning av eran Pulumi lösning
 * Beskriv en lösning till hur man kan har kod versions kontroll utan att man behöver att checka-in hemliga informationer som API-keys och passwords
+* Kolla vilka resurser som skåpas i Azure när man gör en virtuell maskin, vad är skillnad på dom olika typer. 
 
 *OBS* Akta vad ni skriver i eran blogg, så att ni inte skriver lösenord etc.
 
@@ -132,10 +133,6 @@ Testa din webbläser om du kan öppna sidan, *http://0.0.0.0:5000* får den att 
 gå till : SimpleWebHalloWorld/bin/Release/netcoreapp3.1/publish
 
 `dotnet SimpleWebHalloWorld.dll --urls http://0.0.0.0:5000`
-
-# Grupp övningar 
-
-*Detta är övningar som du äntligen gör själv, i grupp eller i plenum tillsammans med hela klassen*
 
 ## Azure virtual machine
 
