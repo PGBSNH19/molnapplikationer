@@ -154,8 +154,8 @@ Använd evt B1S som är en del av student konto
 3. Create a virtual machine in Azure using Pulumi (använd C#/.NET)
    * [Web Server Using Azure Virtual Machine](https://github.com/pulumi/examples/tree/master/azure-cs-webserver)
    * Hint
-     * Klona ner det repo som innehåller exemplet (kan typ köras rakt av)
-     * I `northeurope`måste man använda `Standard_A2_v2` istället för `Standard_A2`
+     * Klona ner det repo som innehåller exemplet (kan typ köras rakt av) : https://github.com/pulumi/examples.git  (detta repo innehåller ALLA Pulumi exemplen)
+     * I region `northeurope`måste man använda `Standard_A2_v2` istället för `Standard_A2`
 
 ### Webb applikation
 
