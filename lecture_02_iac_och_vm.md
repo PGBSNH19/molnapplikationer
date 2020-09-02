@@ -136,6 +136,8 @@ Starta den med .NET
 
 Skåpa en virtuell maskin på dissa tre sätt, logg in och kör igång ["Hallo world" .NET Core webb applikationen](https://github.com/skjohansen/SimpleWebHalloWorld) att köra på ert VM.
 
+Använd evt B1S som är en del av student konto
+
 1. Set up a virtual linux machine using the Azure Web Portal
    - Video (9 min): [How to configure a new virtual machine with the Azure Portal](https://www.youtube.com/watch?v=z5J5MQkbqvE)
    - Video (7 min): [How to create a virtual machine in Azure](https://www.youtube.com/watch?v=rOiSRkxtTeU)
@@ -145,10 +147,15 @@ Skåpa en virtuell maskin på dissa tre sätt, logg in och kör igång ["Hallo w
    - [Create a Linux virtual machine with the Azure CLI](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-cli)
    - [Tutorial: Create and Manage Linux VMs with the Azure CLI](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-manage-vm)
    - Video (7 min): [How to create a virtual machine in Azure](https://www.youtube.com/watch?v=rOiSRkxtTeU)
+   - Med CLI
+     - Skåpa evt RessourceGroup
+     - Skåpa VM
+     - Öppna port 5000
 3. Create a virtual machine in Azure using Pulumi (använd C#/.NET)
-   * [Web Server Using Azure Virtual Machine](https://github.com/pulumi/examples/tree/master/azure-cs-webserver), 
-
-För Pulumi projektet se till att pusha det till github, ni får ett github classroom projekt ni ska använda, akta att ni inte checker in lösenord etc.
+   * [Web Server Using Azure Virtual Machine](https://github.com/pulumi/examples/tree/master/azure-cs-webserver)
+   * Hint
+     * Klona ner det repo som innehåller exemplet (kan typ köras rakt av)
+     * I `northeurope`måste man använda `Standard_A2_v2` istället för `Standard_A2`
 
 ### Webb applikation
 
@@ -171,8 +178,6 @@ Man kan också köra en riktig release build av webb applikation. För att kunna
 gå till : SimpleWebHalloWorld/bin/Release/netcoreapp3.1/publish
 
 `dotnet SimpleWebHalloWorld.dll --urls http://0.0.0.0:5000`
-
-## 
 
 ## IaC och VM - avancerat
 
