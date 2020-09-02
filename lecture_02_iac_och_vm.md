@@ -110,7 +110,11 @@ Gör en [SWAT analys](https://blogg.pwc.se/foretagarbloggen/guide-till-en-vinnan
 
 ## Få en virtuell maskin att köra lokalt på eran dator
 
-Ladda ner ett VM image, t.ex. en Ubuntu från [osboxes.org](https://www.osboxes.org/ubuntu/)
+Ladda ner ett VM image, t.ex. en Ubuntu från [osboxes.org](https://www.osboxes.org/ubuntu/) samt en matchande hypervisor t.ex. Oracle [VirtualBox](https://www.virtualbox.org/).
+
+* Skåpa en ny virtuell maskin i VirtualBox
+* Lägg till den disk (VM image) som du precis har laddad ner
+* Starta maskinen
 
 Få en "Hello world" .NET Core webb applikation att köra på ert VM.
 
@@ -155,6 +159,8 @@ För att köra webb applikationen följ dissa steg
 `dotnet run --urls http://0.0.0.0:5000` (0.0.0.0 gör att webbläsaren lystnare på alla IP adresser)
 
 Testa med din webbläser på din egen dator om du kan öppna sidan: *http://x.x.x.x:5000* (ersätt x.x.x.x med ditt VMs IP) 
+
+För att kunna komma åt port 5000 måste man [öppna för denna](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/nsg-quickstart-portal) på den virtuella maskin i Azure.
 
 ### Release build av applikation
 
