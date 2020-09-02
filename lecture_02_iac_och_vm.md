@@ -87,7 +87,7 @@ Annat ramverk till att göra IaC
 
 # Buddy uppgifter
 
-### Dagens blogg
+## Dagens blogg
 
 Dagens blogg ska innehålla:
 
@@ -99,7 +99,7 @@ Dagens blogg ska innehålla:
 
 *OBS* Akta vad ni skriver i eran blogg, så att ni inte skriver lösenord etc.
 
-### Diskussion
+## Diskussion
 
 Gör en [SWAT analys](https://blogg.pwc.se/foretagarbloggen/guide-till-en-vinnande-swot-analys) på en virtuell maskin mot en fysik maskin, ha följande i åtanke:
 
@@ -108,11 +108,11 @@ Gör en [SWAT analys](https://blogg.pwc.se/foretagarbloggen/guide-till-en-vinnan
 * Stabilitet
 * Kostnad
 
-### Få en virtuell maskin att köra lokalt på eran dator
+## Få en virtuell maskin att köra lokalt på eran dator
 
 Ladda ner ett VM image, t.ex. en Ubuntu från [osboxes.org](https://www.osboxes.org/ubuntu/)
 
-Få en "Hallo world" .NET Core webb applikation att köra på ert VM.
+Få en "Hello world" .NET Core webb applikation att köra på ert VM.
 
 [Host ASP.NET Core on Linux with Nginx](https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/linux-nginx?view=aspnetcore-3.1)
 
@@ -120,19 +120,13 @@ Få en "Hallo world" .NET Core webb applikation att köra på ert VM.
 
 * Installera båda SDK och Runtime
 
+Klona test appilkationen
+
 `git clone https://github.com/skjohansen/SimpleWebHalloWorld.git`
 
-`dotnet run --urls http://0.0.0.0:5000`
+Starta den med .NET
 
-Testa din webbläser om du kan öppna sidan, *http://0.0.0.0:5000* får den att lystna på port 80 från alla IP adresser
-
-#### Release build av applikation
-
-`dotnet publish --configuration Release`
-
-gå till : SimpleWebHalloWorld/bin/Release/netcoreapp3.1/publish
-
-`dotnet SimpleWebHalloWorld.dll --urls http://0.0.0.0:5000`
+`dotnet run`
 
 ## Azure virtual machine
 
@@ -151,6 +145,28 @@ Skåpa en virtuell maskin på dissa tre sätt, logg in och kör igång ["Hallo w
    * [Web Server Using Azure Virtual Machine](https://github.com/pulumi/examples/tree/master/azure-cs-webserver), 
 
 För Pulumi projektet se till att pusha det till github, ni får ett github classroom projekt ni ska använda, akta att ni inte checker in lösenord etc.
+
+### Webb applikation
+
+För att köra webb applikationen följ dissa steg
+
+`git clone https://github.com/skjohansen/SimpleWebHalloWorld.git`
+
+`dotnet run --urls http://0.0.0.0:5000` (0.0.0.0 gör att webbläsaren lystnare på alla IP adresser)
+
+Testa med din webbläser på din egen dator om du kan öppna sidan: *http://x.x.x.x:5000* (ersätt x.x.x.x med ditt VMs IP) 
+
+### Release build av applikation
+
+Man kan också köra en riktig release build av webb applikation. För att kunna det måste man göra en `publish` och sen köra sen dll som genereras.
+
+`dotnet publish --configuration Release`
+
+gå till : SimpleWebHalloWorld/bin/Release/netcoreapp3.1/publish
+
+`dotnet SimpleWebHalloWorld.dll --urls http://0.0.0.0:5000`
+
+## 
 
 ## IaC och VM - avancerat
 
