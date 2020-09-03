@@ -58,10 +58,8 @@ Lunch 12:00 till 13:00
 **Total**:
 
 - Artiklar  3 stk, total 33 min
-- Video: 7 stk, total 36 min
+- Video: 7 stk, total 96 min
 - Total: 129 min
-
-
 
 # Bakgrunds litteratur
 
