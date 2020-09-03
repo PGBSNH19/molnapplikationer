@@ -28,6 +28,7 @@ Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretis
   * https://www.ibm.com/cloud/blog/four-architecture-choices-for-application-development
   * https://cloud.google.com/blog/products/application-development/5-principles-for-cloud-native-architecture-what-it-is-and-how-to-master-it
   * https://techbeacon.com/enterprise-it/5-steps-building-cloud-ready-application-architecture
+  * https://channel9.msdn.com/Events/dotnetConf/Focus-on-Microservices/Why-You-Should-Care-About-Microservices?ocid=player
 * Serverless
   * https://azure.microsoft.com/en-us/services/app-service/api/
   * https://azure.microsoft.com/en-us/services/app-service/

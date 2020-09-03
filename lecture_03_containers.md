@@ -4,6 +4,13 @@ Lektion 3 av 12, måndag den 7:e september 2020
 
 ![Draft](/assets/images/draft.png)
 
+**Draft status**:
+
+* Lektionsplan: 95% klar
+* Lektionsteori: 95% klar
+* Bakgrunds litteratur: 75% klar
+* Uppgifter: 50% klar
+
 Målet med denna lektion är ge en introduktion till ämnet containrar. Där finns fler olika container system, men vi kommer att fokusera på **Docker**.
 
 ## Lektionsplan
@@ -41,7 +48,7 @@ Lunch 12:00 till 13:00
 
 ## Orchestration
 
-* Artikel (15 min): New Relic: [What Is Container Orchestration?](https://blog.newrelic.com/engineering/container-orchestration-explained/)
+* Artikel (15 min), New Relic: [What Is Container Orchestration?](https://blog.newrelic.com/engineering/container-orchestration-explained/)
 
 ### Kubernetes
 
@@ -67,6 +74,8 @@ Lunch 12:00 till 13:00
 <span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span> [5 Container Alternatives to Docker](https://containerjournal.com/topics/container-ecosystems/5-container-alternatives-to-docker/)
 
 <span style="color:#7EAE42; font-weight: bolder; margin-right:0.5em;">&#9711;</span> Wikipedia: [OS-level virtualization](https://en.wikipedia.org/wiki/OS-level_virtualization)
+
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>[Introducing GitHub Container Registry](https://github.blog/2020-09-01-introducing-github-container-registry/)
 
 ### Docker
 
@@ -96,9 +105,13 @@ Lunch 12:00 till 13:00
 
 <span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span> Video (8 min): [Technically Speaking: Clayton Coleman on the History of Kubernetes](https://www.youtube.com/watch?v=zUJTGqWZtq0)
 
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span> Video (7 min): [A conversation with Brendan Burns: What is Kubernetes?](https://www.youtube.com/watch?v=q1PcAawa4Bg)
+
 <span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Video (55 min) [Introduction to Microservices, Docker, and Kubernetes](https://www.youtube.com/watch?v=1xo-0gCVhTU)
 
 <span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span> Video (7 min): [How Kubernetes deployments work](https://www.youtube.com/watch?v=mNK14yXIZF4)
+
+<span style="color:#9F58B9; font-weight: 900; margin-right:0.5em;">&#12336;</span>e-bok: [The Kubernetes Book](https://leanpub.com/thekubernetesbook)
 
 # Buddy uppgifter
 

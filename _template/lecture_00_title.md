@@ -4,6 +4,13 @@ Lektion 0 av 0, måndag den 1:a xx 2020
 
 ![Draft](/assets/images/draft.png)
 
+**Draft status**:
+
+* Lektionsplan: 0% klar
+* Lektionsteori: 0% klar
+* Bakgrunds litteratur: 0% klar
+* Uppgifter: 0% klar
+
 Målet med denna lektion är... TBD
 
 ## Lektionsplan
