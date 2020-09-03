@@ -101,12 +101,6 @@ https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/containers/ac
 
 <span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span> Video (7 min): [How Kubernetes deployments work](https://www.youtube.com/watch?v=mNK14yXIZF4)
 
-## Archicture as code
-
-<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span> [Architecture as Code](https://www.pulumi.com/blog/architecture-as-code-intro/)
-
-<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span> [Architecture as Code: Virtual Machines](https://www.pulumi.com/blog/architecture-as-code-vm/)
-
 # Buddy uppgifter
 
 ## Dagens blogg

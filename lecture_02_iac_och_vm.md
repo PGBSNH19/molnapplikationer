@@ -92,6 +92,12 @@ Annat ramverk till att göra IaC
   * [Powershell](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement)
   * [Linux](https://confluence.atlassian.com/bitbucketserver/creating-ssh-keys-776639788.html)
 
+## Archicture as code
+
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span> [Architecture as Code](https://www.pulumi.com/blog/architecture-as-code-intro/)
+
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span> [Architecture as Code: Virtual Machines](https://www.pulumi.com/blog/architecture-as-code-vm/)
+
 # Buddy uppgifter
 
 ## Dagens blogg
