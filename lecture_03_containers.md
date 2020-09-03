@@ -9,18 +9,18 @@ Målet med denna lektion är ge en introduktion till ämnet containrar. Där fin
 ## Lektionsplan
 Lektion från kl. 8:30 till kl. 16:30
 
-* 8:30 ![Microsoft Office Teams logo](assets\images\teams18.png) Klassråd m. Helen
-* 8:45 ![Microsoft Office Teams logo](assets\images\teams18.png)Uppsamling från förra lektion (Internet och moln)
-  * ![Microsoft Office Teams logo](assets\images\discord18.png)Boarding card, PM på Discord
-* 9:30 ![Microsoft Office Teams logo](assets\images\teams18.png)Presentation av dagens teori: Containrar + Docker
-* 10:00 ![Microsoft Office Teams logo](assets\images\discord18.png) [Buddy uppgifter](#Buddy uppgifter) + blogg review
+* 8:30 <img style="margin-right:0.5em;" src="assets\images\teams18.png"/> Klassråd m. Helen
+* 8:45 <img style="margin-right:0.5em;" src="assets\images\teams18.png"/> Uppsamling från förra lektion (Internet och moln)
+  * <img style="margin-right:0.5em;" src="assets\images\discord18.png" alt="Discord"/> Boarding card, PM på Discord
+* 9:30 <img style="margin-right:0.5em;" src="assets\images\teams18.png"/> Presentation av dagens teori: Containrar + Docker
+* 10:00 <img style="margin-right:0.5em;" src="assets\images\discord18.png" alt="Discord"/>[Buddy uppgifter](#Buddy uppgifter) + blogg review
 
 Lunch 12:00 till 13:00
 
-* 13:00 ![Microsoft Office Teams logo](assets\images\teams18.png)Presentation av dagens teori: Orchestration + Kubernetes
-* 13:30 ![Microsoft Office Teams logo](assets\images\discord18.png) [Buddy uppgifter](#Buddy uppgifter) försatt
-* 16:00 ![Microsoft Office Teams logo](assets\images\teams18.png)Avslutning och frågor i klassen
-  * ![Microsoft Office Teams logo](assets\images\discord18.png)Landing card, PM på Discord
+* 13:00 <img style="margin-right:0.5em;" src="assets\images\teams18.png"/> Presentation av dagens teori: Orchestration + Kubernetes
+* 13:30 <img style="margin-right:0.5em;" src="assets\images\discord18.png" alt="Discord"/> [Buddy uppgifter](#Buddy uppgifter) försatt
+* 16:00 <img style="margin-right:0.5em;" src="assets\images\teams18.png"/> Avslutning och frågor i klassen
+  * <img style="margin-right:0.5em;" src="assets\images\discord18.png" alt="Discord"/> Landing card, PM på Discord
 
 # Lektionsteori
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter. Detta är inte prioriterat eftersom allt är viktigt*
@@ -74,7 +74,7 @@ Lunch 12:00 till 13:00
 
 <span style="color:#7EAE42; font-weight: bolder; margin-right:0.5em;">&#9711;</span>Wikipedia [Docker (software)](https://en.wikipedia.org/wiki/Docker_(software))
 
-<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&xcirc;</span> [Docker Desktop WSL 2 backend](https://docs.docker.com/docker-for-windows/wsl/)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span> [Docker Desktop WSL 2 backend](https://docs.docker.com/docker-for-windows/wsl/)
 
 <span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>[2018 Docker usage report](https://sysdig.com/blog/2018-docker-usage-report/)
 
@@ -84,11 +84,11 @@ Lunch 12:00 till 13:00
 
 ## Orchestration
 
-<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&xcirc;</span> Video (62 min) [Cloud Native .NET - Mark Rendle](https://www.youtube.com/watch?v=77Dk3vjVa9k)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span> Video (62 min) [Cloud Native .NET - Mark Rendle](https://www.youtube.com/watch?v=77Dk3vjVa9k)
 
 ### Kubernetes
 
-<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&xcirc;</span>[What is Kubernetes?](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>[What is Kubernetes?](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
 
 <span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>[Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/azure/aks/intro-kubernetes)
 
@@ -127,7 +127,7 @@ Tutorial: [How YOU can Dockerize a .Net Core app](https://softchris.github.io/pa
 Artikel (3 min): [What is Azure Container Instances?](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-overview)
 
 * Tutorial (3 min): [Deploy a container instance in Azure using the Docker CLI](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-quickstart-docker-cli)
-* Video (21 min): [Azure Container Instances Tutorial | Serverless containers in cloud](https://www.youtube.com/watch?v=jAWLQFi4USk)
+* Video (21 min): [Azure Container Instances Tutorial ; Serverless containers in cloud](https://www.youtube.com/watch?v=jAWLQFi4USk)
 
 Tutorial: [Deploy to Azure Container Instance (ACI)](https://www.pulumi.com/docs/tutorials/azure/container-webserver/)
 
