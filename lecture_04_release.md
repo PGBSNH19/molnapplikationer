@@ -76,3 +76,7 @@ https://www.pulumi.com/blog/cd-made-easy-with-pulumi-and-azure-pipelines/
 
 
 [Deploying your first Kubernetes app with Azure DevOps](https://info.acloud.guru/resources/deploy-kubernetes-app-with-azure-devops)
+
+
+
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span> [Build and push to Azure Container Registry](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/containers/acr-template?view=azure-devops)

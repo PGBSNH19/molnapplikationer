@@ -42,8 +42,6 @@ Lunch 12:00 till 13:00
 ## Orchestration
 
 * Artikel (15 min): New Relic: [What Is Container Orchestration?](https://blog.newrelic.com/engineering/container-orchestration-explained/)
-* Artikel (6 min): [Container Orchestration – Everything You Need to Know](https://www.plesk.com/blog/various/container-orchestration/)
-* Artikel (6 min) Red Hat: [What is container orchestration?](https://www.redhat.com/en/topics/containers/what-is-container-orchestration)
 
 ### Kubernetes
 
@@ -53,10 +51,10 @@ Lunch 12:00 till 13:00
 
 **Total**:
 
-- Artiklar  5 stk, total 45 min
+- Artiklar  3 stk, total 33 min
 - Video: 6 stk, total 34 min
 - Online kurs: 1 stk, 60 min
-- Total: 139 min
+- Total: 127 min
 
 
 
@@ -81,8 +79,6 @@ Lunch 12:00 till 13:00
 <span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span> ["Distroless" Docker Images](https://github.com/GoogleContainerTools/distroless)
 
 <span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span> Github: [DotNet Docker](https://github.com/dotnet/dotnet-docker)
-
-<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span> [Build and push to Azure Container Registry](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/containers/acr-template?view=azure-devops)
 
 <span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Video (9 min) [Virtual Machines vs Docker Containers - Dive Into Docker](https://www.youtube.com/watch?v=TvnZTi_gaNc)
 
