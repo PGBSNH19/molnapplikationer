@@ -15,6 +15,26 @@ Vecka|Måndag|Tisdag |Onsdag |Torsdag|Fredag
 
 Länkarna i schemat leder till detaljerad information om enskilda lektioner och uppgifter.
 
+## Prioritering av lektions material
+
+Teorin för varje lektion är delat i tvår delar.
+
+**Lektionsteori**: Detta är inte prioriterat eftersom allt är viktigt
+
+**Bakgrunds litteratur**: Är indelat i följande prioriteter:
+
+<span style="color:#FF0000; font-weight: 900; margin-right:0.5em">&#128683;</span>Detta MÅSTE läsa
+
+<span style="color:#CA1818; font-weight: 900; margin-right:0.5em;">&#9888;</span> Detta är kritisk för att förstå teorin
+
+<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span> Detta är viktigt för att förstå teorin
+
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span> Detta är bra att veta
+
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span> Detta är inte så viktig, men nice to know
+
+<span style="color:#9F58B9; font-weight: 900; margin-right:0.5em;">&#12336;</span> Detta är inte als viktigt, men värd att ha i åtanke
+
 # Kursen
 
 Beskrivning av mål, moment och bedömning i kursen, hittar ni här:
