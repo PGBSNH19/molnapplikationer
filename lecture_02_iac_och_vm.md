@@ -29,18 +29,25 @@ Lunch 12:00 till 13:00
 
 ## Virtual machines
 
-* Beginner Geek: [How to Create and Use Virtual Machines](https://www.howtogeek.com/196060/beginner-geek-how-to-create-and-use-virtual-machines/)
+* Artikel (10 min): Beginner Geek: [How to Create and Use Virtual Machines](https://www.howtogeek.com/196060/beginner-geek-how-to-create-and-use-virtual-machines/)
 
 ## Infrastructure as Code
 
 * Video (4 min): [Infrastructure as code](https://www.youtube.com/watch?v=z-caqPtEw58)
-* Definition of [infrastructure as code](https://searchitoperations.techtarget.com/definition/Infrastructure-as-Code-IAC)
+* Artikel (11 min): [What Is Infrastructure as Code? How It Works, Best Practices, Tutorials](https://stackify.com/what-is-infrastructure-as-code-how-it-works-best-practices-tutorials/)
 
 ### Pulumi
 
 * Video (32 min): [Managing any Cloud with .NET](https://www.youtube.com/watch?v=hXhZiHtT8f0)
 * Video (11 min): On.NET [Getting started with cloud deployments with Pulumi and .NET](https://www.youtube.com/watch?v=sig68daTG-0) 
-* Pulumi: [Get Started with Azure](https://www.pulumi.com/docs/get-started/azure/)
+* Tutorial (30 min): Pulumi: [Get Started with Azure](https://www.pulumi.com/docs/get-started/azure/)
+
+**Total**:
+
+- Artiklar: 2 stk, total 21 min
+- Video: 3 stk, total 47 min
+- Tutorials: 1 stk, total 30 min
+- Total: 98 min
 
 # Bakgrunds litteratur
 
@@ -58,7 +65,7 @@ Lunch 12:00 till 13:00
 
 ## Pulumi
 
-[Use Pulumi to Create and Provision an Azure VM for IoT Edge (Node.js)](https://geoffhudik.com/tech/2020/05/03/use-pulumi-to-create-and-provision-an-azure-vm-for-iot-edge/)
+* [Use Pulumi to Create and Provision an Azure VM for IoT Edge (Node.js)](https://geoffhudik.com/tech/2020/05/03/use-pulumi-to-create-and-provision-an-azure-vm-for-iot-edge/)
 
 ## Terraform
 

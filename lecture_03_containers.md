@@ -23,14 +23,14 @@ Lunch 12:00 till 13:00
 
 ## Containrar
 
-* [WTF is a container?](https://techcrunch.com/2016/10/16/wtf-is-a-container)
+* Artikel (6 min): [WTF is a container?](https://techcrunch.com/2016/10/16/wtf-is-a-container)
 * Video (7 min): [Why you should care about containers](https://www.youtube.com/watch?v=EUitQ8DaZW8)
 
 ### Docker
 
-* Video (9 min) [Virtual Machines vs Docker Containers - Dive Into Docker](https://www.youtube.com/watch?v=TvnZTi_gaNc)
+* Artikel (15 min) [Tutorial: Using Azure DevOps to setup a CI/CD pipeline and deploy to Kubernetes](https://cloudblogs.microsoft.com/opensource/2018/11/27/tutorial-azure-devops-setup-cicd-pipeline-kubernetes-docker-helm/)
 * Video (62 min) [Cloud Native .NET - Mark Rendle](https://www.youtube.com/watch?v=77Dk3vjVa9k)
-* [Tutorial: Using Azure DevOps to setup a CI/CD pipeline and deploy to Kubernetes](https://cloudblogs.microsoft.com/opensource/2018/11/27/tutorial-azure-devops-setup-cicd-pipeline-kubernetes-docker-helm/)
+* Video (9 min) [Virtual Machines vs Docker Containers - Dive Into Docker](https://www.youtube.com/watch?v=TvnZTi_gaNc)
 * Video (3 min) [How to get started with Docker on local dev machine](https://www.youtube.com/watch?v=Kx7mOgdr3Ro)
 * Docker Tooling in Visual Studio | Docker and .NET Core 101:
   * Video (9 min): [What is Docker, Why use it?](https://www.youtube.com/watch?v=vmnvOITMoIg) (1 of 3)
@@ -40,21 +40,26 @@ Lunch 12:00 till 13:00
 
 ## Orchestration
 
-* New Relic: [What Is Container Orchestration?](https://blog.newrelic.com/engineering/container-orchestration-explained/)
-* [Container Orchestration – Everything You Need to Know](https://www.plesk.com/blog/various/container-orchestration/)
-* Red Hat: https://www.redhat.com/en/topics/containers/what-is-container-orchestration
+* Artikel (15 min): New Relic: [What Is Container Orchestration?](https://blog.newrelic.com/engineering/container-orchestration-explained/)
+* Artikel (6 min): [Container Orchestration – Everything You Need to Know](https://www.plesk.com/blog/various/container-orchestration/)
+* Artikel (6 min) Red Hat: [What is container orchestration?](https://www.redhat.com/en/topics/containers/what-is-container-orchestration)
 
 ### Kubernetes
 
-* Video (8 min): [Technically Speaking: Clayton Coleman on the History of Kubernetes](https://www.youtube.com/watch?v=zUJTGqWZtq0)
-
-* Online kurs: [Kubernetes 101](https://www.ibm.com/cloud/architecture/content/course/kubernetes-101/kubernetes-101)
+* Online kurs (60 min): [Kubernetes 101](https://www.ibm.com/cloud/architecture/content/course/kubernetes-101/kubernetes-101)
 
 * Video (55 min) [Introduction to Microservices, Docker, and Kubernetes](https://www.youtube.com/watch?v=1xo-0gCVhTU)
 
 * Video (11 min) [Create a .Net Core Docker Container and Deploy it to Azure](https://www.youtube.com/watch?v=q8nXv56gWms)
 
 
+
+**Total**:
+
+- Artiklar  5 stk, total 48 min
+- Video: 10 stk, total 190 min
+- Online kurs: 1 stk, 60 min
+- Total: 298 min
 
 
 
@@ -75,8 +80,8 @@ Lunch 12:00 till 13:00
 * [Deploying your first Kubernetes app with Azure DevOps](https://info.acloud.guru/resources/deploy-kubernetes-app-with-azure-devops)
 * [Deploy to an Azure Web App for Containers](https://docs.microsoft.com/en-us/azure/devops/pipelines/apps/cd/deploy-docker-webapp?view=azure-devops&tabs=dotnet-core)
 * [2018 Docker usage report](https://sysdig.com/blog/2018-docker-usage-report/)
-* https://github.com/GoogleContainerTools/distroless
-* https://github.com/dotnet/dotnet-docker/blob/11a446f2826c2b8c51baa774584ff3f28ba0e88e/src/sdk/3.1/buster/amd64/Dockerfile
+* ["Distroless" Docker Images](https://github.com/GoogleContainerTools/distroless)
+* Github: [DotNet Docker](https://github.com/dotnet/dotnet-docker)
 
 ## Orchestration
 
@@ -84,9 +89,11 @@ Lunch 12:00 till 13:00
 
 [Azure Kubernetes Service (AKS) with Pulumi](https://www.pulumi.com/docs/tutorials/kubernetes/aks/)
 
-https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/azure-hosting-recommendations-for-asp-net-web-apps
+[Azure hosting recommendations for ASP.NET Core web apps](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/azure-hosting-recommendations-for-asp-net-web-apps)
 
-https://docs.microsoft.com/en-us/azure/aks/intro-kubernetes
+[Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/azure/aks/intro-kubernetes)
+
+Video (8 min): [Technically Speaking: Clayton Coleman on the History of Kubernetes](https://www.youtube.com/watch?v=zUJTGqWZtq0)
 
 ## Archicture as code
 

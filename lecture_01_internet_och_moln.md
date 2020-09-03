@@ -27,47 +27,54 @@ Lunch 12:00 till 13:00
 
 *Detta är material (artiklar, videoer, blogs etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
 
-[What Are Network Protocols?](https://www.lifewire.com/definition-of-protocol-network-817949)
+Artikel (4min): [What Are Network Protocols?](https://www.lifewire.com/definition-of-protocol-network-817949)
 
-Comic zine: [Networking! ACK!](https://jvns.ca/networking-zine.pdf) - by Julia Evans 
+Tecknad serie (15 min): Comic zine: [Networking! ACK!](https://jvns.ca/networking-zine.pdf) - by Julia Evans 
 
 ## DNS
 
 En protokoll som gör att man kan använda enkla namn till att kontakta en server
 
-* [What is a domain name?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name)
+* Artikel (8 min): [What is a domain name?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name)
 
 ## TCP/IP
 
 En mycket använt protokoll, som är basen för webtrafik
 
-* [The TCP/IP Reference Model](https://www.studytonight.com/computer-networks/tcp-ip-reference-model)
-* [Network+/Standards/TCP/IP Model/Introduction](https://en.wikiversity.org/wiki/Network%2B/Standards/TCP/IP_Model/Introduction)
+* Artikel (5 min): [The TCP/IP Reference Model](https://www.studytonight.com/computer-networks/tcp-ip-reference-model)
+* Artikel (6 min): [Network+/Standards/TCP/IP Model/Introduction](https://en.wikiversity.org/wiki/Network%2B/Standards/TCP/IP_Model/Introduction)
 
 ## HTTP
 
 Den protokoll som webbläsare användare till att prata med webserveren, via TCP 
 
-* [HTTP introduction](https://www.httpwatch.com/httpgallery/introduction/)
-* [Introduction to HTTPS](https://https.cio.gov/faq/)
-* [Introduction to HTTP/2](https://developers.google.com/web/fundamentals/performance/http2/)
+* Artikel (5 min): [HTTP introduction](https://www.httpwatch.com/httpgallery/introduction/)
+* Artikel (11 min): [Introduction to HTTPS](https://https.cio.gov/faq/)
+* Artikel (34 min): [Introduction to HTTP/2](https://developers.google.com/web/fundamentals/performance/http2/)
 
 ## Cloud
 
 > The cloud is hosting, made elastic with and API wrapped around it combined with flexible billing
 
 * Video (5 min): [What are the Business Benefits of Cloud Computing, IaaS, PaaS and SaaS?](https://www.youtube.com/watch?v=whkyRvugqlM)
-* [Different Types of Cloud Computing Service Models](https://www.bluepiit.com/blog/different-types-of-cloud-computing-service-models/)
-  * [What is IaaS vs SaaS vs PaaS and XaaS: what’s the difference](https://medium.com/@vanshvarshney_/what-is-iaas-vs-saas-vs-paas-and-xaas-whats-the-difference-examples-ceadeee146e6)
-* [Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players](https://www.zdnet.com/article/the-top-cloud-providers-of-2020-aws-microsoft-azure-google-cloud-hybrid-saas/)
-* [Cloud Services Terminology Guide: Comparing AWS vs Azure vs Google](https://www.cloudhealthtech.com/blog/cloud-comparison-guide-glossary-aws-azure-gcp)
+* Artikel (9 min): [Different Types of Cloud Computing Service Models](https://www.bluepiit.com/blog/different-types-of-cloud-computing-service-models/)
+  * Artikel (6 min): [What is IaaS vs SaaS vs PaaS and XaaS: what’s the difference](https://medium.com/@vanshvarshney_/what-is-iaas-vs-saas-vs-paas-and-xaas-whats-the-difference-examples-ceadeee146e6)
+* Artikel (45 min): [Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players](https://www.zdnet.com/article/the-top-cloud-providers-of-2020-aws-microsoft-azure-google-cloud-hybrid-saas/)
+* Artikel (5 min): [Cloud Services Terminology Guide: Comparing AWS vs Azure vs Google](https://www.cloudhealthtech.com/blog/cloud-comparison-guide-glossary-aws-azure-gcp)
 
 ## Azure
 
 * Video (40 min): [Five Azure services every developer should know](https://channel9.msdn.com/Events/Connect/Microsoft-Connect--2018/T190)
-* [Get started with Azure CLI](https://docs.microsoft.com/en-us/cli/azure/get-started-with-azure-cli?view=azure-cli-latest)
+* Artikel (4 min): [Get started with Azure CLI](https://docs.microsoft.com/en-us/cli/azure/get-started-with-azure-cli?view=azure-cli-latest)
 
-  
+
+
+**Total**:
+
+- Artiklar  12 stk, total 142 min
+- Video: 2 stk, total 45 min
+- Tecknad serie: 1 stk, total 15 min
+- Total: 202 min
 
 # Bakgrunds litteratur
 *Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
