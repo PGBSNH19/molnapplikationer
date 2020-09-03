@@ -62,8 +62,8 @@ Lunch 12:00 till 13:00
 
 ## Containrar
 
-* Wikipedia: [OS-level virtualization](https://en.wikipedia.org/wiki/OS-level_virtualization)
-* [5 Container Alternatives to Docker](https://containerjournal.com/topics/container-ecosystems/5-container-alternatives-to-docker/)
+* <span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&xcirc;</span> Wikipedia: [OS-level virtualization](https://en.wikipedia.org/wiki/OS-level_virtualization)
+* <span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span> [5 Container Alternatives to Docker](https://containerjournal.com/topics/container-ecosystems/5-container-alternatives-to-docker/)
 
 ### Docker
 

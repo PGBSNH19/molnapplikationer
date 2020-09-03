@@ -51,10 +51,10 @@ Video (6 min): [Continuous Deployment vs Continuous Delivery](https://www.youtub
 
 *Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
 
-* [2019 State of DevOps Report](https://puppet.com/resources/report/state-of-devops-report/)
-  * https://services.google.com/fh/files/misc/state-of-devops-2019.pdf
-* https://itnext.io/how-to-create-and-configure-azure-devops-pipelines-agent-88848763f109
-* https://docs.microsoft.com/en-us/aspnet/core/azure/devops/cicd?view=aspnetcore-3.1
+* <span style="color:#7EAE42; font-weight: 900;">&xcirc;</span> [2019 State of DevOps Report](https://puppet.com/resources/report/state-of-devops-report/)
+  * Accelerate [State of DevOps 2019](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf)
+* [How to create and configure Azure DevOps Pipelines Agent](https://itnext.io/how-to-create-and-configure-azure-devops-pipelines-agent-88848763f109)
+* [Continuous integration and deployment](https://docs.microsoft.com/en-us/aspnet/core/azure/devops/cicd?view=aspnetcore-3.1)
 * Ekstra: Docker
 
 # Exemplar och övningar. 
