@@ -28,15 +28,13 @@ Lunch 12:00 till 13:00
 
 ### Docker
 
-* Artikel (15 min) [Tutorial: Using Azure DevOps to setup a CI/CD pipeline and deploy to Kubernetes](https://cloudblogs.microsoft.com/opensource/2018/11/27/tutorial-azure-devops-setup-cicd-pipeline-kubernetes-docker-helm/)
-* Video (62 min) [Cloud Native .NET - Mark Rendle](https://www.youtube.com/watch?v=77Dk3vjVa9k)
-* Video (9 min) [Virtual Machines vs Docker Containers - Dive Into Docker](https://www.youtube.com/watch?v=TvnZTi_gaNc)
-* Video (3 min) [How to get started with Docker on local dev machine](https://www.youtube.com/watch?v=Kx7mOgdr3Ro)
+* Artikel (2 min): [What is Docker and Why should I use it?](https://ropenscilabs.github.io/r-docker-tutorial/01-what-and-why.html)
 * Docker Tooling in Visual Studio | Docker and .NET Core 101:
   * Video (9 min): [What is Docker, Why use it?](https://www.youtube.com/watch?v=vmnvOITMoIg) (1 of 3)
   * Video (6 min): [Docker Tooling in Visual Studio](https://www.youtube.com/watch?v=k2sskhYEPkI)  (2 of 3) 
   * Video (3 min): [Publishing your Containerized Web App](https://www.youtube.com/watch?v=d7D0h9i-QCw)  (3 of 3)
-* Video (25 min): [CI-CD for Azure Kubernetes Service AKS using Azure DevOps](https://www.youtube.com/watch?v=K4uNl6JA7g8)
+* Video (9 min) [Virtual Machines vs Docker Containers - Dive Into Docker](https://www.youtube.com/watch?v=TvnZTi_gaNc)
+* Video (3 min) [How to get started with Docker on local dev machine](https://www.youtube.com/watch?v=Kx7mOgdr3Ro)
 
 ## Orchestration
 
@@ -48,18 +46,13 @@ Lunch 12:00 till 13:00
 
 * Online kurs (60 min): [Kubernetes 101](https://www.ibm.com/cloud/architecture/content/course/kubernetes-101/kubernetes-101)
 
-* Video (55 min) [Introduction to Microservices, Docker, and Kubernetes](https://www.youtube.com/watch?v=1xo-0gCVhTU)
-
-* Video (11 min) [Create a .Net Core Docker Container and Deploy it to Azure](https://www.youtube.com/watch?v=q8nXv56gWms)
-
-
 
 **Total**:
 
-- Artiklar  5 stk, total 48 min
-- Video: 10 stk, total 190 min
+- Artiklar  5 stk, total 35 min
+- Video: 6 stk, total 37 min
 - Online kurs: 1 stk, 60 min
-- Total: 298 min
+- Total: 132 min
 
 
 
@@ -85,15 +78,19 @@ Lunch 12:00 till 13:00
 
 ## Orchestration
 
-[What is Kubernetes?](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
+Video (62 min) [Cloud Native .NET - Mark Rendle](https://www.youtube.com/watch?v=77Dk3vjVa9k)
 
-[Azure Kubernetes Service (AKS) with Pulumi](https://www.pulumi.com/docs/tutorials/kubernetes/aks/)
+### Kubernetes
+
+[What is Kubernetes?](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
 
 [Azure hosting recommendations for ASP.NET Core web apps](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/azure-hosting-recommendations-for-asp-net-web-apps)
 
 [Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/azure/aks/intro-kubernetes)
 
 Video (8 min): [Technically Speaking: Clayton Coleman on the History of Kubernetes](https://www.youtube.com/watch?v=zUJTGqWZtq0)
+
+Video (55 min) [Introduction to Microservices, Docker, and Kubernetes](https://www.youtube.com/watch?v=1xo-0gCVhTU)
 
 ## Archicture as code
 
@@ -105,6 +102,24 @@ Video (8 min): [Technically Speaking: Clayton Coleman on the History of Kubernet
 
 *Detta är övningar som du äntligen gör själv, i grupp eller i plenum tillsammans med hela klassen*
 
-https://www.pulumi.com/docs/tutorials/azure/container-webserver/
+
 
 write a blog entry of your learnings
+
+## Docker
+
+Tutorial: [Getting Started With ASP.NET Core & Docker](https://morioh.com/p/5414a74be39d)
+
+Tutorial: [How YOU can Dockerize a .Net Core app](https://softchris.github.io/pages/dotnet-dockerize.html)
+
+## Azure Container Instance
+
+Artikel (3 min): [What is Azure Container Instances?](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-overview)
+
+Tutorial: https://www.pulumi.com/docs/tutorials/azure/container-webserver/
+
+Video (11 min) [Create a .Net Core Docker Container and Deploy it to Azure](https://www.youtube.com/watch?v=q8nXv56gWms)
+
+## Kubernetes + AKS
+
+Tutorial: [Azure Kubernetes Service (AKS) with Pulumi](https://www.pulumi.com/docs/tutorials/kubernetes/aks/)

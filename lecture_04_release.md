@@ -43,6 +43,9 @@ Video (6 min): [Continuous Deployment vs Continuous Delivery](https://www.youtub
   
 * Deployment
   
+* Artikel (15 min) [Tutorial: Using Azure DevOps to setup a CI/CD pipeline and deploy to Kubernetes](https://cloudblogs.microsoft.com/opensource/2018/11/27/tutorial-azure-devops-setup-cicd-pipeline-kubernetes-docker-helm/)
+
+* Video (25 min): [CI-CD for Azure Kubernetes Service AKS using Azure DevOps](https://www.youtube.com/watch?v=K4uNl6JA7g8)
 
 # Bakgrunds litteratur
 
