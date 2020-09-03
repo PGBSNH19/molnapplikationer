@@ -36,9 +36,9 @@ Tutorial (3 min)
 
 ## Medium
 
-<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&xcirc;</span> medium
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span> medium
 
- `<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&xcirc;</span> `
+ `<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span> `
 
 ## Low
 <span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span> low
@@ -51,6 +51,28 @@ Tutorial (3 min)
  `<span style="color:#9F58B9; font-weight: 900; margin-right:0.5em;">&#12336;</span>`
 
 <img src="prios.png" style="zoom:50%;" />
+
+# Logos
+
+## Teams
+
+![Microsoft Office Teams logo](assets\images\teams18.png)
+
+`![Microsoft Office Teams logo](assets\images\teams18.png)`
+
+<img style="margin-right:0.5em;" src="assets\images\teams18.png" alt="Teams"/>
+
+`<img style="margin-right:0.5em;" src="assets\images\teams18.png" alt="Teams"/>`
+
+## Discord
+
+![Discord logo](assets\images\discord18.png)
+
+`![Discord logo](assets\images\discord18.png)`
+
+<img style="margin-right:0.5em;" src="assets\images\discord18.png" alt="Discord"/>
+
+`<img style="margin-right:0.5em;" src="assets\images\teams18.png" alt="Discord"/>`
 
 # Todo
 
