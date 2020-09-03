@@ -4,6 +4,13 @@ Lektion 10 av 12, torsdag den 1:a oktober 2020
 
 ![Draft](/assets/images/draft.png)
 
+**Draft status**:
+
+* Lektionsplan: 0% klar
+* Lektionsteori: 0% klar
+* Bakgrunds litteratur: 0% klar
+* Uppgifter: 0% klar
+
 Målet med denna lektion är att lära hur man kan få sin lösning till att skala antigen upp, ut eller båda och. Så att den klara av lasten. Detta hänger också ihop med vilken arkitektur man har valt på sin lösning.
 
 ## Lektionsplan

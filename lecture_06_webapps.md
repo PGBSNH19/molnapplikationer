@@ -4,6 +4,13 @@ Lektion 6 av 12, onsdag den 16:e september 2020
 
 ![Draft](/assets/images/draft.png)
 
+**Draft status**:
+
+* Lektionsplan: 0% klar
+* Lektionsteori: 0% klar
+* Bakgrunds litteratur: 0% klar
+* Uppgifter: 0% klar
+
 Målet med denna lektion är titta på olika sätt att använda molnet (specifikt Azure) till att hosta en webbapplikation. Vi kommer även att titta på hur ens arkitektur påverkar vilka möjligheter man har.
 
 ## Lektionsplan

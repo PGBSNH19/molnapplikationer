@@ -4,6 +4,13 @@ Lektion 7 av 12, måndag den 21:a september 2020
 
 ![Draft](/assets/images/draft.png)
 
+**Draft status**:
+
+* Lektionsplan: 0% klar
+* Lektionsteori: 0% klar
+* Bakgrunds litteratur: 0% klar
+* Uppgifter: 0% klar
+
 Målet med denna lektion är lära hur man i molnet (med utgångspunkt i Azure) kan bygga upp virtuella nätverk, så att man där igenom kan bygga komplexa lösningar och öka säkerheten.
 
 ## Lektionsplan

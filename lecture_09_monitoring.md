@@ -4,6 +4,13 @@ Lektion 9 av 12, måndag den 28:e september 2020
 
 ![Draft](/assets/images/draft.png)
 
+**Draft status**:
+
+* Lektionsplan: 0% klar
+* Lektionsteori: 0% klar
+* Bakgrunds litteratur: 0% klar
+* Uppgifter: 0% klar
+
 Målet med denna lektion är att lära hur man kan monitorera/övervaka en molnlösning (med utgångspunkt i Azure). Hur vet om alt funkar som det ska, vad det kostar och hur mycket last man har på sin applikation.
 
 ## Lektionsplan

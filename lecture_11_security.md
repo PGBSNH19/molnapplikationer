@@ -4,6 +4,13 @@ Lektion 11 av 12, måndag den 5:e oktober 2020
 
 ![Draft](/assets/images/draft.png)
 
+**Draft status**:
+
+* Lektionsplan: 0% klar
+* Lektionsteori: 0% klar
+* Bakgrunds litteratur: 0% klar
+* Uppgifter: 0% klar
+
 Målet med denna lektion är att lära vilka säkerhetsmekanismer som finns i Azure och vad man speciellt ska vara uppmärksam på när man utvecklar moln applikationer.
 
 ## Lektionsplan

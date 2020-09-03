@@ -4,6 +4,13 @@ Lektion 8 av 12, onsdag den 23:e september 2020
 
 ![Draft](/assets/images/draft.png)
 
+**Draft status**:
+
+* Lektionsplan: 0% klar
+* Lektionsteori: 0% klar
+* Bakgrunds litteratur: 0% klar
+* Uppgifter: 0% klar
+
 Målet med denna lektion är lära hur man kan spara data i molnet (med utgångspunkt i Azure) och vad som gäller i förhållande till GDPR.
 
 ## Lektionsplan

@@ -4,6 +4,13 @@ Lektion 12 av 12, onsdag den 7:e oktober 2020
 
 ![Draft](/assets/images/draft.png)
 
+**Draft status**:
+
+* Lektionsplan: 0% klar
+* Lektionsteori: 0% klar
+* Bakgrunds litteratur: 0% klar
+* Uppgifter: 0% klar
+
 Målet med denna lektion är runda av dom tidigare 11 lektioner, denna lektion kommer att vara ett upplägg båda till LIA men också till nästa kurs.
 
 Vi kommer här att prata om en molnapplikations livscykel, och om green cloud.
