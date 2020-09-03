@@ -57,14 +57,22 @@ Video (6 min): [Continuous Deployment vs Continuous Delivery](https://www.youtub
 * [Continuous integration and deployment](https://docs.microsoft.com/en-us/aspnet/core/azure/devops/cicd?view=aspnetcore-3.1)
 * Ekstra: Docker
 * Microsoft [DevOps build and deploy image](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/containers/build-image?view=azure-devops)
-* [Deploying your first Kubernetes app with Azure DevOps](https://info.acloud.guru/resources/deploy-kubernetes-app-with-azure-devops)
 * [Deploy to an Azure Web App for Containers](https://docs.microsoft.com/en-us/azure/devops/pipelines/apps/cd/deploy-docker-webapp?view=azure-devops&tabs=dotnet-core)
 
-# Exemplar och övningar. 
+# Exemplar och övningar
 
 *Detta är övningar som du äntligen gör själv, i grupp eller tillsammans med hela klassen*
 
+Simple build
+
+Run unit tests, red green build
+
+Sticker på Github
+
+release pipeline
+
 https://www.pulumi.com/blog/cd-made-easy-with-pulumi-and-azure-pipelines/
 
-Add content to web apps from Visual Studio, through FTP and Dropbox.
-Create, publish and scale cloud services.s
+
+
+[Deploying your first Kubernetes app with Azure DevOps](https://info.acloud.guru/resources/deploy-kubernetes-app-with-azure-devops)

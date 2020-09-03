@@ -48,15 +48,16 @@ Lunch 12:00 till 13:00
 
 ### Kubernetes
 
+* Video (6 min): [How Kubernetes works](https://www.youtube.com/watch?v=daVUONZqn88)
 * Online kurs (60 min): [Kubernetes 101](https://www.ibm.com/cloud/architecture/content/course/kubernetes-101/kubernetes-101)
 
 
 **Total**:
 
 - Artiklar  5 stk, total 35 min
-- Video: 6 stk, total 37 min
+- Video: 7 stk, total 43 min
 - Online kurs: 1 stk, 60 min
-- Total: 132 min
+- Total: 138 min
 
 
 
@@ -82,6 +83,8 @@ Lunch 12:00 till 13:00
 
 <span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span> Github: [DotNet Docker](https://github.com/dotnet/dotnet-docker)
 
+https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/containers/acr-template?view=azure-devops
+
 ## Orchestration
 
 <span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span> Video (62 min) [Cloud Native .NET - Mark Rendle](https://www.youtube.com/watch?v=77Dk3vjVa9k)
@@ -95,6 +98,8 @@ Lunch 12:00 till 13:00
 <span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span> Video (8 min): [Technically Speaking: Clayton Coleman on the History of Kubernetes](https://www.youtube.com/watch?v=zUJTGqWZtq0)
 
 <span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Video (55 min) [Introduction to Microservices, Docker, and Kubernetes](https://www.youtube.com/watch?v=1xo-0gCVhTU)
+
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span> Video (7 min): [How Kubernetes deployments work](https://www.youtube.com/watch?v=mNK14yXIZF4)
 
 ## Archicture as code
 

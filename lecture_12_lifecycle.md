@@ -20,6 +20,10 @@ Lunch 12:00 till 13:00
 # Lektionsteori
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
 
+Cloud native
+
+https://www.youtube.com/watch?v=gPEcqX9No-M
+
 * Wikipedia : https://en.wikipedia.org/wiki/Application_lifecycle_management
 * [Application Lifecycle Management](https://apprenda.com/library/glossary/a-definition-of-application-lifecycle-management/)
 * https://gevaperry.typepad.com/main/2009/11/application-lifecycle-in-the-cloud.html
