@@ -35,6 +35,8 @@ Teorin för varje lektion är delat i tvår delar.
 
 <span style="color:#9F58B9; font-weight: 900; margin-right:0.5em;">&#12336;</span> Detta är inte als viktigt, men värd att ha i åtanke
 
+Prioriteten säger inget om hur bra materialet är, det är enbart en indikator om hur man kan prioritera materialet om man är kort om tid.
+
 # Kursen
 
 Beskrivning av mål, moment och bedömning i kursen, hittar ni här:
