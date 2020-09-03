@@ -24,6 +24,8 @@ Cloud native
 
 https://www.youtube.com/watch?v=gPEcqX9No-M
 
+https://12factor.net/
+
 * Wikipedia : https://en.wikipedia.org/wiki/Application_lifecycle_management
 * [Application Lifecycle Management](https://apprenda.com/library/glossary/a-definition-of-application-lifecycle-management/)
 * https://gevaperry.typepad.com/main/2009/11/application-lifecycle-in-the-cloud.html
