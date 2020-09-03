@@ -85,6 +85,8 @@ Lunch 12:00 till 13:00
 
 <span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span> Github: [DotNet Docker](https://github.com/dotnet/dotnet-docker)
 
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span> [Comparison: AWS Fargate vs. Google Cloud Run vs. Azure Container Instances](https://thenewstack.io/comparison-aws-fargate-vs-google-cloud-run-vs-azure-container-instances/)
+
 <span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Video (9 min) [Virtual Machines vs Docker Containers - Dive Into Docker](https://www.youtube.com/watch?v=TvnZTi_gaNc)
 
 ## Orchestration
