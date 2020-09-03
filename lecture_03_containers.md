@@ -29,7 +29,7 @@ Lunch 12:00 till 13:00
 ### Docker
 
 * Artikel (2 min): [What is Docker and Why should I use it?](https://ropenscilabs.github.io/r-docker-tutorial/01-what-and-why.html)
-* Docker Tooling in Visual Studio | Docker and .NET Core 101:
+* Docker Tooling in Visual Studio; Docker and .NET Core 101:
   * Video (9 min): [What is Docker, Why use it?](https://www.youtube.com/watch?v=vmnvOITMoIg) (1 of 3)
   * Video (6 min): [Docker Tooling in Visual Studio](https://www.youtube.com/watch?v=k2sskhYEPkI)  (2 of 3) 
   * Video (3 min): [Publishing your Containerized Web App](https://www.youtube.com/watch?v=d7D0h9i-QCw)  (3 of 3)
@@ -62,7 +62,7 @@ Lunch 12:00 till 13:00
 
 ## Containrar
 
-* <span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&xcirc;</span> Wikipedia: [OS-level virtualization](https://en.wikipedia.org/wiki/OS-level_virtualization)
+* <span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span> Wikipedia: [OS-level virtualization](https://en.wikipedia.org/wiki/OS-level_virtualization)
 * <span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span> [5 Container Alternatives to Docker](https://containerjournal.com/topics/container-ecosystems/5-container-alternatives-to-docker/)
 
 ### Docker
