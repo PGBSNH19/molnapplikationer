@@ -34,9 +34,9 @@ Lunch 12:00 till 13:00
 
 * Artikel (12 min): [What exactly is Docker?](https://medium.com/swlh/what-exactly-is-docker-1dd62e1fde38)
 * Docker Tooling in Visual Studio; Docker and **.NET Core** 101:
-  * Video (9 min): [What is Docker, Why use it?](https://www.youtube.com/watch?v=vmnvOITMoIg) (1 of 3)
-  * Video (6 min): [Docker Tooling in Visual Studio](https://www.youtube.com/watch?v=k2sskhYEPkI)  (2 of 3) 
-  * Video (3 min): [Publishing your Containerized Web App](https://www.youtube.com/watch?v=d7D0h9i-QCw)  (3 of 3)
+  * Video (9 min): [What is Docker, Why use it?](https://www.youtube.com/watch?v=vmnvOITMoIg&list=PLdo4fOcmZ0oUvXP_Pt2zOgk8dTWagGs_P) (1 of 3)
+  * Video (6 min): [Docker Tooling in Visual Studio](https://www.youtube.com/watch?v=k2sskhYEPkI&list=PLdo4fOcmZ0oUvXP_Pt2zOgk8dTWagGs_P)  (2 of 3) 
+  * Video (3 min): [Publishing your Containerized Web App](https://www.youtube.com/watch?v=d7D0h9i-QCw&list=PLdo4fOcmZ0oUvXP_Pt2zOgk8dTWagGs_P)  (3 of 3)
 * Video (9 min) [Virtual Machines vs Docker Containers - Dive Into Docker](https://www.youtube.com/watch?v=TvnZTi_gaNc)
 * Video (3 min) [How to get started with Docker on local dev machine](https://www.youtube.com/watch?v=Kx7mOgdr3Ro)
 
