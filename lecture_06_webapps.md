@@ -18,6 +18,8 @@ Lunch 12:00 till 13:00
 # Lektionsteori
 Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.
 
+[Azure hosting recommendations for ASP.NET Core web apps](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/azure-hosting-recommendations-for-asp-net-web-apps)
+
 * Azure Web Apps
   * https://azure.microsoft.com/en-us/services/app-service/web/
   * video 7 min How to deploy a static web app https://www.youtube.com/watch?v=H2MPsgujpNk

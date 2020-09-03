@@ -10,7 +10,7 @@ Tutorial (3 min)
 
 **Total**:
 
-- Artiklar  5 stk, total 35 min
+- Artiklar: 5 stk, total 35 min
 - Video: 6 stk, total 37 min
 - Online kurs: 1 stk, 60 min
 - Total: 132 min
@@ -51,3 +51,14 @@ Tutorial (3 min)
  `<span style="color:#9F58B9; font-weight: 900; margin-right:0.5em;">&#12336;</span>`
 
 <img src="prios.png" style="zoom:50%;" />
+
+# Todo
+
+Check if custom emjoes can be made, replace HTML code
+
+https://docs.github.com/en/enterprise/2.13/user/articles/emoji-on-github-pages
+
+https://github.com/jekyll/jemoji#customizing
+
+
+
