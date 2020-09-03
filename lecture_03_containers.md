@@ -33,12 +33,11 @@ Lunch 12:00 till 13:00
 ### Docker
 
 * Artikel (12 min): [What exactly is Docker?](https://medium.com/swlh/what-exactly-is-docker-1dd62e1fde38)
+* Video (3 min) [How to get started with Docker on local dev machine](https://www.youtube.com/watch?v=Kx7mOgdr3Ro)
 * Docker Tooling in Visual Studio; Docker and **.NET Core** 101:
   * Video (9 min): [What is Docker, Why use it?](https://www.youtube.com/watch?v=vmnvOITMoIg&list=PLdo4fOcmZ0oUvXP_Pt2zOgk8dTWagGs_P) (1 of 3)
   * Video (6 min): [Docker Tooling in Visual Studio](https://www.youtube.com/watch?v=k2sskhYEPkI&list=PLdo4fOcmZ0oUvXP_Pt2zOgk8dTWagGs_P)  (2 of 3) 
   * Video (3 min): [Publishing your Containerized Web App](https://www.youtube.com/watch?v=d7D0h9i-QCw&list=PLdo4fOcmZ0oUvXP_Pt2zOgk8dTWagGs_P)  (3 of 3)
-* Video (9 min) [Virtual Machines vs Docker Containers - Dive Into Docker](https://www.youtube.com/watch?v=TvnZTi_gaNc)
-* Video (3 min) [How to get started with Docker on local dev machine](https://www.youtube.com/watch?v=Kx7mOgdr3Ro)
 
 ## Orchestration
 
@@ -55,9 +54,9 @@ Lunch 12:00 till 13:00
 **Total**:
 
 - Artiklar  5 stk, total 45 min
-- Video: 7 stk, total 43 min
+- Video: 6 stk, total 34 min
 - Online kurs: 1 stk, 60 min
-- Total: 148 min
+- Total: 139 min
 
 
 
@@ -83,7 +82,9 @@ Lunch 12:00 till 13:00
 
 <span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span> Github: [DotNet Docker](https://github.com/dotnet/dotnet-docker)
 
-https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/containers/acr-template?view=azure-devops
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span> [Build and push to Azure Container Registry](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/containers/acr-template?view=azure-devops)
+
+<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Video (9 min) [Virtual Machines vs Docker Containers - Dive Into Docker](https://www.youtube.com/watch?v=TvnZTi_gaNc)
 
 ## Orchestration
 
@@ -94,6 +95,8 @@ https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/containers/ac
 <span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>[What is Kubernetes?](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
 
 <span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>[Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/azure/aks/intro-kubernetes)
+
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>[Azure Container Orchestration 101: Azure Web Apps vs ACI vs AKS](https://www.dragonspears.com/blog/azure-container-orchestration-101-azure-web-apps-vs-aci-vs-aks)
 
 <span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span> Video (8 min): [Technically Speaking: Clayton Coleman on the History of Kubernetes](https://www.youtube.com/watch?v=zUJTGqWZtq0)
 
