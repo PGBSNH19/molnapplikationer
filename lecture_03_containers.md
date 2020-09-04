@@ -9,7 +9,7 @@ Lektion 3 av 12, måndag den 7:e september 2020
 * Lektionsplan: 95% klar
 * Lektionsteori: 95% klar
 * Bakgrunds litteratur: 75% klar
-* Uppgifter: 50% klar
+* Uppgifter: 60% klar
 
 Målet med denna lektion är ge en introduktion till ämnet containrar. Där finns fler olika container system, men vi kommer att fokusera på **Docker**.
 
@@ -117,19 +117,47 @@ Lunch 12:00 till 13:00
 
 Dagens blogg ska innehålla:
 
-write a blog entry of your learnings
+Skriv en tutorial i stil med dissa ([1](https://softchris.github.io/pages/dotnet-dockerize.html) eller [2](https://morioh.com/p/5414a74be39d) ), men vart i stället ta utgångspunkt i dissa övningar, lägg gärna till litet teori (vad är en container etc).
+
+* Vad har in installerat
+* Hur har ni fått applikationen att kör i en container
+* Vad innehåller ern Docker Compose
+* Hur fick ni upp Containeren i Azure Container Instance
+* Hur fick den den att funka i AKS
 
 *OBS* Akta vad ni skriver i eran blogg, så att ni inte skriver lösenord etc.
 
-## Docker
+## Övning 1: Hello World i Docker
 
->  Gör en docker container om innehåller en Hello World webb applikation få den att köra med Docker Compose
+**Mål med denna övning**: Bygg en conatiner som kan hålla Hello World webb applikationen (samma om vi använda i förra lektion). Och få applikationen att köra i Docker, så att du kan komma åt den med webbläsare: localhost:80.
 
-Tutorial: [Getting Started With ASP.NET Core & Docker](https://morioh.com/p/5414a74be39d)
+1. Installera Docker på din dator: [Get Docker](https://docs.docker.com/get-docker/)
+2. Starta om din dator
+3. Klona ner ["Hello world" .NET Core webb applikationen](https://github.com/skjohansen/SimpleWebHalloWorld) 
+4. Lägg till en "Dockerfile"
+   1. Tutorial: [Getting Started With ASP.NET Core & Docker](https://morioh.com/p/5414a74be39d) 
+   2. Tutorial: [How YOU can Dockerize a .Net Core app](https://softchris.github.io/pages/dotnet-dockerize.html)
+5. Bygg din container
+6. Kör din container
 
-Tutorial: [How YOU can Dockerize a .Net Core app](https://softchris.github.io/pages/dotnet-dockerize.html)
+Hints:
 
-## Azure Container Instance (ACI)
+* Ni kan behöva att se över port mapningen
+* Ni kan behöva att byta base-image i förhållande till tutorials
+
+## Övning 2: Hello World med Docker Compose
+
+Gör en Docker container som innehåller en Hello World webb applikation få den att köra med Docker Compose
+
+[Get started with Docker Compose](https://docs.docker.com/compose/gettingstarted/)
+
+[Introduction to Docker Compose](https://www.baeldung.com/docker-compose)
+
+[A Practical Introduction to Docker Compose](https://hackernoon.com/practical-introduction-to-docker-compose-d34e79c4c2b6)
+
+[Play with Docker](https://labs.play-with-docker.com/) - A simple, interactive and fun playground to learn Docker
+
+## Övning 3: Azure Container Instance (ACI)
 
 >  Deploy ert docker image till ACI med Pulumi
 
@@ -142,7 +170,7 @@ Tutorial: [Deploy to Azure Container Instance (ACI)](https://www.pulumi.com/docs
 
 Video (11 min) [Create a .Net Core Docker Container and Deploy it to Azure](https://www.youtube.com/watch?v=q8nXv56gWms)
 
-## Kubernetes + AKS
+## Övning 4: Kubernetes + AKS
 
 > Orcestra ern Docker container med AKS
 
