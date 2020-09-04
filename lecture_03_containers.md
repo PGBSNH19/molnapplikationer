@@ -9,7 +9,7 @@ Lektion 3 av 12, måndag den 7:e september 2020
 * Lektionsplan: 95% klar
 * Lektionsteori: 95% klar
 * Bakgrunds litteratur: 75% klar
-* Uppgifter: 60% klar
+* Uppgifter: 65 % klar
 
 Målet med denna lektion är ge en introduktion till ämnet containrar. Där finns fler olika container system, men vi kommer att fokusera på **Docker**.
 
@@ -147,15 +147,12 @@ Hints:
 
 ## Övning 2: Hello World med Docker Compose
 
-Gör en Docker container som innehåller en Hello World webb applikation få den att köra med Docker Compose
+**Mål med denna övning**: Gör en Docker compose fil som kan köra din nya Hello World-Docker container 
 
-[Get started with Docker Compose](https://docs.docker.com/compose/gettingstarted/)
-
-[Introduction to Docker Compose](https://www.baeldung.com/docker-compose)
-
-[A Practical Introduction to Docker Compose](https://hackernoon.com/practical-introduction-to-docker-compose-d34e79c4c2b6)
-
-[Play with Docker](https://labs.play-with-docker.com/) - A simple, interactive and fun playground to learn Docker
+1. Skåpa en `docker-compose.yml` fil som beskivar hur eran docker container ska köras
+	* [Get started with Docker Compose](https://docs.docker.com/compose/gettingstarted/)
+	* [A Practical Introduction to Docker Compose](https://hackernoon.com/practical-introduction-to-docker-compose-d34e79c4c2b6)
+2. Starta eran applikation med `docker-compose up`
 
 ## Övning 3: Azure Container Instance (ACI)
 
@@ -169,6 +166,8 @@ Artikel (3 min): [What is Azure Container Instances?](https://docs.microsoft.com
 Tutorial: [Deploy to Azure Container Instance (ACI)](https://www.pulumi.com/docs/tutorials/azure/container-webserver/)
 
 Video (11 min) [Create a .Net Core Docker Container and Deploy it to Azure](https://www.youtube.com/watch?v=q8nXv56gWms)
+
+[Play with Docker](https://labs.play-with-docker.com/) - A simple, interactive and fun playground to learn Docker
 
 ## Övning 4: Kubernetes + AKS
 
