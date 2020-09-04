@@ -92,6 +92,8 @@ Se till att ni har ett webb projekt med som definarat med en Docker container oc
 * [CI/CD Made Easy with Pulumi and Azure Pipelines](https://www.pulumi.com/blog/cd-made-easy-with-pulumi-and-azure-pipelines/)
 * [Deploying your first Kubernetes app with Azure DevOps](https://info.acloud.guru/resources/deploy-kubernetes-app-with-azure-devops)
 
+https://www.youtube.com/watch?v=O5aXcmKc1HU
+
 
 
 

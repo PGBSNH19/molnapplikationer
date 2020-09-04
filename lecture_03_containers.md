@@ -8,8 +8,8 @@ Lektion 3 av 12, måndag den 7:e september 2020
 
 * Lektionsplan: 95% klar
 * Lektionsteori: 95% klar
-* Bakgrunds litteratur: 75% klar
-* Uppgifter: 65 % klar
+* Bakgrunds litteratur: 80% klar
+* Uppgifter: 70 % klar
 
 Målet med denna lektion är ge en introduktion till ämnet containrar. Där finns fler olika container system, men vi kommer att fokusera på **Docker**.
 
@@ -67,9 +67,9 @@ Lunch 12:00 till 13:00
 
 ## Containrar
 
-<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span> [5 Container Alternatives to Docker](https://containerjournal.com/topics/container-ecosystems/5-container-alternatives-to-docker/)
+<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>[5 Container Alternatives to Docker](https://containerjournal.com/topics/container-ecosystems/5-container-alternatives-to-docker/)
 
-<span style="color:#7EAE42; font-weight: bolder; margin-right:0.5em;">&#9711;</span> Wikipedia: [OS-level virtualization](https://en.wikipedia.org/wiki/OS-level_virtualization)
+<span style="color:#7EAE42; font-weight: bolder; margin-right:0.5em;">&#9711;</span>Wikipedia: [OS-level virtualization](https://en.wikipedia.org/wiki/OS-level_virtualization)
 
 <span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>[Introducing GitHub Container Registry](https://github.blog/2020-09-01-introducing-github-container-registry/)
 
@@ -77,13 +77,17 @@ Lunch 12:00 till 13:00
 
 <span style="color:#7EAE42; font-weight: bolder; margin-right:0.5em;">&#9711;</span>Wikipedia [Docker (software)](https://en.wikipedia.org/wiki/Docker_(software))
 
-<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span> [Docker Desktop WSL 2 backend](https://docs.docker.com/docker-for-windows/wsl/)
+<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Online kurs: [Docker for beginners](https://docker-curriculum.com/)
+
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>[A quick introduction to Docker tags](https://www.freecodecamp.org/news/an-introduction-to-docker-tags-9b5395636c2a/)
+
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>[Docker Desktop WSL 2 backend](https://docs.docker.com/docker-for-windows/wsl/)
 
 <span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>[2018 Docker usage report](https://sysdig.com/blog/2018-docker-usage-report/)
 
 <span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span> ["Distroless" Docker Images](https://github.com/GoogleContainerTools/distroless)
 
-<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span> Github: [DotNet Docker](https://github.com/dotnet/dotnet-docker)
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Github: [DotNet Docker](https://github.com/dotnet/dotnet-docker)
 
 <span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span> [Comparison: AWS Fargate vs. Google Cloud Run vs. Azure Container Instances](https://thenewstack.io/comparison-aws-fargate-vs-google-cloud-run-vs-azure-container-instances/)
 
@@ -127,9 +131,9 @@ Skriv en tutorial i stil med dissa ([1](https://softchris.github.io/pages/dotnet
 
 *OBS* Akta vad ni skriver i eran blogg, så att ni inte skriver lösenord etc.
 
-## Övning 1: Hello World i Docker
+## Övning 1a: Hello World i Docker
 
-**Mål med denna övning**: Bygg en conatiner som kan hålla Hello World webb applikationen (samma om vi använda i förra lektion). Och få applikationen att köra i Docker, så att du kan komma åt den med webbläsare: localhost:80.
+**Mål med denna övning**: Bygg en container som kan hålla Hello World webb applikationen (samma om vi använda i förra lektion). Och få applikationen att köra i Docker, så att du kan komma åt den med webbläsare: localhost:80.
 
 1. Installera Docker på din dator: [Get Docker](https://docs.docker.com/get-docker/)
 2. Starta om din dator
@@ -144,8 +148,11 @@ Hints:
 
 * Ni kan behöva att se över port mapningen
 * Ni kan behöva att byta base-image i förhållande till tutorials
+* Mindre kod ändringar kan behövas
 
-## Övning 2: Hello World med Docker Compose
+## Övning 1b: Hello World med Docker Compose
+
+Ni har nu en Docker container som innehåller vår Hello World applikation
 
 **Mål med denna övning**: Gör en Docker compose fil som kan köra din nya Hello World-Docker container 
 
@@ -154,9 +161,30 @@ Hints:
 	* [A Practical Introduction to Docker Compose](https://hackernoon.com/practical-introduction-to-docker-compose-d34e79c4c2b6)
 2. Starta eran applikation med `docker-compose up`
 
+Docker Compose är speciellt smidigt för lokala utvecklingsmiljö vart man har behov av flera containers (services) jobbar ihop i en applikation. I detta exempel är där endast en service så där finns inte ett jätte behov av en compose fil, men så fort applikationen växer blir den relevant.
+
+**OBS**: Ni kommer inte att använda denna compose fil mer i denna övning
+
+## Övning 2: Publisera conainer image
+
+Ni har nu en Docker container som innehåller vår Hello World applikation (och en Docker Compose definition).
+
+**Mål med denna övning**: Är att skåpa ett Docker image och publicera det till "Github packages" eller "Azure container registry". Ni väljer själv vilken av dom två system ni vill använda.
+
+Hints:
+
+* [Docker + GitHub Package Registry](https://medium.com/@sujaypillai/docker-github-package-registry-9e805f16feab)
+* [Create an Azure container registry using the Azure portal](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-get-started-portal)
+
+**OBS**: Detta behövs för att kunna hosta ert image på en annan maskin eller server (man måste kunna komma åt imaget från internet).
+
+Ni kan nu testa att köra ert image via [Play with Docker](https://labs.play-with-docker.com/), beskriv också detta i eran blogg.
+
 ## Övning 3: Azure Container Instance (ACI)
 
->  Deploy ert docker image till ACI med Pulumi
+Ni har nu skåpat ett Docker image som ligger tillgängligt på internet (äntlig på Github eller Azure)
+
+**Mål med denna övning**: är att deploy ert docker image till ACI, försök att göra detta med båda Azure Web UI, Azure CLI och Pulumi (och beskriv alla tre i eran blog)
 
 Artikel (3 min): [What is Azure Container Instances?](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-overview)
 
@@ -167,10 +195,12 @@ Tutorial: [Deploy to Azure Container Instance (ACI)](https://www.pulumi.com/docs
 
 Video (11 min) [Create a .Net Core Docker Container and Deploy it to Azure](https://www.youtube.com/watch?v=q8nXv56gWms)
 
-[Play with Docker](https://labs.play-with-docker.com/) - A simple, interactive and fun playground to learn Docker
+
+
+
 
 ## Övning 4: Kubernetes + AKS
 
-> Orcestra ern Docker container med AKS
+**Mål med denna övning**: Orcestra ern Docker container med AKS
 
 Tutorial: [Azure Kubernetes Service (AKS) with Pulumi](https://www.pulumi.com/docs/tutorials/kubernetes/aks/)
