@@ -82,6 +82,7 @@ Den protokoll som webbläsare användare till att prata med webserveren, via TCP
 ## TCP/IP
 * [Difference Between IPv4 and IPv6](https://techdifferences.com/difference-between-ipv4-and-ipv6.html)
 * [IPv6 Addoption](https://www.akamai.com/uk/en/about/our-thinking/state-of-the-internet-report/state-of-the-internet-ipv6-adoption-visualization.jsp) - hur går det med att byta till IP6
+* [Computer Stuff They Didn't Teach You #9 - Ports and Processes! What Process has that Port open?](https://www.youtube.com/watch?v=4P0KXWC3V0U)
 
 ## HTTP
 * [Introduction to HTTP basics](http://www.ntu.edu.sg/home/ehchua/programming/webprogramming/http_basics.html)

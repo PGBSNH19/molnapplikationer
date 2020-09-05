@@ -63,6 +63,7 @@ Video (6 min): [Continuous Deployment vs Continuous Delivery](https://www.youtub
 * [Continuous integration and deployment](https://docs.microsoft.com/en-us/aspnet/core/azure/devops/cicd?view=aspnetcore-3.1)
 * Microsoft [DevOps build and deploy image](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/containers/build-image?view=azure-devops)
 * [Deploy to an Azure Web App for Containers](https://docs.microsoft.com/en-us/azure/devops/pipelines/apps/cd/deploy-docker-webapp?view=azure-devops&tabs=dotnet-core)
+* https://www.youtube.com/watch?v=L1Ra1qXv79k
 
 # Exemplar och övningar
 

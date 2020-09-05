@@ -8,8 +8,8 @@ Lektion 3 av 12, måndag den 7:e september 2020
 
 * Lektionsplan: 95% klar
 * Lektionsteori: 95% klar
-* Bakgrunds litteratur: 80% klar
-* Uppgifter: 70 % klar
+* Bakgrunds litteratur: 90% klar
+* Uppgifter: 80 % klar
 
 Målet med denna lektion är ge en introduktion till ämnet containrar. Där finns fler olika container system, men vi kommer att fokusera på **Docker**.
 
@@ -103,6 +103,8 @@ Lunch 12:00 till 13:00
 
 <span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>[What is Kubernetes?](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
 
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>[A Kubernetes story: Phippy goes to the zoo](https://www.youtube.com/watch?v=R9-SOzep73w)
+
 <span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>[Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/azure/aks/intro-kubernetes)
 
 <span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span> Video (8 min): [Technically Speaking: Clayton Coleman on the History of Kubernetes](https://www.youtube.com/watch?v=zUJTGqWZtq0)
@@ -131,6 +133,10 @@ Skriv en tutorial i stil med dissa ([1](https://softchris.github.io/pages/dotnet
 
 *OBS* Akta vad ni skriver i eran blogg, så att ni inte skriver lösenord etc.
 
+# Övning 1: Bygg en container
+
+Vi har nu en webb applikation som vi vill gör om till en container, och i första vända kunna köra lokalt på vår dator, men i senare övningar få den at köra i molnet.
+
 ## Övning 1a: Hello World i Docker
 
 **Mål med denna övning**: Bygg en container som kan hålla Hello World webb applikationen (samma om vi använda i förra lektion). Och få applikationen att köra i Docker, så att du kan komma åt den med webbläsare: localhost:80.
@@ -150,6 +156,10 @@ Hints:
 * Ni kan behöva att byta base-image i förhållande till tutorials
 * Mindre kod ändringar kan behövas
 
+Blogg:
+
+* Se till att beskriva dom olika delar av container filen
+
 ## Övning 1b: Hello World med Docker Compose
 
 Ni har nu en Docker container som innehåller vår Hello World applikation
@@ -165,7 +175,7 @@ Docker Compose är speciellt smidigt för lokala utvecklingsmiljö vart man har 
 
 **OBS**: Ni kommer inte att använda denna compose fil mer i denna övning
 
-## Övning 2: Publisera conainer image
+# Övning 2: Publicera Hello World container image
 
 Ni har nu en Docker container som innehåller vår Hello World applikation (och en Docker Compose definition).
 
@@ -174,33 +184,63 @@ Ni har nu en Docker container som innehåller vår Hello World applikation (och 
 Hints:
 
 * [Docker + GitHub Package Registry](https://medium.com/@sujaypillai/docker-github-package-registry-9e805f16feab)
+* [Configuring Docker for use with GitHub Packages](https://docs.github.com/en/packages/using-github-packages-with-your-projects-ecosystem/configuring-docker-for-use-with-github-packages)
 * [Create an Azure container registry using the Azure portal](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-get-started-portal)
+* https://docs.microsoft.com/en-us/azure/container-registry/container-registry-get-started-azure-cli
+* Video (11 min): [Create a .Net Core Docker Container and Deploy it to Azure](https://www.youtube.com/watch?v=q8nXv56gWms) (denna video innehåller också en demo på hur man konfigurera en webservice detta ska ni såklart det bort ifrån)
+* Video (22 min): [How to Deploy Containers cheaply to Azure](https://www.youtube.com/watch?v=2hokqjFr22s) (denna video rör fler olika ämnen så ta enbart dom delar som är relevanta för denna övning)
 
 **OBS**: Detta behövs för att kunna hosta ert image på en annan maskin eller server (man måste kunna komma åt imaget från internet).
 
 Ni kan nu testa att köra ert image via [Play with Docker](https://labs.play-with-docker.com/), beskriv också detta i eran blogg.
 
-## Övning 3: Azure Container Instance (ACI)
+* Starta en ny instans
+* Pull ert image från Github Package eller Azure Conatainer Registry
+* Kör ert image och testa det
 
-Ni har nu skåpat ett Docker image som ligger tillgängligt på internet (äntlig på Github eller Azure)
+# Övning 3: Deploy och kör Hello World containrar
 
-**Mål med denna övning**: är att deploy ert docker image till ACI, försök att göra detta med båda Azure Web UI, Azure CLI och Pulumi (och beskriv alla tre i eran blog)
+Ni har nu skåpat ett Docker image som ligger tillgängligt på internet (äntlig på Github eller Azure), och denna övning handlar om att få vår container att köra någon stans i molnet.
+
+Där finns många sätt at få den att köra i Azure och vi kommer att träna två ACI och AKS. Vart AKS är det mer avancerade variant. 
+
+## Övning 3a: Azure Container Instance (ACI)
+
+**Mål med denna övning**: är att deploy ert docker image till ACI. ACI använder man primärt till projekt vart containern ska leva i kort tid, och därför är det bra för vår experiment.
 
 Artikel (3 min): [What is Azure Container Instances?](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-overview)
 
-* Tutorial (3 min): [Deploy a container instance in Azure using the Docker CLI](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-quickstart-docker-cli)
+Hints:
+
+* Tutorial (6 min): [Deploy a container instance in Azure using the Azure CLI](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-quickstart)
+* Tutorial (3 min): [Authenticate with Azure Container Registry from Azure Container Instances](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-auth-aci)
+* Video (7 min) : [How to use Azure Container Instance (ACI)](https://www.youtube.com/watch?v=hvvWtsYCObU)
 * Video (21 min): [Azure Container Instances Tutorial ; Serverless containers in cloud](https://www.youtube.com/watch?v=jAWLQFi4USk)
 
-Tutorial: [Deploy to Azure Container Instance (ACI)](https://www.pulumi.com/docs/tutorials/azure/container-webserver/)
+### Extra, övning 3a
 
-Video (11 min) [Create a .Net Core Docker Container and Deploy it to Azure](https://www.youtube.com/watch?v=q8nXv56gWms)
+Försök att göra detta med båda Azure Web Portal UI, Azure CLI och Pulumi (och beskriv alla tre i eran blog)
 
+Pulumi tutorial: [Deploy to Azure Container Instance (ACI)](https://www.pulumi.com/docs/tutorials/azure/container-webserver/)
 
-
-
-
-## Övning 4: Kubernetes + AKS
+## Övning 3b: Kubernetes + AKS
 
 **Mål med denna övning**: Orcestra ern Docker container med AKS
 
+https://www.youtube.com/watch?v=dPJKGnEXQIM
+
+### Extra, övning 3b
+
 Tutorial: [Azure Kubernetes Service (AKS) with Pulumi](https://www.pulumi.com/docs/tutorials/kubernetes/aks/)
+
+# Extra övning
+
+* Skåpa ett web api.
+* Se till att Hello World använder detta API
+* Gör en container till det nya web api
+  * En container ska enbart innehålla en applikation
+* Testa den nya container för sig själv
+* Ändra eran Docker compose så att den startar båda applikationer 
+
+
+
