@@ -217,23 +217,27 @@ Hints:
 * Video (7 min) : [How to use Azure Container Instance (ACI)](https://www.youtube.com/watch?v=hvvWtsYCObU)
 * Video (21 min): [Azure Container Instances Tutorial ; Serverless containers in cloud](https://www.youtube.com/watch?v=jAWLQFi4USk)
 
-### Extra, övning 3a
-
-Försök att göra detta med båda Azure Web Portal UI, Azure CLI och Pulumi (och beskriv alla tre i eran blog)
-
-Pulumi tutorial: [Deploy to Azure Container Instance (ACI)](https://www.pulumi.com/docs/tutorials/azure/container-webserver/)
-
 ## Övning 3b: Kubernetes + AKS
 
 **Mål med denna övning**: Orcestra ern Docker container med AKS
 
 https://www.youtube.com/watch?v=dPJKGnEXQIM
 
-### Extra, övning 3b
+# Extra övningar
+
+Dissa kan göras i den ordning ni känner för
+
+## Extra till övning 3a
+
+Försök att göra detta med båda Azure Web Portal UI, Azure CLI och Pulumi (och beskriv alla tre i eran blog)
+
+Pulumi tutorial: [Deploy to Azure Container Instance (ACI)](https://www.pulumi.com/docs/tutorials/azure/container-webserver/)
+
+## Extra till övning 3b
 
 Tutorial: [Azure Kubernetes Service (AKS) with Pulumi](https://www.pulumi.com/docs/tutorials/kubernetes/aks/)
 
-# Extra övning
+## Extra, Övning 4
 
 * Skåpa ett web api.
 * Se till att Hello World använder detta API
