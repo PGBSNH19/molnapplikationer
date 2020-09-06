@@ -16,9 +16,9 @@ Lektion från kl. 8:30 till kl. 16:30
 
 Lunch 12:00 till 13:00
 
-* 13:00 <img style="margin-right:0.5em;" src="assets\images\teams18.png"/> Klassråd m. Helen
+* 13:00 <img style="margin-right:0.5em;" src="assets\images\teams18.png"/> Lunch samling
 * 13:30 <img style="margin-right:0.5em;" src="assets\images\discord18.png" alt="Discord"/> [Buddy uppgifter](#Buddy uppgifter) försatt
-* 16:00 <img style="margin-right:0.5em;" src="assets\images\teams18.png"/> Avslutning och frågor i klassen
+* 16:00 <img style="margin-right:0.5em;" src="assets\images\teams18.png"/> Klassråd m. Helen + Avslutning och frågor i klassen
   * <img style="margin-right:0.5em;" src="assets\images\discord18.png" alt="Discord"/> Landing card, PM på Discord
 
 # Lektionsteori
@@ -71,7 +71,9 @@ Lunch 12:00 till 13:00
 
 <span style="color:#7EAE42; font-weight: bolder; margin-right:0.5em;">&#9711;</span>Wikipedia [Docker (software)](https://en.wikipedia.org/wiki/Docker_(software))
 
-<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Online kurs: [Docker for beginners](https://docker-curriculum.com/)
+<span style="color:#E78E35; font-weight: bolder; margin-right:0.5em;">&#9651;</span>[21 Days of Docker](https://github.com/100daysofdevops/21_Days_of_Docker), en bra samling av artiklar
+
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Online kurs: [Docker for beginners](https://docker-curriculum.com/)
 
 <span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>[A quick introduction to Docker tags](https://www.freecodecamp.org/news/an-introduction-to-docker-tags-9b5395636c2a/)
 
