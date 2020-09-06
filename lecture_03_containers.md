@@ -7,15 +7,16 @@ Målet med denna lektion är ge en introduktion till ämnet containrar. Där fin
 ## Lektionsplan
 Lektion från kl. 8:30 till kl. 16:30
 
-* 8:30 <img style="margin-right:0.5em;" src="assets\images\teams18.png"/> Klassråd m. Helen
-* 8:45 <img style="margin-right:0.5em;" src="assets\images\teams18.png"/> Uppsamling från förra lektion (Internet och moln)
+* 8:30 <img style="margin-right:0.5em;" src="assets\images\teams18.png"/> Uppsamling från förra lektion (Virtuelle maskiner och infrastruktur som kod)
   * <img style="margin-right:0.5em;" src="assets\images\discord18.png" alt="Discord"/> Boarding card, PM på Discord
-* 9:30 <img style="margin-right:0.5em;" src="assets\images\teams18.png"/> Presentation av dagens teori: Containrar + Docker
+* 9:15 <img style="margin-right:0.5em;" src="assets\images\teams18.png"/> Presentation av dagens teori: 
+  * Containrar + Docker
+  * Orchestration + Kubernetes
 * 10:00 <img style="margin-right:0.5em;" src="assets\images\discord18.png" alt="Discord"/>[Buddy uppgifter](#Buddy uppgifter) + blogg review
 
 Lunch 12:00 till 13:00
 
-* 13:00 <img style="margin-right:0.5em;" src="assets\images\teams18.png"/> Presentation av dagens teori: Orchestration + Kubernetes
+* 13:00 <img style="margin-right:0.5em;" src="assets\images\teams18.png"/> Klassråd m. Helen
 * 13:30 <img style="margin-right:0.5em;" src="assets\images\discord18.png" alt="Discord"/> [Buddy uppgifter](#Buddy uppgifter) försatt
 * 16:00 <img style="margin-right:0.5em;" src="assets\images\teams18.png"/> Avslutning och frågor i klassen
   * <img style="margin-right:0.5em;" src="assets\images\discord18.png" alt="Discord"/> Landing card, PM på Discord
