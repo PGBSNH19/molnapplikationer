@@ -2,15 +2,6 @@
 
 Lektion 3 av 12, måndag den 7:e september 2020
 
-![Draft](/assets/images/draft.png)
-
-**Draft status**:
-
-* Lektionsplan: 95% klar
-* Lektionsteori: 95% klar
-* Bakgrunds litteratur: 90% klar
-* Uppgifter: 80 % klar
-
 Målet med denna lektion är ge en introduktion till ämnet containrar. Där finns fler olika container system, men vi kommer att fokusera på **Docker**.
 
 ## Lektionsplan
@@ -46,7 +37,7 @@ Lunch 12:00 till 13:00
   * Video (6 min): [Docker Tooling in Visual Studio](https://www.youtube.com/watch?v=k2sskhYEPkI&list=PLdo4fOcmZ0oUvXP_Pt2zOgk8dTWagGs_P)  (2 of 3) 
   * Video (3 min): [Publishing your Containerized Web App](https://www.youtube.com/watch?v=d7D0h9i-QCw&list=PLdo4fOcmZ0oUvXP_Pt2zOgk8dTWagGs_P)  (3 of 3)
 
-## Orchestration
+## Ork­estr­ering (Orchestration)
 
 * Artikel (15 min), New Relic: [What Is Container Orchestration?](https://blog.newrelic.com/engineering/container-orchestration-explained/)
 * Video (62 min) [Cloud Native .NET - Mark Rendle](https://www.youtube.com/watch?v=77Dk3vjVa9k)
@@ -66,6 +57,8 @@ Lunch 12:00 till 13:00
 *Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
 
 ## Containrar
+
+<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Computer Stuff They Didn't Teach You : [Containers? So What? Docker 101 Explained](https://www.youtube.com/watch?v=0oEsMwSxBsk)
 
 <span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>[5 Container Alternatives to Docker](https://containerjournal.com/topics/container-ecosystems/5-container-alternatives-to-docker/)
 
@@ -217,34 +210,58 @@ Hints:
 * Video (7 min) : [How to use Azure Container Instance (ACI)](https://www.youtube.com/watch?v=hvvWtsYCObU)
 * Video (21 min): [Azure Container Instances Tutorial ; Serverless containers in cloud](https://www.youtube.com/watch?v=jAWLQFi4USk)
 
-## Övning 3b: Kubernetes + AKS
+# Övning 4
 
-**Mål med denna övning**: Orcestra ern Docker container med AKS
+## Övning 4a, Bygg ett API med Docker
 
-https://www.youtube.com/watch?v=dPJKGnEXQIM
-
-# Extra övningar
-
-Dissa kan göras i den ordning ni känner för
-
-## Extra till övning 3a
-
-Försök att göra detta med båda Azure Web Portal UI, Azure CLI och Pulumi (och beskriv alla tre i eran blog)
-
-Pulumi tutorial: [Deploy to Azure Container Instance (ACI)](https://www.pulumi.com/docs/tutorials/azure/container-webserver/)
-
-## Extra till övning 3b
-
-Tutorial: [Azure Kubernetes Service (AKS) with Pulumi](https://www.pulumi.com/docs/tutorials/kubernetes/aks/)
-
-## Extra, Övning 4
-
-* Skåpa ett web api.
-* Se till att Hello World använder detta API
+* Skåpa ett web api, för att göra alt så enkelt som möjligt gör ett API som inte behöver någon data (databas, disk etc.)
+* Se till att Hello World använder detta API (ett anrop räcker)
 * Gör en container till det nya web api
   * En container ska enbart innehålla en applikation
 * Testa den nya container för sig själv
 * Ändra eran Docker compose så att den startar båda applikationer 
+
+Hints:
+
+* Tutorial (4 min): [Create a multi-container app with Docker Compose](https://docs.microsoft.com/en-us/visualstudio/containers/tutorial-multicontainer?view=vs-2019)
+
+## Övning 4b, Publicera ert API image
+
+Publicera containern med ert nya API
+
+## Övning 4c, Deploy och kör eran applikation
+
+Se till att båda eran Hello World sida och eran API ligger i ACI
+
+# Extra övningar
+
+Dissa är extra övningar ni kan göra om ni har tid över, de kan göras i den ordning ni känner för
+
+## Extra till övning 3, ACI med Pulumi
+
+Som ni kanske har känt kräver det mycket kommandon med CLI eller klick i portalen att få sina Docker images att köra i ACI
+
+**Målet med denna övning** är att automatisera alla dissa kommandon/klick med Pulumi.
+
+Hints:
+
+* Pulum tutorial: [Deploy to Azure Container Instance (ACI)](https://www.pulumi.com/docs/tutorials/azure/container-webserver/)
+
+## Extra övning 5: Kubernetes och AKS
+
+Ni har nu två containrar (Web + API), det är fortfarrent en liten applikation, men kan redan nu börja att få njuta av att använda Kubernetes till att "konfigurera" hela applikationen (API + web). 
+
+**Mål med denna övning** är att ork­estr­era era Docker containrar med Kubernetes på AKS
+
+Video (57 min): [Kubernetes-Getting Started with Azure Container Service AKS](https://www.youtube.com/watch?v=dPJKGnEXQIM)
+
+## Extra till övning 5, AKS med Pulumi
+
+**Målet med denna övning** är att automatisera konfigurationen av AKS med Pulumi.
+
+Hints:
+
+* Tutorial: [Azure Kubernetes Service (AKS) with Pulumi](https://www.pulumi.com/docs/tutorials/kubernetes/aks/)
 
 
 
