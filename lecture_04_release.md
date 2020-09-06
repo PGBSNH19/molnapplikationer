@@ -6,7 +6,7 @@ Lektion 4 av 12, onsdag den 9:e september 2020
 
 **Draft status**:
 
-* Lektionsplan: 0% klar
+* Lektionsplan: 90% klar
 * Lektionsteori: 30% klar
 * Bakgrunds litteratur: 30% klar
 * Uppgifter: 40% klar
@@ -16,42 +16,45 @@ Målet med denna lektion är att lära hur man kan automatisera sina bygg och re
 ## Lektionsplan
 Lektion från kl. 8:30 till kl. 16:30
 
-* x
+* 8:30 <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/teams18.png"/> Uppsamling från förra lektion (Containrar)
+  * <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/discord18.png" alt="Discord"/> Boarding card, PM på Discord
+* 9:15 <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/teams18.png"/> Presentation av dagens teori: 
+  * Automatiserat release
+  * Azure DevOps
+* 10:00 <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/discord18.png" alt="Discord"/>[Buddy uppgifter](#Buddy uppgifter) + blogg review
 
 Lunch 12:00 till 13:00
 
-* x
+* 13:00 <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/teams18.png"/> Samling i klassen
+* 13:15 <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/discord18.png" alt="Discord"/> [Buddy uppgifter](#Buddy uppgifter) försatt
+* 16:00 <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/teams18.png"/> Avslutning och frågor i klassen
+  * <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/discord18.png" alt="Discord"/> Landing card, PM på Discord
 
 # Lektionsteori
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
 
 ## Continuous Integration
 
-* Video (6 min) [What is Continuous Integration?](https://www.youtube.com/watch?v=1er2cjUq1UI)
-* Extreme Programming Practice: [Continuous Integration](https://explainagile.com/agile/xp-extreme-programming/practices/continuous-integration/)
+* Video (6 min): [What is Continuous Integration?](https://www.youtube.com/watch?v=1er2cjUq1UI)
+* Artikel (8 min): Extreme Programming Practice: [Continuous Integration](https://explainagile.com/agile/xp-extreme-programming/practices/continuous-integration/)
+* Artikel (13 min): [CI/CD Pipeline: A Gentle Introduction](https://semaphoreci.com/blog/cicd-pipeline)
 
 ## Continuous Deployment / Delivery
 
-[What is Software Deployment](https://www.goodfirms.co/glossary/software-deployment/)
+* Artikel (6 min): [What is Software Deployment](https://www.goodfirms.co/glossary/software-deployment/)
 
-Video (6 min): [Continuous Deployment vs Continuous Delivery](https://www.youtube.com/watch?v=LNLKZ4Rvk8w)
+* Video (6 min): [Continuous Deployment vs Continuous Delivery](https://www.youtube.com/watch?v=LNLKZ4Rvk8w)
 
 ## DevOps
 
 * Video (6 min): [What is DevOps?](https://www.youtube.com/watch?v=UbtB4sMaaNM)
-* [A beginner's guide to building DevOps pipelines with open source tools](https://opensource.com/article/19/4/devops-pipeline)
+* Artikel (15 min): [A beginner's guide to building DevOps pipelines with open source tools](https://opensource.com/article/19/4/devops-pipeline)
 
-## Azure DevOps
+**Total**:
 
-### Pipelines
-
-[What is Azure Pipelines?](https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/what-is-azure-pipelines?view=azure-devops)
-
-### Deployment
-
-* Artikel (15 min) [Tutorial: Using Azure DevOps to setup a CI/CD pipeline and deploy to Kubernetes](https://cloudblogs.microsoft.com/opensource/2018/11/27/tutorial-azure-devops-setup-cicd-pipeline-kubernetes-docker-helm/)
-
-* Video (25 min): [CI-CD for Azure Kubernetes Service AKS using Azure DevOps](https://www.youtube.com/watch?v=K4uNl6JA7g8)
+- Artiklar  4 stk, total 42 min
+- Video: 3 stk, total 18 min
+- Total: 60 min
 
 # Bakgrunds litteratur
 
@@ -64,26 +67,45 @@ Video (6 min): [Continuous Deployment vs Continuous Delivery](https://www.youtub
 * Microsoft [DevOps build and deploy image](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/containers/build-image?view=azure-devops)
 * [Deploy to an Azure Web App for Containers](https://docs.microsoft.com/en-us/azure/devops/pipelines/apps/cd/deploy-docker-webapp?view=azure-devops&tabs=dotnet-core)
 * https://www.youtube.com/watch?v=L1Ra1qXv79k
+* Artikel (9min): [The Eight Phases of a DevOps Pipeline](https://medium.com/taptuit/the-eight-phases-of-a-devops-pipeline-fda53ec9bba)
 
-# Exemplar och övningar
+## Azure DevOps
 
-*Detta är övningar som du äntligen gör själv, i grupp eller tillsammans med hela klassen*
+Artikel + Video (5 min + 2 min): [What is Azure DevOps?](https://www.devopsgroup.com/insights/resources/tutorials/all/what-is-azure-devops/)
 
-Se till att ni har ett webb projekt med som definarat med en Docker container och som kan köras i AKS
+### Pipelines
 
-## CI pipeline
+* Artikel (2 min): [What is Azure Pipelines?](https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/what-is-azure-pipelines?view=azure-devops)
+
+### Deployment
+
+* Artikel (15 min) [Tutorial: Using Azure DevOps to setup a CI/CD pipeline and deploy to Kubernetes](https://cloudblogs.microsoft.com/opensource/2018/11/27/tutorial-azure-devops-setup-cicd-pipeline-kubernetes-docker-helm/)
+
+* Video (25 min): [CI-CD for Azure Kubernetes Service AKS using Azure DevOps](https://www.youtube.com/watch?v=K4uNl6JA7g8)
+
+# Buddy uppgifter
+
+## Dagens blogg
+
+Dagens blogg ska innehålla:
+
+Skriv en tutorial men vart ni tar utgångspunkt i dissa övningar, lägg gärna till litet teori (vad är en pipeline etc).
+
+* Hur ser ert setup ut?
+* Vilka delar är i eran yaml pipeline fil
+
+*OBS* Akta vad ni skriver i eran blogg, så att ni inte skriver lösenord etc.
+
+# Övning 1: CI pipeline i Azure DevOps
 
 1. Konfigurera en bygg-pipeline i Azure for ett Github projekt.
-
 2. Konfigurera så att alla enhets tests körs som en del av byggen
-
 3. Konfigurera byggen så att den köras till vi varje push till github
-
 4. Sätt en build-sticker på ert Github projekt
 
-   
+Hints:
 
-## CD pipeline
+# Övning 2: CD pipeline i Azure DevOps
 
 1. Push din container (output av fin CI pipeline) till Azure Container Registry eller Github Container Registry
    1. [Build and push to Azure Container Registry](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/containers/acr-template?view=azure-devops)
@@ -97,7 +119,7 @@ https://www.youtube.com/watch?v=O5aXcmKc1HU
 
 
 
-
+Hints:
 
 
 
