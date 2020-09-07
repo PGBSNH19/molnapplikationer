@@ -18,7 +18,7 @@ Lunch 12:00 till 13:00
 
 * 13:00 <img style="margin-right:0.5em;" src="assets\images\teams18.png"/> Lunch samling
 * 13:30 <img style="margin-right:0.5em;" src="assets\images\discord18.png" alt="Discord"/> [Buddy uppgifter](#Buddy uppgifter) försatt
-* 16:00 <img style="margin-right:0.5em;" src="assets\images\teams18.png"/> Klassråd m. Helen + Avslutning och frågor i klassen
+* 16:00 <img style="margin-right:0.5em;" src="assets\images\teams18.png"/> Avslutning och frågor i klassen
   * <img style="margin-right:0.5em;" src="assets\images\discord18.png" alt="Discord"/> Landing card, PM på Discord
 
 # Lektionsteori

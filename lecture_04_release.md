@@ -25,7 +25,7 @@ Lektion från kl. 8:30 till kl. 16:30
 
 Lunch 12:00 till 13:00
 
-* 13:00 <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/teams18.png"/> Samling i klassen
+* 13:00 <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/teams18.png"/> Klassråd m. Helen + Samling i klassen
 * 13:15 <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/discord18.png" alt="Discord"/> [Buddy uppgifter](#Buddy uppgifter) försatt
 * 16:00 <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/teams18.png"/> Avslutning och frågor i klassen
   * <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/discord18.png" alt="Discord"/> Landing card, PM på Discord
