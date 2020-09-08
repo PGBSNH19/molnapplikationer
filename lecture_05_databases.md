@@ -32,13 +32,12 @@ Lunch 12:00 till 13:00
 # Lektionsteori
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
 
-[Azure Databaser](https://azure.microsoft.com/sv-se/product-categories/databases/)
+* Artikel (5 min): [Azure Databaser](https://azure.microsoft.com/sv-se/product-categories/databases/)
 
-* [Azure-databas för MariaDB](https://azure.microsoft.com/sv-se/services/mariadb/)
-* [Azure Cosmos DB](https://azure.microsoft.com/sv-se/services/cosmos-db/)
-* [Azure SQL Database](https://azure.microsoft.com/sv-se/services/sql-database/)
-  * https://www.youtube.com/watch?v=p7X8lH_XMtI
-  * https://www.spotlightcloud.io/blog/what-is-dtu-in-azure-sql-database-and-how-much-do-we-need
+* Artikel (7 min) [Azure-databas för MariaDB](https://azure.microsoft.com/sv-se/services/mariadb/)
+* Artikel (7 min) [Azure Cosmos DB](https://azure.microsoft.com/sv-se/services/cosmos-db/)
+* Artikel (7 min) [Azure SQL Database](https://azure.microsoft.com/sv-se/services/sql-database/)
+* Video: [How to create an Azure SQL database](https://www.youtube.com/watch?v=p7X8lH_XMtI)
 
 **Total**:
 
@@ -50,8 +49,9 @@ Lunch 12:00 till 13:00
 
 *Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
 
-* TBD
-* TBD
+* [What is DTU in Azure SQL Database and How to Figure Out How Much We Need](https://www.spotlightcloud.io/blog/what-is-dtu-in-azure-sql-database-and-how-much-do-we-need)
+
+  
 
 # Buddy uppgifter
 
@@ -66,21 +66,25 @@ Skriv en tutorial men vart ni tar utgångspunkt i dissa övningar, lägg gärna 
 
 *OBS* Akta vad ni skriver i eran blogg, så att ni inte skriver lösenord etc.
 
+Namnge dagens blogg *05.md*, ni får själv välja om ni vill ha en stor blogg som innehåller alla dagens övningar, eller om ni delar upp den i fler delar, i så fall ska ni namnge delarna som: *05a.md*, *05b.md* etc.
+
 # Övning 1: SQL server i Azure
 
 Detta är övningar som du äntligen gör själv, i grupp eller i plenum tillsammans med hela klassen
 
-Övning 1a
+## Övning 1a
 
 Starta en SQL server i azure och skriv ett litet program som använder denna, använd entity framework och migrations.
 
 Ni kan evt ta en eksisterende applikation
 
-ôvning 1b
+https://docs.microsoft.com/sv-se/azure/azure-sql/database/scripts/create-and-configure-database-cli
+
+## Övning 1b
 
 Starta SQL serveren med Pulumi
 
-
+# Övning 2: Cosmos DB
 
 
 
