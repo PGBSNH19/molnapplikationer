@@ -62,23 +62,29 @@ Lunch 12:00 till 13:00
 
 ## Continuous Integration
 
-* Artikel (6 min): [What is Proper Continuous Integration?](https://semaphoreci.com/blog/2017/03/02/what-is-proper-continuous-integration.html)
-* [Why We Need Continuous Integration](https://semaphoreci.com/community/tutorials/continuous-integration)
-* Martin Fowler: [Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span> Artikel (6 min): [What is Proper Continuous Integration?](https://semaphoreci.com/blog/2017/03/02/what-is-proper-continuous-integration.html)
+
+<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>[Why We Need Continuous Integration](https://semaphoreci.com/community/tutorials/continuous-integration)
+
+<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Martin Fowler: [Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html)
 
 ## Continuous Deployment / Delivery
 
-Artikel (13 min): [CI/CD Pipeline: A Gentle Introduction](https://semaphoreci.com/blog/cicd-pipeline)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span> Artikel (13 min): [CI/CD Pipeline: A Gentle Introduction](https://semaphoreci.com/blog/cicd-pipeline)
 
 ## DevOps
 
-* <span style="color:#7EAE42; font-weight: 900;">&xcirc;</span> Puppet: [2019 State of DevOps Report](https://puppet.com/resources/report/state-of-devops-report/)
-  * Google: Accelerate [State of DevOps 2019](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf)
-* Video (52 min): [Deploying anything to Azure with Azure DevOps ](https://www.youtube.com/watch?v=L1Ra1qXv79k)
-* Artikel (9 min): [The Eight Phases of a DevOps Pipeline](https://medium.com/taptuit/the-eight-phases-of-a-devops-pipeline-fda53ec9bba)
-* [The Feedback Loop: How to Adapt to Constant Change](https://circleci.com/blog/the-feedback-loop-how-to-adapt-to-constant-change/)
+<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span> Artikel (9 min): [The Eight Phases of a DevOps Pipeline](https://medium.com/taptuit/the-eight-phases-of-a-devops-pipeline-fda53ec9bba)
+
+<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span> [The Feedback Loop: How to Adapt to Constant Change](https://circleci.com/blog/the-feedback-loop-how-to-adapt-to-constant-change/)
+
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span> DORA: Accelerate [State of DevOps 2019](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf) (the original)
+
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span> Puppet: [2019 State of DevOps Report](https://puppet.com/resources/report/state-of-devops-report/)
 
 ## Azure DevOps
+
+Video (52 min): [Deploying anything to Azure with Azure DevOps ](https://www.youtube.com/watch?v=L1Ra1qXv79k)
 
 Artikel + Video (5 min + 2 min): [What is Azure DevOps?](https://www.devopsgroup.com/insights/resources/tutorials/all/what-is-azure-devops/)
 
@@ -90,14 +96,15 @@ Tutorial (5 min): [Deploy to an Azure Web App for Containers](https://docs.micro
 
 ### Pipelines
 
-* Artikel (2 min): [What is Azure Pipelines?](https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/what-is-azure-pipelines?view=azure-devops)
-* Artikel (4 min): Microsoft [DevOps build and deploy image](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/containers/build-image?view=azure-devops)
+Artikel (2 min): [What is Azure Pipelines?](https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/what-is-azure-pipelines?view=azure-devops)
+
+Artikel (4 min): Microsoft [DevOps build and deploy image](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/containers/build-image?view=azure-devops)
 
 ### Deployment
 
-* Artikel (15 min) [Tutorial: Using Azure DevOps to setup a CI/CD pipeline and deploy to Kubernetes](https://cloudblogs.microsoft.com/opensource/2018/11/27/tutorial-azure-devops-setup-cicd-pipeline-kubernetes-docker-helm/)
+Artikel (15 min) [Tutorial: Using Azure DevOps to setup a CI/CD pipeline and deploy to Kubernetes](https://cloudblogs.microsoft.com/opensource/2018/11/27/tutorial-azure-devops-setup-cicd-pipeline-kubernetes-docker-helm/)
 
-* Video (25 min): [CI-CD for Azure Kubernetes Service AKS using Azure DevOps](https://www.youtube.com/watch?v=K4uNl6JA7g8)
+Video (25 min): [CI-CD for Azure Kubernetes Service AKS using Azure DevOps](https://www.youtube.com/watch?v=K4uNl6JA7g8)
 
 # Buddy uppgifter
 
@@ -120,6 +127,8 @@ Skriv en tutorial men vart ni tar utgångspunkt i dissa övningar, lägg gärna 
 4. Sätt en build-sticker på ert Github projekt
 
 Hints:
+
+* [Get started with Azure DevOps CLI](https://docs.microsoft.com/en-us/azure/devops/cli/?view=azure-devops)
 
 # Övning 2: CD pipeline i Azure DevOps
 
