@@ -1,4 +1,4 @@
-# Automatiserat release
+# Automatisering av bygg och release
 
 Lektion 4 av 12, onsdag den 9:e september 2020
 
@@ -7,7 +7,7 @@ Lektion 4 av 12, onsdag den 9:e september 2020
 **Draft status**:
 
 * Lektionsplan: 90% klar
-* Lektionsteori: 30% klar
+* Lektionsteori: 60% klar
 * Bakgrunds litteratur: 30% klar
 * Uppgifter: 40% klar
 
@@ -42,7 +42,6 @@ Lunch 12:00 till 13:00
 ## Continuous Deployment / Delivery
 
 * Artikel (6 min): [What is Software Deployment](https://www.goodfirms.co/glossary/software-deployment/)
-
 * Video (6 min): [Continuous Deployment vs Continuous Delivery](https://www.youtube.com/watch?v=LNLKZ4Rvk8w)
 
 ## DevOps
