@@ -249,7 +249,7 @@ Som ni kanske har känt kräver det mycket kommandon med CLI eller klick i porta
 
 Hints:
 
-* Pulum tutorial: [Deploy to Azure Container Instance (ACI)](https://www.pulumi.com/docs/tutorials/azure/container-webserver/)
+* Pulumi tutorial: [Deploy to Azure Container Instance (ACI)](https://www.pulumi.com/docs/tutorials/azure/container-webserver/)
 
 ## Extra övning 5: Kubernetes och AKS
 
@@ -257,7 +257,11 @@ Ni har nu två containrar (Web + API), det är fortfarrent en liten applikation,
 
 **Mål med denna övning** är att ork­estr­era era Docker containrar med Kubernetes på AKS
 
-Video (57 min): [Kubernetes-Getting Started with Azure Container Service AKS](https://www.youtube.com/watch?v=dPJKGnEXQIM)
+Hints:
+
+* Video (6 min): [Using Azure Container Instances w/Azure Container Registry, Azure Container Service and Kubernetes](https://www.youtube.com/watch?v=W6YmZPSqEsk)
+
+* Video (57 min): [Kubernetes-Getting Started with Azure Container Service AKS](https://www.youtube.com/watch?v=dPJKGnEXQIM)
 
 ## Extra till övning 5, AKS med Pulumi
 
