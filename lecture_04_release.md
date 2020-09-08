@@ -104,14 +104,14 @@ Lunch 12:00 till 13:00
 
 ## Dagens blogg
 
-Dagens blogg ska innehålla:
-
 Skriv en tutorial men vart ni tar utgångspunkt i dissa övningar, lägg gärna till litet teori (vad är en pipeline etc).
 
 * Hur ser ert setup ut?
 * Vilka delar är i eran yaml pipeline fil
 
 *OBS* Akta vad ni skriver i eran blogg, så att ni inte skriver lösenord etc.
+
+Namnge dagens blogg *04.md*, ni får själv välja om ni vill ha en stor blogg som innehåller alla dagens övningar, eller om ni delar upp den i fler delar, i så fall ska ni namnge delarna som: *04a.md*, *04b.md* etc.
 
 # Övning 1: CI pipeline i Azure DevOps
 
