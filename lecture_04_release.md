@@ -91,7 +91,7 @@ Lunch 12:00 till 13:00
 Skriv en tutorial vart ni tar utgångspunkt i dissa övningar, lägg gärna till litet teori (vad är en pipeline etc).
 
 * Vilka steg har ni gått igenom?
-* Vilka delar är i eran yaml pipeline fil?
+* Vilka delar är i eran pipeline definition (yaml-fil)?
 * Är ert bygg-jobb i containern eller ni definierat ett eget i DevOps?
 
 *OBS* Akta vad ni skriver i eran blogg, så att ni inte skriver lösenord etc.
