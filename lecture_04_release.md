@@ -2,15 +2,6 @@
 
 Lektion 4 av 12, onsdag den 9:e september 2020
 
-![Draft](/assets/images/draft.png)
-
-**Draft status**:
-
-* Lektionsplan: 90% klar
-* Lektionsteori: 90% klar
-* Bakgrunds litteratur: 80% klar
-* Uppgifter: 70% klar
-
 Målet med denna lektion är att lära hur man kan automatisera sina bygg och release (med utgångspunkt i Azure DevOps). 
 
 ## Lektionsplan
@@ -50,11 +41,10 @@ Lunch 12:00 till 13:00
 * Video (6 min): [What is DevOps?](https://www.youtube.com/watch?v=UbtB4sMaaNM)
 * Artikel (15 min): [A beginner's guide to building DevOps pipelines with open source tools](https://opensource.com/article/19/4/devops-pipeline)
 
-**Total**:
+**Total** (71 min):
 
-- Artiklar: 4 stk, total 42 min
+- Artiklar: 5 stk, total 53 min
 - Video: 3 stk, total 18 min
-- Total: 60 min
 
 # Bakgrunds litteratur
 
@@ -62,25 +52,25 @@ Lunch 12:00 till 13:00
 
 ## Continuous Integration
 
-<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span> Artikel (6 min): [What is Proper Continuous Integration?](https://semaphoreci.com/blog/2017/03/02/what-is-proper-continuous-integration.html)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (6 min): [What is Proper Continuous Integration?](https://semaphoreci.com/blog/2017/03/02/what-is-proper-continuous-integration.html)
 
-<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>[Why We Need Continuous Integration](https://semaphoreci.com/community/tutorials/continuous-integration)
+<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Artikel: [Why We Need Continuous Integration](https://semaphoreci.com/community/tutorials/continuous-integration)
 
-<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Martin Fowler: [Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html)
+<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Artikel: Martin Fowler: [Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html)
 
 ## Continuous Deployment / Delivery
 
-<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span> Artikel (13 min): [CI/CD Pipeline: A Gentle Introduction](https://semaphoreci.com/blog/cicd-pipeline)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (13 min): [CI/CD Pipeline: A Gentle Introduction](https://semaphoreci.com/blog/cicd-pipeline)
 
 ## DevOps
 
-<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span> Artikel (9 min): [The Eight Phases of a DevOps Pipeline](https://medium.com/taptuit/the-eight-phases-of-a-devops-pipeline-fda53ec9bba)
+<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Artikel (9 min): [The Eight Phases of a DevOps Pipeline](https://medium.com/taptuit/the-eight-phases-of-a-devops-pipeline-fda53ec9bba)
 
-<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span> [The Feedback Loop: How to Adapt to Constant Change](https://circleci.com/blog/the-feedback-loop-how-to-adapt-to-constant-change/)
+<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>[The Feedback Loop: How to Adapt to Constant Change](https://circleci.com/blog/the-feedback-loop-how-to-adapt-to-constant-change/)
 
-<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span> [DORA](https://www.devops-research.com/research.html): Accelerate [State of DevOps 2019](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf) (the original)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>[DORA](https://www.devops-research.com/research.html): Accelerate [State of DevOps 2019](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf)
 
-<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span> Puppet: [2019 State of DevOps Report](https://puppet.com/resources/report/state-of-devops-report/)
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Puppet: [2019 State of DevOps Report](https://puppet.com/resources/report/state-of-devops-report/)
 
 ## Azure DevOps
 
@@ -92,16 +82,17 @@ Lunch 12:00 till 13:00
 
 <span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (2 min): [What is Azure Pipelines?](https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/what-is-azure-pipelines?view=azure-devops)
 
-<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span> Tutorial (4 min): Microsoft [DevOps build and deploy image](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/containers/build-image?view=azure-devops)
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Tutorial (4 min): Microsoft [DevOps build and deploy image](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/containers/build-image?view=azure-devops)
 
 # Buddy uppgifter
 
 ## Dagens blogg
 
-Skriv en tutorial men vart ni tar utgångspunkt i dissa övningar, lägg gärna till litet teori (vad är en pipeline etc).
+Skriv en tutorial vart ni tar utgångspunkt i dissa övningar, lägg gärna till litet teori (vad är en pipeline etc).
 
-* Hur ser ert setup ut?
-* Vilka delar är i eran yaml pipeline fil
+* Vilka steg har ni gått igenom?
+* Vilka delar är i eran yaml pipeline fil?
+* Är ert bygg-jobb i containern eller ni definierat ett eget i DevOps?
 
 *OBS* Akta vad ni skriver i eran blogg, så att ni inte skriver lösenord etc.
 
@@ -120,12 +111,15 @@ Hints för 1a + 1b:
 ## Övning 1a: Bygg
 
 1. Konfigurera en bygg-pipeline i Azure for ett Github projekt.
+   * Ni kan använda ett tidigare webprojekt eller bygga på ett par enhetstestar på [Hallo World](https://github.com/skjohansen/SimpleWebHalloWorld)
+   * Om ni använder Hallo World, bör ni forka repoet så att ni kan få med en DevOps yaml-fil i repoet samt en Dockerfile
 2. Konfigurera så att alla enhets tests körs som en del av byggen
 
 ## Övning 1b: Trigger på bygg
 
-1. Konfigurera byggen så att den köras till vi varje push till github
-2. Sätt en build-sticker på ert Github projekt
+1. Konfigurera byggen så att den köras till vi varje push till Github
+   * Det göras med en [trigger](https://docs.microsoft.com/en-us/azure/devops/pipelines/repos/github?view=azure-devops&tabs=yaml#ci-triggers) i DevOps
+2. Sätt en build-sticker på ert Github projekt, så alla kan se status på projektet
 
 # Övning 2: CD pipeline i Azure DevOps
 
@@ -137,27 +131,34 @@ Hints för 2a + 2b:
 
 ## Övning 2a
 
-Push din container (output av eran CI pipeline) till Azure Container Registry med en ny tag för varje build
+1. Se till att ett Docker image är output av ditt CI byggen
+   * Evt kan man bygga Docker imaget efter CI bygget, så att det inte tar tid ifrån CI bygget
+2. Push denna container från DevOps till Azure Container Registry (ACR) efter varje byggen, med en ny tag för varje varje bygg
+   * En naturlig tag är: Build Id
 
 ## Övning 2b
-Skåpa en release pipeline som deployer din webb app till ACI (eller en App Service)
+Skåpa en release pipeline som deployer din webb app till ACI (eller en App Service) från ACR
 
 # Extra övningar
 
-Dissa är extra övningar ni kan göra om ni har tid över, de kan göras i den ordning ni känner för
+*Dissa är extra övningar ni kan göra om ni har tid över, de kan göras i den ordning ni känner för*
+
+## Extra: Kubernetes
+
+Få Kubernetes (AKS) till att kontrollera en image in ACI.
+
+Hints:
+
+* Artikel: [Deploying your first Kubernetes app with Azure DevOps](https://info.acloud.guru/resources/deploy-kubernetes-app-with-azure-devops)
+
+* Tutorial (15 min) [Using Azure DevOps to setup a CI/CD pipeline and deploy to Kubernetes](https://cloudblogs.microsoft.com/opensource/2018/11/27/tutorial-azure-devops-setup-cicd-pipeline-kubernetes-docker-helm/)
+
+* Video (25 min): [CI-CD for Azure Kubernetes Service AKS using Azure DevOps](https://www.youtube.com/watch?v=K4uNl6JA7g8)
 
 ## Extra: Pulumi
 
 Skåpa en Pumumi CI / CD pipeline som konfigurera upp din ACI / App Service
 
-Artikel: [CI/CD Made Easy with Pulumi and Azure Pipelines](https://www.pulumi.com/blog/cd-made-easy-with-pulumi-and-azure-pipelines/)
+Hints:
 
-## Extra: Kubernetes
-
-Få eran applikation att deployas med Kubernetes
-
-Artikel: [Deploying your first Kubernetes app with Azure DevOps](https://info.acloud.guru/resources/deploy-kubernetes-app-with-azure-devops)
-
-Tutorial (15 min) [Using Azure DevOps to setup a CI/CD pipeline and deploy to Kubernetes](https://cloudblogs.microsoft.com/opensource/2018/11/27/tutorial-azure-devops-setup-cicd-pipeline-kubernetes-docker-helm/)
-
-Video (25 min): [CI-CD for Azure Kubernetes Service AKS using Azure DevOps](https://www.youtube.com/watch?v=K4uNl6JA7g8)
+* Artikel: [CI/CD Made Easy with Pulumi and Azure Pipelines](https://www.pulumi.com/blog/cd-made-easy-with-pulumi-and-azure-pipelines/)
