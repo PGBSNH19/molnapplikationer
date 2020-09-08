@@ -181,8 +181,7 @@ Hints:
 
 * [Docker + GitHub Package Registry](https://medium.com/@sujaypillai/docker-github-package-registry-9e805f16feab)
 * [Configuring Docker for use with GitHub Packages](https://docs.github.com/en/packages/using-github-packages-with-your-projects-ecosystem/configuring-docker-for-use-with-github-packages)
-* [Create an Azure container registry using the Azure portal](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-get-started-portal)
-* https://docs.microsoft.com/en-us/azure/container-registry/container-registry-get-started-azure-cli
+* [Create a private container registry using the Azure CLI](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-get-started-azure-cli)
 * Video (11 min): [Create a .Net Core Docker Container and Deploy it to Azure](https://www.youtube.com/watch?v=q8nXv56gWms) (denna video innehåller också en demo på hur man konfigurera en webservice detta ska ni såklart det bort ifrån)
 * Video (22 min): [How to Deploy Containers cheaply to Azure](https://www.youtube.com/watch?v=2hokqjFr22s) (denna video rör fler olika ämnen så ta enbart dom delar som är relevanta för denna övning)
 
