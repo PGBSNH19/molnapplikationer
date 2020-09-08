@@ -119,7 +119,7 @@ Lunch 12:00 till 13:00
 
 Dagens blogg ska innehålla:
 
-Skriv en tutorial i stil med dissa ([1](https://softchris.github.io/pages/dotnet-dockerize.html) eller [2](https://morioh.com/p/5414a74be39d) ), men vart i stället ta utgångspunkt i dissa övningar, lägg gärna till litet teori (vad är en container etc).
+Skriv en tutorial i stil med dissa ([1](https://softchris.github.io/pages/dotnet-dockerize.html) eller [2](https://morioh.com/p/5414a74be39d)), men vart i stället ta utgångspunkt i dissa övningar, lägg gärna till litet teori (vad är en container etc).
 
 * Vad har in installerat
 * Hur har ni fått applikationen att kör i en container
@@ -128,6 +128,8 @@ Skriv en tutorial i stil med dissa ([1](https://softchris.github.io/pages/dotnet
 * Hur fick den den att funka i AKS
 
 *OBS* Akta vad ni skriver i eran blogg, så att ni inte skriver lösenord etc.
+
+Namnge dagens blogg *03.md*, ni får själv välja om ni vill ha en stor blogg som innehåller alla dagens övningar, eller om ni delar upp den i fler delar, i så fall ska ni namnge delarna som: *03a.md*, *03b.md* etc.
 
 # Övning 1: Bygg en container
 
