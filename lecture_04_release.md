@@ -7,9 +7,9 @@ Lektion 4 av 12, onsdag den 9:e september 2020
 **Draft status**:
 
 * Lektionsplan: 90% klar
-* Lektionsteori: 60% klar
-* Bakgrunds litteratur: 50% klar
-* Uppgifter: 40% klar
+* Lektionsteori: 90% klar
+* Bakgrunds litteratur: 80% klar
+* Uppgifter: 70% klar
 
 Målet med denna lektion är att lära hur man kan automatisera sina bygg och release (med utgångspunkt i Azure DevOps). 
 
