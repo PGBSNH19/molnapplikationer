@@ -78,33 +78,27 @@ Lunch 12:00 till 13:00
 
 <span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span> [The Feedback Loop: How to Adapt to Constant Change](https://circleci.com/blog/the-feedback-loop-how-to-adapt-to-constant-change/)
 
-<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span> DORA: Accelerate [State of DevOps 2019](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf) (the original)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span> [DORA](https://www.devops-research.com/research.html): Accelerate [State of DevOps 2019](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf) (the original)
 
 <span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span> Puppet: [2019 State of DevOps Report](https://puppet.com/resources/report/state-of-devops-report/)
 
 ## Azure DevOps
 
-Video (52 min): [Deploying anything to Azure with Azure DevOps ](https://www.youtube.com/watch?v=L1Ra1qXv79k)
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Video (52 min): [Deploying anything to Azure with Azure DevOps ](https://www.youtube.com/watch?v=L1Ra1qXv79k)
 
-Artikel + Video (5 min + 2 min): [What is Azure DevOps?](https://www.devopsgroup.com/insights/resources/tutorials/all/what-is-azure-devops/)
-
-Artikel (7 min): [How to create and configure Azure DevOps Pipelines Agent](https://itnext.io/how-to-create-and-configure-azure-devops-pipelines-agent-88848763f109)
-
-Tutorial (10 min): [Continuous integration and deployment](https://docs.microsoft.com/en-us/aspnet/core/azure/devops/cicd?view=aspnetcore-3.1)
-
-Tutorial (5 min): [Deploy to an Azure Web App for Containers](https://docs.microsoft.com/en-us/azure/devops/pipelines/apps/cd/deploy-docker-webapp?view=azure-devops&tabs=dotnet-core)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel + Video (5 min + 2 min): [What is Azure DevOps?](https://www.devopsgroup.com/insights/resources/tutorials/all/what-is-azure-devops/)
 
 ### Pipelines
 
-Artikel (2 min): [What is Azure Pipelines?](https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/what-is-azure-pipelines?view=azure-devops)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (2 min): [What is Azure Pipelines?](https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/what-is-azure-pipelines?view=azure-devops)
 
-Artikel (4 min): Microsoft [DevOps build and deploy image](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/containers/build-image?view=azure-devops)
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span> Tutorial (4 min): Microsoft [DevOps build and deploy image](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/containers/build-image?view=azure-devops)
 
 ### Deployment
 
-Artikel (15 min) [Tutorial: Using Azure DevOps to setup a CI/CD pipeline and deploy to Kubernetes](https://cloudblogs.microsoft.com/opensource/2018/11/27/tutorial-azure-devops-setup-cicd-pipeline-kubernetes-docker-helm/)
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span> Tutorial (15 min) [Using Azure DevOps to setup a CI/CD pipeline and deploy to Kubernetes](https://cloudblogs.microsoft.com/opensource/2018/11/27/tutorial-azure-devops-setup-cicd-pipeline-kubernetes-docker-helm/)
 
-Video (25 min): [CI-CD for Azure Kubernetes Service AKS using Azure DevOps](https://www.youtube.com/watch?v=K4uNl6JA7g8)
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span> Video (25 min): [CI-CD for Azure Kubernetes Service AKS using Azure DevOps](https://www.youtube.com/watch?v=K4uNl6JA7g8)
 
 # Buddy uppgifter
 
@@ -121,30 +115,47 @@ Skriv en tutorial men vart ni tar utgångspunkt i dissa övningar, lägg gärna 
 
 # Övning 1: CI pipeline i Azure DevOps
 
+## Övning 1a: Bygg
+
 1. Konfigurera en bygg-pipeline i Azure for ett Github projekt.
 2. Konfigurera så att alla enhets tests körs som en del av byggen
-3. Konfigurera byggen så att den köras till vi varje push till github
-4. Sätt en build-sticker på ert Github projekt
 
 Hints:
 
 * [Get started with Azure DevOps CLI](https://docs.microsoft.com/en-us/azure/devops/cli/?view=azure-devops)
+* [Create your first pipeline](https://docs.microsoft.com/en-us/azure/devops/pipelines/create-first-pipeline?view=azure-devops&tabs=net%2Cyaml%2Cbrowser%2Ctfs-2018-2)
+* Tutorial (5 min): [Deploy to an Azure Web App for Containers](https://docs.microsoft.com/en-us/azure/devops/pipelines/apps/cd/deploy-docker-webapp?view=azure-devops&tabs=dotnet-core)
+* Artikel (7 min): [How to create and configure Azure DevOps Pipelines Agent](https://itnext.io/how-to-create-and-configure-azure-devops-pipelines-agent-88848763f109)
+* Tutorial (10 min): [Continuous integration and deployment](https://docs.microsoft.com/en-us/aspnet/core/azure/devops/cicd?view=aspnetcore-3.1)
+
+## Övning 1b: Trigger på bygg
+
+1. Konfigurera byggen så att den köras till vi varje push till github
+2. Sätt en build-sticker på ert Github projekt
 
 # Övning 2: CD pipeline i Azure DevOps
 
-1. Push din container (output av fin CI pipeline) till Azure Container Registry eller Github Container Registry
-   1. [Build and push to Azure Container Registry](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/containers/acr-template?view=azure-devops)
-   2. [Getting started with GitHub Container Registry](https://docs.github.com/en/packages/getting-started-with-github-container-registry)
-2. Skåpa en release pipeline som deployer din webb app till Azure AKS
+## Övning 2a
 
-* [CI/CD Made Easy with Pulumi and Azure Pipelines](https://www.pulumi.com/blog/cd-made-easy-with-pulumi-and-azure-pipelines/)
-* [Deploying your first Kubernetes app with Azure DevOps](https://info.acloud.guru/resources/deploy-kubernetes-app-with-azure-devops)
-
-https://www.youtube.com/watch?v=O5aXcmKc1HU
-
-
+Push din container (output av eran CI pipeline) till Azure Container Registry med en ny tag för varje build
 
 Hints:
 
+* [Build and push to Azure Container Registry](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/containers/acr-template?view=azure-devops)
+* [Configure CI/CD for Azure Container Instances using Azure / Azure DevOps Pipelines](https://mohitgoyal.co/2018/11/01/configure-ci-cd-for-azure-container-instances-using-azure-azure-devops-pipelines/)
+* [Build, Run, & Continuously Deploy Docker Containers to Azure App Service](https://www.youtube.com/watch?v=O5aXcmKc1HU)
 
+## Övning 2b
+Skåpa en release pipeline som deployer din webb app till ACI (eller en App Service)
 
+# Extra övningar
+
+## Extra Pulumi
+
+Skåpa en Pumumi CI / CD pipeline som konfigurera upp din ACI / App Service
+
+[CI/CD Made Easy with Pulumi and Azure Pipelines](https://www.pulumi.com/blog/cd-made-easy-with-pulumi-and-azure-pipelines/)
+
+## Extra Kubernetes
+
+[Deploying your first Kubernetes app with Azure DevOps](https://info.acloud.guru/resources/deploy-kubernetes-app-with-azure-devops)
