@@ -7,19 +7,19 @@ Målet med denna lektion är att lära hur man kan automatisera sina bygg och re
 ## Lektionsplan
 Lektion från kl. 8:30 till kl. 16:30
 
-* 8:30 <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/teams18.png"/> Uppsamling från förra lektion (Containrar)
-  * <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/discord18.png" alt="Discord"/> Boarding card, PM på Discord
-* 9:15 <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/teams18.png"/> Presentation av dagens teori: 
+* 8:30 <img style="margin-right:0.5em;" src="/assets/images/teams18.png"/> Uppsamling från förra lektion (Containrar)
+  * <img style="margin-right:0.5em;" src="/assets/images/discord18.png" alt="Discord"/> Boarding card, PM på Discord
+* 9:15 <img style="margin-right:0.5em;" src="/assets/images/teams18.png"/> Presentation av dagens teori: 
   * Automatiserat release
   * Azure DevOps
-* 10:00 <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/discord18.png" alt="Discord"/>[Buddy uppgifter](#Buddy uppgifter) + blogg review
+* 10:00 <img style="margin-right:0.5em;" src="/assets/images/discord18.png" alt="Discord"/>[Buddy uppgifter](#Buddy uppgifter) + blogg review
 
 Lunch 12:00 till 13:00
 
-* 13:00 <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/teams18.png"/> Klassråd m. Helen + Samling i klassen
-* 13:15 <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/discord18.png" alt="Discord"/> [Buddy uppgifter](#Buddy uppgifter) försatt
-* 16:00 <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/teams18.png"/> Avslutning och frågor i klassen
-  * <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/discord18.png" alt="Discord"/> Landing card, PM på Discord
+* 13:00 <img style="margin-right:0.5em;" src="/assets/images/teams18.png"/> Klassråd m. Helen + Samling i klassen
+* 13:15 <img style="margin-right:0.5em;" src="/assets/images/discord18.png" alt="Discord"/> [Buddy uppgifter](#Buddy uppgifter) försatt
+* 16:00 <img style="margin-right:0.5em;" src="/assets/images/teams18.png"/> Avslutning och frågor i klassen
+  * <img style="margin-right:0.5em;" src="/assets/images/discord18.png" alt="Discord"/> Landing card, PM på Discord
 
 # Lektionsteori
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
@@ -107,6 +107,7 @@ Hints för 1a + 1b:
 * Tutorial (5 min): [Deploy to an Azure Web App for Containers](https://docs.microsoft.com/en-us/azure/devops/pipelines/apps/cd/deploy-docker-webapp?view=azure-devops&tabs=dotnet-core)
 * Artikel (7 min): [How to create and configure Azure DevOps Pipelines Agent](https://itnext.io/how-to-create-and-configure-azure-devops-pipelines-agent-88848763f109)
 * Tutorial (10 min): [Continuous integration and deployment](https://docs.microsoft.com/en-us/aspnet/core/azure/devops/cicd?view=aspnetcore-3.1)
+* Tutorial (17 min): [3 Ways to run Automated Tests on Azure DevOps](https://blog.techfabric.io/3-ways-to-run-automated-tests-on-azure-devops/)
 
 ## Övning 1a: Bygg
 

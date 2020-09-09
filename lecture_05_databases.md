@@ -16,7 +16,7 @@ Målet med denna lektion är att lära hur man kan spara strukturerat data i mol
 ## Lektionsplan
 Lektion från kl. 8:30 till kl. 16:30
 
-* 8:30 <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/teams18.png"/> Uppsamling från förra lektion (Automatisering av bygg och release)
+* 8:30 <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/teams18.png"/> Helen + Uppsamling från förra lektion (Automatisering av bygg och release)
   * <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/discord18.png" alt="Discord"/> Boarding card, PM på Discord
 * 9:15 <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/teams18.png"/> Presentation av dagens teori: 
   * Databaser
