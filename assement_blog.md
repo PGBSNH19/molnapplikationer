@@ -20,6 +20,8 @@ Ni får dela upp eran blogg i flera delar, i så fall ska ni namnge delarna som:
 
 ## Innehåll i blogg
 
+Se till att varje blogg inlägg innehåller namn på vem som har skrivet den och datum.
+
 Oftast ska eran blogg vara utformat som en tutorial på bakgrund av eran övningar, så att andra utvecklare kan dra nyttja av det.
 
 Bloggen ska vara skrivet i [markdown](https://guides.github.com/features/mastering-markdown/)
@@ -46,7 +48,9 @@ Console.Writeline("Hallo World");
 ​```
 ```
 
-* Använd gärna screenshots och animerat gifs
+* Använd gärna screenshots och animerat gifs (se till att använda relativa länkar, eg: `![Screenshot på Docker](dockerscreenshot.png)` eller  `![Screenshot på Docker](images/dockerscreenshot.png)` 
+
+  
 
 ## Gist
 

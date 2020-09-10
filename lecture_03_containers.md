@@ -89,6 +89,8 @@ Lunch 12:00 till 13:00
 
 <span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Video (9 min) [Virtual Machines vs Docker Containers - Dive Into Docker](https://www.youtube.com/watch?v=TvnZTi_gaNc)
 
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span> [Where are Docker Images Stored? Docker Container Paths Explained](https://www.freecodecamp.org/news/where-are-docker-images-stored-docker-container-paths-explained/)
+
 <span style="color:#9F58B9; font-weight: 900; margin-right:0.5em;">&#12336;</span>Kurs (310 min): Microsoft Learn: [Administer containers in Azure](https://docs.microsoft.com/en-us/learn/paths/administer-containers-in-azure/)
 
 ## Orchestration
@@ -145,8 +147,8 @@ Vi har nu en webb applikation som vi vill gör om till en container, och i förs
 2. Starta om din dator
 3. Klona ner ["Hello world" .NET Core webb applikationen](https://github.com/skjohansen/SimpleWebHalloWorld) 
 4. Lägg till en "Dockerfile"
-   1. Tutorial: [Getting Started With ASP.NET Core & Docker](https://morioh.com/p/5414a74be39d) 
-   2. Tutorial: [How YOU can Dockerize a .Net Core app](https://softchris.github.io/pages/dotnet-dockerize.html)
+   * Tutorial: [Getting Started With ASP.NET Core & Docker](https://morioh.com/p/5414a74be39d) 
+   * Tutorial: [How YOU can Dockerize a .Net Core app](https://softchris.github.io/pages/dotnet-dockerize.html)
 5. Bygg din container
 6. Kör din container
 

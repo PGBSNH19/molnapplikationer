@@ -46,6 +46,22 @@ Video: [Cloud Cybersecurity in Under 5 Minutes](https://www.youtube.com/watch?v=
 
 http://100daysofdevops.com/21-days-of-docker-day-18-docker-security/
 
+## Containers/ Docker
+
+https://docs.docker.com/docker-hub/publish/certify-images/
+
+https://www.praqma.com/stories/trust-in-docker-images/
+
+https://docs.microsoft.com/en-us/azure/container-registry/container-registry-content-trust
+
+https://www.docker.com/products/security
+
+https://blog.container-solutions.com/docker-security-cheat-sheet
+
+https://www.youtube.com/watch?v=JcuYFQSplvE
+
+https://github.com/docker/docker-bench-security
+
 ## Azure
 
 https://docs.microsoft.com/en-us/azure/security/fundamentals/overview

@@ -43,7 +43,10 @@ https://12factor.net/
   3. https://www.slideshare.net/IamShreyasK/green-cloud-computing-25761737
   4. https://ieeexplore.ieee.org/document/8584429
   5. http://www.clickclean.org/international/en/
+     
      1. https://storage.googleapis.com/planet4-international-stateless/2012/04/e7c8ff21-howcleanisyourcloud.pdf
+     
+     https://www.youtube.com/watch?v=F53dcBoTtww
 
 # Bakgrunds litteratur
 
