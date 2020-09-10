@@ -84,6 +84,12 @@ Lunch 12:00 till 13:00
 
 <span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Tutorial (4 min): Microsoft [DevOps build and deploy image](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/containers/build-image?view=azure-devops)
 
+## Github Actions
+
+*Github Actions är ett sätt att bygga pipelines direkt i Azure*
+
+<span style="color:#9F58B9; font-weight: 900; margin-right:0.5em;">&#12336;</span>Kurs (242 min): Microsoft Learn: [Automate your workflow with GitHub Actions](https://docs.microsoft.com/en-US/learn/paths/automate-workflow-github-actions/)
+
 # Buddy uppgifter
 
 ## Dagens blogg

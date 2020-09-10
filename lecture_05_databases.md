@@ -84,7 +84,3 @@ https://docs.microsoft.com/sv-se/azure/azure-sql/database/scripts/create-and-con
 
 Starta SQL serveren med Pulumi
 
-# Övning 2: Cosmos DB
-
-
-
