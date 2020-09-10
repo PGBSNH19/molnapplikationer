@@ -6,21 +6,47 @@ Bloggen skåpas som ett repo i Github i gruppen https://github.com/pgbsnh19. Var
 
 Bloggen är lagt upp som en uppgift i github classroom, och ni får se till att gå in i rätt buddy grupp.
 
+## Målet med denna blogg
+
+Ideen med att skriva en blogg är man lär sig material på ett annat sätt om man skivar om det. Dessutom är det bra att visa en kommande arbetsgivera att man kan formulera sig på skrift, och överlag är en blogg något som skåpar respekt.
+
+Ni kan även (om ni kan komma över ens om det i buddy-gruppen) lägga ut bloggen publikt så att ni kan länka till den, i och med att den ligger på Github kan ni skåpa en githib page för ert repo, se: [How to Create a Blog Using GitHub Pages and Jekyll with a Few Clicks](https://www.foxinfotech.in/2019/12/how-to-create-a-blog-using-github-pages-and-jekyll-with-a-few-clicks.html) eller [Build A Blog With Jekyll And GitHub Pages](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/).
+
+## Namngivning
+
 Varje "blog-post" är en fil, och denna måste namnges med lektionens nummer. Eg.:  `01.md`
+
+Ni får dela upp eran blogg i flera delar, i så fall ska ni namnge delarna som: `01a.md`, `01b.md` etc.
 
 ## Innehåll i blogg
 
-Vad ni har lärt under lektionen
+Oftast ska eran blogg vara utformat som en tutorial på bakgrund av eran övningar, så att andra utvecklare kan dra nyttja av det.
 
-Vilka utmaningar nu har haft med övningar
+Bloggen ska vara skrivet i [markdown](https://guides.github.com/features/mastering-markdown/)
 
-Länk till kod eller kod exemplen
+Förutan det kan den innehålla:
 
-Ämnen ni har diskuterat under dagen, källor ni har använt till att hitta svaret
+* Vad ni har lärt under lektionen
+* Vilka utmaningar nu har haft med övningar
+* Länk till kod eller kod exemplen
+* Ämnen ni har diskuterat under dagen, källor ni har använt till att hitta svaret
 
-## Hint
+**OBS** Akta vad ni skriver i eran blogg, så att ni inte skriver lösenord etc.
 
-Vänta inte med att skriva bloggen till dagen är slut, men skriv hellre mindre dela under dagen.  Eftersom det är ett git repo 
+## Hints
+
+* Vänta INTE med att skriva bloggen till dagen är slut, men skriv hellre mindre dela under dagen.  Eftersom det är ett git repo se till att göra commits och push ofta.
+
+* [How to Write a Programming Tutorial](https://chevtek.io/how-to-write-a-programming-tutorial/)
+* Skriv kod exemplen med med markdown, markdown har inbyggd syntax high lightning för dom flesta språk.
+
+```markdown
+​```csharp
+Console.Writeline("Hallo World");
+​```
+```
+
+* Använd gärna screenshots och animerat gifs
 
 ## Gist
 
