@@ -89,6 +89,8 @@ Lunch 12:00 till 13:00
 
 <span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Video (9 min) [Virtual Machines vs Docker Containers - Dive Into Docker](https://www.youtube.com/watch?v=TvnZTi_gaNc)
 
+<span style="color:#9F58B9; font-weight: 900; margin-right:0.5em;">&#12336;</span>Kurs (310 min): Microsoft Learn: [Administer containers in Azure](https://docs.microsoft.com/en-us/learn/paths/administer-containers-in-azure/)
+
 ## Orchestration
 
 <span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>[Azure Container Orchestration 101: Azure Web Apps vs ACI vs AKS](https://www.dragonspears.com/blog/azure-container-orchestration-101-azure-web-apps-vs-aci-vs-aks)

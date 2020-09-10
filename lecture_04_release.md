@@ -78,6 +78,8 @@ Lunch 12:00 till 13:00
 
 <span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel + Video (5 min + 2 min): [What is Azure DevOps?](https://www.devopsgroup.com/insights/resources/tutorials/all/what-is-azure-devops/)
 
+<span style="color:#9F58B9; font-weight: 900; margin-right:0.5em;">&#12336;</span>Kurs (531 min): Microsoft Learn: [Deploy applications with Azure DevOps](https://docs.microsoft.com/en-us/learn/paths/deploy-applications-with-azure-devops/)
+
 ### Pipelines
 
 <span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (2 min): [What is Azure Pipelines?](https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/what-is-azure-pipelines?view=azure-devops)
