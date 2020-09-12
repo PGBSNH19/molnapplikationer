@@ -2,7 +2,8 @@
 
 ```
 Start: 2020-09-14
-End: 2020-10-07
+End - video presentation (stream): 2020-10-05 23:55
+End - code (github): 2020-10-06 23:55
 ```
 
 ![spacepark](assets\images\spacepark.jpg)
