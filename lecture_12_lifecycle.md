@@ -39,18 +39,31 @@ https://12factor.net/
 * https://thenewstack.io/cloud-native-application-lifecycle-difference-continuous-change/
 * green cloud
 1. https://bigdataanalyticsnews.com/green-cloud-computing-sustainable-use/
+
   2. https://www.slideshare.net/bluse2/green-cloud-computing
+
   3. https://www.slideshare.net/IamShreyasK/green-cloud-computing-25761737
+
   4. https://ieeexplore.ieee.org/document/8584429
+
   5. http://www.clickclean.org/international/en/
      
      1. https://storage.googleapis.com/planet4-international-stateless/2012/04/e7c8ff21-howcleanisyourcloud.pdf
      
      https://www.youtube.com/watch?v=F53dcBoTtww
 
-# Bakgrunds litteratur
+## Bok: Learn Azure In A Month of Lunches
 
-*Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
+*Detta är vilka delar av den frivilliga [bok (Learn Azure In A Month of Lunches)](info_learningmaterial.md) som är releavant för denna lektion*
+
+* Kapitel 6 (sida 75 till 89) - Azure Resource Manager
+* Kapitel 13 (sida 191 till 205) - Backup, recovery and replication
+* Kapitel 18 (sida 269 till 283) - Azure Automation
+* Kapitel 21.5 (sida 332 och 333) - Don't stop learning
+
+# Bakgrundsmaterial
+
+*Detta är material som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
 
 * TBD
 * TBD

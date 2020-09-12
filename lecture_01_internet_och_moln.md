@@ -76,7 +76,13 @@ Den protokoll som webbläsare användare till att prata med webserveren, via TCP
 - Tecknad serie: 1 stk, total 15 min
 - Total: 202 min
 
-# Bakgrunds litteratur
+## Bok: Learn Azure In A Month of Lunches
+
+*Detta är vilka delar av den frivilliga [bok (Learn Azure In A Month of Lunches)](info_learningmaterial.md) som är releavant för denna lektion*
+
+* Kapitel 1(sida 3 till 13) - Before you begin
+
+# Bakgrundsmaterial
 *Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
 
 ## TCP/IP

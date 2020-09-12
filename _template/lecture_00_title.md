@@ -28,9 +28,15 @@ Lunch 12:00 till 13:00
 * TBD
 * TBD
 
-# Bakgrunds litteratur
+## Bok: xxx
 
-*Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
+*Detta är vilka delar av den frivilliga [bok (xxx)](info_learningmaterial.md) som är releavant för denna lektion*
+
+* TBD
+
+# Bakgrundsmaterial
+
+*Detta är material som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
 
 * TBD
 * TBD

@@ -91,9 +91,19 @@ https://owasp.org/www-project-top-ten/
 
 Video: [Cloud Security: It's Tuesday, Carl](https://www.youtube.com/watch?v=NI-plwor2Xw)
 
-# Bakgrunds litteratur
 
-*Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
+
+## Bok: Learn Azure In A Month of Lunches
+
+*Detta är vilka delar av den frivilliga [bok (Learn Azure In A Month of Lunches)](info_learningmaterial.md) som är releavant för denna lektion*
+
+* Kapitel 14 (sida 206 till 215) - Data encryption
+* Kapitel 15 (sida 216 till 233) - Securing information with Azure Key Vault
+* Kapitel 16 (sida 234 till 250) - Azure Security Center and updates
+
+# Bakgrundsmaterial
+
+*Detta är material som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
 
 * TBD
 * TBD

@@ -53,7 +53,13 @@ Lunch 12:00 till 13:00
 - Video: 7 stk, total 96 min
 - Total: 129 min
 
-# Bakgrunds litteratur
+## Bok: Learn Azure In A Month of Lunches
+
+*Detta är vilka delar av den frivilliga [bok (Learn Azure In A Month of Lunches)](info_learningmaterial.md) som är releavant för denna lektion*
+
+* Kapitel 19 (sida 284 till 299) - Azure containers
+
+# Bakgrundsmaterial
 
 *Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
 

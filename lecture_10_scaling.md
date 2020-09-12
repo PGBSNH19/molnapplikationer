@@ -29,11 +29,17 @@ Lunch 12:00 till 13:00
   * (Video 4 min) [How to create a load balancer](https://www.youtube.com/watch?v=-VMPzVoo5Nk)
 * Scaling out and up
 
+## Bok: Learn Azure In A Month of Lunches
 
+*Detta är vilka delar av den frivilliga [bok (Learn Azure In A Month of Lunches)](info_learningmaterial.md) som är releavant för denna lektion*
 
-# Bakgrunds litteratur
+* Kapitel 7 (sida 90 till 105) - High availability and redundancy
+* Kapitel 8 (sida 106 till 123) - Load-balancing applications
+* Kapitel 9 (sida 124 till 140) - Applications that scales
 
-*Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
+# Bakgrundsmaterial
+
+*Detta är material som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
 
 * TBD
 * TBD

@@ -47,11 +47,16 @@ Virtual networks are necessary to support communications between virtual machine
 
 
 
+## Bok: Learn Azure In A Month of Lunches
 
+*Detta är vilka delar av den frivilliga [bok (Learn Azure In A Month of Lunches)](info_learningmaterial.md) som är releavant för denna lektion*
 
-# Bakgrunds litteratur
+* Kapitel 5 (sida 58 till 73) - Azure networking basics
+* Kapitel 11 (sida 158 till 174) - Managing network traffic and routing
 
-*Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
+# Bakgrundsmaterial
+
+*Detta är material som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
 
 * TBD
 * TBD

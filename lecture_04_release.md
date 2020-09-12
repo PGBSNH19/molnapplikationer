@@ -46,7 +46,7 @@ Lunch 12:00 till 13:00
 - Artiklar: 5 stk, total 53 min
 - Video: 3 stk, total 18 min
 
-# Bakgrunds litteratur
+# Bakgrundsmaterial
 
 *Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
 

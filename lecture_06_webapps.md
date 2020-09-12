@@ -47,7 +47,14 @@ Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretis
   * video 7 min How to monitor Azure Functions https://www.youtube.com/watch?v=eVDZz8h0s00
   * Deploy to Azure Functions using Pulumi
 
-# Bakgrunds litteratur
+## Bok: Learn Azure In A Month of Lunches
+
+*Detta är vilka delar av den frivilliga [bok (Learn Azure In A Month of Lunches)](info_learningmaterial.md) som är releavant för denna lektion*
+
+* Kapitel 3 (sida 33 till 46) - Azure Web Apps
+* Kapitel 21 (sida 317 till 332)
+
+# Bakgrundsmatrial
 
 Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.
 
