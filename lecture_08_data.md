@@ -36,9 +36,16 @@ Lunch 12:00 till 13:00
 
 video 5 min How to create a storage account and upload a blob https://www.youtube.com/watch?v=UJG6viKU_A8
 
-# Bakgrunds litteratur
+## Bok: Learn Azure In A Month of Lunches
 
-*Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
+*Detta är vilka delar av den frivilliga [bok (Learn Azure In A Month of Lunches)](info_learningmaterial.md) som är releavant för denna lektion*
+
+* Kapitel 4 (sida 47 till 57) - Introduction to azure storage
+* 
+
+# Bakgrundsmaterial
+
+*Detta är material som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
 
 * TBD
 * TBD
