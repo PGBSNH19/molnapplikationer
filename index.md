@@ -67,13 +67,16 @@ Vecka|Måndag|Tisdag |Onsdag |Torsdag|Fredag
 
 ## SpacePark - Slutligt projekt
 
-[SpacePark as a Service](project_cloud_spaceport.md), uppgift och repo ges från Github Classroom
+Uppgift/Projekt beskrivning: [SpacePark](project_cloud_spaceport.md), 
 
-Förbered en [video presentation](video_presentation.md)
+* Tom repo till kod och dokumentation ges via Github Classroom
 
-Deadline för videopresentation: 2020-10-05 at 23:55
+Förutom dokumentation + dok, producera också en [video presentation](video_presentation.md)
 
-Deadline för kod: 2020-10-06 at 23:55
+Deadlines i projektet:
+
+* Video presentation: Måndag den 5:e oktober, 23:55
+* Kod: Tisdag den 6:e oktober, 23:55
 
 # Kurs element
 
