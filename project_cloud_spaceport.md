@@ -1,4 +1,4 @@
-# SpacePark - the cloud version
+# SpacePark as a Service
 
 ```
 Start: 2020-09-14
@@ -15,21 +15,21 @@ You are a developer on a team at SpacePark and your assignment is to develop an 
 
 All parking's should be registered in a database, which is created using Entity Framework Core and code first. All queries to the database should be done using Entity Frameworks fluent API. 
 
-The twist to this is that this is an **exclusive** spaceport and ONLY famous space travelers which have been part of a Starwars movie can use the spaceport. The travlers should identify themselves when arriving, be able to pay before they can leave the parking lot and get an invoice in the end.
+The twist to this is that this is an **exclusive** spaceport and ONLY famous space travelers which have been part of a Starwars movie can use the spaceport. The travelers should identify themselves when arriving, be able to pay before they can leave the parking lot and get an invoice in the end.
 
-The travlers only use starships which have been part of a Starwars movie (see the endpoint /starships). They should be able to select their starship on arrival in the application.
+The travelers only use starships which have been part of a Starwars movie (see the endpoint /starships). They should be able to select their starship on arrival in the application.
 
 # The solution
 
 The main focus on this solution is the cloud parts, more than it's the application. (But the application is also important). The "cloud parts" includes CI / CD, deployment, hosting, costs, backup, security, scalability,  integration tests, monitoring.
 
-## The cloud solution
+## The cloud solution (the important part)
 
 You are free to use both virtual machines and native Azure services (like App Service and Azure Functions), you just need to justify your choice based on cost, flexibility, vendor lock-in, stability, maintainability etc.
 
 The database could be an Azure service like Azure SQL Server, Azure MariaDB or Azure CosmosDB (or maybe a combination of these).
 
-Setting up the solution should be as automatized as possible using IaC (Pulumi) and scripts (preferable Powershell).
+Setting up the solution should be as automatized as possible using Containers, IaC (Pulumi) and scripts (preferable Powershell).
 
 But it should be easy to develop, debug and test locally.
 
@@ -65,7 +65,7 @@ And remember to create unit tests, where possible.
 
 * All hosting should be within Microsoft Azure. 
 * All projects should be .NET Core
-* Code should be in GitHub
+* Code and [documentation](#Hand in) should be in GitHub
 * Pipelines should be configured in Azure DevOps, sadly the free limit is 5 users per Azure Devops project.
 
 ### Hints
@@ -81,14 +81,14 @@ Write down your findings and learning, both positive and negative.
 This project can of course be started in many ways. But the recommended approach is:
 
 1.  **Plan** what you are going to do, try to identify all parts of the project as detailed as possible
-2.  Start in getting the project up and running in Azure DevOps
+2.  Start with getting the project up and running in Azure DevOps
 3. Evaluate and **plan**
-4. Implement the backend, API and database
-   1. Make sure from first line of code setup a build pipeline
-   2. Start with CI extend with CD
+4.  Implement the backend, API and database
+   * Make sure from first line of code setup a build pipeline
+   * Start with CI extend with CD
 5. Evaluate and **plan** more!
-6. Implement the web UI
-   1. Remember the pipelines
+6.  Implement the web UI
+   * Remember the pipelines
 7. Evaluate!
 
 # Hand in
@@ -109,7 +109,7 @@ All documentation should be written using markdown (.md), you are free to choose
 
 **Automation**
 
-Try to automate as much as possible through Docker, IaC and scripts.
+Automate as much as possible through containers (DockeR), IaC (Pulumi) and scripts.
 
 Store the automation in the git repository.
 
@@ -125,7 +125,7 @@ You should produce a [video](video_presentation.md) presentation which describes
 
 # Grading
 
-You grading is to very high extend based on this project!
+You grading is to high extend based on this project!
 
 ## Code and documentation
 
