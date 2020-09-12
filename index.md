@@ -71,7 +71,7 @@ Uppgift/Projekt beskrivning: [SpacePark](project_cloud_spaceport.md),
 
 * Tom repo till kod och dokumentation ges via Github Classroom
 
-Förutom dokumentation + dok, producera också en [video presentation](video_presentation.md)
+Förutom dokumentation och kod, producera också en [video presentation](video_presentation.md)
 
 Deadlines i projektet:
 
