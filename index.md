@@ -55,6 +55,7 @@ Om vi jobbar i grupp finns listan på vem som är i grupp med vem på Ping Pong
 Målet är at ni kommer att ha samma buddy under hela kursen. Stephan väljer vem som är buddy med vem, men försöker att få till allas önskemål. 
 
 # Projekt och deadlines
+
 Vecka|Måndag|Tisdag |Onsdag |Torsdag|Fredag
 -----|-------|-------|------|------|------
 36||        |                      ||
