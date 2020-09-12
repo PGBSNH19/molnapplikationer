@@ -1,17 +1,19 @@
-# SpacePark as a Service
+# SpacePark
 
 ```
 Start: 2020-09-14
 End: 2020-10-07
 ```
 
-When traveling across space you once in a while need to park you spaceship and take a break, you do that at a spaceport. The thing is just  that spaceports are just like any parking lot on earth controlled by an evil parking company, the biggest of these is SpacePark!
+![spacepark](assets\images\spacepark.jpg)
 
-You have previously build a first version of the this spaceport parking system, and it's now time to bring it to the masses, you need to get it out in the cloud and with a web UI.
+When traveling across space you once in a while need to park you spaceship and take a break, you do that at a spaceport. Managing all these parking at the spaceport is a bit of a job, so a special software for this is needed, one product handling this is called SpacePark, and is a parking system as a service for spaceports.
+
+You have previously build a first version of the this parking system, and it's now time to bring it to the masses, you need to get it out in the cloud and with a web UI.
 
 ## Your assignment
 
-You are a developer on a team at SpacePark and your assignment is to develop an [service](https://medium.com/@AMZcoin/software-as-a-service-saas-distribution-model-4b7f727c844b) (a combination of frontend, backend and data) which register parking's and close the sparceport when it's full (and open when there is room, and only for spaceships  which fits in). 
+You are the developer team at **SpacePort Parking Systems AB** and your assignment is to develop an [service](https://medium.com/@AMZcoin/software-as-a-service-saas-distribution-model-4b7f727c844b) (a combination of frontend, backend and data) which register parking's and close the sparceport when it's full (and open when there is room, and only for spaceships  which fits in). 
 
 All parking's should be registered in a database, which is created using Entity Framework Core and code first. All queries to the database should be done using Entity Frameworks fluent API. 
 

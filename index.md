@@ -60,11 +60,11 @@ Vecka|Måndag|Tisdag |Onsdag |Torsdag|Fredag
 36||        |                      ||
 37||||2020-09-10<br />Blogg - Containrar<br />10:00|
 38||2020-09-15<br />Blogg - Automatisering av bygg och release<br />10:00||2020-09-17<br />Blogg - Databaser i molnet<br />10:00|
-39|                                                    |2020-09-22<br />Blogg - Webb applikationer i molnet<br />10:00||2020-09-24<br />Blogg - Nätverk i molnet<br />10:00|        
-40|                                                    |2020-09-29<br />Blogg - Data i molnet<br />10:00|||2020-10-02<br />Blogg - Monitorering av moln applikationer<br />10:00
-41|11: 2020-10-05<br />Video - SpaceportParking 23:55|2020-10-06<br />Kod - SpaceportParking: 23:55|12: 2020-10-07<br />||
+39|                                             |2020-09-22<br />Blogg - Webb applikationer i molnet<br />10:00||2020-09-24<br />Blogg - Nätverk i molnet<br />10:00|        
+40|                                             |2020-09-29<br />Blogg - Data i molnet<br />10:00|||2020-10-02<br />Blogg - Monitorering av moln applikationer<br />10:00
+41|11: 2020-10-05<br />Video - SpacePark 23:55|2020-10-06<br />Kod - SpacePark: 23:55|12: 2020-10-07<br />||
 
-## SpacePark as a Service - Slutligt projekt
+## SpacePark - Slutligt projekt
 
 [SpacePark as a Service](project_cloud_spaceport.md), uppgift och repo ges från Github Classroom
 
