@@ -32,7 +32,7 @@ Lunch 12:00 till 13:00
 # Lektionsteori
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
 
-* Video (12 min): [AZ-900 Episode 12 | Database Services | Cosmos DB, SQL Database, Db for MySQL & PostgreSQL](https://www.youtube.com/watch?v=RqD4nMyBazU)
+* Video (12 min): [Database Services | Cosmos DB, SQL Database](https://www.youtube.com/watch?v=RqD4nMyBazU)
 * Artikel (5 min): [Azure Databaser](https://azure.microsoft.com/sv-se/product-categories/databases/)
 * Artikel (7 min) [Azure-databas för MariaDB](https://azure.microsoft.com/sv-se/services/mariadb/)
 * Artikel (7 min) [Azure Cosmos DB](https://azure.microsoft.com/sv-se/services/cosmos-db/)
@@ -41,7 +41,7 @@ Lunch 12:00 till 13:00
 
 **Total**:
 
-- Artiklar: 6 stk, total 33 min
+- Artiklar: 5 stk, total 33 min
 - Video: 1 stk, total 12 min
 - Total: 45 min
 
@@ -53,25 +53,25 @@ Lunch 12:00 till 13:00
 
 # Bakgrundsmaterial
 
-*Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
+*Detta är material som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
 
 ## SQL Server
 
-* Artikel (7 min): [What is DTU in Azure SQL Database and How to Figure Out How Much We Need](https://www.spotlightcloud.io/blog/what-is-dtu-in-azure-sql-database-and-how-much-do-we-need)
-* Video (12 min): [Azure SQL Database Serverless](https://www.youtube.com/watch?v=2ykwUOfEPoU)
-* Article (16 min): [Azure SQL Database serverless](https://docs.microsoft.com/en-us/azure/azure-sql/database/serverless-tier-overview)
-* Video (30 min): [Azure SQL Database Tutorial](https://www.youtube.com/watch?v=BgvEOkcR0Wk)
-* Video (6 min): [How to create an Azure SQL database](https://www.youtube.com/watch?v=p7X8lH_XMtI)
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Artikel (7 min): [What is DTU in Azure SQL Database and How to Figure Out How Much We Need](https://www.spotlightcloud.io/blog/what-is-dtu-in-azure-sql-database-and-how-much-do-we-need)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Video (12 min): [Azure SQL Database Serverless](https://www.youtube.com/watch?v=2ykwUOfEPoU)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel  (16 min): [Azure SQL Database serverless](https://docs.microsoft.com/en-us/azure/azure-sql/database/serverless-tier-overview)
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Video (30 min): [Azure SQL Database Tutorial](https://www.youtube.com/watch?v=BgvEOkcR0Wk)
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Video (6 min): [How to create an Azure SQL database](https://www.youtube.com/watch?v=p7X8lH_XMtI)
 
 ## MariaDb + MySQL
 
-* Video (12 min): [Introduction to Azure Database for MySQL](https://www.youtube.com/watch?v=F66qd93h-1I)
-* Video (35 min): [Azure Database for MariaDB](https://www.youtube.com/watch?v=FVG_l-ucS_U)
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Video (12 min): [Introduction to Azure Database for MySQL](https://www.youtube.com/watch?v=F66qd93h-1I)
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Video (35 min): [Azure Database for MariaDB](https://www.youtube.com/watch?v=FVG_l-ucS_U)
 
 ## Cosmos DB
 
-* [Getting Started with Graph Databases in Azure Cosmos DB](https://towardsdatascience.com/getting-started-with-graph-databases-in-azure-cosmos-db-cbfbf708cda5)
-* Video (31 min): [Azure Cosmos DB Tutorial | Globally distributed NoSQL database](https://www.youtube.com/watch?v=R_Fi59j6BMo)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (9 min): [Getting Started with Graph Databases in Azure Cosmos DB](https://towardsdatascience.com/getting-started-with-graph-databases-in-azure-cosmos-db-cbfbf708cda5)
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Video (31 min): [Azure Cosmos DB Tutorial | Globally distributed NoSQL database](https://www.youtube.com/watch?v=R_Fi59j6BMo)
 
 # Buddy uppgifter
 
