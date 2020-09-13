@@ -9,7 +9,7 @@ Lektion 5 av 12, måndag den 14:e september 2020
 * Lektionsplan: 80% klar
 * Lektionsteori: 30% klar
 * Bakgrunds litteratur: 10% klar
-* Uppgifter: 30% klar
+* Uppgifter: 90% klar
 
 Målet med denna lektion är att lära hur man kan spara strukturerat data i molnet (med utgångspunkt i Azure) i t.ex. en databas. Det kunna vara båda en SQL eller en no-SQL.
 
@@ -58,7 +58,7 @@ Lunch 12:00 till 13:00
 
 SQL Server
 
-* Artikel (7 min):[What is DTU in Azure SQL Database and How to Figure Out How Much We Need](https://www.spotlightcloud.io/blog/what-is-dtu-in-azure-sql-database-and-how-much-do-we-need)
+* Artikel (7 min): [What is DTU in Azure SQL Database and How to Figure Out How Much We Need](https://www.spotlightcloud.io/blog/what-is-dtu-in-azure-sql-database-and-how-much-do-we-need)
 * Video (12 min): [Azure SQL Database Serverless](https://www.youtube.com/watch?v=2ykwUOfEPoU)
 * Article: [Azure SQL Database serverless](https://docs.microsoft.com/en-us/azure/azure-sql/database/serverless-tier-overview)
 * Video (30 min): [Azure SQL Database Tutorial](https://www.youtube.com/watch?v=BgvEOkcR0Wk)
@@ -107,70 +107,40 @@ Ta fram priser för olika scenarier, data mängder, backup planer, lokationer et
 
 # Övning 2: SQL server i Azure
 
-Detta är övningar som du äntligen gör själv, i grupp eller i plenum tillsammans med hela klassen
+## Övning 2a, Serverless SQL server via CLI
 
-## Övning 2a
-
-Starta en SQL server i azure och skriv ett litet program som använder denna, använd entity framework och migrations.
-
-Ni kan evt ta en eksisterende applikation
+Starta en serveless SQL server instans i azure, använd Azure CLI
 
 Hints:
 
-* [Använd Azure CLI för att skapa en enskild databas och konfigurera en brand Väggs regel](https://docs.microsoft.com/sv-se/azure/azure-sql/database/scripts/create-and-configure-database-cli)
+* `az sql db create -g mygroup -s myserver -n mydb -e GeneralPurpose -f Gen5 -c 2 --compute-model Serverless --auto-pause-delay 120`
+* [Use the Azure CLI to create a single database and configure a firewall rule](https://docs.microsoft.com/en-us/azure/azure-sql/database/scripts/create-and-configure-database-cli)
+  * Svenska: [Använd Azure CLI för att skapa en enskild databas och konfigurera en brand Väggs regel](https://docs.microsoft.com/sv-se/azure/azure-sql/database/scripts/create-and-configure-database-cli)
+
+## Övning 2b, SQL application
+
+Skriv ett litet program som använder eran nya SQL server. Använd entity framework  code och migrations.
+
+Ni kan evt ta en eksisterende applikation
+
+I steg 1 få den att köra i en lokal **Docker** container mot eran Azure SQL databas
+
+## Övning 2c, CD med DevOps och migrations
+
+Configura CD med eran nya container i Azure DevOps och se till at när applikationen starter att alla migrations körs eran SQL databas på automatisk
+
+Hints:
 
 * [EntityFrameworkCore, code-first migrations in Azure DevOps](https://medium.com/vx-company/entityframeworkcore-code-first-migrations-in-azure-devops-b5eb845fce18)
 
-## Övning 2b
+# Extra övningar
+
+## Extra: SQL server Pulumi
 
 Starta SQL serveren med Pulumi
-
-```csharp
-class AppServiceStack : Stack
-{
-    public AppServiceStack()
-    {
-var resourceGroup = new ResourceGroup("appservice-rg");        
-var username = config.Get("sqlAdmin") ?? "pulumi";
-var password = config.RequireSecret("sqlPassword");
-var sqlServer = new SqlServer("sql", new SqlServerArgs
-    {
-       ResourceGroupName = resourceGroup.Name,
-       AdministratorLogin = username,
-       AdministratorLoginPassword = password,
-       Version = "12.0",
-    });
-
-var database = new Database("db", new DatabaseArgs
-    {
-        ResourceGroupName = resourceGroup.Name,
-        ServerName = sqlServer.Name,
-        RequestedServiceObjectiveName = "S0",
-    });
-    
-    ConnectionString =
-            {
-                new AppServiceConnectionStringArgs
-                {
-                    Name = "db",
-                    Type = "SQLAzure",
-                    Value = Output.Tuple<string, string, string>(sqlServer.Name, database.Name, password).Apply(t =>
-                    {
-                        (string server, string database, string pwd) = t;
-                        return
-                            $"Server= tcp:{server}.database.windows.net;initial catalog={database};userID={username};password={pwd};Min Pool Size=0;Max Pool Size=30;Persist Security Info=true;";
-                    }),
-                },
-            },
-    }
-    
-[Output] public Output<string> ConnectionString { get; set; }
-}
-```
-
-Source: [Azure App Service with SQL Database and Application Insights](https://github.com/pulumi/examples/blob/master/azure-cs-appservice/AppServiceStack.cs)
 
 Hints:
 
 * Pulumi reference: [SqlServer](https://www.pulumi.com/docs/reference/pkg/azure/sql/sqlserver/)
+* [Azure App Service with SQL Database and Application Insights](https://github.com/pulumi/examples/blob/master/azure-cs-appservice/AppServiceStack.cs)
 
