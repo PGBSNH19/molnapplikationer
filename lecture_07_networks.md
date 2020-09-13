@@ -39,13 +39,13 @@ Virtual networks are necessary to support communications between virtual machine
       2. https://medium.com/@neil.wilston123/firewall-in-network-security-2a98795fcac1
    3. VPN
       1. https://medium.com/@zicodeng/how-vpn-works-b7549dcc6ce4
-3. Servicebus
-   1. Don't use syncronius calls
-   2. Use messeging
-
-## 
-
-
+3. Enterprise bus
+   1. Azure Servicebus
+   2. https://en.wikipedia.org/wiki/Enterprise_service_bus
+   3. https://medium.com/@xaviergeerinck/an-introduction-to-message-brokers-9bd203b4ebbd
+   4. https://www.youtube.com/watch?v=FRzMPqViwuY
+   5. Don't use syncronius calls
+   6. Use messeging
 
 ## Bok: Learn Azure In A Month of Lunches
 
@@ -53,12 +53,13 @@ Virtual networks are necessary to support communications between virtual machine
 
 * Kapitel 5 (sida 58 till 73) - Azure networking basics
 * Kapitel 11 (sida 158 till 174) - Managing network traffic and routing
+* Kapitel 21.2 (sida 322 till 325) - Azure messaging platforms
 
 # Bakgrundsmaterial
 
 *Detta är material som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
 
-* TBD
+* https://www.youtube.com/watch?v=JQ6KhjU5Zsg
 * TBD
 
 # Exemplar och övningar. 

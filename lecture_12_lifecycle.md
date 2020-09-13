@@ -65,7 +65,7 @@ https://12factor.net/
 
 *Detta är material som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
 
-* TBD
+* https://www.youtube.com/watch?v=t6m13DxUJMc
 * TBD
 
 # Exemplar och övningar. 

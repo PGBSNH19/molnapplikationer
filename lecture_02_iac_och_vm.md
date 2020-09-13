@@ -27,6 +27,10 @@ Lunch 12:00 till 13:00
 # Lektionsteori
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
 
+## Azure
+
+* Video (24 min): [Azure CLI Tutorial](https://www.youtube.com/watch?v=GqpwiyYsNIw)
+
 ## Virtual machines
 
 * Artikel (10 min): Beginner Geek: [How to Create and Use Virtual Machines](https://www.howtogeek.com/196060/beginner-geek-how-to-create-and-use-virtual-machines/)

@@ -72,13 +72,21 @@ https://www.youtube.com/watch?v=rpOMEa7MBqk
 
 https://www.youtube.com/watch?v=OTGMi0ksjXY
 
-## CASB
+https://docs.microsoft.com/en-us/azure/databricks/scenarios/what-is-azure-databricks
+
+https://www.youtube.com/watch?v=9VzBS4OiP_A
+
+[Azure Key Vault Tutorial | Secure secrets, keys and certificates easily](https://www.youtube.com/watch?v=PgujSug1ZbI)
+
+## CASB / AD
 
 Video: [Cloud Access Security Brokers (CASB) in 5 Minutes](https://www.youtube.com/watch?v=qhAC--N6b8w)
 
 https://www.bitglass.com/blog/msft-azure-ad-conditional-access-vs-casb
 
 https://www.youtube.com/watch?v=wLsXZ9MzJxY
+
+https://www.youtube.com/watch?v=Ma7VAQE7ga4
 
 ## Compliance
 

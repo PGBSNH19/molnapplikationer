@@ -60,11 +60,21 @@ SQL Server
 
 * Artikel (7 min):[What is DTU in Azure SQL Database and How to Figure Out How Much We Need](https://www.spotlightcloud.io/blog/what-is-dtu-in-azure-sql-database-and-how-much-do-we-need)
 * Video (12 min): [Azure SQL Database Serverless](https://www.youtube.com/watch?v=2ykwUOfEPoU)
+* Article: [Azure SQL Database serverless](https://docs.microsoft.com/en-us/azure/azure-sql/database/serverless-tier-overview)
 * Video (30 min): [Azure SQL Database Tutorial](https://www.youtube.com/watch?v=BgvEOkcR0Wk)
+
+MariaDb + MySQL
+
+* Video (12 min): [Introduction to Azure Database for MySQL](https://www.youtube.com/watch?v=F66qd93h-1I)
+* Video (35 min): [Azure Database for MariaDB](https://www.youtube.com/watch?v=FVG_l-ucS_U)
 
 Cosmos DB
 
 * [Getting Started with Graph Databases in Azure Cosmos DB](https://towardsdatascience.com/getting-started-with-graph-databases-in-azure-cosmos-db-cbfbf708cda5)
+
+* Video (31 min): [Azure Cosmos DB Tutorial | Globally distributed NoSQL database](https://www.youtube.com/watch?v=R_Fi59j6BMo)
+
+* 
 
   
 
