@@ -41,6 +41,10 @@ Lunch 12:00 till 13:00
 * TBD
 * TBD
 
-# Exemplar och övningar. 
+# Övning X
 
-*Detta är övningar som du äntligen gör själv, i grupp eller i plenum tillsammans med hela klassen*
+## Övning Xa
+
+# Extra övningar
+
+## Extra: x
