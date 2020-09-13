@@ -2,15 +2,6 @@
 
 Lektion 5 av 12, måndag den 14:e september 2020
 
-![Draft](/assets/images/draft.png)
-
-**Draft status**:
-
-* Lektionsplan: 80% klar
-* Lektionsteori: 30% klar
-* Bakgrunds litteratur: 10% klar
-* Uppgifter: 90% klar
-
 Målet med denna lektion är att lära hur man kan spara strukturerat data i molnet (med utgångspunkt i Azure) i t.ex. en databas. Det kunna vara båda en SQL eller en no-SQL.
 
 ## Lektionsplan

@@ -42,7 +42,6 @@ Prioriteten säger inget om hur bra materialet är, det är enbart en indikator 
 Beskrivning av mål, moment och bedömning i kursen, hittar ni här:
 
 * [Kursen](info_course.md)
-* [Youtube playlist](https://www.youtube.com/playlist?list=PLIZnNw5DogHdurntHiGj6v4KQ0CT5rQXu)
 
 # Buddy och teams
 

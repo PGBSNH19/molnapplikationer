@@ -51,6 +51,10 @@ https://12factor.net/
      1. https://storage.googleapis.com/planet4-international-stateless/2012/04/e7c8ff21-howcleanisyourcloud.pdf
      
      https://www.youtube.com/watch?v=F53dcBoTtww
+     
+     https://www.youtube.com/watch?v=oyF6RGKlvi8
+     
+     https://www.youtube.com/watch?v=ZwxWCiW5uO4
 
 ## Bok: Learn Azure In A Month of Lunches
 
