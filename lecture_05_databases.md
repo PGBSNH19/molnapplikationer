@@ -24,8 +24,8 @@ Lektion från kl. 8:30 till kl. 16:30
 
 Lunch 12:00 till 13:00
 
-* 13:00 <img style="margin-right:0.5em;" src="assets/images/teams18.png" alt="Teams"/> Uppstart av projekt 2
-* 13:15 <img style="margin-right:0.5em;" src="assets/images/discord18.png" alt="Discord"/> Projekt 2
+* 13:00 <img style="margin-right:0.5em;" src="assets/images/teams18.png" alt="Teams"/> Uppstart av SpacePark-projekt
+* 13:15 <img style="margin-right:0.5em;" src="assets/images/discord18.png" alt="Discord"/> SpacePark-projekt
 * 16:00 <img style="margin-right:0.5em;" src="assets/images/teams18.png" alt="Teams"/> Avslutning och frågor i klassen
   * <img style="margin-right:0.5em;" src="assets/images/discord18.png" alt="Discord"/> Landing card, PM på Discord
 
@@ -37,14 +37,13 @@ Lunch 12:00 till 13:00
 * Artikel (7 min) [Azure-databas för MariaDB](https://azure.microsoft.com/sv-se/services/mariadb/)
 * Artikel (7 min) [Azure Cosmos DB](https://azure.microsoft.com/sv-se/services/cosmos-db/)
 * Artikel (7 min) [Azure SQL Database](https://azure.microsoft.com/sv-se/services/sql-database/)
-  * Artikel (): [Azure SQL-hanterad instans](https://azure.microsoft.com/sv-se/services/azure-sql/sql-managed-instance/)
-* Video: [How to create an Azure SQL database](https://www.youtube.com/watch?v=p7X8lH_XMtI)
+  * Artikel (7 min): [Azure SQL-hanterad instans](https://azure.microsoft.com/sv-se/services/azure-sql/sql-managed-instance/)
 
 **Total**:
 
-- Artiklar: 4 stk, total 42 min
-- Video: 3 stk, total 18 min
-- Total: 60 min
+- Artiklar: 6 stk, total 33 min
+- Video: 1 stk, total 12 min
+- Total: 45 min
 
 ## Bok: Learn Azure In A Month of Lunches
 
@@ -56,19 +55,20 @@ Lunch 12:00 till 13:00
 
 *Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
 
-SQL Server
+## SQL Server
 
 * Artikel (7 min): [What is DTU in Azure SQL Database and How to Figure Out How Much We Need](https://www.spotlightcloud.io/blog/what-is-dtu-in-azure-sql-database-and-how-much-do-we-need)
 * Video (12 min): [Azure SQL Database Serverless](https://www.youtube.com/watch?v=2ykwUOfEPoU)
-* Article: [Azure SQL Database serverless](https://docs.microsoft.com/en-us/azure/azure-sql/database/serverless-tier-overview)
+* Article (16 min): [Azure SQL Database serverless](https://docs.microsoft.com/en-us/azure/azure-sql/database/serverless-tier-overview)
 * Video (30 min): [Azure SQL Database Tutorial](https://www.youtube.com/watch?v=BgvEOkcR0Wk)
+* Video (6 min): [How to create an Azure SQL database](https://www.youtube.com/watch?v=p7X8lH_XMtI)
 
-MariaDb + MySQL
+## MariaDb + MySQL
 
 * Video (12 min): [Introduction to Azure Database for MySQL](https://www.youtube.com/watch?v=F66qd93h-1I)
 * Video (35 min): [Azure Database for MariaDB](https://www.youtube.com/watch?v=FVG_l-ucS_U)
 
-Cosmos DB
+## Cosmos DB
 
 * [Getting Started with Graph Databases in Azure Cosmos DB](https://towardsdatascience.com/getting-started-with-graph-databases-in-azure-cosmos-db-cbfbf708cda5)
 * Video (31 min): [Azure Cosmos DB Tutorial | Globally distributed NoSQL database](https://www.youtube.com/watch?v=R_Fi59j6BMo)
@@ -77,13 +77,12 @@ Cosmos DB
 
 ## Dagens blogg
 
-Dagens blogg ska innehålla:
-
-Skriv en tutorial men vart ni tar utgångspunkt i dissa övningar, lägg gärna till litet teori (vad är en pipeline etc).
-
-* Vad koster olika databaser
-* Hur ser ert setup ut?
-* Vilka delar är i eran yaml pipeline fil
+* Ge minst två pris ekempler på vad det koster att ha en databas i Azure
+* Skriv en tutorial vart ni tar utgångspunkt i övning 2
+  * Hur ni lägger upp databasen med Azure CLI
+  * Hur ser dom viktiga delar av eran EF applikation ut
+  * Hur deployar ni den och får upp migrations automatisk
+  * Skulle ni har en eller fler databas konfigurationer? Prod / dev?
 
 *OBS* Akta vad ni skriver i eran blogg, så att ni inte skriver lösenord etc.
 
@@ -137,7 +136,7 @@ Hints:
 
 ## Extra: SQL server Pulumi
 
-Starta SQL serveren med Pulumi
+Konfigurera SQL server + databas med Pulumi
 
 Hints:
 
