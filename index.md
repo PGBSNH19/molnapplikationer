@@ -25,15 +25,15 @@ Teorin för varje lektion är delat i tvår delar.
 
 <span style="color:#FF0000; font-weight: 900; margin-right:0.5em">&#128683;</span>Detta MÅSTE läsas (dissa är oftast instruktioner som krävs för att kunna t.eks. göra en övning)
 
-<span style="color:#CA1818; font-weight: 900; margin-right:0.5em;">&#9888;</span> Detta är kritisk att läsa för att förstå teorin (dissa artiklar borde alltid bara Lektionsteori)
+<span style="color:#CA1818; font-weight: 900; margin-right:0.5em;">&#9888;</span>Detta är kritisk att läsa för att förstå teorin (dissa artiklar borde alltid bara Lektionsteori)
 
-<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span> Genom att läsa detta får du en utökat förståelse av teorin
+<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Genom att läsa detta får du en utökat förståelse av teorin
 
-<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span> Detta kan vara bra läsa, gir oftast en grundläggande extra förståelse av ämnet
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Detta kan vara bra läsa, gir oftast en grundläggande extra förståelse av ämnet
 
-<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span> Detta är är inte så viktigt för att förstå teorin övergripande, men gir oftast en bakgrunds kunskap om ämnet.
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Detta är är inte så viktigt för att förstå teorin övergripande, men gir oftast en bakgrunds kunskap om ämnet.
 
-<span style="color:#9F58B9; font-weight: 900; margin-right:0.5em;">&#12336;</span> Detta är inget ni behöver att läsa för dagens lektion, men kan vara bra att ta fram om ni ska jobba med detta ämne senare i eran karriärer
+<span style="color:#9F58B9; font-weight: 900; margin-right:0.5em;">&#12336;</span>Detta är inget ni behöver att läsa för dagens lektion, men kan vara bra att ta fram om ni ska jobba med detta ämne senare i eran karriärer
 
 Prioriteten säger inget om hur bra materialet är, det är enbart en indikator om hur man kan prioritera materialet om man är kort om tid. Samtidigt är det oftast så att material med låg prioritet är teknisk mer detaljerat än det med högre prioritet.
 
