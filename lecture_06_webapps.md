@@ -7,8 +7,8 @@ Lektion 6 av 12, onsdag den 16:e september 2020
 **Draft status**:
 
 * Lektionsplan: 80% klar
-* Lektionsteori: 20% klar
-* Bakgrunds litteratur: 0% klar
+* Lektionsteori: 70% klar
+* Bakgrunds litteratur: 60% klar
 * Uppgifter: 30% klar
 
 Målet med denna lektion är titta på olika sätt att använda molnet (specifikt Azure) till att hosta en webbapplikation. Vi kommer även att titta på hur ens arkitektur påverkar vilka möjligheter man har.
@@ -30,29 +30,30 @@ Lunch 12:00 till 13:00
   * <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/discord18.png" alt="Discord"/> Landing card, PM på Discord
 
 # Lektionsteori
-Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.
+*Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
 
-[Azure hosting recommendations for ASP.NET Core web apps](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/azure-hosting-recommendations-for-asp-net-web-apps)
+Artikel (9 min): [Azure hosting recommendations for ASP.NET Core web apps](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/azure-hosting-recommendations-for-asp-net-web-apps)
 
-* Azure Web Apps
-  * https://azure.microsoft.com/en-us/services/app-service/web/
-  * video 7 min How to deploy a static web app https://www.youtube.com/watch?v=H2MPsgujpNk
-* Arkitektur
-  * Micro services
-  * https://www.ibm.com/cloud/blog/four-architecture-choices-for-application-development
-  * https://cloud.google.com/blog/products/application-development/5-principles-for-cloud-native-architecture-what-it-is-and-how-to-master-it
-  * https://techbeacon.com/enterprise-it/5-steps-building-cloud-ready-application-architecture
-  * https://channel9.msdn.com/Events/dotnetConf/Focus-on-Microservices/Why-You-Should-Care-About-Microservices?ocid=player
-* Serverless
-  * https://azure.microsoft.com/en-us/services/app-service/api/
-  * https://azure.microsoft.com/en-us/services/app-service/
-  * https://azure.microsoft.com/en-us/services/functions
-  * https://www.taztopia.com/single-post/2019/07/28/Azure-Function-vs-Web-App-aka-Serverless-vs-PaaS
-  * https://azure.microsoft.com/en-us/solutions/serverless/#solutions
-  * video 6 min How to create a function app https://www.youtube.com/watch?v=BEIZKCDElMs
-  * video 3 min The new Azure Functions experience https://www.youtube.com/watch?v=0bdT_9uOqkg
-  * video 7 min How to monitor Azure Functions https://www.youtube.com/watch?v=eVDZz8h0s00
-  * Deploy to Azure Functions using Pulumi
+## Azure Web Apps
+
+* Artikel (4 min): [App Service overview](https://docs.microsoft.com/en-us/azure/app-service/overview)
+* Video (7 min): [How to deploy a static web app](https://www.youtube.com/watch?v=H2MPsgujpNk)
+
+## Azure Web Apps for containers
+
+* Artikel (4 min): [Azure Web App for Containers, Part One](https://www.ais.com/azure-web-app-for-containers-part-one/)
+* Video (15 min): [Azure Web App for Containers](https://www.youtube.com/watch?v=xnUOu-yPEzo)
+
+## Microservices - Arkitektur
+
+* Artikel (7 min): [Four Architecture Choices for Application Development in the Digital Age](https://www.ibm.com/cloud/blog/four-architecture-choices-for-application-development)
+* Video (55 min): [Why You Should Care About Microservices](https://channel9.msdn.com/Events/dotnetConf/Focus-on-Microservices/Why-You-Should-Care-About-Microservices?ocid=player)
+
+## Serverless - Arkitektur
+
+* Video (11 min): [Build apps faster with Azure Serverless](https://www.youtube.com/watch?v=OnJt4qfsfOc)
+
+* Artikel (6 min): [Serverless computing](https://azure.microsoft.com/en-us/overview/serverless-computing/)
 
 ## Bok: Learn Azure In A Month of Lunches
 
@@ -65,8 +66,41 @@ Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretis
 
 *Detta är material som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
 
-* https://12factor.net/
-* TBD
+Artikel serie (totalt 39 min): [The twelve factor app](https://12factor.net/)
+
+Artikel (10 min): [Azure Function v.s. Web App aka. Serverless v.s. PaaS](https://www.taztopia.com/single-post/2019/07/28/Azure-Function-vs-Web-App-aka-Serverless-vs-PaaS)
+
+## Azure Web Apps
+
+## Azure Web Apps for containers
+
+Artikel (8 min): [Run a custom container in Azure](https://docs.microsoft.com/en-us/azure/app-service/quickstart-custom-container?pivots=container-linux)
+
+## Microservices - Arkitektur
+
+TBD
+
+## Cloud native - Arkitektur
+
+[5 principles for cloud-native architecture—what it is and how to master it](https://cloud.google.com/blog/products/application-development/5-principles-for-cloud-native-architecture-what-it-is-and-how-to-master-it)
+
+[5 steps to building a cloud-ready application architecture](https://techbeacon.com/enterprise-it/5-steps-building-cloud-ready-application-architecture)
+
+## Serverless - Arkitektur
+
+Kurs (491 min): Microsoft Learn: [Create serverless applications](https://docs.microsoft.com/en-us/learn/paths/create-serverless-applications/)
+
+Artikel: [Azure Functions](https://azure.microsoft.com/en-us/services/functions)
+
+Video (6 min): [How to create a function app](https://www.youtube.com/watch?v=BEIZKCDElMs)
+
+Video (3 min): [The new Azure Functions experience](https://www.youtube.com/watch?v=0bdT_9uOqkg)
+
+Video (7 min): [How to monitor Azure Functions](https://www.youtube.com/watch?v=eVDZz8h0s00)
+
+## Kubernestes
+
+TBD
 
 # Buddy uppgifter
 
