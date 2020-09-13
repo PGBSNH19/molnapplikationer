@@ -71,12 +71,7 @@ MariaDb + MySQL
 Cosmos DB
 
 * [Getting Started with Graph Databases in Azure Cosmos DB](https://towardsdatascience.com/getting-started-with-graph-databases-in-azure-cosmos-db-cbfbf708cda5)
-
 * Video (31 min): [Azure Cosmos DB Tutorial | Globally distributed NoSQL database](https://www.youtube.com/watch?v=R_Fi59j6BMo)
-
-* 
-
-  
 
 # Buddy uppgifter
 
@@ -86,6 +81,7 @@ Dagens blogg ska innehålla:
 
 Skriv en tutorial men vart ni tar utgångspunkt i dissa övningar, lägg gärna till litet teori (vad är en pipeline etc).
 
+* Vad koster olika databaser
 * Hur ser ert setup ut?
 * Vilka delar är i eran yaml pipeline fil
 
@@ -93,11 +89,27 @@ Skriv en tutorial men vart ni tar utgångspunkt i dissa övningar, lägg gärna 
 
 Namnge dagens blogg *05.md*, ni får själv välja om ni vill ha en stor blogg som innehåller alla dagens övningar, eller om ni delar upp den i fler delar, i så fall ska ni namnge delarna som: *05a.md*, *05b.md* etc.
 
-# Övning 1: SQL server i Azure
+# Övning 1: Databas pris
+
+## Övning 1a: Databas i Azure
+
+Ta fram prisen per månad för olika typer av databaser, använda [Azure Pricing calculator](https://azure.microsoft.com/en-us/pricing/calculator) till att få fram olika priser på:
+
+* SQL server
+  * Serverless compute
+  * Provisioned compute
+  * Manged instance
+* MariaDB
+* MySQL
+* CosmosDB
+
+Ta fram priser för olika scenarier, data mängder, backup planer, lokationer etc.
+
+# Övning 2: SQL server i Azure
 
 Detta är övningar som du äntligen gör själv, i grupp eller i plenum tillsammans med hela klassen
 
-## Övning 1a
+## Övning 2a
 
 Starta en SQL server i azure och skriv ett litet program som använder denna, använd entity framework och migrations.
 
@@ -109,7 +121,7 @@ Hints:
 
 * [EntityFrameworkCore, code-first migrations in Azure DevOps](https://medium.com/vx-company/entityframeworkcore-code-first-migrations-in-azure-devops-b5eb845fce18)
 
-## Övning 1b
+## Övning 2b
 
 Starta SQL serveren med Pulumi
 
@@ -157,4 +169,8 @@ var database = new Database("db", new DatabaseArgs
 ```
 
 Source: [Azure App Service with SQL Database and Application Insights](https://github.com/pulumi/examples/blob/master/azure-cs-appservice/AppServiceStack.cs)
+
+Hints:
+
+* Pulumi reference: [SqlServer](https://www.pulumi.com/docs/reference/pkg/azure/sql/sqlserver/)
 
