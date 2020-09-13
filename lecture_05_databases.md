@@ -68,7 +68,7 @@ Lunch 12:00 till 13:00
 
 <span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (9 min): [Getting Started with Graph Databases in Azure Cosmos DB](https://towardsdatascience.com/getting-started-with-graph-databases-in-azure-cosmos-db-cbfbf708cda5)
 
-<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Video (31 min): [Azure Cosmos DB Tutorial | Globally distributed NoSQL database](https://www.youtube.com/watch?v=R_Fi59j6BMo)
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Video (31 min): [Azure Cosmos DB Tutorial ; Globally distributed NoSQL database](https://www.youtube.com/watch?v=R_Fi59j6BMo)
 
 # Buddy uppgifter
 
