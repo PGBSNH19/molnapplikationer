@@ -58,6 +58,8 @@ Lunch 12:00 till 13:00
 
 <span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Video (6 min): [How to create an Azure SQL database](https://www.youtube.com/watch?v=p7X8lH_XMtI)
 
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (6 min): [SQL Server database migration to Azure SQL Database](https://docs.microsoft.com/en-us/azure/azure-sql/database/migrate-to-database-from-sql-server)
+
 ## MariaDb + MySQL
 
 <span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Video (12 min): [Introduction to Azure Database for MySQL](https://www.youtube.com/watch?v=F66qd93h-1I)
