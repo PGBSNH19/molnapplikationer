@@ -104,7 +104,7 @@ Ta fram priser för olika scenarier, data mängder, backup planer, lokationer et
 
 ## Övning 2a, Serverless SQL server via CLI
 
-Starta en serveless SQL server instans i azure, använd Azure CLI
+Starta en serveless SQL server instans i azure, använd gärna Azure CLI (men det är ok också med Portalen)
 
 Hints:
 
@@ -119,6 +119,13 @@ Skriv ett litet program som använder eran nya SQL server. Använd entity framew
 Ni kan evt ta en eksisterende applikation
 
 I steg 1 få den att köra i en lokal **Docker** container mot eran Azure SQL databas
+
+Hints:
+
+* Skåpa ett web api: `dotnet new webapi -o TodoApi`
+  * Tutorial: [Create a web API with ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-3.1&tabs=visual-studio-code)
+* [Dataåtkomster](https://pgbsnh19.github.io/dataatkomst/) - [Code first](https://pgbsnh19.github.io/dataatkomst/lecture_06_codefirst.html)
+  * [Migrations and Seed Data with Entity Framework Core](https://code-maze.com/migrations-and-seed-data-efcore/)
 
 # Extra övningar
 
