@@ -88,6 +88,8 @@ https://www.youtube.com/watch?v=wLsXZ9MzJxY
 
 https://www.youtube.com/watch?v=Ma7VAQE7ga4
 
+https://docs.microsoft.com/en-us/azure/azure-sql/database/authentication-aad-overview
+
 ## Compliance
 
 https://www.michalsons.com/blog/cloud-compliance/22643

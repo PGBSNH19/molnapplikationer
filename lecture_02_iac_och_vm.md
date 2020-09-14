@@ -82,10 +82,9 @@ Lunch 12:00 till 13:00
 Annat ramverk till att göra IaC
 
 - [Pulumi vs. Terraform](https://www.pulumi.com/docs/intro/vs/terraform/)
-
 - [How Pulumi Compares to Terraform for Infrastructure as Code](https://blog.kylegalbraith.com/2018/12/21/how-pulumi-compares-to-terraform-for-infrastructure-as-code/)
-
 - [Using Terraform in Azure DevOps Pipelines PART 2](https://www.youtube.com/watch?v=x631jUw1J04)
+- Artikel: [Deploy and manage azure infrastructure using terraform, remote state, and azure devops pipelines (yaml)](https://www.thelazyadministrator.com/2020/04/28/deploy-and-manage-azure-infrastructure-using-terraform-remote-state-and-azure-devops-pipelines-yaml/)
 
 ## Linux
 

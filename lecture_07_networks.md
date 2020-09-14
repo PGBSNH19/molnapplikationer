@@ -32,6 +32,7 @@ Virtual networks are necessary to support communications between virtual machine
    2. https://en.wikipedia.org/wiki/Virtual_private_cloud
    3. https://medium.com/awesome-azure/azure-vs-aws-difference-between-azure-virtual-network-vnet-and-aws-virtual-private-cloud-vpc-2e8debc3290e
    4. https://www.ibm.com/cloud/learn/vpc
+   5. vnet https://docs.microsoft.com/en-us/azure/azure-sql/managed-instance/connectivity-architecture-overview
 2. Teoretisk Sikkerhed
    1. HTTPS
    2. Firewalls

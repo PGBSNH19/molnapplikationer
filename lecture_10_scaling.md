@@ -41,8 +41,10 @@ Lunch 12:00 till 13:00
 
 *Detta är material som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
 
-* TBD
-* TBD
+* Chaos Engineering
+  * Chaos monkey
+  * https://www.gremlin.com/get-started/?ref=docs
+* TBDs
 
 # Exemplar och övningar. 
 
