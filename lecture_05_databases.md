@@ -78,7 +78,6 @@ Lunch 12:00 till 13:00
 * Skriv en tutorial vart ni tar utgångspunkt i övning 2
   * Hur ni lägger upp databasen med Azure CLI
   * Hur ser dom viktiga delar av eran EF applikation ut
-  * Hur deployar ni den och får upp migrations automatisk
   * Skulle ni har en eller fler databas konfigurationer? Prod / dev?
 
 *OBS* Akta vad ni skriver i eran blogg, så att ni inte skriver lösenord etc.
@@ -121,15 +120,15 @@ Ni kan evt ta en eksisterende applikation
 
 I steg 1 få den att köra i en lokal **Docker** container mot eran Azure SQL databas
 
-## Övning 2c, CD med DevOps och migrations
+# Extra övningar
+
+## Extra: 2c, CD med DevOps och migrations
 
 Configura CD med eran nya container i Azure DevOps och se till at när applikationen starter att alla migrations körs eran SQL databas på automatisk
 
 Hints:
 
 * [EntityFrameworkCore, code-first migrations in Azure DevOps](https://medium.com/vx-company/entityframeworkcore-code-first-migrations-in-azure-devops-b5eb845fce18)
-
-# Extra övningar
 
 ## Extra: SQL server Pulumi
 
