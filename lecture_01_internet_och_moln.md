@@ -85,6 +85,8 @@ Den protokoll som webbläsare användare till att prata med webserveren, via TCP
 # Bakgrundsmaterial
 *Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
 
+Kurs: [Powershell Tutorial](https://www.tutorialspoint.com/powershell/index.htm)
+
 ## TCP/IP
 * [Difference Between IPv4 and IPv6](https://techdifferences.com/difference-between-ipv4-and-ipv6.html)
 * [IPv6 Addoption](https://www.akamai.com/uk/en/about/our-thinking/state-of-the-internet-report/state-of-the-internet-ipv6-adoption-visualization.jsp) - hur går det med att byta till IP6
