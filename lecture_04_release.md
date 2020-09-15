@@ -86,6 +86,12 @@ Lunch 12:00 till 13:00
 
 <span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Tutorial (4 min): Microsoft [DevOps build and deploy image](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/containers/build-image?view=azure-devops)
 
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>[Continuous building, gating and releasing using AzureDevOps, Helm3, Application  Insights and AKS with automated rollback](https://medium.com/@denniszielke/continuous-building-gating-and-releasing-using-azuredevops-helm3-application-insights-and-aks-53b588b88b8c) (Part 1 of 2)
+
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>[Continuous Kubernetes blue-green deployments on Azure using Nginx, AppGateway or TrafficManager](https://medium.com/@denniszielke/continuous-kubernetes-blue-green-deployments-on-azure-using-nginx-appgateway-or-trafficmanager-4490bce29cb) (Part 2 of 2)
+
+
+
 ## Github Actions
 
 *Github Actions är ett sätt att bygga pipelines direkt i Azure*
