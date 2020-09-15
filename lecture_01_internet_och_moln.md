@@ -110,6 +110,7 @@ Kurs: [Powershell Tutorial](https://www.tutorialspoint.com/powershell/index.htm)
 
 ## Cloud
 
+* Video (77 min): [Inside Azure datacenter architecture with Mark Russinovich ](https://www.youtube.com/watch?v=X-0V6bYfTpA)
 * [Cloud computing](https://www.explainthatstuff.com/cloud-computing-introduction.html)
 * Wikipedia: [Cloud computing](https://en.wikipedia.org/wiki/Cloud_computing)
 * [Is the cloud really just someone else's computer?](https://www.techrepublic.com/article/is-the-cloud-really-just-someone-elses-computer/)
