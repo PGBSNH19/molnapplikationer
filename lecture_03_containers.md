@@ -123,6 +123,8 @@ Lunch 12:00 till 13:00
 
 <span style="color:#9F58B9; font-weight: 900; margin-right:0.5em;">&#12336;</span>e-bok: [The Kubernetes Book](https://leanpub.com/thekubernetesbook)
 
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>[Helm](https://helm.sh/) - The package manager for Kubernetes
+
 # Buddy uppgifter
 
 ## Dagens blogg

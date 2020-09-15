@@ -6,8 +6,8 @@ Lektion 6 av 12, onsdag den 16:e september 2020
 
 **Draft status**:
 
-* Lektionsplan: 80% klar
-* Lektionsteori: 70% klar
+* Lektionsplan: 100% klar
+* Lektionsteori: 100% klar
 * Bakgrunds litteratur: 60% klar
 * Uppgifter: 30% klar
 
@@ -54,6 +54,11 @@ Artikel (9 min): [Azure hosting recommendations for ASP.NET Core web apps](https
 * Video (11 min): [Build apps faster with Azure Serverless](https://www.youtube.com/watch?v=OnJt4qfsfOc)
 
 * Artikel (6 min): [Serverless computing](https://azure.microsoft.com/en-us/overview/serverless-computing/)
+
+**Total** (109 min):
+
+- Artiklar: 4 stk, total 21 min
+- Video: 4 stk, total 88 min
 
 ## Bok: Learn Azure In A Month of Lunches
 

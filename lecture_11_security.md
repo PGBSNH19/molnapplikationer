@@ -76,7 +76,9 @@ https://docs.microsoft.com/en-us/azure/databricks/scenarios/what-is-azure-databr
 
 https://www.youtube.com/watch?v=9VzBS4OiP_A
 
-[Azure Key Vault Tutorial | Secure secrets, keys and certificates easily](https://www.youtube.com/watch?v=PgujSug1ZbI)
+[Azure Key Vault Tutorial; Secure secrets, keys and certificates easily](https://www.youtube.com/watch?v=PgujSug1ZbI)
+
+https://docs.microsoft.com/en-us/azure/security/develop/secure-dev-overview
 
 ## CASB / AD
 

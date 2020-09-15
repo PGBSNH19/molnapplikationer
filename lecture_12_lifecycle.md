@@ -55,6 +55,12 @@ https://12factor.net/
      https://www.youtube.com/watch?v=oyF6RGKlvi8
      
      https://www.youtube.com/watch?v=ZwxWCiW5uO4
+     
+     https://www.innovativearchitects.com/KnowledgeCenter/basic-IT-systems/system-development-life-cycle.aspx
+     
+     https://www.smartsheet.com/system-development-life-cycle-guide
+     
+     https://guru8.net/2019/04/what-are-the-best-practices-for-software-development-lifecycle/
 
 ## Bok: Learn Azure In A Month of Lunches
 
