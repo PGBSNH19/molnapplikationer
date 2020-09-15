@@ -71,41 +71,33 @@ Artikel (9 min): [Azure hosting recommendations for ASP.NET Core web apps](https
 
 *Detta är material som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
 
-Artikel serie (totalt 39 min): [The twelve factor app](https://12factor.net/)
+<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Artikel serie (totalt 39 min): [The twelve factor app](https://12factor.net/) - a methodology for building software-as-a-service apps
 
-Artikel (10 min): [Azure Function v.s. Web App aka. Serverless v.s. PaaS](https://www.taztopia.com/single-post/2019/07/28/Azure-Function-vs-Web-App-aka-Serverless-vs-PaaS)
-
-## Azure Web Apps
+<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Artikel (10 min): [Azure Function v.s. Web App aka. Serverless v.s. PaaS](https://www.taztopia.com/single-post/2019/07/28/Azure-Function-vs-Web-App-aka-Serverless-vs-PaaS)
 
 ## Azure Web Apps for containers
 
-Artikel (8 min): [Run a custom container in Azure](https://docs.microsoft.com/en-us/azure/app-service/quickstart-custom-container?pivots=container-linux)
-
-## Microservices - Arkitektur
-
-TBD
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (8 min): [Run a custom container in Azure](https://docs.microsoft.com/en-us/azure/app-service/quickstart-custom-container?pivots=container-linux)
 
 ## Cloud native - Arkitektur
 
-[5 principles for cloud-native architecture—what it is and how to master it](https://cloud.google.com/blog/products/application-development/5-principles-for-cloud-native-architecture-what-it-is-and-how-to-master-it)
+<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Artikel (3 min): [Cloud Native Definition](https://github.com/cncf/toc/blob/master/DEFINITION.md)
 
-[5 steps to building a cloud-ready application architecture](https://techbeacon.com/enterprise-it/5-steps-building-cloud-ready-application-architecture)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (13 min): [5 principles for cloud-native architecture—what it is and how to master it](https://cloud.google.com/blog/products/application-development/5-principles-for-cloud-native-architecture-what-it-is-and-how-to-master-it)
+
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (11 min): [5 steps to building a cloud-ready application architecture](https://techbeacon.com/enterprise-it/5-steps-building-cloud-ready-application-architecture)
 
 ## Serverless - Arkitektur
 
-Kurs (491 min): Microsoft Learn: [Create serverless applications](https://docs.microsoft.com/en-us/learn/paths/create-serverless-applications/)
+<span style="color:#9F58B9; font-weight: 900; margin-right:0.5em;">&#12336;</span>Kurs (491 min): Microsoft Learn: [Create serverless applications](https://docs.microsoft.com/en-us/learn/paths/create-serverless-applications/)
 
-Artikel: [Azure Functions](https://azure.microsoft.com/en-us/services/functions)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (10 min): [Azure Functions](https://azure.microsoft.com/en-us/services/functions)
 
-Video (6 min): [How to create a function app](https://www.youtube.com/watch?v=BEIZKCDElMs)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Video (6 min): [How to create a function app](https://www.youtube.com/watch?v=BEIZKCDElMs)
 
-Video (3 min): [The new Azure Functions experience](https://www.youtube.com/watch?v=0bdT_9uOqkg)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Video (3 min): [The new Azure Functions experience](https://www.youtube.com/watch?v=0bdT_9uOqkg)
 
 Video (7 min): [How to monitor Azure Functions](https://www.youtube.com/watch?v=eVDZz8h0s00)
-
-## Kubernestes
-
-TBD
 
 # Buddy uppgifter
 
@@ -134,17 +126,9 @@ Ta fram prisen per månad för olika sätt att deploya en webbsida i Azure, anv�
 
 Deploy eran webb applikation till App Service med Docker
 
-Docker
+# Övning 3: Azure functions
 
-Kubernetes
-
-# Extra övningar
-
-## Extra: Kubernetes
-
-## Extra: Web app med Pulumi
-
-## 
+[Create your first function in Azure using Visual Studio](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-your-first-function-visual-studio)
 
 
 
