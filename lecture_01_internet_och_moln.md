@@ -56,6 +56,7 @@ Den protokoll som webbläsare användare till att prata med webserveren, via TCP
 
 > The cloud is hosting, made elastic with and API wrapped around it combined with flexible billing
 
+* Video (23 min): Computer Stuff They Didn't Teach You - [What is the Cloud? Soft and Fluffy Edition](https://www.youtube.com/watch?v=BO6jvQ88ICQ)
 * Video (5 min): [What are the Business Benefits of Cloud Computing, IaaS, PaaS and SaaS?](https://www.youtube.com/watch?v=whkyRvugqlM)
 * Artikel (9 min): [Different Types of Cloud Computing Service Models](https://www.bluepiit.com/blog/different-types-of-cloud-computing-service-models/)
   * Artikel (6 min): [What is IaaS vs SaaS vs PaaS and XaaS: what’s the difference](https://medium.com/@vanshvarshney_/what-is-iaas-vs-saas-vs-paas-and-xaas-whats-the-difference-examples-ceadeee146e6)
