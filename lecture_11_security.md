@@ -48,6 +48,8 @@ http://100daysofdevops.com/21-days-of-docker-day-18-docker-security/
 
 https://medium.com/@ihorkliushnikov/introducing-joseki-the-open-source-product-to-improve-cloud-infrastructure-security-fb71d58f41bd
 
+https://devopsbootcamp.osuosl.org/application-isolation.html
+
 ## Containers/ Docker
 
 https://docs.docker.com/docker-hub/publish/certify-images/
@@ -65,6 +67,8 @@ https://www.youtube.com/watch?v=JcuYFQSplvE
 https://github.com/docker/docker-bench-security
 
 ## Azure
+
+AD
 
 https://docs.microsoft.com/en-us/azure/security/fundamentals/overview
 
