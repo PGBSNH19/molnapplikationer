@@ -46,6 +46,8 @@ https://www.youtube.com/watch?v=fHhNWAKw0bY
 
 http://100daysofdevops.com/21-days-of-docker-day-18-docker-security/
 
+https://medium.com/@ihorkliushnikov/introducing-joseki-the-open-source-product-to-improve-cloud-infrastructure-security-fb71d58f41bd
+
 ## Containers/ Docker
 
 https://docs.docker.com/docker-hub/publish/certify-images/
@@ -79,6 +81,10 @@ https://www.youtube.com/watch?v=9VzBS4OiP_A
 [Azure Key Vault Tutorial; Secure secrets, keys and certificates easily](https://www.youtube.com/watch?v=PgujSug1ZbI)
 
 https://docs.microsoft.com/en-us/azure/security/develop/secure-dev-overview
+
+https://medium.com/@ihorkliushnikov/azure-active-directory-application-or-service-principal-b5a5e14f2a23
+
+
 
 ## CASB / AD
 

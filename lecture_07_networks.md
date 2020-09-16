@@ -14,13 +14,22 @@ Lektion 7 av 12, måndag den 21:a september 2020
 Målet med denna lektion är lära hur man i molnet (med utgångspunkt i Azure) kan bygga upp virtuella nätverk, så att man där igenom kan bygga komplexa lösningar och öka säkerheten.
 
 ## Lektionsplan
+
 Lektion från kl. 8:30 till kl. 16:30
 
-* x
+* 8:30 <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/teams18.png"  alt="Teams"/> Klassråd (Helen) + Uppsamling från förra lektion (Webb applikationer i molnet)
+  * <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/discord18.png" alt="Discord"/> Boarding card, PM på Discord
+* 9:15 <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/teams18.png"  alt="Teams"/> Presentation av dagens teori: 
+  * Säkerhets mekanismer
+  * Nätverk i molnet
+  * Enterprise bus
+* 10:00 <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/discord18.png" alt="Discord"/>[Buddy uppgifter](#Buddy uppgifter)
 
 Lunch 12:00 till 13:00
 
-* x
+* 13:00 <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/teams18.png" alt="Teams"/> Samling: SpacePark-projekt
+* 13:15 <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/discord18.png" alt="Discord"/> SpacePark-projekt
+* 16:30 <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/discord18.png" alt="Discord"/> Landing card, PM på Discord
 
 # Lektionsteori
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
@@ -63,8 +72,17 @@ Virtual networks are necessary to support communications between virtual machine
 * https://www.youtube.com/watch?v=JQ6KhjU5Zsg
 * TBD
 
-# Exemplar och övningar. 
+# Buddy uppgifter
 
-Detta är övningar som du äntligen gör själv, i grupp eller i plenum tillsammans med hela klassen
+## Dagens blogg
+
+* Ge minst två pris ekempler på vad det koster att ha en webb applikation i Azure
+* Skriv en tutorial vart ni tar utgångspunkt i övning 2
+
+*OBS* Akta vad ni skriver i eran blogg, så att ni inte skriver lösenord etc.
+
+Namnge dagens blogg *06.md*, ni får själv välja om ni vill ha en stor blogg som innehåller alla dagens övningar, eller om ni delar upp den i fler delar, i så fall ska ni namnge delarna som: *06a.md*, *06b.md* etc.
+
+# Övning 1:
 
 Use IaC to set up at least two servers on a virtual network, only one of the having a public ip
