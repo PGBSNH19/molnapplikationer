@@ -39,6 +39,10 @@ Lunch 12:00 till 13:00
 
 * https://www.app-metrics.io/
 
+* logging
+
+  * https://12factor.net/logs
+
 ## Bok: Learn Azure In A Month of Lunches
 
 *Detta är vilka delar av den frivilliga [bok (Learn Azure In A Month of Lunches)](info_learningmaterial.md) som är releavant för denna lektion*

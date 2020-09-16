@@ -1,15 +1,6 @@
 # Webb applikationer i molnet
 
-Lektion 6 av 12, onsdag den 16:e september 2020
-
-![Draft](/assets/images/draft.png)
-
-**Draft status**:
-
-* Lektionsplan: 100% klar
-* Lektionsteori: 100% klar
-* Bakgrunds litteratur: 60% klar
-* Uppgifter: 30% klar
+*Lektion 6 av 12, onsdag den 16:e september 2020*
 
 Målet med denna lektion är titta på olika sätt att använda molnet (specifikt Azure) till att hosta en webbapplikation. Vi kommer även att titta på hur ens arkitektur påverkar vilka möjligheter man har.
 
@@ -97,7 +88,9 @@ Artikel (9 min): [Azure hosting recommendations for ASP.NET Core web apps](https
 
 <span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Video (3 min): [The new Azure Functions experience](https://www.youtube.com/watch?v=0bdT_9uOqkg)
 
-Video (7 min): [How to monitor Azure Functions](https://www.youtube.com/watch?v=eVDZz8h0s00)
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Video (7 min): [How to monitor Azure Functions](https://www.youtube.com/watch?v=eVDZz8h0s00)
+
+<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Artikel (19 min): [Build Your First Serverless Web Application on Azure](https://mikepfeiffer.io/blog/azure-serverless-101)
 
 # Buddy uppgifter
 
@@ -105,7 +98,6 @@ Video (7 min): [How to monitor Azure Functions](https://www.youtube.com/watch?v=
 
 * Ge minst två pris ekempler på vad det koster att ha en webb applikation i Azure
 * Skriv en tutorial vart ni tar utgångspunkt i övning 2
-  * 
 
 *OBS* Akta vad ni skriver i eran blogg, så att ni inte skriver lösenord etc.
 
@@ -124,11 +116,18 @@ Ta fram prisen per månad för olika sätt att deploya en webbsida i Azure, anv�
 
 # Övning 2: Website i Azure
 
-Deploy eran webb applikation till App Service med Docker
+Ni borde redan ha en docker container i ACR, deploy denna till App Service (istället för ACI) med Docker.
+
+Hints:
+
+* [Deploy and run a containerized web app with Azure App Service](https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/)
+* [Deploy an Azure Web App Container](https://docs.microsoft.com/en-us/azure/devops/pipelines/targets/webapp-on-container-linux?view=azure-devops&tabs=dotnet-core%2Cyaml)
 
 # Övning 3: Azure functions
 
-[Create your first function in Azure using Visual Studio](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-your-first-function-visual-studio)
+Följ denna tutorial och skåpa en Hallo World funktion: [Create your first function in Azure using Visual Studio](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-your-first-function-visual-studio)
+
+Denna övning ska inte vara i eran blog.
 
 
 

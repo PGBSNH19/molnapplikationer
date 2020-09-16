@@ -28,6 +28,7 @@ Lunch 12:00 till 13:00
 * Load balancing (networking)
   * (Video 4 min) [How to create a load balancer](https://www.youtube.com/watch?v=-VMPzVoo5Nk)
 * Scaling out and up
+* https://azure.github.io/AppService/2020/05/15/Robust-Apps-for-the-cloud.html
 
 ## Bok: Learn Azure In A Month of Lunches
 
