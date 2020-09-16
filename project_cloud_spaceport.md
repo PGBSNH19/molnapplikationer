@@ -70,7 +70,7 @@ And remember to create unit tests, where possible.
 * The following technologies is optional to use:
   * Kubernetes
 
-### Hints
+## Hints
 
 * Shut down all azure resources when not using them, to minimize the cost of the application
 * Refactor all the time!!
