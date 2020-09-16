@@ -6,9 +6,9 @@ Lektion 7 av 12, måndag den 21:a september 2020
 
 **Draft status**:
 
-* Lektionsplan: 0% klar
-* Lektionsteori: 0% klar
-* Bakgrunds litteratur: 0% klar
+* Lektionsplan: 80% klar
+* Lektionsteori: 80% klar
+* Bakgrunds litteratur: 40% klar
 * Uppgifter: 0% klar
 
 Målet med denna lektion är lära hur man i molnet (med utgångspunkt i Azure) kan bygga upp virtuella nätverk, så att man där igenom kan bygga komplexa lösningar och öka säkerheten.
@@ -34,28 +34,33 @@ Lunch 12:00 till 13:00
 # Lektionsteori
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
 
-Virtual networks are necessary to support communications between virtual machines. You can define subnets, custom IP address, DNS settings, security filtering, and load balancing.By using a VPN gateway or an ExpressRoute circuit, you can connect Azure virtual networks to your on-premises networks.
+## Enterprise bus
 
-1. Azure Networking
-   1. https://azure.microsoft.com/en-us/services/virtual-network/
-   2. https://en.wikipedia.org/wiki/Virtual_private_cloud
-   3. https://medium.com/awesome-azure/azure-vs-aws-difference-between-azure-virtual-network-vnet-and-aws-virtual-private-cloud-vpc-2e8debc3290e
-   4. https://www.ibm.com/cloud/learn/vpc
-   5. vnet https://docs.microsoft.com/en-us/azure/azure-sql/managed-instance/connectivity-architecture-overview
-2. Teoretisk Sikkerhed
-   1. HTTPS
-   2. Firewalls
-      1. https://medium.com/swlh/understanding-firewall-types-4a2869deb687
-      2. https://medium.com/@neil.wilston123/firewall-in-network-security-2a98795fcac1
-   3. VPN
-      1. https://medium.com/@zicodeng/how-vpn-works-b7549dcc6ce4
-3. Enterprise bus
-   1. Azure Servicebus
-   2. https://en.wikipedia.org/wiki/Enterprise_service_bus
-   3. https://medium.com/@xaviergeerinck/an-introduction-to-message-brokers-9bd203b4ebbd
-   4. https://www.youtube.com/watch?v=FRzMPqViwuY
-   5. Don't use syncronius calls
-   6. Use messeging
+> Don't use syncronius calls, use messeging
+
+* Artikel (3 min): [An introduction to Message Brokers](https://medium.com/@xaviergeerinck/an-introduction-to-message-brokers-9bd203b4ebbd)
+* Video (26 min): [Azure Service Bus from the ground up](https://www.youtube.com/watch?v=FRzMPqViwuY)
+
+## Nätverk
+
+* Artikel (18 min): [Networking 101: Ethernet, LANs, and How They Work](https://www.makeuseof.com/tag/networking-101-ethernet-lans-work/)
+* Artikel (12 min): [How VPN Works?](https://medium.com/@zicodeng/how-vpn-works-b7549dcc6ce4)
+
+* Artikel (8 min): [Understanding Firewall Types](https://medium.com/swlh/understanding-firewall-types-4a2869deb687)
+
+* Artikel (4 min): [Firewall in Network Security](https://medium.com/@neil.wilston123/firewall-in-network-security-2a98795fcac1)
+
+## Virtual Private Cloud
+
+>  Virtual networks are necessary to support communications between virtual machines. You can define subnets, custom IP address, DNS settings, security filtering, and load balancing.By using a VPN gateway or an ExpressRoute circuit, you can connect Azure virtual networks to your on-premises networks.
+
+* Artikel (4 min), Wikipedia: [Virtual private cloud](https://en.wikipedia.org/wiki/Virtual_private_cloud)
+* Video (5 min): [What is a Virtual Private Cloud?](https://www.youtube.com/watch?v=NbkPRn1mqlU)
+
+### Networking in Azure
+
+* Artikel (6min): [What is Azure Virtual Network?](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview)
+* Artikel (5 min): [What is Azure Private Link?](https://docs.microsoft.com/da-dk/azure/private-link/private-link-overview)
 
 ## Bok: Learn Azure In A Month of Lunches
 
@@ -69,8 +74,29 @@ Virtual networks are necessary to support communications between virtual machine
 
 *Detta är material som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
 
-* https://www.youtube.com/watch?v=JQ6KhjU5Zsg
-* TBD
+## Enterprise service bus
+
+[Enterprise service bus](https://en.wikipedia.org/wiki/Enterprise_service_bus)
+
+### Azure Service Bus
+
+### Azure Queue Storage
+
+Video (22 min): [Azure Queue Storage Tutorial](https://www.youtube.com/watch?v=JQ6KhjU5Zsg)
+
+## Virtual Network
+
+* https://www.ibm.com/cloud/learn/vpc
+* Artikel (23 min): [Integrate your app with an Azure virtual network](https://docs.microsoft.com/en-us/azure/app-service/web-sites-integrate-with-vnet)
+* Artikel (12 min): [Azure vs AWS — Difference between Azure Virtual Network (VNet) and AWS Virtual Private Cloud (VPC)](https://medium.com/awesome-azure/azure-vs-aws-difference-between-azure-virtual-network-vnet-and-aws-virtual-private-cloud-vpc-2e8debc3290e)
+* [Use virtual network service endpoints and rules for servers in Azure SQL Database](https://docs.microsoft.com/en-us/azure/azure-sql/database/vnet-service-endpoint-rule-overview)
+* [How to create a cloud-based virtual network in Microsoft Azure](https://www.techrepublic.com/article/how-to-create-a-cloud-based-virtual-network-in-microsoft-azure/)
+
+### Private Link in azure
+
+* [Azure Private Link for Azure SQL Database](https://docs.microsoft.com/en-us/azure/azure-sql/database/private-endpoint-overview)
+
+* Video (16 min): [How to connect and deliver services privately on Azure with Azure Private Link ](https://www.youtube.com/watch?v=AZ0iFcyPDkc)
 
 # Buddy uppgifter
 
