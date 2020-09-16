@@ -20,9 +20,9 @@ Lektion från kl. 8:30 till kl. 16:30
 * 8:30 <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/teams18.png"  alt="Teams"/> Klassråd (Helen) + Uppsamling från förra lektion (Webb applikationer i molnet)
   * <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/discord18.png" alt="Discord"/> Boarding card, PM på Discord
 * 9:15 <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/teams18.png"  alt="Teams"/> Presentation av dagens teori: 
-  * Säkerhets mekanismer
-  * Nätverk i molnet
-  * Enterprise bus
+  * Enterprise bus / Service bus
+  * Nätverk 
+  * Virtual Private Cloud 
 * 10:00 <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/discord18.png" alt="Discord"/>[Buddy uppgifter](#Buddy uppgifter)
 
 Lunch 12:00 till 13:00
@@ -34,7 +34,7 @@ Lunch 12:00 till 13:00
 # Lektionsteori
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
 
-## Enterprise bus
+## Enterprise bus / Service bus
 
 > Don't use syncronius calls, use messeging
 
@@ -59,8 +59,13 @@ Lunch 12:00 till 13:00
 
 ### Networking in Azure
 
-* Artikel (6min): [What is Azure Virtual Network?](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview)
+* Artikel (6 min): [What is Azure Virtual Network?](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview)
 * Artikel (5 min): [What is Azure Private Link?](https://docs.microsoft.com/da-dk/azure/private-link/private-link-overview)
+
+**Total** (91 min):
+
+- Artiklar: 8 stk, total 60 min
+- Video: 2 stk, total 31 min
 
 ## Bok: Learn Azure In A Month of Lunches
 
@@ -76,39 +81,42 @@ Lunch 12:00 till 13:00
 
 ## Enterprise service bus
 
-[Enterprise service bus](https://en.wikipedia.org/wiki/Enterprise_service_bus)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (15 min), wikipedia: [Enterprise service bus](https://en.wikipedia.org/wiki/Enterprise_service_bus)
 
 ### Azure Service Bus
 
 ### Azure Queue Storage
 
-Video (22 min): [Azure Queue Storage Tutorial](https://www.youtube.com/watch?v=JQ6KhjU5Zsg)
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Video (22 min): [Azure Queue Storage Tutorial](https://www.youtube.com/watch?v=JQ6KhjU5Zsg)
 
 ## Virtual Network
 
-* https://www.ibm.com/cloud/learn/vpc
-* Artikel (23 min): [Integrate your app with an Azure virtual network](https://docs.microsoft.com/en-us/azure/app-service/web-sites-integrate-with-vnet)
-* Artikel (12 min): [Azure vs AWS — Difference between Azure Virtual Network (VNet) and AWS Virtual Private Cloud (VPC)](https://medium.com/awesome-azure/azure-vs-aws-difference-between-azure-virtual-network-vnet-and-aws-virtual-private-cloud-vpc-2e8debc3290e)
-* [Use virtual network service endpoints and rules for servers in Azure SQL Database](https://docs.microsoft.com/en-us/azure/azure-sql/database/vnet-service-endpoint-rule-overview)
-* [How to create a cloud-based virtual network in Microsoft Azure](https://www.techrepublic.com/article/how-to-create-a-cloud-based-virtual-network-in-microsoft-azure/)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (11 min): [Virtual Private Cloud (VPC)](https://www.ibm.com/cloud/learn/vpc)
+
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (23 min): [Integrate your app with an Azure virtual network](https://docs.microsoft.com/en-us/azure/app-service/web-sites-integrate-with-vnet)
+
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Artikel (12 min): [Azure vs AWS — Difference between Azure Virtual Network (VNet) and AWS Virtual Private Cloud (VPC)](https://medium.com/awesome-azure/azure-vs-aws-difference-between-azure-virtual-network-vnet-and-aws-virtual-private-cloud-vpc-2e8debc3290e)
+
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artiekl (12 min): [Use virtual network service endpoints and rules for servers in Azure SQL Database](https://docs.microsoft.com/en-us/azure/azure-sql/database/vnet-service-endpoint-rule-overview)
+
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (7 min): [How to create a cloud-based virtual network in Microsoft Azure](https://www.techrepublic.com/article/how-to-create-a-cloud-based-virtual-network-in-microsoft-azure/)
 
 ### Private Link in azure
 
-* [Azure Private Link for Azure SQL Database](https://docs.microsoft.com/en-us/azure/azure-sql/database/private-endpoint-overview)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (7 min): [Azure Private Link for Azure SQL Database](https://docs.microsoft.com/en-us/azure/azure-sql/database/private-endpoint-overview)
 
-* Video (16 min): [How to connect and deliver services privately on Azure with Azure Private Link ](https://www.youtube.com/watch?v=AZ0iFcyPDkc)
+<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Video (16 min): [How to connect and deliver services privately on Azure with Azure Private Link ](https://www.youtube.com/watch?v=AZ0iFcyPDkc)
 
 # Buddy uppgifter
 
 ## Dagens blogg
 
 * Ge minst två pris ekempler på vad det koster att ha en webb applikation i Azure
-* Skriv en tutorial vart ni tar utgångspunkt i övning 2
+* Skriv en tutorial vart ni tar utgångspunkt i övning 1
 
 *OBS* Akta vad ni skriver i eran blogg, så att ni inte skriver lösenord etc.
 
-Namnge dagens blogg *06.md*, ni får själv välja om ni vill ha en stor blogg som innehåller alla dagens övningar, eller om ni delar upp den i fler delar, i så fall ska ni namnge delarna som: *06a.md*, *06b.md* etc.
+Namnge dagens blogg *07.md*, ni får själv välja om ni vill ha en stor blogg som innehåller alla dagens övningar, eller om ni delar upp den i fler delar, i så fall ska ni namnge delarna som: *07a.md*, *07b.md* etc.
 
-# Övning 1:
+# Övning 1: Private link
 
-Use IaC to set up at least two servers on a virtual network, only one of the having a public ip
