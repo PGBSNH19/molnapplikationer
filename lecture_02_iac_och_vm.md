@@ -29,6 +29,8 @@ Lunch 12:00 till 13:00
 
 ## Azure
 
+* Video (8 min): [Microsoft Azure Explained - Azure Training](https://youtu.be/xNbVUMvqtt8)
+
 * Video (24 min): [Azure CLI Tutorial](https://www.youtube.com/watch?v=GqpwiyYsNIw)
 
 ## Virtual machines
