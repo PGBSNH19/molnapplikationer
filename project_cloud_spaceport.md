@@ -6,7 +6,7 @@ End - video presentation (stream): 2020-10-05 23:55
 End - code (github): 2020-10-06 23:55
 ```
 
-![spacepark](assets\images\spacepark.jpg)
+![Spacepark illustration](assets\images\spacepark.jpg)
 
 When traveling across space you once in a while need to park you spaceship and take a break, you do that at a spaceport. Managing all these parking at the spaceport is a bit of a job, so a special software for this is needed, one product handling this is called SpacePark, and is a parking system as a service for spaceports.
 
@@ -28,7 +28,7 @@ The main focus on this solution is the cloud parts, more than it's the applicati
 
 ## The cloud solution (the important part)
 
-You are free to use both virtual machines and native Azure services (like App Service and Azure Functions), you just need to justify your choice based on cost, flexibility, vendor lock-in, stability, maintainability etc.
+You are free to use IaaS offerings like virtual machines and PaaS offerings like App Service and Azure Functions, you just need to justify your choice based on cost, flexibility, vendor lock-in, stability, maintainability etc.
 
 The database could be an Azure service like Azure SQL Server, Azure MariaDB or Azure CosmosDB (or maybe a combination of these).
 
@@ -40,11 +40,41 @@ The application should be monitored in a way so it's easy to understand what is 
 
 ## The application
 
-You can choose to [Fork](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) one of the [previous Spacepark projects](#Old spaceport repos), or start from scratch. Compared to the first version should this project also contain a web frontend.
+You can choose to take the code from one of the [previous Spacepark projects](#Old spaceport repos), or start from scratch. 
 
-The API and the web frontend should be two different projects, they can be contained within the same solution.
+Compared to the first version should this project also contain a web frontend. This could be any solution, some suggestions is:
+
+* A static webpage, requesting the API using javascript
+* A ASP.NET core MVC application, requesting the API
+* A ASP.NET Razore pages application, requesting the API
+
+The API and the web frontend should be two different projects, they can be contained within the same solution (.sln), everything should be within the provided GitHub repo.
+
+![Project overview](assets\images\spacepark-solution1.png)
 
 You should use the Starwars Web API: [swapi.dev](https://swapi.dev/), to test if a visitor is part of a starwars movie and lists of the starwars you are not allowed to cache the data from the API, which mean that you will need to request the API each time you need to fetch data.
+
+And remember to create unit tests, where possible.
+
+## Technology stack
+
+* All hosting should be within Microsoft Azure
+* All projects should be .NET Core
+* Code and [documentation](#Hand in) should be in GitHub
+* Pipelines should be configured in Azure DevOps (sadly the free limit is 5 users per Azure Devops project)
+* The following technologies **should** be used:
+  * Docker Containers
+  * Azure DevOps pipeline (CI and/or CD)
+* The following technologies is optional to use:
+  * Kubernetes
+
+### Hints
+
+* Shut down all azure resources when not using them, to minimize the cost of the application
+* Refactor all the time!!
+* Write down your findings and learning, both positive and negative.
+
+### Starwars API hints
 
 A recommendation (but no requirement) is to use the Nuget package [RestSharp](http://restsharp.org/) for querying the API. You will need to implement the classes to be used by the build-in ORM in RestSharp.
 
@@ -62,22 +92,7 @@ foreach (var p in peopleResponse.Data.Results)
 
 All request to the Starwars API should (unlike the example above) be made asynchronous.
 
-And remember to create unit tests, where possible.
 
-## Technology stack
-
-* All hosting should be within Microsoft Azure. 
-* All projects should be .NET Core
-* Code and [documentation](#Hand in) should be in GitHub
-* Pipelines should be configured in Azure DevOps, sadly the free limit is 5 users per Azure Devops project.
-
-### Hints
-
-Shut down all azure resources when not using them, to minimize the cost of the application
-
-Refactor all the time!!
-
-Write down your findings and learning, both positive and negative.
 
 # Getting started
 
@@ -112,7 +127,7 @@ All documentation should be written using markdown (.md), you are free to choose
 
 **Automation**
 
-Automate as much as possible through containers (DockeR), IaC (Pulumi) and scripts.
+Automate as much as possible through containers (Docker), IaC (Pulumi) and scripts.
 
 Store the automation in the git repository.
 
