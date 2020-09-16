@@ -2,15 +2,6 @@
 
 *Lektion 7 av 12, måndag den 21:a september 2020*
 
-![Draft](/assets/images/draft.png)
-
-**Draft status**:
-
-* Lektionsplan: 80% klar
-* Lektionsteori: 80% klar
-* Bakgrunds litteratur: 40% klar
-* Uppgifter: 0% klar
-
 Målet med denna lektion är lära hur man i molnet (med utgångspunkt i Azure) kan bygga upp virtuella nätverk, så att man där igenom kan bygga komplexa lösningar och öka säkerheten.
 
 ## Lektionsplan
@@ -32,7 +23,7 @@ Lunch 12:00 till 13:00
 * 16:30 <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/discord18.png" alt="Discord"/> Landing card, PM på Discord
 
 # Lektionsteori
-*Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
+*Detta är material (artiklar, videor, bloggs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
 
 ## Enterprise bus / Service bus
 
@@ -83,13 +74,13 @@ Lunch 12:00 till 13:00
 
 <span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (15 min), wikipedia: [Enterprise service bus](https://en.wikipedia.org/wiki/Enterprise_service_bus)
 
-### Azure Service Bus
-
 ### Azure Queue Storage
 
 <span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Video (22 min): [Azure Queue Storage Tutorial](https://www.youtube.com/watch?v=JQ6KhjU5Zsg)
 
 ## Virtual Network
+
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Artikel (8 min): [Azure VPN gateway](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways)
 
 <span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (11 min): [Virtual Private Cloud (VPC)](https://www.ibm.com/cloud/learn/vpc)
 
@@ -97,26 +88,50 @@ Lunch 12:00 till 13:00
 
 <span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Artikel (12 min): [Azure vs AWS — Difference between Azure Virtual Network (VNet) and AWS Virtual Private Cloud (VPC)](https://medium.com/awesome-azure/azure-vs-aws-difference-between-azure-virtual-network-vnet-and-aws-virtual-private-cloud-vpc-2e8debc3290e)
 
-<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artiekl (12 min): [Use virtual network service endpoints and rules for servers in Azure SQL Database](https://docs.microsoft.com/en-us/azure/azure-sql/database/vnet-service-endpoint-rule-overview)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (12 min): [Use virtual network service endpoints and rules for servers in Azure SQL Database](https://docs.microsoft.com/en-us/azure/azure-sql/database/vnet-service-endpoint-rule-overview)
 
 <span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (7 min): [How to create a cloud-based virtual network in Microsoft Azure](https://www.techrepublic.com/article/how-to-create-a-cloud-based-virtual-network-in-microsoft-azure/)
 
-### Private Link in azure
+### Private Link in azure / Private PaaS
 
 <span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (7 min): [Azure Private Link for Azure SQL Database](https://docs.microsoft.com/en-us/azure/azure-sql/database/private-endpoint-overview)
 
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Video (12 min): [Azure Virtual Network Service Endpoints](https://www.youtube.com/watch?v=gxsitRRgylI)
+
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Video (11 min): [Azure Private Endpoint & Private Link](https://www.youtube.com/watch?v=vVDql7IKneg)
+
 <span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Video (16 min): [How to connect and deliver services privately on Azure with Azure Private Link ](https://www.youtube.com/watch?v=AZ0iFcyPDkc)
+
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Video (31 min): [Private connectivity to Azure PaaS services using Private Link](https://www.youtube.com/watch?v=aVFV1_ZwAEY)
 
 # Buddy uppgifter
 
 ## Dagens blogg
 
-* Ge minst två pris ekempler på vad det koster att ha en webb applikation i Azure
-* Skriv en tutorial vart ni tar utgångspunkt i övning 1
+* Skriv en blogg baserat på Övning 2
 
 *OBS* Akta vad ni skriver i eran blogg, så att ni inte skriver lösenord etc.
 
 Namnge dagens blogg *07.md*, ni får själv välja om ni vill ha en stor blogg som innehåller alla dagens övningar, eller om ni delar upp den i fler delar, i så fall ska ni namnge delarna som: *07a.md*, *07b.md* etc.
 
-# Övning 1: Private link
+# Övning 1: Service bus
 
+Följ denna tutorial för att skåpa en konsol applikation som använder Azure Service Bus : [Get started with Service Bus queues](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-dotnet-get-started-with-queues)
+
+Denna övning ska **inte** vara i eran blog.
+
+# Övning 2: Private link
+
+*Denna övning är av teoretisk karaktär. Och resultat ska ni beskriva i eran blogg*
+
+Ni jobbar i ett företag som har en intern applikation som ni gärna vill modernisera, denna interna applikation använder tillgång till interna server och resurser, och jobbar med klassificerade data som inte får öppet skickas via nätat, och därför är det i följa din CTO inte möjligt att använda en PaaS moln-lösning.
+
+Ett viktigt punkt i modernisering är att implementera en enterprise bus, och ni vill gärna använda er av Azure Service Bus, men tyvär säger eran CTO säger "nej", på grund av data inte får skickas öppet.
+
+Skriv (i eran blogg) ett argument till eran CTO som förklara och övertyga hen om att ni med hjälp av ett Azure Private Link kan använda Azure Service Bus i eran interna applikation. Förklara begrepp som Virtual Private Cloud i eran förklaring.
+
+Om ni lyckas att övertyga eran CTO till att tillåta att ni använder Azure Service Bus, kommer ni i framtiden att kunna använda andra Azure PaaS tjänster (vilket gör livet som utvecklare mycket bättre) :-)
+
+**Hints**:
+
+* [Connect an on-premises network to a Microsoft Azure virtual network](https://docs.microsoft.com/en-us/microsoft-365/enterprise/connect-an-on-premises-network-to-a-microsoft-azure-virtual-network?view=o365-worldwide)
