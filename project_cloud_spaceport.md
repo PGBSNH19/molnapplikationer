@@ -28,7 +28,7 @@ The main focus on this solution is the cloud parts, more than it's the applicati
 
 ## The cloud solution (the important part)
 
-You are free to use IaaS offerings like virtual machines and PaaS offerings like App Service and Azure Functions, you just need to justify your choice based on cost, flexibility, vendor lock-in, stability, maintainability etc.
+You are free to use IaaS offerings like virtual machines and PaaS offerings like App Service and Azure Functions, you just need to justify your choice based on cost, flexibility, vendor lock-in, stability, maintainability, scalability etc.
 
 The database could be an Azure service like Azure SQL Server, Azure MariaDB or Azure CosmosDB (or maybe a combination of these).
 
@@ -52,7 +52,7 @@ The API and the web frontend should be two different projects, they can be conta
 
 ![Project overview](assets\images\spacepark-solution1.png)
 
-You should use the Starwars Web API: [swapi.dev](https://swapi.dev/), to test if a visitor is part of a starwars movie and lists of the starwars you are not allowed to cache the data from the API, which mean that you will need to request the API each time you need to fetch data.
+You should use the Starwars Web API: [swapi.dev](https://swapi.dev/), to test if a visitor is part of a Starwars movie and lists of the Starwars you are not allowed to cache the data from the API, which mean that you will need to request the API each time you need to fetch data.
 
 And remember to create unit tests, where possible.
 
@@ -63,8 +63,10 @@ And remember to create unit tests, where possible.
 * Code and [documentation](#Hand in) should be in GitHub
 * Pipelines should be configured in Azure DevOps (sadly the free limit is 5 users per Azure Devops project)
 * The following technologies **should** be used:
-  * Docker Containers
-  * Azure DevOps pipeline (CI and/or CD)
+  * Docker Containers : [lecture 03](lecture_03_containers.md)
+  * Azure DevOps pipeline (CI and/or CD) : [lecture 04](lecture_04_release.md)
+  * At least on Azure DBaaS (SQL server, MariaDB or Cosmos DB) : [lecture 05](lecture_05_databases.md)
+  * ... more to come ;) like private links, service bus, blob storage and monitoring
 * The following technologies is optional to use:
   * Kubernetes
 
@@ -160,7 +162,7 @@ Do as many branches you wish, bur in the end is it ONLY the content of you **mas
 * Pricing estimates
 * **ONE** link the the working application
 * Automated tests
-  * Unit test
+  * Unit test, run them during CI
   * Integration test
   * Functional testing
 * Video presentation of solution
