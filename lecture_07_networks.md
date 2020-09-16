@@ -47,16 +47,17 @@ Lunch 12:00 till 13:00
 
 * Artikel (4 min), Wikipedia: [Virtual private cloud](https://en.wikipedia.org/wiki/Virtual_private_cloud)
 * Video (5 min): [What is a Virtual Private Cloud?](https://www.youtube.com/watch?v=NbkPRn1mqlU)
+* Video (12 min): [Private Cloud Rules](https://www.youtube.com/watch?v=Tzqy8lW0bk4)
 
 ### Networking in Azure
 
 * Artikel (6 min): [What is Azure Virtual Network?](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview)
 * Artikel (5 min): [What is Azure Private Link?](https://docs.microsoft.com/da-dk/azure/private-link/private-link-overview)
 
-**Total** (91 min):
+**Total** (104 min):
 
 - Artiklar: 8 stk, total 60 min
-- Video: 2 stk, total 31 min
+- Video: 3 stk, total 43 min
 
 ## Bok: Learn Azure In A Month of Lunches
 
@@ -73,6 +74,8 @@ Lunch 12:00 till 13:00
 ## Enterprise service bus
 
 <span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (15 min), wikipedia: [Enterprise service bus](https://en.wikipedia.org/wiki/Enterprise_service_bus)
+
+<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Video (40 min): [Microservices + Events + Docker = A Perfect Trio](https://www.youtube.com/watch?v=sSm2dRarhPo)
 
 ### Azure Queue Storage
 
