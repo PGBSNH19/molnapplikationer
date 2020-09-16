@@ -66,6 +66,10 @@ Artikel (9 min): [Azure hosting recommendations for ASP.NET Core web apps](https
 
 <span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Artikel (10 min): [Azure Function v.s. Web App aka. Serverless v.s. PaaS](https://www.taztopia.com/single-post/2019/07/28/Azure-Function-vs-Web-App-aka-Serverless-vs-PaaS)
 
+## Azure Web Apps
+
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Video (4 min): [Azure App Service Explained](https://www.youtube.com/watch?v=iSzez17lMuQ)
+
 ## Azure Web Apps for containers
 
 <span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (8 min): [Run a custom container in Azure](https://docs.microsoft.com/en-us/azure/app-service/quickstart-custom-container?pivots=container-linux)

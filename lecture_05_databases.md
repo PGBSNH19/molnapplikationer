@@ -1,6 +1,6 @@
 # Databaser i molnet
 
-Lektion 5 av 12, måndag den 14:e september 2020
+*Lektion 5 av 12, måndag den 14:e september 2020*
 
 Målet med denna lektion är att lära hur man kan spara strukturerat data i molnet (med utgångspunkt i Azure) i t.ex. en databas. Det kunna vara båda en SQL eller en no-SQL.
 
