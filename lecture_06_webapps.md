@@ -102,6 +102,12 @@ Artikel (9 min): [Azure hosting recommendations for ASP.NET Core web apps](https
 
 <span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Artikel (13 min): [Microservice Architecture](https://microservices.io/patterns/microservices.html)
 
+[Microservices a definition of this new architectural term](https://martinfowler.com/articles/microservices.html)
+
+[Conway's law](https://en.wikipedia.org/wiki/Conway%27s_law)
+
+[What is a Monolith?](http://www.codingthearchitecture.com/2014/11/19/what_is_a_monolith.html)
+
 # Buddy uppgifter
 
 ## Dagens blogg
