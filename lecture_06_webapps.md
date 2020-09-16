@@ -112,7 +112,11 @@ Ta fram prisen per månad för olika sätt att deploya en webbsida i Azure, anv�
 * Virtuell Maskin
 * App Service
 * Azure Container Instance
-* Kubernetes
+* Trafik
+
+Hints:
+
+* [Bandwidth Calculator](https://www.calculator.net/bandwidth-calculator.html)
 
 # Övning 2: Website i Azure
 
