@@ -1,6 +1,6 @@
 # Nätverk i molnet
 
-Lektion 7 av 12, måndag den 21:a september 2020
+*Lektion 7 av 12, måndag den 21:a september 2020*
 
 ![Draft](/assets/images/draft.png)
 
