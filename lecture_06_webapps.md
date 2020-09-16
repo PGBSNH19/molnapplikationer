@@ -98,6 +98,10 @@ Artikel (9 min): [Azure hosting recommendations for ASP.NET Core web apps](https
 
 <span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (8 min): [Running Azure Functions in a Docker Container: A Beginner’s Guide](https://medium.com/faun/running-azure-functions-in-a-docker-container-a-beginners-guide-f921c150eab4)
 
+## Microservices - Arkitektur
+
+<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Artikel (13 min): [Microservice Architecture](https://microservices.io/patterns/microservices.html)
+
 # Buddy uppgifter
 
 ## Dagens blogg
