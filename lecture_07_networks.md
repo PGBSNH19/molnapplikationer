@@ -135,6 +135,12 @@ Skriv (i eran blogg) ett argument till eran CTO som förklara och övertyga hen 
 
 Om ni lyckas att övertyga eran CTO till att tillåta att ni använder Azure Service Bus, kommer ni i framtiden att kunna använda andra Azure PaaS tjänster (vilket gör livet som utvecklare mycket bättre) :-)
 
+Fakta om eran CTO, hen är:
+
+* inte så svår att övertyga, om bara ni använder fakta
+* visuell och älskar därför diagram och ritningar (men se till att göra egna, använd t.ex. draw.io)
+* fan av teknisk, så var inte rädd om att använda tekniska termer
+
 **Hints**:
 
 * [Connect an on-premises network to a Microsoft Azure virtual network](https://docs.microsoft.com/en-us/microsoft-365/enterprise/connect-an-on-premises-network-to-a-microsoft-azure-virtual-network?view=o365-worldwide)
