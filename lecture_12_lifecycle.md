@@ -62,6 +62,11 @@ https://12factor.net/
      
      https://guru8.net/2019/04/what-are-the-best-practices-for-software-development-lifecycle/
 
+**Total** (0 min):
+
+- Artiklar: 0 stk, total 0 min
+- Video: 0 stk, total 0 min
+
 ## Bok: Learn Azure In A Month of Lunches
 
 *Detta är vilka delar av den frivilliga [bok (Learn Azure In A Month of Lunches)](info_learningmaterial.md) som är releavant för denna lektion*

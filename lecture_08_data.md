@@ -1,40 +1,56 @@
 # Data i molnet
 
-Lektion 8 av 12, onsdag den 23:e september 2020
+*Lektion 8 av 12, onsdag den 23:e september 2020*
 
 ![Draft](/assets/images/draft.png)
 
 **Draft status**:
 
-* Lektionsplan: 0% klar
-* Lektionsteori: 0% klar
-* Bakgrunds litteratur: 0% klar
-* Uppgifter: 0% klar
+* Lektionsplan: 80% klar
+* Lektionsteori: 60% klar
+* Bakgrunds litteratur: 30% klar
+* Uppgifter: 20% klar
 
 Målet med denna lektion är lära hur man kan spara data i molnet (med utgångspunkt i Azure) och vad som gäller i förhållande till GDPR.
 
 ## Lektionsplan
 Lektion från kl. 8:30 till kl. 16:30
 
-* x
+* 8:30 <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/teams18.png"  alt="Teams"/> Uppsamling från förra lektion (Nätverk i molnet)
+  * <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/discord18.png" alt="Discord"/> Boarding card, PM på Discord
+* 9:15 <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/teams18.png"  alt="Teams"/> Presentation av dagens teori: 
+  * GDPR
+  * Azure storage
+* 10:00 <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/discord18.png" alt="Discord"/>[Buddy uppgifter](#Buddy uppgifter)
 
 Lunch 12:00 till 13:00
 
-* x
+* 13:00 <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/teams18.png" alt="Teams"/> Samling: SpacePark-projekt
+* 13:15 <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/discord18.png" alt="Discord"/> SpacePark-projekt
+* 16:30 <img style="margin-right:0.5em;" src="C:/Github/molnapplikationer/assets/images/discord18.png" alt="Discord"/> Landing card, PM på Discord
 
 # Lektionsteori
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
 
-* GDPR
-  * https://www.datainspektionen.se/lagar--regler/dataskyddsforordningen/
-* Azure storage
-  * https://azure.microsoft.com/en-us/product-categories/storage/
-  * https://azure.microsoft.com/en-us/services/storage/
-  * Video (4 min):[How to use blob versioning](https://www.youtube.com/watch?v=m7e9h1gedWQ)
-* Redis
-  * https://en.wikipedia.org/wiki/Redis
+## GDPR
 
-video 5 min How to create a storage account and upload a blob https://www.youtube.com/watch?v=UJG6viKU_A8
+* Video (3 min): [Introduktion till Dataskyddsförordningen/GDPR](https://www.youtube.com/watch?v=_xGYg33mh2U)
+
+* Artikel (13 min): [Dataskyddsförordningens grundläggande principer](https://www.datainspektionen.se/lagar--regler/dataskyddsforordningen/grundlaggande-principer/)
+
+
+
+## Azure storage
+
+* Artikel (2 min): [Azure Storage Overview](https://azure.microsoft.com/en-us/product-categories/storage/)
+* Video (20 min): [Storage Services; Blob, Queue, Table, Files, Disk Storage and Storage Tiers](https://www.youtube.com/watch?v=_Qlkvd4ZQuo)
+
+
+
+**Total** (0 min):
+
+- Artiklar: 0 stk, total 0 min
+- Video: 0 stk, total 0 min
 
 ## Bok: Learn Azure In A Month of Lunches
 
@@ -46,10 +62,49 @@ video 5 min How to create a storage account and upload a blob https://www.youtub
 
 *Detta är material som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
 
-* https://www.youtube.com/watch?v=UzTtastcBskTBD
-* https://www.youtube.com/watch?v=BCzeb0IAy2k
-* https://www.youtube.com/watch?v=_Qlkvd4ZQuo
+## GDPR
 
-# Exemplar och övningar. 
+* Artikelserie: [Dataskyddsförordningen (GDPR)](https://www.datainspektionen.se/lagar--regler/dataskyddsforordningen/)
 
-Detta är övningar som du äntligen gör själv, i grupp eller i plenum tillsammans med hela klassen
+* Artikel (7 min): [What Happens When You ‘Delete’ Something On The Internet](https://www.techworm.net/2016/04/happens-delete-something-internet.html)
+
+## Azure Storage
+
+* Video (22 min): [Azure Files Tutorial; Easy file shares in the cloud](https://www.youtube.com/watch?v=BCzeb0IAy2k)
+* Artikel (15 min): [Storage queues and Service Bus queues - compared and contrasted](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-azure-and-service-bus-queues-compared-contrasted)
+
+## Azure Storage Tools
+
+* Tool: [Azurite](https://github.com/azure/azurite) - Azure storage emulator
+* Artikel (16 min): [Use the Azure Storage Emulator for development and testing](https://docs.microsoft.com/en-us/azure/storage/common/storage-use-emulator)
+* Tool: [Azure Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer/)
+
+### Blob storage
+
+* Video (4 min): [How to use blob versioning](https://www.youtube.com/watch?v=m7e9h1gedWQ)
+
+# Buddy uppgifter
+
+## Dagens blogg
+
+* Skriv en blogg baserat på Övning 1
+
+*OBS* Akta vad ni skriver i eran blogg, så att ni inte skriver lösenord etc.
+
+Namnge dagens blogg *08.md*, ni får själv välja om ni vill ha en stor blogg som innehåller alla dagens övningar, eller om ni delar upp den i fler delar, i så fall ska ni namnge delarna som: *08a.md*, *08b.md* etc.
+
+# Övning 1: Table storage
+
+https://www.c-sharpcorner.com/article/azure-storage-crud-operations-in-mvc-using-c-sharp-azure-table-storage-part-one/
+
+# Övning 2: Blob Storage
+
+Blob storage
+
+
+
+Skåpa en web app som spara i en blob och läser från
+
+https://www.c-sharpcorner.com/article/azure-storage-crud-operations-in-mvc-using-c-sharp-part-two/
+
+Video 5 min [How to create a storage account and upload a blob](https://www.youtube.com/watch?v=UJG6viKU_A8)

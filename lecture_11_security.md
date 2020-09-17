@@ -113,7 +113,10 @@ https://owasp.org/www-project-top-ten/
 
 Video: [Cloud Security: It's Tuesday, Carl](https://www.youtube.com/watch?v=NI-plwor2Xw)
 
+**Total** (0 min):
 
+- Artiklar: 0 stk, total 0 min
+- Video: 0 stk, total 0 min
 
 ## Bok: Learn Azure In A Month of Lunches
 

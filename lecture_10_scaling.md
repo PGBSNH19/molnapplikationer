@@ -30,6 +30,11 @@ Lunch 12:00 till 13:00
 * Scaling out and up
 * https://azure.github.io/AppService/2020/05/15/Robust-Apps-for-the-cloud.html
 
+**Total** (0 min):
+
+- Artiklar: 0 stk, total 0 min
+- Video: 0 stk, total 0 min
+
 ## Bok: Learn Azure In A Month of Lunches
 
 *Detta är vilka delar av den frivilliga [bok (Learn Azure In A Month of Lunches)](info_learningmaterial.md) som är releavant för denna lektion*
