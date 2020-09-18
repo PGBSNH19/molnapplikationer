@@ -6,12 +6,12 @@
 
 **Draft status**:
 
-* Lektionsplan: 80% klar
-* Lektionsteori: 60% klar
+* Lektionsplan: 100% klar
+* Lektionsteori: 100% klar
 * Bakgrunds litteratur: 30% klar
-* Uppgifter: 20% klar
+* Uppgifter: 100% klar
 
-Målet med denna lektion är lära hur man kan spara data i molnet (med utgångspunkt i Azure) och vad som gäller i förhållande till GDPR.
+Målet med denna lektion är lära hur man kan spara data i molnet (med utgångspunkt i Azure) och vad som gäller i förhållande till data och GDPR.
 
 ## Lektionsplan
 Lektion från kl. 8:30 till kl. 16:30
@@ -35,10 +35,7 @@ Lunch 12:00 till 13:00
 ## GDPR
 
 * Video (3 min): [Introduktion till Dataskyddsförordningen/GDPR](https://www.youtube.com/watch?v=_xGYg33mh2U)
-
 * Artikel (13 min): [Dataskyddsförordningens grundläggande principer](https://www.datainspektionen.se/lagar--regler/dataskyddsforordningen/grundlaggande-principer/)
-
-
 
 ## Azure storage
 
@@ -46,11 +43,10 @@ Lunch 12:00 till 13:00
 * Video (20 min): [Storage Services; Blob, Queue, Table, Files, Disk Storage and Storage Tiers](https://www.youtube.com/watch?v=_Qlkvd4ZQuo)
 
 
+**Total** (38 min):
 
-**Total** (0 min):
-
-- Artiklar: 0 stk, total 0 min
-- Video: 0 stk, total 0 min
+- Artiklar: 2 stk, total 15 min
+- Video: 2 stk, total 23 min
 
 ## Bok: Learn Azure In A Month of Lunches
 
@@ -65,7 +61,6 @@ Lunch 12:00 till 13:00
 ## GDPR
 
 * Artikelserie: [Dataskyddsförordningen (GDPR)](https://www.datainspektionen.se/lagar--regler/dataskyddsforordningen/)
-
 * Artikel (7 min): [What Happens When You ‘Delete’ Something On The Internet](https://www.techworm.net/2016/04/happens-delete-something-internet.html)
 
 ## Azure Storage
@@ -87,7 +82,7 @@ Lunch 12:00 till 13:00
 
 ## Dagens blogg
 
-* Skriv en blogg baserat på Övning 1
+* Skriv en blogg baserat på Övning  2
 
 *OBS* Akta vad ni skriver i eran blogg, så att ni inte skriver lösenord etc.
 
@@ -95,16 +90,25 @@ Namnge dagens blogg *08.md*, ni får själv välja om ni vill ha en stor blogg s
 
 # Övning 1: Table storage
 
-https://www.c-sharpcorner.com/article/azure-storage-crud-operations-in-mvc-using-c-sharp-azure-table-storage-part-one/
+Gå igenneom denna tutorial: [Azure Storage CRUD Operations In MVC Using C# - Azure Table Storage - Part One](https://www.c-sharpcorner.com/article/azure-storage-crud-operations-in-mvc-using-c-sharp-azure-table-storage-part-one/). 
 
-# Övning 2: Blob Storage
+Ni ska inte deploya applikationen till Azure, bare köra den lokalt.
 
-Blob storage
+# Övning 2: Blob storage
 
+## Övning 3a: Konsol applikation
+Gör en konsol applikation som kan ladda upp ett bild till en Azure blob storage.
 
+Testa lokalt med en storage emulator (välj själv emellam [The Microsoft Azure Storage Emulator](https://docs.microsoft.com/en-us/azure/storage/common/storage-use-emulator?toc=/azure/storage/blobs/toc.json) och [Azurite](https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azurite?toc=/azure/storage/blobs/toc.json)), innan ni ansluttar mot Azure.
 
-Skåpa en web app som spara i en blob och läser från
+## Övning 3b: Webb applikation
+Skåpa en web app som läser bilderna som finns i eran blob och visa dom
 
-https://www.c-sharpcorner.com/article/azure-storage-crud-operations-in-mvc-using-c-sharp-part-two/
+Ni behöver inte deploay denna webb app till Azure.
 
-Video 5 min [How to create a storage account and upload a blob](https://www.youtube.com/watch?v=UJG6viKU_A8)
+Lokalt ska webb applikationen jobba mot eran storage emulator.
+
+**Hints**:
+
+* Artikel: [Azure Storage CRUD Operations In MVC Using C# - Azure Blob Storage - Part Two](https://www.c-sharpcorner.com/article/azure-storage-crud-operations-in-mvc-using-c-sharp-part-two/)
+* Video: [How to create a storage account and upload a blob](https://www.youtube.com/watch?v=UJG6viKU_A8)
