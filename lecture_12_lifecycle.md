@@ -27,40 +27,52 @@ Lunch 12:00 till 13:00
 # Lektionsteori
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
 
-Cloud native
 
-https://www.youtube.com/watch?v=gPEcqX9No-M
 
-https://12factor.net/
+The Twelve Factors https://12factor.net/
+
+## Life cycle
+
+Establish cloud governance using Cloud Adoption Framework for Azure https://www.youtube.com/watch?v=gPEcqX9No-M
+
+
 
 * Wikipedia : https://en.wikipedia.org/wiki/Application_lifecycle_management
+
 * [Application Lifecycle Management](https://apprenda.com/library/glossary/a-definition-of-application-lifecycle-management/)
-* https://gevaperry.typepad.com/main/2009/11/application-lifecycle-in-the-cloud.html
-* https://thenewstack.io/cloud-native-application-lifecycle-difference-continuous-change/
-* green cloud
-1. https://bigdataanalyticsnews.com/green-cloud-computing-sustainable-use/
 
-  2. https://www.slideshare.net/bluse2/green-cloud-computing
+* Application Lifecycle in the Cloud https://gevaperry.typepad.com/main/2009/11/application-lifecycle-in-the-cloud.html
 
-  3. https://www.slideshare.net/IamShreyasK/green-cloud-computing-25761737
+* The Cloud-Native Application Lifecycle Difference: Continuous Change https://thenewstack.io/cloud-native-application-lifecycle-difference-continuous-change/
 
-  4. https://ieeexplore.ieee.org/document/8584429
+  The Seven Phases of the System-Development Life Cycle https://www.innovativearchitects.com/KnowledgeCenter/basic-IT-systems/system-development-life-cycle.aspx
 
-  5. http://www.clickclean.org/international/en/
-     
-     1. https://storage.googleapis.com/planet4-international-stateless/2012/04/e7c8ff21-howcleanisyourcloud.pdf
-     
-     https://www.youtube.com/watch?v=F53dcBoTtww
-     
-     https://www.youtube.com/watch?v=oyF6RGKlvi8
-     
-     https://www.youtube.com/watch?v=ZwxWCiW5uO4
-     
-     https://www.innovativearchitects.com/KnowledgeCenter/basic-IT-systems/system-development-life-cycle.aspx
-     
-     https://www.smartsheet.com/system-development-life-cycle-guide
-     
-     https://guru8.net/2019/04/what-are-the-best-practices-for-software-development-lifecycle/
+  The Ultimate Guide to Understanding and Using a System Development Life Cycle https://www.smartsheet.com/system-development-life-cycle-guide
+
+  What Are the Best Practices for Software Development Lifecycle https://guru8.net/2019/04/what-are-the-best-practices-for-software-development-lifecycle/
+## Green cloud
+
+1. Green Cloud Computing – The Sustainable Way to Use the Cloud https://bigdataanalyticsnews.com/green-cloud-computing-sustainable-use/
+
+  2. Green Cloud Computing                https://www.slideshare.net/bluse2/green-cloud-computing
+
+  3. Green cloud computing                https://www.slideshare.net/IamShreyasK/green-cloud-computing-25761737
+
+  4. AI-Powered Green Cloud and Data Center https://ieeexplore.ieee.org/document/8584429
+
+  5. clickclean http://www.clickclean.org/international/en/
+
+     1. How Clean  is Your Cloud? https://storage.googleapis.com/planet4-international-stateless/2012/04/e7c8ff21-howcleanisyourcloud.pdf
+
+     Are tech companies green enough for their workers? https://www.youtube.com/watch?v=F53dcBoTtww
+
+## Next .NET
+
+The journey to one .net ; .Net 5 and beyond ; Microsoft build 2020 https://www.youtube.com/watch?v=oyF6RGKlvi8
+
+What is the Future of .NET? Is .NET Framework Dead? Is .NET Core Dead? https://www.youtube.com/watch?v=ZwxWCiW5uO4
+
+
 
 **Total** (0 min):
 
@@ -80,7 +92,7 @@ https://12factor.net/
 
 *Detta är material som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
 
-* https://www.youtube.com/watch?v=t6m13DxUJMc
+* Azure App Configuration Tutorial https://www.youtube.com/watch?v=t6m13DxUJMc
 * TBD
 
 # Exemplar och övningar. 
