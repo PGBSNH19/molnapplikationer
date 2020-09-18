@@ -119,8 +119,6 @@ Hand in is done through your git repository, the repo should roughly put contain
 
 **Documentation**
 
-There is two kinds of documentation which you need to provide; one is your blog posts and the other describes your solution.
-
 The description of the solution consist of both planning notes, thoughts behind your solution and description the inner working of the solution. All of this should be stored within a git repo. If you use other services provide a link, and some screenshots of the content.
 
 If you are using any kind of external sources (both code and knowledge) make sure to mention this in the documentation.
