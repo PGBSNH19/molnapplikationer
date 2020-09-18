@@ -2,15 +2,6 @@
 
 *Lektion 8 av 12, onsdag den 23:e september 2020*
 
-![Draft](/assets/images/draft.png)
-
-**Draft status**:
-
-* Lektionsplan: 100% klar
-* Lektionsteori: 100% klar
-* Bakgrunds litteratur: 30% klar
-* Uppgifter: 100% klar
-
 Målet med denna lektion är lära hur man kan spara data i molnet (med utgångspunkt i Azure) och vad som gäller i förhållande till data och GDPR.
 
 ## Lektionsplan
@@ -60,23 +51,27 @@ Lunch 12:00 till 13:00
 
 ## GDPR
 
-* Artikelserie: [Dataskyddsförordningen (GDPR)](https://www.datainspektionen.se/lagar--regler/dataskyddsforordningen/)
-* Artikel (7 min): [What Happens When You ‘Delete’ Something On The Internet](https://www.techworm.net/2016/04/happens-delete-something-internet.html)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikelserie: [Dataskyddsförordningen (GDPR)](https://www.datainspektionen.se/lagar--regler/dataskyddsforordningen/)
+
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Artikel (7 min): [What Happens When You ‘Delete’ Something On The Internet](https://www.techworm.net/2016/04/happens-delete-something-internet.html)
 
 ## Azure Storage
 
-* Video (22 min): [Azure Files Tutorial; Easy file shares in the cloud](https://www.youtube.com/watch?v=BCzeb0IAy2k)
-* Artikel (15 min): [Storage queues and Service Bus queues - compared and contrasted](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-azure-and-service-bus-queues-compared-contrasted)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Video (22 min): [Azure Files Tutorial; Easy file shares in the cloud](https://www.youtube.com/watch?v=BCzeb0IAy2k)
+
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Artikel (15 min): [Storage queues and Service Bus queues - compared and contrasted](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-azure-and-service-bus-queues-compared-contrasted)
 
 ## Azure Storage Tools
 
-* Tool: [Azurite](https://github.com/azure/azurite) - Azure storage emulator
-* Artikel (16 min): [Use the Azure Storage Emulator for development and testing](https://docs.microsoft.com/en-us/azure/storage/common/storage-use-emulator)
-* Tool: [Azure Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer/)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Tool: [Azurite](https://github.com/azure/azurite) - Azure storage emulator
+
+<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Artikel (16 min): [Use the Azure Storage Emulator for development and testing](https://docs.microsoft.com/en-us/azure/storage/common/storage-use-emulator) 
+
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Tool: [Azure Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer/)
 
 ### Blob storage
 
-* Video (4 min): [How to use blob versioning](https://www.youtube.com/watch?v=m7e9h1gedWQ)
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Video (4 min): [How to use blob versioning](https://www.youtube.com/watch?v=m7e9h1gedWQ)
 
 # Buddy uppgifter
 
@@ -96,12 +91,12 @@ Ni ska inte deploya applikationen till Azure, bare köra den lokalt.
 
 # Övning 2: Blob storage
 
-## Övning 3a: Konsol applikation
+## Övning 2a: Konsol applikation
 Gör en konsol applikation som kan ladda upp ett bild till en Azure blob storage.
 
 Testa lokalt med en storage emulator (välj själv emellam [The Microsoft Azure Storage Emulator](https://docs.microsoft.com/en-us/azure/storage/common/storage-use-emulator?toc=/azure/storage/blobs/toc.json) och [Azurite](https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azurite?toc=/azure/storage/blobs/toc.json)), innan ni ansluttar mot Azure.
 
-## Övning 3b: Webb applikation
+## Övning 2b: Webb applikation
 Skåpa en web app som läser bilderna som finns i eran blob och visa dom
 
 Ni behöver inte deploay denna webb app till Azure.

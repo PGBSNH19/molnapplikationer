@@ -35,58 +35,56 @@ Lunch 12:00 till 13:00
 
 
 
-https://teachingsecurity.org/lesson-1-the-security-mindset/
+Cybersecurity through Threat Modeling https://teachingsecurity.org/lesson-1-the-security-mindset/
 
 
 Video: [Google Data Center Security: 6 Layers Deep](https://www.youtube.com/watch?v=kd33UVZhnAA)
 
 Video: [Cloud Cybersecurity in Under 5 Minutes](https://www.youtube.com/watch?v=k2684fuzHLs)
 
-https://www.youtube.com/watch?v=fHhNWAKw0bY
+Hacking challenge at DEFCON https://www.youtube.com/watch?v=fHhNWAKw0bY
 
-http://100daysofdevops.com/21-days-of-docker-day-18-docker-security/
+Introducing Joseki: the open-source product to improve cloud infrastructure security https://medium.com/@ihorkliushnikov/introducing-joseki-the-open-source-product-to-improve-cloud-infrastructure-security-fb71d58f41bd
 
-https://medium.com/@ihorkliushnikov/introducing-joseki-the-open-source-product-to-improve-cloud-infrastructure-security-fb71d58f41bd
-
-https://devopsbootcamp.osuosl.org/application-isolation.html
+[Lesson 18: Application Isolation](https://devopsbootcamp.osuosl.org/application-isolation.html) 
 
 ## Containers/ Docker
 
-https://docs.docker.com/docker-hub/publish/certify-images/
+Certify Docker images https://docs.docker.com/docker-hub/publish/certify-images/
 
-https://www.praqma.com/stories/trust-in-docker-images/
+Trust in Docker Images https://www.praqma.com/stories/trust-in-docker-images/
 
-https://docs.microsoft.com/en-us/azure/container-registry/container-registry-content-trust
+Content trust in Azure Container Registry https://docs.microsoft.com/en-us/azure/container-registry/container-registry-content-trust
 
-https://www.docker.com/products/security
+Integrated Container Security at Every Step of the Application Lifecycle https://www.docker.com/products/security
 
-https://blog.container-solutions.com/docker-security-cheat-sheet
+Docker Security Cheat Sheet https://blog.container-solutions.com/docker-security-cheat-sheet
 
-https://www.youtube.com/watch?v=JcuYFQSplvE
+Docker Security • Adrian Mouat https://www.youtube.com/watch?v=JcuYFQSplvE
 
-https://github.com/docker/docker-bench-security
+Github, Docker Bench for Security https://github.com/docker/docker-bench-security
+
+21 Days of Docker-Day 18 : [Docker Security](http://100daysofdevops.com/21-days-of-docker-day-18-docker-security/)
 
 ## Azure
 
-AD
+Introduction to Azure security, 28 min, https://docs.microsoft.com/en-us/azure/security/fundamentals/overview
 
-https://docs.microsoft.com/en-us/azure/security/fundamentals/overview
+Install the SIEM Connector for Cloud App Security https://www.youtube.com/watch?v=0qAHaCLKTIk
 
-https://www.youtube.com/watch?v=0qAHaCLKTIk
+Integrated Management and Security https://www.youtube.com/watch?v=rpOMEa7MBqk
 
-https://www.youtube.com/watch?v=rpOMEa7MBqk
+Azure Essentials: Defense in depth security https://www.youtube.com/watch?v=OTGMi0ksjXY
 
-https://www.youtube.com/watch?v=OTGMi0ksjXY
+What is Azure Databricks? https://docs.microsoft.com/en-us/azure/databricks/scenarios/what-is-azure-databricks
 
-https://docs.microsoft.com/en-us/azure/databricks/scenarios/what-is-azure-databricks
-
-https://www.youtube.com/watch?v=9VzBS4OiP_A
+Azure Databricks Secret Scopes Tutorial  ; Secure your notebook secrets https://www.youtube.com/watch?v=9VzBS4OiP_A
 
 [Azure Key Vault Tutorial; Secure secrets, keys and certificates easily](https://www.youtube.com/watch?v=PgujSug1ZbI)
 
-https://docs.microsoft.com/en-us/azure/security/develop/secure-dev-overview
+Secure development best practices on Azure, 4 min, https://docs.microsoft.com/en-us/azure/security/develop/secure-dev-overview
 
-https://medium.com/@ihorkliushnikov/azure-active-directory-application-or-service-principal-b5a5e14f2a23
+Azure Active Directory: Service Principal or Application? https://medium.com/@ihorkliushnikov/azure-active-directory-application-or-service-principal-b5a5e14f2a23
 
 
 
@@ -94,24 +92,24 @@ https://medium.com/@ihorkliushnikov/azure-active-directory-application-or-servic
 
 Video: [Cloud Access Security Brokers (CASB) in 5 Minutes](https://www.youtube.com/watch?v=qhAC--N6b8w)
 
-https://www.bitglass.com/blog/msft-azure-ad-conditional-access-vs-casb
+MSFT Azure AD Conditional Access vs CASB https://www.bitglass.com/blog/msft-azure-ad-conditional-access-vs-casb
 
-https://www.youtube.com/watch?v=wLsXZ9MzJxY
+Microsoft Cloud App Security (CASB) https://www.youtube.com/watch?v=wLsXZ9MzJxY
 
-https://www.youtube.com/watch?v=Ma7VAQE7ga4
+Azure Active Directory (AD, AAD) Tutorial ; Identity and Access Management Service https://www.youtube.com/watch?v=Ma7VAQE7ga4
 
-https://docs.microsoft.com/en-us/azure/azure-sql/database/authentication-aad-overview
+Use Azure Active Directory authentication, 10 min,  https://docs.microsoft.com/en-us/azure/azure-sql/database/authentication-aad-overview
 
 ## Compliance
 
-https://www.michalsons.com/blog/cloud-compliance/22643
+Cloud Compliance: What you need to know https://www.michalsons.com/blog/cloud-compliance/22643
 
 ## Threats
 
 https://owasp.org/
-https://owasp.org/www-project-top-ten/
+OWASP Top Ten https://owasp.org/www-project-top-ten/
 
-Video: [Cloud Security: It's Tuesday, Carl](https://www.youtube.com/watch?v=NI-plwor2Xw)
+Video, 3min,: [Cloud Security: It's Tuesday, Carl](https://www.youtube.com/watch?v=NI-plwor2Xw)
 
 **Total** (0 min):
 
