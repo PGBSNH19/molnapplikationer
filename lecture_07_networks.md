@@ -36,9 +36,7 @@ Lunch 12:00 till 13:00
 
 * Artikel (18 min): [Networking 101: Ethernet, LANs, and How They Work](https://www.makeuseof.com/tag/networking-101-ethernet-lans-work/)
 * Artikel (12 min): [How VPN Works?](https://medium.com/@zicodeng/how-vpn-works-b7549dcc6ce4)
-
 * Artikel (8 min): [Understanding Firewall Types](https://medium.com/swlh/understanding-firewall-types-4a2869deb687)
-
 * Artikel (4 min): [Firewall in Network Security](https://medium.com/@neil.wilston123/firewall-in-network-security-2a98795fcac1)
 
 ## Virtual Private Cloud
