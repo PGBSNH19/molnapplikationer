@@ -72,6 +72,8 @@ Uppgift/Projekt beskrivning: [SpacePark](project_cloud_spaceport.md),
 
 Förutom dokumentation och kod, producera också en [video presentation](video_presentation.md)
 
+Vid varje lektion (kl 13:00) ska alla grupper delta i en gemensam [standup](project_standup.md)
+
 Deadlines i projektet:
 
 * Video presentation: Måndag den 5:e oktober, 23:55
