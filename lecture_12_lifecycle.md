@@ -68,7 +68,7 @@ Establish cloud governance using Cloud Adoption Framework for Azure https://www.
 
 ## Next .NET
 
-The journey to one .net ; .Net 5 and beyond ; Microsoft build 2020 https://www.youtube.com/watch?v=oyF6RGKlvi8
+Video (88 min): [The journey to one .net ; .Net 5 and beyond ; Microsoft build 2020](https://www.youtube.com/watch?v=oyF6RGKlvi8)
 
 What is the Future of .NET? Is .NET Framework Dead? Is .NET Core Dead? https://www.youtube.com/watch?v=ZwxWCiW5uO4
 
