@@ -77,7 +77,7 @@ Lunch 12:00 till 13:00
 
 <span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Artikel (22 min): [All You Need to Know About UML Diagrams: Types and 5+ Examples](https://tallyfy.com/uml-diagram/)
 
-<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Official website: [uml.org](https://www.uml.org/)
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>OMG specifikation: [Unified Modeling Language 2.5.1](https://www.omg.org/spec/UML/2.5.1)
 
 <span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span> Artikel (8 min): [UML 2.0 Deployment Diagrams](http://www.newthinktank.com/2012/11/uml-2-0-deployment-diagrams/) - se speciellt [cheat sheet](http://www.newthinktank.com/wp-content/uploads/2012/11/UML-Deployment-Diagram-Cheat-Sheet.png)
 
