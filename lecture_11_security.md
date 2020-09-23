@@ -86,7 +86,7 @@ Secure development best practices on Azure, 4 min, https://docs.microsoft.com/en
 
 Azure Active Directory: Service Principal or Application? https://medium.com/@ihorkliushnikov/azure-active-directory-application-or-service-principal-b5a5e14f2a23
 
-
+https://azure.microsoft.com/en-us/services/security-center/
 
 ## CASB / AD
 

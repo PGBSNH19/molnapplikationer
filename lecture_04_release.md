@@ -82,7 +82,15 @@ Lunch 12:00 till 13:00
 
 ### Pipelines
 
+<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Artikel (4 min): [Key concepts for new Azure Pipelines users](https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/key-pipelines-concepts?view=azure-devops)
+
 <span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (2 min): [What is Azure Pipelines?](https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/what-is-azure-pipelines?view=azure-devops)
+
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span> Artikel (40 min): Azure DevOps Pipeline: [YAML schema reference](https://docs.microsoft.com/en-us/azure/devops/pipelines/yaml-schema?view=azure-devops)
+
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span> Artikel (15 min): [Build and release tasks](https://docs.microsoft.com/en-us/azure/devops/pipelines/tasks/?view=azure-devops)
+
+* Github repo: [Azure Pipelines Tasks](https://github.com/microsoft/azure-pipelines-tasks)
 
 <span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Tutorial (4 min): Microsoft [DevOps build and deploy image](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/containers/build-image?view=azure-devops)
 

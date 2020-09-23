@@ -53,6 +53,8 @@ Lunch 12:00 till 13:00
 
 <span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikelserie: [Dataskyddsförordningen (GDPR)](https://www.datainspektionen.se/lagar--regler/dataskyddsforordningen/)
 
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>[GDPR Developer Guide](https://lincnil.github.io/GDPR-Developer-Guide)
+
 <span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Artikel (7 min): [What Happens When You ‘Delete’ Something On The Internet](https://www.techworm.net/2016/04/happens-delete-something-internet.html)
 
 ## Azure Storage
