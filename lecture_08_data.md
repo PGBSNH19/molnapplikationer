@@ -126,6 +126,10 @@ Gör en konsol applikation som kan ladda upp ett bild till en Azure blob storage
 
 Testa lokalt med en storage emulator (välj själv emellam [The Microsoft Azure Storage Emulator](https://docs.microsoft.com/en-us/azure/storage/common/storage-use-emulator?toc=/azure/storage/blobs/toc.json) och [Azurite](https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azurite?toc=/azure/storage/blobs/toc.json)), innan ni ansluttar mot Azure.
 
+Hints:
+
+* [Azure Blob Storage using a .NET Core Console Application](https://medium.com/@rammonzito/azure-blob-storage-using-a-net-core-console-application-106a0c2e6de5)
+
 ## Övning 2b: Webb applikation
 Skåpa en web app som läser bilderna som finns i eran blob och visa dom
 
