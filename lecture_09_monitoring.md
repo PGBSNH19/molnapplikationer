@@ -54,6 +54,8 @@ Lunch 12:00 till 13:00
   https://stackify.com/telemetry-tutorial/
   
   https://powerapps.microsoft.com/fr-fr/blog/log-telemetry-for-your-apps-using-azure-application-insights/
+  
+  https://docs.microsoft.com/en-us/azure/azure-monitor/app/api-custom-events-metrics
 
 ### Logging och felsökning
 
@@ -65,7 +67,10 @@ Lunch 12:00 till 13:00
 * [Logging in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging/?tabs=aspnetcore2x)
 * [Using SEQ with .NET Core](https://docs.getseq.net/docs/using-aspnet-core)
 
-
+* [Logging Best Practices: The 13 You Should Know](https://www.scalyr.com/blog/the-10-comm
+  andments-of-logging/)
+* Microsoft: [Logging](https://docs.microsoft.com/en-us/ef/core/miscellaneous/logging?tabs
+  =v3) - Entity Framework Core
 
 
 
