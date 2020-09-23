@@ -25,7 +25,11 @@ Lunch 12:00 till 13:00
 # Lektionsteori
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
 
-* TBD
+
+
+* https://docs.microsoft.com/en-us/azure/azure-monitor/overview
+
+* https://docs.microsoft.com/en-us/azure/azure-monitor/learn/dotnetcore-quick-start
 
 * https://docs.microsoft.com/en-us/azure/azure-monitor/platform/data-platform
 
@@ -39,9 +43,33 @@ Lunch 12:00 till 13:00
 
 * https://www.app-metrics.io/
 
+* https://www.youtube.com/watch?v=A0jAeGf2zUQ
+
 * logging
 
   * https://12factor.net/logs
+  
+  https://devblogs.microsoft.com/premier-developer/application-insights-use-case-for-telemetryclient-flush-calls/
+  
+  https://stackify.com/telemetry-tutorial/
+  
+  https://powerapps.microsoft.com/fr-fr/blog/log-telemetry-for-your-apps-using-azure-application-insights/
+
+### Logging och felsökning
+
+* [How Logging Made me a Better Developer](http://vasir.net/blog/development/how-logging-made-me-a-better-developer)
+* [The 10 commandments of logging](http://www.masterzen.fr/2013/01/13/the-10-commandments-of-logging/)
+
+* [Smart Logging Middleware for ASP.NET Core](https://blog.getseq.net/smart-logging-middleware-for-asp-net-core/)
+* [Kursbok](book.md): Kapitel 17 : Monitoring and troubleshooting errors with logging
+* [Logging in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging/?tabs=aspnetcore2x)
+* [Using SEQ with .NET Core](https://docs.getseq.net/docs/using-aspnet-core)
+
+
+
+
+
+
 
 **Total** (0 min):
 
@@ -52,7 +80,8 @@ Lunch 12:00 till 13:00
 
 *Detta är vilka delar av den frivilliga [bok (Learn Azure In A Month of Lunches)](info_learningmaterial.md) som är releavant för denna lektion*
 
-* Kapitel 9 (sida 175 till 188) - Monitoring and troubleshooting
+* Kapitel 3.3 (Sida 42 till 44) - Viewing diagnosic logs (of App Service)
+* Kapitel 9 (sida 175 till 188) - Monitoring and troubleshootings
 
 # Bakgrundsmaterial
 
@@ -64,3 +93,9 @@ Lunch 12:00 till 13:00
 # Exemplar och övningar. 
 
 Detta är övningar som du äntligen gör själv, i grupp eller i plenum tillsammans med hela klassen
+
+https://cmatskas.com/application-logging-to-azure-using-serilog/
+
+https://ml-software.ch/posts/writing-to-azure-diagnostics-log-stream-using-serilog
+
+https://www.youtube.com/watch?v=iTRILNstmFI
