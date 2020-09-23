@@ -93,6 +93,8 @@ Lunch 12:00 till 13:00
 
 <span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Artikel (25 min), MDN: [Cross-Origin Resource Sharing (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (9 min), Codecademy: [What is CORS?](https://www.codecademy.com/articles/what-is-cors)
+
 <span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (33 min), Microsoft: [Enable Cross-Origin Requests (CORS) in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/cors)
 
 <span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>För andra system än ASP.NET Core: [Enable cross-origin resource sharing](https://enable-cors.org/)
