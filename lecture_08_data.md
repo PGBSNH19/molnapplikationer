@@ -89,6 +89,13 @@ Lunch 12:00 till 13:00
 
 <span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Video (13 min): [UML Use Case Diagram Tutorial](https://www.youtube.com/watch?v=zid-MVo7M-E)
 
+## Cross-Origin Resource Sharing (CORS)
+
+* Artikel (25 min), MDN: [Cross-Origin Resource Sharing (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+* Artikel (33 min), Microsoft: [Enable Cross-Origin Requests (CORS) in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/cors)
+* För andra system än ASP.NET Core: [Enable cross-origin resource sharing](https://enable-cors.org/)
+* CORS i Node.js: [cors middelware](https://expressjs.com/en/resources/middleware/cors.html)
+
 # Buddy uppgifter
 
 ## Dagens blogg
