@@ -44,7 +44,7 @@
 
 * [Getting Started with GitHub Pages](https://guides.github.com/features/pages/)
 * [Jekyll](https://jekyllrb.com/)
-* [GitHub Pages with Jekyll: Scratch up your own blog](https://swatij.me/tutorials/github-pages-with-jekyll)
+* [GitHub Pages with Jekyll: Scratch up your own blog](https://www.zeolearn.com/magazine/github-pages-with-jekyll-scratch-up-your-own-blog)
 * [Blogging on GitHub Pages: The Pros and Cons](https://bloggingpro.com/archives/2018/04/04/42537/)
 
 ### Codespaces
