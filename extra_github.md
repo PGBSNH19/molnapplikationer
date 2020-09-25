@@ -8,22 +8,16 @@
 
 * Bok: [Pro Git](https://git-scm.com/book/en/v2)
 * Video (34 min): Computer Stuff They Didn't Teach You - [Git 101 Basics](https://www.youtube.com/watch?v=WBg9mlpzEYU)
-
 * [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 * [A useful template for commit messages](https://codeinthehole.com/tips/a-useful-template-for-commit-messages/)
 
 ## GitHub
 
 * Video: [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
-
 * GitHub konferens, online: [GitHub Satellite 2020](https://githubsatellite.com/watch/)
-
 * Artikel från 2013, The New Yorker: [The Software That Builds Software](https://www.newyorker.com/tech/annals-of-technology/the-software-that-builds-software)
-
 * Artikel: [Tools of the trade: How I communicate at GitHub (and why)](https://ben.balter.com/2020/08/14/tools-of-the-trade/)
-
 * Video (22 min): Computer Stuff They Didn't Teach You - [Git Pull Requests explained](https://www.youtube.com/watch?v=Mfz8NQncwiQ)
-
 * Artikel: [Be Social](https://guides.github.com/activities/socialize/) on GitHub
 
 ### Profile
@@ -35,7 +29,6 @@
 ### Gist
 
 * [Creating gists](https://docs.github.com/en/github/writing-on-github/creating-gists)
-
 * [Little Known Ways To Utilize GitHub Gists](https://www.liquidweb.com/kb/little-known-ways-to-utilize-github-gists/)
 * [Bl.ocks](https://bl.ocks.org/-/about) - sida som kan visa en snygg variant av din gist
 * [Jekyll::Gist](https://github.com/jekyll/jekyll-gist) - displaying GitHub Gists in Jekyll site
@@ -57,9 +50,7 @@
 
 * Podcast : [JSJ 431: Personal Branding for Developers with Morad Stern](https://devchat.tv/js-jabber/jsj-431-personal-branding-for-developers-with-morad-stern/) 
   * Direct link - [listen](https://media.devchat.tv/js-jabber/JSJ_431_Morad_Stern.mp3)
-
 * Artikel: [Personal Branding as a Developer: Your Github Profile Matters More Than You Think](https://medium.com/better-programming/personal-branding-as-a-developer-why-your-github-profile-matters-more-than-you-think-c4367c0f4db1) - du kan behöve att inläsa denna i incognito mode i din webbläser
-
 * [How to Brand Yourself as a Freelance Developer in 2019 (and Beyond)](https://www.freecodecamp.org/news/how-to-brand-yourself-as-a-freelance-developer-in-2019-and-beyond-78a5d58ecd29/)
 
 ## Extras
