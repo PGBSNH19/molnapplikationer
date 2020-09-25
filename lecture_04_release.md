@@ -130,6 +130,7 @@ Hints för 1a + 1b:
 * Artikel (7 min): [How to create and configure Azure DevOps Pipelines Agent](https://itnext.io/how-to-create-and-configure-azure-devops-pipelines-agent-88848763f109)
 * Tutorial (10 min): [Continuous integration and deployment](https://docs.microsoft.com/en-us/aspnet/core/azure/devops/cicd?view=aspnetcore-3.1)
 * Tutorial (17 min): [3 Ways to run Automated Tests on Azure DevOps](https://blog.techfabric.io/3-ways-to-run-automated-tests-on-azure-devops/)
+* Artikel (12 min): [Build Your First CI/CD Pipeline using Azure DevOps](https://cloudskills.io/blog/azure-devops-pipeline)
 
 ## Övning 1a: Bygg
 

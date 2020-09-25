@@ -25,6 +25,12 @@ Lunch 12:00 till 13:00
 # Lektionsteori
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
 
+Build measure learn!
+
+https://www.cleverism.com/how-build-measure-learn-cycle-really-works/
+
+https://www.mindtools.com/pages/article/build-measure-learn.htm
+
 
 
 * https://docs.microsoft.com/en-us/azure/azure-monitor/overview
@@ -58,6 +64,8 @@ Lunch 12:00 till 13:00
   https://docs.microsoft.com/en-us/azure/azure-monitor/app/api-custom-events-metrics
 
 ### Logging och felsökning
+
+https://docs.microsoft.com/en-us/azure/container-instances/container-instances-log-analytics
 
 * [How Logging Made me a Better Developer](http://vasir.net/blog/development/how-logging-made-me-a-better-developer)
 * [The 10 commandments of logging](http://www.masterzen.fr/2013/01/13/the-10-commandments-of-logging/)
