@@ -7,6 +7,7 @@
 ## Git
 
 * Bok: [Pro Git](https://git-scm.com/book/en/v2)
+* [Wtf is git?](https://dev.to/johannestegner/wtf-is-git-5eh3)
 * Video (34 min): Computer Stuff They Didn't Teach You - [Git 101 Basics](https://www.youtube.com/watch?v=WBg9mlpzEYU)
 * [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 * [A useful template for commit messages](https://codeinthehole.com/tips/a-useful-template-for-commit-messages/)
@@ -19,6 +20,7 @@
 * Artikel: [Tools of the trade: How I communicate at GitHub (and why)](https://ben.balter.com/2020/08/14/tools-of-the-trade/)
 * Video (22 min): Computer Stuff They Didn't Teach You - [Git Pull Requests explained](https://www.youtube.com/watch?v=Mfz8NQncwiQ)
 * Artikel: [Be Social](https://guides.github.com/activities/socialize/) on GitHub
+* [Understanding the GitHub flow](https://guides.github.com/introduction/flow/) - interaktiv förklaring av GitHub flow
 
 ### Profile
 
