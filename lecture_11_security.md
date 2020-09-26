@@ -98,6 +98,8 @@ https://azure.microsoft.com/en-us/services/security-center/
 
 https://damienbod.com/2020/07/20/using-key-vault-and-managed-identities-with-azure-functions/
 
+https://devblogs.microsoft.com/dotnet/storing-and-using-secrets-in-azure/
+
 ## CASB / AD
 
 Video: [Cloud Access Security Brokers (CASB) in 5 Minutes](https://www.youtube.com/watch?v=qhAC--N6b8w)
