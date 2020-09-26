@@ -6,9 +6,9 @@
 
 **Draft status**:
 
-* Lektionsplan: 90% klar
-* Lektionsteori: 95% klar
-* Bakgrunds litteratur: 50% klar
+* Lektionsplan: 100% klar
+* Lektionsteori: 100% klar
+* Bakgrunds litteratur: 80% klar
 * Uppgifter: 20% klar
 
 Målet med denna lektion är att lära hur man kan monitorera/övervaka en molnlösning (med utgångspunkt i Azure). Hur vet man om alt funkar som det ska, vad applikationen kostar och hur mycket last man har på sin applikation.
@@ -37,21 +37,22 @@ Lunch 12:00 till 13:00
 
 * Artikel (23 min): [Logging Best Practices: The 13 You Should Know](https://www.scalyr.com/blog/the-10-commandments-of-logging/)
 * Artikel (3 min), The Twelve Factor App: [Logs](https://12factor.net/logs)
+* Artikel (22 min): [Logging in C# .NET Modern-day Practices: The Complete Guide](https://michaelscodingspot.com/logging-in-dotnet/)
 
 ## Build measure learn!
 
 * Artikel (9 min): [The Build-Measure-Learn Feedback Loop](https://www.mindtools.com/pages/article/build-measure-learn.htm)
-
 * Artikel (6 min): [What Is Telemetry?](https://stackify.com/telemetry-tutorial/) 
 
 ## Monitoring i Azure
 
 * Artikel (9 min): [Azure Monitor overview](https://docs.microsoft.com/en-us/azure/azure-monitor/overview)
+* Video (34 min): [Azure Application Insights Tutorial](https://www.youtube.com/watch?v=A0jAeGf2zUQ)
 
-**Total** (41 min):
+**Total** (106 min):
 
-- Artiklar: 5 stk, total 50 min
-- Video: 0 stk, total 0 min
+- Artiklar: 6 stk, total 72 min
+- Video: 1 stk, total 34 min
 
 ## Bok: Learn Azure In A Month of Lunches
 
@@ -66,42 +67,45 @@ Lunch 12:00 till 13:00
 
 ## Logging
 
-Artikel: [DevOps Handbook Summary 2 of 4 - The Second Way](https://agilejazz.blogspot.com/p/the-devops-handbook-summary-2-of-4.html)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (11 min): [DevOps Handbook Summary 2 of 4 - The Second Way](https://agilejazz.blogspot.com/p/the-devops-handbook-summary-2-of-4.html)
 
-Artikel (16 min): [How The Build-Measure-Learn Cycle Really Works](https://www.cleverism.com/how-build-measure-learn-cycle-really-works/)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (16 min): [How The Build-Measure-Learn Cycle Really Works](https://www.cleverism.com/how-build-measure-learn-cycle-really-works/)
 
-Artikel: [Container group and instance logging with Azure Monitor logs](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-log-analytics)
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Artikel (4 min): [Container group and instance logging with Azure Monitor logs](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-log-analytics)
 
-Artikel: [How Logging Made me a Better Developer](http://vasir.net/blog/development/how-logging-made-me-a-better-developer)
+<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Artikel (11 min): [How Logging Made me a Better Developer](http://vasir.net/blog/development/how-logging-made-me-a-better-developer)
 
-Artikel: [The 10 commandments of logging](http://www.masterzen.fr/2013/01/13/the-10-commandments-of-logging/)
-
-Microsoft: [Logging](https://docs.microsoft.com/en-us/ef/core/miscellaneous/logging?tabs
-=v3) - Entity Framework Core
+<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Artikel (14 min): [The 10 commandments of logging](http://www.masterzen.fr/2013/01/13/the-10-commandments-of-logging/)
 
 ## Monitoriering i Azure
 
-[Start Monitoring Your ASP.NET Core Web Application](https://docs.microsoft.com/en-us/azure/azure-monitor/learn/dotnetcore-quick-start)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (3 min): [Start Monitoring Your ASP.NET Core Web Application](https://docs.microsoft.com/en-us/azure/azure-monitor/learn/dotnetcore-quick-start)
 
-[Azure Monitor data platform](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/data-platform)
+<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Artikel (6 min): [Azure Monitor data platform](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/data-platform)
 
-[Monitor and debug](https://docs.microsoft.com/en-us/aspnet/core/azure/devops/monitoring?view=aspnetcore-3.1)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (4 min): [Monitor and debug](https://docs.microsoft.com/en-us/aspnet/core/azure/devops/monitoring?view=aspnetcore-3.1)
 
-[Application Insights – Use case for TelemetryClient flush calls](https://devblogs.microsoft.com/premier-developer/application-insights-use-case-for-telemetryclient-flush-calls/)
+<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Artikel (5 min): [What is Application Insights?](https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview)
 
-[Application Insights API for custom events and metrics](https://docs.microsoft.com/en-us/azure/azure-monitor/app/api-custom-events-metrics)
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Artikel (24 min): [Application Insights API for custom events and metrics](https://docs.microsoft.com/en-us/azure/azure-monitor/app/api-custom-events-metrics)
 
-Video (min): [Azure Application Insights Tutorial](https://www.youtube.com/watch?v=A0jAeGf2zUQ)
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Artikel (9 min): [Azure Monitor and Azure Log Analytics: When to Use Which](https://dzone.com/articles/azure-monitor-and-azure-log-analytics-when-to-use)
 
-[App Metrics](https://www.app-metrics.io/)
+### Insights Telemetry
+
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Dokumentation (3 min): [TelemetryClient Class](https://docs.microsoft.com/en-us/dotnet/api/microsoft.applicationinsights.telemetryclient?view=azure-dotnet)
+
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Artikel (2 min): [Application Insights – Use case for TelemetryClient flush calls](https://devblogs.microsoft.com/premier-developer/application-insights-use-case-for-telemetryclient-flush-calls/)
 
 ## Andra monitorering system
 
-[Prometheus ](https://prometheus.io/)
+<span style="color:#9F58B9; font-weight: 900; margin-right:0.5em;">&#12336;</span>Website: [Prometheus ](https://prometheus.io/)
 
-[InfluxDB](https://www.influxdata.com/) - open source time series database
+<span style="color:#9F58B9; font-weight: 900; margin-right:0.5em;">&#12336;</span>Website: [InfluxDB](https://www.influxdata.com/) - open source time series database
 
-Artikel (7 min): [StatsD](https://www.datadoghq.com/blog/statsd/)
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Artikel (7 min): [StatsD](https://www.datadoghq.com/blog/statsd/)
+
+<span style="color:#9F58B9; font-weight: 900; margin-right:0.5em;">&#12336;</span>Website, GitHub: [StatsD](https://github.com/statsd/statsd)
 
 # Buddy uppgifter
 
@@ -115,24 +119,19 @@ Namnge dagens blogg *09.md*, ni får själv välja om ni vill ha en stor blogg s
 
 # Övning 1: Log i applikation
 
-Bygg en consol applikation som loggar med strukturerat logging
+Bygg en consol applikation som loggar med strukturerat logging, ni äljer själv om ni vill använda [.NET Core Logging](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging/?view=aspnetcore-3.1) eller [Serilog](https://serilog.net/) (som ofta använs i .NET Core applikationer)
 
 Hints: 
 
-* Logging med .NET
-
-* https://cmatskas.com/application-logging-to-azure-using-serilog/
-
-* https://ml-software.ch/posts/writing-to-azure-diagnostics-log-stream-using-serilog
-
-* https://www.youtube.com/watch?v=iTRILNstmFI
-* https://powerapps.microsoft.com/fr-fr/blog/log-telemetry-for-your-apps-using-azure-application-insights/
+* Video (4 min): [How to use Azure Monitor Application Insights to record custom events](https://www.youtube.com/watch?v=iTRILNstmFI)
+* Artikel: [Log telemetry for your Apps using Azure Application Insights](https://powerapps.microsoft.com/fr-fr/blog/log-telemetry-for-your-apps-using-azure-application-insights/)
+* Artikel: [ILogger - Console application](https://docs.microsoft.com/en-us/azure/azure-monitor/app/ilogger#console-application)
+* Artikel: [ASP.NET Core Logging with Azure App Service and Serilog](https://devblogs.microsoft.com/aspnet/asp-net-core-logging/)
+* Artikel: [Serilog.Sinks.ApplicationInsights](https://github.com/serilog/serilog-sinks-applicationinsights)
 
 ## Övning 1a: Logg till skärm
 
 Console
-
-1) till skärmen
 
 ## Övning 1b: Logg till molnet
 
@@ -140,4 +139,10 @@ Utök så att din applikation loggar till Azure Applicaion insights
 
 # Övning 2: Webbapplikation
 
-Få alla logs att skickas till Azure Application Insights
+Hints:
+
+* Artikel: [Application Insights for ASP.NET Core applications](https://docs.microsoft.com/en-us/azure/azure-monitor/app/asp-net-core)
+* Artikel: [ILogger - ASP.NET Core applications](https://docs.microsoft.com/en-us/azure/azure-monitor/app/ilogger#aspnet-core-applications)
+* Artikel (x min): [App Metrics](https://www.app-metrics.io/)
+
+Få alla logs + metrics att skickas till Azure Application Insights
