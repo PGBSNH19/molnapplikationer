@@ -92,7 +92,7 @@ Lunch 12:00 till 13:00
 
 <span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Artikel (2 min): [Application Insights – Use case for TelemetryClient flush calls](https://devblogs.microsoft.com/premier-developer/application-insights-use-case-for-telemetryclient-flush-calls/)
 
-<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Artikel (2 min):[Getting started with Kusto](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/concepts/)
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Artikel (2 min): [Getting started with Kusto](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/concepts/)
 
 ## Andra monitorering system
 
@@ -138,7 +138,7 @@ Få eran applikation logga till konsolen.
 
 Utök så att eran applikation så att den loggar till Azure Applicaion Insights och/eller konsollen.
 
-Få med i eran blog ett litet Kusto exempel på ni kan query en struktueret log entry.
+Få med i eran blog ett litet [Kusto](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/concepts/) exempel på ni kan query en struktueret log entry.
 
 # Övning 2: Webbapplikation
 
