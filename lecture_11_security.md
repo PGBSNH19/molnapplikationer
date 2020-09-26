@@ -54,6 +54,8 @@ Introducing Joseki: the open-source product to improve cloud infrastructure secu
 
 [Lesson 18: Application Isolation](https://devopsbootcamp.osuosl.org/application-isolation.html) 
 
+http://agilejazz.blogspot.com/p/the-devops-handbook-summary-4-of-4.html
+
 ## Containers/ Docker
 
 Certify Docker images https://docs.docker.com/docker-hub/publish/certify-images/
@@ -93,6 +95,8 @@ Secure development best practices on Azure, 4 min, https://docs.microsoft.com/en
 Azure Active Directory: Service Principal or Application? https://medium.com/@ihorkliushnikov/azure-active-directory-application-or-service-principal-b5a5e14f2a23
 
 https://azure.microsoft.com/en-us/services/security-center/
+
+https://damienbod.com/2020/07/20/using-key-vault-and-managed-identities-with-azure-functions/
 
 ## CASB / AD
 
