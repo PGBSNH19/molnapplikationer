@@ -2,15 +2,6 @@
 
 *Lektion 9 av 12, måndag den 28:e september 2020*
 
-![Draft](/assets/images/draft.png)
-
-**Draft status**:
-
-* Lektionsplan: 100% klar
-* Lektionsteori: 100% klar
-* Bakgrunds litteratur: 80% klar
-* Uppgifter: 20% klar
-
 Målet med denna lektion är att lära hur man kan monitorera/övervaka en molnlösning (med utgångspunkt i Azure). Hur vet man om alt funkar som det ska, vad applikationen kostar och hur mycket last man har på sin applikation.
 
 ## Lektionsplan
@@ -91,27 +82,35 @@ Lunch 12:00 till 13:00
 
 <span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Artikel (9 min): [Azure Monitor and Azure Log Analytics: When to Use Which](https://dzone.com/articles/azure-monitor-and-azure-log-analytics-when-to-use)
 
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Video (30 min): [Application Insights The Tool You Never Knew You Needed](https://www.youtube.com/watch?v=SMGokUCi9oo)
+
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Video (26 min): [Analyzing your applications with Application Insights](https://www.youtube.com/watch?v=pqZF8LjBh68)
+
 ### Insights Telemetry
 
 <span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Dokumentation (3 min): [TelemetryClient Class](https://docs.microsoft.com/en-us/dotnet/api/microsoft.applicationinsights.telemetryclient?view=azure-dotnet)
 
 <span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Artikel (2 min): [Application Insights – Use case for TelemetryClient flush calls](https://devblogs.microsoft.com/premier-developer/application-insights-use-case-for-telemetryclient-flush-calls/)
 
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Artikel (2 min):[Getting started with Kusto](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/concepts/)
+
 ## Andra monitorering system
 
-<span style="color:#9F58B9; font-weight: 900; margin-right:0.5em;">&#12336;</span>Website: [Prometheus ](https://prometheus.io/)
+<span style="color:#9F58B9; font-weight: 900; margin-right:0.5em;">&#12336;</span>Homepage: [Prometheus ](https://prometheus.io/)
 
-<span style="color:#9F58B9; font-weight: 900; margin-right:0.5em;">&#12336;</span>Website: [InfluxDB](https://www.influxdata.com/) - open source time series database
+<span style="color:#9F58B9; font-weight: 900; margin-right:0.5em;">&#12336;</span>Homepage: [InfluxDB](https://www.influxdata.com/) - open source time series database
 
 <span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Artikel (7 min): [StatsD](https://www.datadoghq.com/blog/statsd/)
 
-<span style="color:#9F58B9; font-weight: 900; margin-right:0.5em;">&#12336;</span>Website, GitHub: [StatsD](https://github.com/statsd/statsd)
+<span style="color:#9F58B9; font-weight: 900; margin-right:0.5em;">&#12336;</span>Homepage, GitHub repo: [StatsD](https://github.com/statsd/statsd)
 
 # Buddy uppgifter
 
 ## Dagens blogg
 
-* Skriv en blogg baserat på Övning  1
+* Skriv en blogg baserat på Övning  1, målet i denna blog är att
+  * beskriva hur ni får till logging och sen får den in i Azure Insights
+  * beskriva hur man query log och telemetri data i Azure Insights
 
 *OBS* Akta vad ni skriver i eran blogg, så att ni inte skriver lösenord etc.
 
@@ -119,23 +118,27 @@ Namnge dagens blogg *09.md*, ni får själv välja om ni vill ha en stor blogg s
 
 # Övning 1: Log i applikation
 
-Bygg en consol applikation som loggar med strukturerat logging, ni äljer själv om ni vill använda [.NET Core Logging](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging/?view=aspnetcore-3.1) eller [Serilog](https://serilog.net/) (som ofta använs i .NET Core applikationer)
+Bygg en konsol applikation som loggar med **strukturerat** logging, ni väljer själv om ni vill använda [.NET Core Logging](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging/?view=aspnetcore-3.1) eller [Serilog](https://serilog.net/) (som ofta använs i .NET Core applikationer) som logging-provider.
 
 Hints: 
 
 * Video (4 min): [How to use Azure Monitor Application Insights to record custom events](https://www.youtube.com/watch?v=iTRILNstmFI)
+* Tutorial: [Application Insights for .NET console applications](https://docs.microsoft.com/en-us/azure/azure-monitor/app/console)
 * Artikel: [Log telemetry for your Apps using Azure Application Insights](https://powerapps.microsoft.com/fr-fr/blog/log-telemetry-for-your-apps-using-azure-application-insights/)
 * Artikel: [ILogger - Console application](https://docs.microsoft.com/en-us/azure/azure-monitor/app/ilogger#console-application)
 * Artikel: [ASP.NET Core Logging with Azure App Service and Serilog](https://devblogs.microsoft.com/aspnet/asp-net-core-logging/)
 * Artikel: [Serilog.Sinks.ApplicationInsights](https://github.com/serilog/serilog-sinks-applicationinsights)
+* Artikel: [Application Insights For Structured Logging](https://ranjeet.dev/application-insights-for-structured-logging/)
 
 ## Övning 1a: Logg till skärm
 
-Console
+Få eran applikation logga till konsolen.
 
 ## Övning 1b: Logg till molnet
 
-Utök så att din applikation loggar till Azure Applicaion insights
+Utök så att eran applikation så att den loggar till Azure Applicaion Insights och/eller konsollen.
+
+Få med i eran blog ett litet Kusto exempel på ni kan query en struktueret log entry.
 
 # Övning 2: Webbapplikation
 
@@ -143,6 +146,10 @@ Hints:
 
 * Artikel: [Application Insights for ASP.NET Core applications](https://docs.microsoft.com/en-us/azure/azure-monitor/app/asp-net-core)
 * Artikel: [ILogger - ASP.NET Core applications](https://docs.microsoft.com/en-us/azure/azure-monitor/app/ilogger#aspnet-core-applications)
-* Artikel (x min): [App Metrics](https://www.app-metrics.io/)
+* Homepage: [App Metrics](https://www.app-metrics.io/)
 
-Få alla logs + metrics att skickas till Azure Application Insights
+## Övning 2a: Webb app med logging
+
+Skåpa en webb applikation (en ta en befintlig), och hosta den i en App Service (evt som ett docker image).
+
+Få alla logs + metrics från webb appliktionen att skickas till Azure Application Insights.
