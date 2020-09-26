@@ -1,4 +1,8 @@
-# GitHub branding
+# Personligt varumärken med GitHub
+
+*Extra lektion, fredag den 25:e september 2020*
+
+Målet med denna lektion är att introducera någon av dom verktyg som man kan använda till att skåpa ett personligt varumärken med GitHub.
 
 ## The foundation
 
