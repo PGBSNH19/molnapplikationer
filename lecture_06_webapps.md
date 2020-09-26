@@ -108,6 +108,8 @@ Artikel (9 min): [Azure hosting recommendations for ASP.NET Core web apps](https
 
 <span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (5 min): [What is a Monolith?](http://www.codingthearchitecture.com/2014/11/19/what_is_a_monolith.html)
 
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (6 min): [How to best use Azure DevOps release pipelines with microservices?](https://abelsquidhead.com/index.php/2019/01/03/how-to-best-use-azure-devops-release-pipelines-with-microservices/)
+
 # Buddy uppgifter
 
 ## Dagens blogg

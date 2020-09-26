@@ -78,6 +78,8 @@ Lunch 12:00 till 13:00
 
 <span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel + Video (5 min + 2 min): [What is Azure DevOps?](https://www.devopsgroup.com/insights/resources/tutorials/all/what-is-azure-devops/)
 
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (4 min): [Blue-Green Deployment with Azure DevOps and App Services](https://www.edmondek.com/Blue-Green-Deployment-Azure-DevOps-App-Services/)
+
 <span style="color:#9F58B9; font-weight: 900; margin-right:0.5em;">&#12336;</span>Kurs (531 min): Microsoft Learn: [Deploy applications with Azure DevOps](https://docs.microsoft.com/en-us/learn/paths/deploy-applications-with-azure-devops/)
 
 ### Pipelines
@@ -131,6 +133,7 @@ Hints för 1a + 1b:
 * Tutorial (10 min): [Continuous integration and deployment](https://docs.microsoft.com/en-us/aspnet/core/azure/devops/cicd?view=aspnetcore-3.1)
 * Tutorial (17 min): [3 Ways to run Automated Tests on Azure DevOps](https://blog.techfabric.io/3-ways-to-run-automated-tests-on-azure-devops/)
 * Artikel (12 min): [Build Your First CI/CD Pipeline using Azure DevOps](https://cloudskills.io/blog/azure-devops-pipeline)
+* Artikel (8 min): [Azure DevOps: Automate your release pipeline to provision a Docker container to Azure Web App for containers](https://wikiazure.com/devops/azure-devops-automate-your-release-pipeline-to-provision-a-docker-container-to-azure-web-app-for-containers/)
 
 ## Övning 1a: Bygg
 
