@@ -10,8 +10,8 @@ Vecka|Måndag|Tisdag |Onsdag |Torsdag|Fredag
 37|03: 2020-09-07<br />[Containrar](lecture_03_containers.md)<br />8:30 - 16:00||04: 2020-09-09<br />[Automatisering av bygg och release](lecture_04_release.md)<br />8:30 - 16:30||
 38|05: 2020-09-14<br />[Databaser i molnet](lecture_05_databases.md)<br />8:30 - 16:30||06: 2020-09-16<br />[Webb applikationer i molnet](lecture_06_webapps.md)<br />8:30 - 16:30||
 39|07: 2020-09-21<br />[Nätverk i molnet](lecture_07_networks.md)<br />8:30 - 16:30||08: 2020-09-23<br />[Data i molnet](lecture_08_data.md)<br />8:30 - 16:30|| 2020-09-25<br/>[GitHub](extra_github.md)<br />13:00 - 15:00 
-40|09: 2020-09-28<br />Monitorering av moln applikationer<br />8:30 - 16:30|||10: 2020-10-01<br />Skalning, upp och ut<br />8:30 - 16:30|
-41|11: 2020-10-05<br />Moln säkerhet<br />8:30 - 16:30||12: 2020-10-07<br />Röda tråd: Livscykel och miljö + LIA<br />[Video presentaion](video_presentation.md)<br />8:30 - 16:30||
+40|09: 2020-09-28<br />[Monitorering av moln applikationer](lecture_09_monitoring.md)<br />8:30 - 16:30|||10: 2020-10-01<br />[Skalning, upp och ut](lecture_10_scaling.md)<br />8:30 - 16:30|
+41|11: 2020-10-05<br />[Moln säkerhet](lecture_11_security.md)<br />8:30 - 16:30||12: 2020-10-07<br />Röda tråd: [Livscykel och miljö](lecture_12_lifecycle.md) + LIA<br />[Video presentaion](video_presentation.md)<br />8:30 - 16:30||
 
 Länkarna i schemat leder till detaljerad information om enskilda lektioner och uppgifter.
 

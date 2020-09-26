@@ -18,11 +18,17 @@ Vi kommer här att prata om en molnapplikations livscykel, och om green cloud.
 ## Lektionsplan
 Lektion från kl. 8:30 till kl. 16:30
 
-* x
+* 8:30 <img style="margin-right:0.5em;" src="assets/images/teams18.png"  alt="Teams"/> Uppsamling från förra lektion (Moln säkerhet)
+  * <img style="margin-right:0.5em;" src="assets/images/discord18.png" alt="Discord"/> Boarding card, PM på Discord
+* 9:15 <img style="margin-right:0.5em;" src="assets/images/teams18.png"  alt="Teams"/> Presentation av dagens teori: 
+  * Life cycle
+* 10:00 <img style="margin-right:0.5em;" src="assets/images/teams18.png"  alt="Teams"/> Uppsamling av kurs
 
 Lunch 12:00 till 13:00
 
-* x
+* 13:00 <img style="margin-right:0.5em;" src="assets/images/teams18.png" alt="Teams"/>Uppsamling av kurs
+* 16:00 <img style="margin-right:0.5em;" src="assets/images/teams18.png" alt="Teams"/> LIA + utvärdering
+* 16:30 <img style="margin-right:0.5em;" src="assets/images/discord18.png" alt="Discord"/> Landing card, PM på Discord
 
 # Lektionsteori
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
