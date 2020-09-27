@@ -133,14 +133,17 @@ Hints:
 
 Få eran applikation logga till konsolen.
 
-*Ett exempel på hur output av eran konsol applikation kan se ut*
-![Output exempel](assets\images\exercise09-1.png)
+*Ett exempel på hur output av eran konsol applikation kan se ut*:
+![Console output exempel](assets\images\exercise09-1.png)
 
 ## Övning 1b: Logg till molnet
 
 Utöka så att eran applikation så att den loggar till Azure Applicaion Insights och/eller konsolen.
 
 Få med i eran blogg ett litet [Kusto](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/concepts/) exempel på ni kan query en strukturerat log entry.
+
+*Ett exempel på hur eran log kan se ut i Application Insights*:
+![Application Insights trace exempel](assets\images\exercise09-1b.png)
 
 # Övning 2: Webbapplikation
 
