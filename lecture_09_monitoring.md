@@ -140,7 +140,7 @@ Få eran applikation logga till konsolen.
 
 Utöka så att eran applikation så att den loggar till Azure Applicaion Insights och/eller konsolen.
 
-Få med i eran blogg ett litet [Kusto](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/concepts/) exempel på ni kan query en strukturerat log entry.
+Få med i eran blogg ett litet [Kusto](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/query/) exempel på ni kan query en strukturerat log entry.
 
 *Ett exempel på hur eran log kan se ut i Application Insights*:
 ![Application Insights trace exempel](assets\images\exercise09-1b.png)
