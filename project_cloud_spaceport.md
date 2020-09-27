@@ -44,13 +44,13 @@ You can choose to take the code from one of the [previous Spacepark projects](#O
 
 Compared to the first version should this project also contain a web frontend. This could be any solution, some suggestions is:
 
-* A static webpage, requesting the API using javascript
-* A ASP.NET core MVC application, requesting the API
-* A ASP.NET Razore pages application, requesting the API
+* A static webpage, requesting the API using JavaScript, also called a [SPA](https://andrejgajdos.com/single-page-application-vs-multiple-page-application/)
+* An ASP.NET core MVC application, requesting the API
+* An ASP.NET Razor pages application, requesting the API
 
 The API and the web frontend should be two different projects, they can be contained within the same solution (.sln), everything should be within the provided GitHub repo.
 
-![Project overview](assets\images\spacepark-solution1.png)
+![Project overview](assets\images\spacepark-solution2.png)
 
 You should use the Starwars Web API: [swapi.dev](https://swapi.dev/), to test if a visitor is part of a Starwars movie and lists of the Starwars you are not allowed to cache the data from the API, which mean that you will need to request the API each time you need to fetch data.
 
@@ -66,15 +66,20 @@ And remember to create unit tests, where possible.
   * Docker Containers : [lecture 03](lecture_03_containers.md)
   * Azure DevOps pipeline (CI and/or CD) : [lecture 04](lecture_04_release.md)
   * At least on Azure DBaaS (SQL server, MariaDB or Cosmos DB) : [lecture 05](lecture_05_databases.md)
-  * ... more to come ;) like private links, service bus, blob storage and monitoring
-* The following technologies is optional to use:
+  * Logging : [lecture 09](lecture_09_monitoring.md)
+* It would be **really nice** if you could use:
+  * Azure Blob Storage : [lecture 08](lecture_08_data.md)
+  * Azure Application Insights: [lecture 09](lecture_09_monitoring.md)
+* The following technologies is **optional** to use (but a plus in the assessment):
   * Kubernetes
+  * Private links : [lecture 07](lecture_07_networks.md)
 
 ## Hints
 
 * Shut down all azure resources when not using them, to minimize the cost of the application
 * Refactor all the time!!
 * Write down your findings and learning, both positive and negative.
+* Get help and inspiration from the other groups
 
 ### Starwars API hints
 
@@ -159,6 +164,7 @@ Do as many branches you wish, bur in the end is it ONLY the content of you **mas
 * Pipelines for CD
 * Pricing estimates
 * **ONE** link the the working application
+  * It's ok, if the applications is stopped to save money, as long it can be started on demand
 * Automated tests
   * Unit test, run them during CI
   * Integration test
