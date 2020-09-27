@@ -38,7 +38,7 @@ Lunch 12:00 till 13:00
   * Video (6 min): [Docker Tooling in Visual Studio](https://www.youtube.com/watch?v=k2sskhYEPkI&list=PLdo4fOcmZ0oUvXP_Pt2zOgk8dTWagGs_P)  (2 of 3) 
   * Video (3 min): [Publishing your Containerized Web App](https://www.youtube.com/watch?v=d7D0h9i-QCw&list=PLdo4fOcmZ0oUvXP_Pt2zOgk8dTWagGs_P)  (3 of 3)
 
-## Ork­estr­ering (Orchestration)
+## Orkestrering (Orchestration)
 
 * Artikel (15 min), New Relic: [What Is Container Orchestration?](https://blog.newrelic.com/engineering/container-orchestration-explained/)
 * Video (62 min) [Cloud Native .NET - Mark Rendle](https://www.youtube.com/watch?v=77Dk3vjVa9k)
@@ -103,8 +103,9 @@ Lunch 12:00 till 13:00
 
 <span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>[Azure Container Orchestration 101: Azure Web Apps vs ACI vs AKS](https://www.dragonspears.com/blog/azure-container-orchestration-101-azure-web-apps-vs-aci-vs-aks)
 
-### Kubernetes
+<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Video (32 min), Computer Stuff They Didn't Teach You: [Kubernetes and Container Orchestration 101](https://www.youtube.com/watch?v=3RTvoI-A7UQ)
 
+### Kubernetes
 <span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Online kurs (60 min): [Kubernetes 101](https://www.ibm.com/cloud/architecture/content/course/kubernetes-101/kubernetes-101)
 
 <span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>[What is Kubernetes?](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
