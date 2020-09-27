@@ -126,7 +126,6 @@ Hints:
 * Tutorial: [Application Insights for .NET console applications](https://docs.microsoft.com/en-us/azure/azure-monitor/app/console)
 * Artikel: [Log telemetry for your Apps using Azure Application Insights](https://powerapps.microsoft.com/fr-fr/blog/log-telemetry-for-your-apps-using-azure-application-insights/)
 * Artikel: [ILogger - Console application](https://docs.microsoft.com/en-us/azure/azure-monitor/app/ilogger#console-application)
-* Artikel: [ASP.NET Core Logging with Azure App Service and Serilog](https://devblogs.microsoft.com/aspnet/asp-net-core-logging/)
 * Artikel: [Serilog.Sinks.ApplicationInsights](https://github.com/serilog/serilog-sinks-applicationinsights)
 * Artikel: [Application Insights For Structured Logging](https://ranjeet.dev/application-insights-for-structured-logging/)
 
@@ -134,11 +133,14 @@ Hints:
 
 Få eran applikation logga till konsolen.
 
+*Ett exempel på hur output av eran konsol applikation kan se ut*
+![Output exempel](assets\images\exercise09-1.png)
+
 ## Övning 1b: Logg till molnet
 
-Utök så att eran applikation så att den loggar till Azure Applicaion Insights och/eller konsollen.
+Utöka så att eran applikation så att den loggar till Azure Applicaion Insights och/eller konsolen.
 
-Få med i eran blog ett litet [Kusto](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/concepts/) exempel på ni kan query en struktueret log entry.
+Få med i eran blogg ett litet [Kusto](https://docs.microsoft.com/en-us/azure/data-explorer/kusto/concepts/) exempel på ni kan query en strukturerat log entry.
 
 # Övning 2: Webbapplikation
 
