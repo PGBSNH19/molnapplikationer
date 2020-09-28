@@ -139,17 +139,23 @@ Få eran applikation logga till konsolen.
 ```csharp
 static void Main(string[] args)
 {
+    //TODO: log "Hello World!"
     var rand = new Random();
     bool runApp = true;
     Console.WriteLine("Press any key for pretty exit");
     while(runApp){
         int randomSleep = rand.Next(1, 50);
+        
+        //TODO: log "Sleeping for 2.7 seconds"
         Thread.Sleep(randomSleep*100);
+        //TODO: log "Send data to Azure"
+        //TODO: send telemetry eg. "Telemetry data"
         if(Console.KeyAvailable){
             Console.ReadKey(true);
             runApp = false;
         }
     }
+    //TODO: log "Exit"
 }
 
 static double SleepTimeToSec(int sleeptime){
