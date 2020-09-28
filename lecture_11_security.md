@@ -100,6 +100,8 @@ https://damienbod.com/2020/07/20/using-key-vault-and-managed-identities-with-azu
 
 https://devblogs.microsoft.com/dotnet/storing-and-using-secrets-in-azure/
 
+https://daniel-krzyczkowski.github.io/How-to-inject-Azure-Key-Vault-secrets-in-the-Azure-DevOps-CICD-pipelines/
+
 ## CASB / AD
 
 Azure role-based access control (RBAC)
