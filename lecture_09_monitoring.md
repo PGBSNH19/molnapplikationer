@@ -145,8 +145,8 @@ static void Main(string[] args)
     Console.WriteLine("Press any key for pretty exit");
     while(runApp){
         int randomSleep = rand.Next(1, 50);
-        
         //TODO: log "Sleeping for 2.7 seconds"
+        //NOTE: use the SleepTimeToSec method to make the randomSleep human readable
         Thread.Sleep(randomSleep*100);
         //TODO: log "Send data to Azure"
         //TODO: send telemetry eg. "Telemetry data"
