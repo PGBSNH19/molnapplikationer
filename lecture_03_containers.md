@@ -241,6 +241,7 @@ Hints:
 Hints:
 
 * Tutorial (4 min): [Create a multi-container app with Docker Compose](https://docs.microsoft.com/en-us/visualstudio/containers/tutorial-multicontainer?view=vs-2019)
+* Tutorial (22 min): [Building a .NET Core API, host it in Azure  Container Instances from a private Container Registry and enable HTTPS  using Application Gateway](https://zimmergren.net/azure-container-instances-dotnet-core-api-application-gateway-https/)
 
 ## Övning 4b, Publicera ert API image
 
