@@ -20,7 +20,7 @@ Lektion från kl. 8:30 till kl. 16:30
   * <img style="margin-right:0.5em;" src="assets/images/discord18.png" alt="Discord"/> Boarding card, PM på Discord
 * 09:00 <img style="margin-right:0.5em;" src="assets/images/teams18.png"  alt="Teams"/> Presentation av dagens teori: 
   * Skalning, upp och ut
-* 09:30 <img style="margin-right:0.5em;" src="assets/images/discord18.png" alt="Discord"/>[Buddy uppgifter](#Buddy uppgifter)
+* 09:30 <img style="margin-right:0.5em;" src="assets/images/discord18.png" alt="Discord"/>Frivilliga Buddy övningar / SpacePark-projekt
 
 Lunch 12:00 till 13:00
 
@@ -34,6 +34,12 @@ Lunch 12:00 till 13:00
 * Load balancing (networking)
   * [What is Azure Load Balancer?](https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-overview)
   * (Video 4 min) [How to create a load balancer](https://www.youtube.com/watch?v=-VMPzVoo5Nk)
+* https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/redundancy
+* https://docs.microsoft.com/en-us/azure/storage/common/geo-redundant-design
+* https://blog.mycloudit.com/5-must-know-facts-about-microsoft-azure
+* https://daydigital.com/cloud-management-best-practices
+* https://www.networkworld.com/article/3238509/resiliency-in-the-age-of-cloud-services.html
+* https://www.getfilecloud.com/blog/an-introduction-to-high-availability-architecture/
 
 ## Scaling out and up
 
@@ -90,7 +96,7 @@ https://doc.traefik.io/traefik/
 
 https://docs.microsoft.com/en-us/azure/app-service/manage-scale-up
 
-# Exemplar och övningar. 
+# Frivillia Buddy övningar
 
 Detta är övningar som du äntligen gör själv, i grupp eller i plenum tillsammans med hela klassen
 
