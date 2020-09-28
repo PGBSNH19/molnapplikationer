@@ -102,6 +102,10 @@ https://devblogs.microsoft.com/dotnet/storing-and-using-secrets-in-azure/
 
 ## CASB / AD
 
+Azure role-based access control (RBAC)
+
+https://docs.microsoft.com/sv-se/learn/modules/manage-subscription-access-azure-rbac/
+
 Video: [Cloud Access Security Brokers (CASB) in 5 Minutes](https://www.youtube.com/watch?v=qhAC--N6b8w)
 
 MSFT Azure AD Conditional Access vs CASB https://www.bitglass.com/blog/msft-azure-ad-conditional-access-vs-casb
