@@ -126,6 +126,7 @@ Hints:
 * Tutorial: [Application Insights for .NET console applications](https://docs.microsoft.com/en-us/azure/azure-monitor/app/console)
 * Artikel: [Log telemetry for your Apps using Azure Application Insights](https://powerapps.microsoft.com/fr-fr/blog/log-telemetry-for-your-apps-using-azure-application-insights/)
 * Artikel: [ILogger - Console application](https://docs.microsoft.com/en-us/azure/azure-monitor/app/ilogger#console-application)
+* Artikel: [How to Add Microsoft's Console Log Provider to .Net Core 2.2 Console Application using the built-in Service Provider](https://blog.gerardbeckerleg.com/posts/how-to-add-microsofts-console-log-provider-to-dot-net-core-2-console-application-using-the-built-in-service-provider/)
 * Artikel: [Serilog.Sinks.ApplicationInsights](https://github.com/serilog/serilog-sinks-applicationinsights)
 * Artikel: [Application Insights For Structured Logging](https://ranjeet.dev/application-insights-for-structured-logging/)
 
