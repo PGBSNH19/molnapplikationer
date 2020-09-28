@@ -136,6 +136,32 @@ Få eran applikation logga till konsolen.
 *Ett exempel på hur output av eran konsol applikation kan se ut*:
 ![Console output exempel](assets\images\exercise09-1.png)
 
+```csharp
+static void Main(string[] args)
+{
+    var rand = new Random();
+    bool runApp = true;
+    Console.WriteLine("Press any key for pretty exit");
+    while(runApp){
+        int randomSleep = rand.Next(1, 50);
+        Thread.Sleep(randomSleep*100);
+        if(Console.KeyAvailable){
+            Console.ReadKey(true);
+            runApp = false;
+        }
+    }
+}
+
+static double SleepTimeToSec(int sleeptime){
+    double realtime = (double)sleeptime / 10;
+    return realtime;
+}
+```
+
+
+
+
+
 ## Övning 1b: Logg till molnet
 
 Utöka så att eran applikation så att den loggar till Azure Applicaion Insights och/eller konsolen.
