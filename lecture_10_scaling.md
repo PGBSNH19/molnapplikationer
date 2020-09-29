@@ -7,9 +7,9 @@
 **Draft status**:
 
 * Lektionsplan: 90% klar
-* Lektionsteori: 20% klar
-* Bakgrunds litteratur: 10% klar
-* Uppgifter: 5% klar
+* Lektionsteori: 80% klar
+* Bakgrunds litteratur: 50% klar
+* Uppgifter: 30% klar
 
 Målet med denna lektion är att lära hur man kan få sin lösning till att skala antigen upp, ut eller båda och. Så att den klara av lasten. Detta hänger också ihop med vilken arkitektur man har valt på sin lösning.
 
@@ -31,36 +31,33 @@ Lunch 12:00 till 13:00
 # Lektionsteori
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
 
-* Load balancing (networking)
-  * [What is Azure Load Balancer?](https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-overview)
-  * (Video 4 min) [How to create a load balancer](https://www.youtube.com/watch?v=-VMPzVoo5Nk)
-* https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/redundancy
-* https://docs.microsoft.com/en-us/azure/storage/common/geo-redundant-design
-* https://blog.mycloudit.com/5-must-know-facts-about-microsoft-azure
-* https://daydigital.com/cloud-management-best-practices
-* https://www.networkworld.com/article/3238509/resiliency-in-the-age-of-cloud-services.html
-* https://www.getfilecloud.com/blog/an-introduction-to-high-availability-architecture/
+## Availability, Redudancy and Resiliency
+
+* Artikel (13 min): [Overview of the reliability pillar](https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/overview)
+* Artikel (18 min): [Use geo-redundancy to design highly available applications](https://docs.microsoft.com/en-us/azure/storage/common/geo-redundant-design)
+* Artikel (7 min): [Cloud Management: 5 Best Practices to Ensure Cloud Success](https://daydigital.com/cloud-management-best-practices)
 
 ## Scaling out and up
 
-* https://www.youtube.com/watch?v=Oy32KEeREVI
-* https://blog.turbonomic.com/blog/on-technology/cloud-scalability-scale-vs-scale
-* https://pagely.com/blog/scaling-up-vs-scaling-out/
-* https://azure.github.io/AppService/2020/05/15/Robust-Apps-for-the-cloud.html
+* Artikel (11 min): [Scaling Up vs. Scaling Out: What’s the Difference?](https://pagely.com/blog/scaling-up-vs-scaling-out/)
+* Video (19 min): [Scaling Up and Out With Microsoft® Azure](https://www.youtube.com/watch?v=Oy32KEeREVI)
+* Artikel (11 min): [The Ultimate Guide to Running Healthy Apps in the Cloud](https://azure.github.io/AppService/2020/05/15/Robust-Apps-for-the-cloud.html)
 
 ## Chaos engineering
 
-* (5 min) https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/chaos-engineering
+* Artikel (5 min): [Chaos Engineering](https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/chaos-engineering)
 * Video (53 min) [Principles of Chaos Engineering](https://www.youtube.com/watch?v=6ilMZqKdMMU)
 
 ## Azure
 
-mm
+* Artikel (3 min): [What is Azure Load Balancer?](https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-overview)
+* Video (5 min) [How to create a load balancer](https://www.youtube.com/watch?v=-VMPzVoo5Nk)
+* Video (18 min): [Autoscale on Azure App Services](https://www.youtube.com/watch?v=7SlUWlzpTS4)
 
-**Total** (0 min):
+**Total** (163 min):
 
-- Artiklar: 0 stk, total 0 min
-- Video: 0 stk, total 0 min
+- Artiklar: 7 stk, total 68 min
+- Video: 3 stk, total 95 min
 
 ## Bok: Learn Azure In A Month of Lunches
 
@@ -74,30 +71,47 @@ mm
 
 *Detta är material som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
 
+Artikel (7 min): [Cloud Scalability: Scale Up vs Scale Out](https://blog.turbonomic.com/blog/on-technology/cloud-scalability-scale-vs-scale)
+
+Artikel (2 min): [Make all things redundant](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/redundancy)
+
+Artikel (9 min): [Resiliency in the age of cloud services](https://www.networkworld.com/article/3238509/resiliency-in-the-age-of-cloud-services.html)
+
+Artikel (14 min): [An introduction to High Availability Architecture](https://www.getfilecloud.com/blog/an-introduction-to-high-availability-architecture/)
+
 ## Chaos Engineering
 
-* [Principles of chaos engineering](https://principlesofchaos.org/)
-* https://anz-resources.awscloud.com/anz-webinars-on-demand-developer/applying-chaos-engineering-principles-for-building-fault-tolerant-applications
+* Artikel (x min): [Principles of chaos engineering](https://principlesofchaos.org/)
+* ?Video (x min): [Dev Connect - Applying chaos engineering principles for building fault-tolerant applications](https://anz-resources.awscloud.com/anz-webinars-on-demand-developer/applying-chaos-engineering-principles-for-building-fault-tolerant-applications)
 * (15 min) [Chaos Engineering — Part 1](https://medium.com/@adhorn/chaos-engineering-ab0cc9fbd12a) - **The art of breaking things purposefully**
 * (9 min) [Chaos Engineering — Part 2](https://medium.com/@adhorn/chaos-engineering-part-2-b9c78a9f3dde) - Planning your first experiment
 * (18 min) [Chaos Engineering — Part 3](https://medium.com/@adhorn/chaos-engineering-part-3-61579e41edd8) - Failure Injection — Tools and Methods.
 
-Tools:
+### Chaos tools
 
 * Webpage: [Chaos monkey](https://netflix.github.io/chaosmonkey/)
 
-* https://www.gremlin.com/get-started/?ref=docs
+* Webpage: [Gremlin](https://www.gremlin.com/get-started/?ref=docs)
 
 ## Load balacer
 
-https://doc.traefik.io/traefik/
+Webpage: [Traefik](https://doc.traefik.io/traefik/)
 
 ## Azure 
 
-https://docs.microsoft.com/en-us/azure/app-service/manage-scale-up
+Artikel (4 min): [Changes to load test functionality in Visual Studio and cloud load testing in Azure DevOps](https://docs.microsoft.com/en-us/azure/devops/test/load-test/overview?view=azure-devops)
+
+Artikel (2 min): https://docs.microsoft.com/en-us/azure/app-service/manage-scale-up
 
 # Frivillia Buddy övningar
 
 Detta är övningar som du äntligen gör själv, i grupp eller i plenum tillsammans med hela klassen
 
-https://docs.microsoft.com/en-us/azure/load-balancer/tutorial-load-balancer-standard-public-zone-redundant-portal
+## Övning 1: Load testing
+
+Artikel (12 min): [Load testing with Azure Pipelines](https://k6.io/blog/integrating-load-testing-with-azure-pipelines)
+
+## Övning 2: Load balance VMs across availability zones
+
+[Tutorial: Load balance VMs across availability zones with a Standard Load Balancer using the Azure portal](https://docs.microsoft.com/en-us/azure/load-balancer/tutorial-load-balancer-standard-public-zone-redundant-portal)
+
