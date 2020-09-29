@@ -27,6 +27,7 @@ Lektion från kl. 8:30 till kl. 16:30
 Lunch 12:00 till 13:00
 
 * 13:00 <img style="margin-right:0.5em;" src="assets/images/teams18.png" alt="Teams"/>Uppsamling av kurs
+* 15:00 <img style="margin-right:0.5em;" src="assets/images/teams18.png" alt="Teams"/>Nästa kurs - Producera och leverera mjukvara
 * 16:00 <img style="margin-right:0.5em;" src="assets/images/teams18.png" alt="Teams"/> LIA + utvärdering
 * 16:30 <img style="margin-right:0.5em;" src="assets/images/discord18.png" alt="Discord"/> Landing card, PM på Discord
 
