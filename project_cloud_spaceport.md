@@ -173,6 +173,8 @@ Do as many branches you wish, bur in the end is it ONLY the content of you **mas
 
 Elements which which is marked as **important**, gives a higher weight in your grading. And you should focus on these in your video presentation.
 
+Please try to give an indication of whom have been involved in which parts.
+
 # Old spaceport repos
 
 This is the repos which where developed during project 3 in the [Dataåtkomst course](https://pgbsnh19.github.io/dataatkomst/)
@@ -186,6 +188,8 @@ This is the repos which where developed during project 3 in the [Dataåtkomst co
 * [Group 7](https://github.com/PGBSNH19/the-spaceport-grupp-7)
 * [Group 8](https://github.com/PGBSNH19/the-spaceport-grupp-8)
 
+# Absence and illness
 
+The goal of the team is ALWAYS to deliver something at the deadline, and if the team is hit by absence and illness, the expected delivery is affected by this. But a requirement is is to make the instructor aware of this as early as possible.
 
-
+Anybody who contributed or have missed out in somehow (like the video, or large parts of the project) can and will be given an alternative possibility to prove their skills and be evaluated (in order to parse the course).
