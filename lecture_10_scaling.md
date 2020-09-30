@@ -34,7 +34,6 @@ Lunch 12:00 till 13:00
 ## Availability, Redudancy and Resiliency
 
 * Artikel (13 min): [Overview of the reliability pillar](https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/overview)
-* Artikel (18 min): [Use geo-redundancy to design highly available applications](https://docs.microsoft.com/en-us/azure/storage/common/geo-redundant-design)
 * Artikel (7 min): [Cloud Management: 5 Best Practices to Ensure Cloud Success](https://daydigital.com/cloud-management-best-practices)
 
 ## Scaling out and up
@@ -46,7 +45,7 @@ Lunch 12:00 till 13:00
 ## Chaos engineering
 
 * Artikel (5 min): [Chaos Engineering](https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/chaos-engineering)
-* Video (53 min) [Principles of Chaos Engineering](https://www.youtube.com/watch?v=6ilMZqKdMMU)
+* Artikel (4 min): [Principles of chaos engineering](https://principlesofchaos.org/)
 
 ## Azure
 
@@ -54,10 +53,10 @@ Lunch 12:00 till 13:00
 * Video (5 min) [How to create a load balancer](https://www.youtube.com/watch?v=-VMPzVoo5Nk)
 * Video (18 min): [Autoscale on Azure App Services](https://www.youtube.com/watch?v=7SlUWlzpTS4)
 
-**Total** (163 min):
+**Total** (96 min):
 
-- Artiklar: 7 stk, total 68 min
-- Video: 3 stk, total 95 min
+- Artiklar: 7 stk, total 54 min
+- Video: 3 stk, total 42 min
 
 ## Bok: Learn Azure In A Month of Lunches
 
@@ -81,7 +80,8 @@ Artikel (14 min): [An introduction to High Availability Architecture](https://ww
 
 ## Chaos Engineering
 
-* Artikel (x min): [Principles of chaos engineering](https://principlesofchaos.org/)
+* Video (53 min) [Principles of Chaos Engineering](https://www.youtube.com/watch?v=6ilMZqKdMMU)
+* 
 * ?Video (x min): [Dev Connect - Applying chaos engineering principles for building fault-tolerant applications](https://anz-resources.awscloud.com/anz-webinars-on-demand-developer/applying-chaos-engineering-principles-for-building-fault-tolerant-applications)
 * (15 min) [Chaos Engineering — Part 1](https://medium.com/@adhorn/chaos-engineering-ab0cc9fbd12a) - **The art of breaking things purposefully**
 * (9 min) [Chaos Engineering — Part 2](https://medium.com/@adhorn/chaos-engineering-part-2-b9c78a9f3dde) - Planning your first experiment
@@ -93,25 +93,17 @@ Artikel (14 min): [An introduction to High Availability Architecture](https://ww
 
 * Webpage: [Gremlin](https://www.gremlin.com/get-started/?ref=docs)
 
-## Load balacer
-
-Webpage: [Traefik](https://doc.traefik.io/traefik/)
-
 ## Azure 
 
 Artikel (4 min): [Changes to load test functionality in Visual Studio and cloud load testing in Azure DevOps](https://docs.microsoft.com/en-us/azure/devops/test/load-test/overview?view=azure-devops)
 
-Artikel (2 min): https://docs.microsoft.com/en-us/azure/app-service/manage-scale-up
+Artikel (2 min): [Scale up an app in Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/manage-scale-up)
+
+Artikel (18 min): [Use geo-redundancy to design highly available applications](https://docs.microsoft.com/en-us/azure/storage/common/geo-redundant-design)
 
 # Frivillia Buddy övningar
 
-Detta är övningar som du äntligen gör själv, i grupp eller i plenum tillsammans med hela klassen
-
-## Övning 1: Load testing
-
-Artikel (12 min): [Load testing with Azure Pipelines](https://k6.io/blog/integrating-load-testing-with-azure-pipelines)
-
-## Övning 2: Load balance VMs across availability zones
+## Övning: Load balance VMs across availability zones
 
 [Tutorial: Load balance VMs across availability zones with a Standard Load Balancer using the Azure portal](https://docs.microsoft.com/en-us/azure/load-balancer/tutorial-load-balancer-standard-public-zone-redundant-portal)
 
