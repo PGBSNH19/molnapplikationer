@@ -70,36 +70,41 @@ Lunch 12:00 till 13:00
 
 *Detta är material som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
 
-Artikel (7 min): [Cloud Scalability: Scale Up vs Scale Out](https://blog.turbonomic.com/blog/on-technology/cloud-scalability-scale-vs-scale)
+## Availability, Redudancy and Resiliency
 
-Artikel (2 min): [Make all things redundant](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/redundancy)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (7 min): [Cloud Scalability: Scale Up vs Scale Out](https://blog.turbonomic.com/blog/on-technology/cloud-scalability-scale-vs-scale)
 
-Artikel (9 min): [Resiliency in the age of cloud services](https://www.networkworld.com/article/3238509/resiliency-in-the-age-of-cloud-services.html)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (2 min): [Make all things redundant](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/redundancy)
 
-Artikel (14 min): [An introduction to High Availability Architecture](https://www.getfilecloud.com/blog/an-introduction-to-high-availability-architecture/)
+<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Artikel (9 min): [Resiliency in the age of cloud services](https://www.networkworld.com/article/3238509/resiliency-in-the-age-of-cloud-services.html)
+
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Artikel (14 min): [An introduction to High Availability Architecture](https://www.getfilecloud.com/blog/an-introduction-to-high-availability-architecture/)
 
 ## Chaos Engineering
 
-* Video (53 min) [Principles of Chaos Engineering](https://www.youtube.com/watch?v=6ilMZqKdMMU)
-* 
-* ?Video (x min): [Dev Connect - Applying chaos engineering principles for building fault-tolerant applications](https://anz-resources.awscloud.com/anz-webinars-on-demand-developer/applying-chaos-engineering-principles-for-building-fault-tolerant-applications)
-* (15 min) [Chaos Engineering — Part 1](https://medium.com/@adhorn/chaos-engineering-ab0cc9fbd12a) - **The art of breaking things purposefully**
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Video (53 min) [Principles of Chaos Engineering](https://www.youtube.com/watch?v=6ilMZqKdMMU)
+
+<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Chaos Engineering series (incognito mode kan behövas)
+
+* (15 min) [Chaos Engineering — Part 1](https://medium.com/@adhorn/chaos-engineering-ab0cc9fbd12a) - The art of breaking things purposefully
 * (9 min) [Chaos Engineering — Part 2](https://medium.com/@adhorn/chaos-engineering-part-2-b9c78a9f3dde) - Planning your first experiment
 * (18 min) [Chaos Engineering — Part 3](https://medium.com/@adhorn/chaos-engineering-part-3-61579e41edd8) - Failure Injection — Tools and Methods.
 
 ### Chaos tools
 
-* Webpage: [Chaos monkey](https://netflix.github.io/chaosmonkey/)
+<span style="color:#9F58B9; font-weight: 900; margin-right:0.5em;">&#12336;</span>Webpage: [Chaos monkey](https://netflix.github.io/chaosmonkey/)
 
-* Webpage: [Gremlin](https://www.gremlin.com/get-started/?ref=docs)
+<span style="color:#9F58B9; font-weight: 900; margin-right:0.5em;">&#12336;</span>Webpage: [Gremlin](https://www.gremlin.com/get-started/?ref=docs)
 
 ## Azure 
 
-Artikel (4 min): [Changes to load test functionality in Visual Studio and cloud load testing in Azure DevOps](https://docs.microsoft.com/en-us/azure/devops/test/load-test/overview?view=azure-devops)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (2 min): [Scale up an app in Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/manage-scale-up)
 
-Artikel (2 min): [Scale up an app in Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/manage-scale-up)
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Artikel (18 min): [Use geo-redundancy to design highly available applications](https://docs.microsoft.com/en-us/azure/storage/common/geo-redundant-design)
 
-Artikel (18 min): [Use geo-redundancy to design highly available applications](https://docs.microsoft.com/en-us/azure/storage/common/geo-redundant-design)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Video (12 min): [Azure Analysis Services Scale Out & Diagnostics](https://www.youtube.com/watch?v=j_lnbxwjgyw)
+
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Artikel (12 min): [Load testing with Azure Pipelines](https://k6.io/blog/integrating-load-testing-with-azure-pipelines)
 
 # Frivillia Buddy övningar
 

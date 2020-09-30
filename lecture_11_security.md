@@ -56,15 +56,9 @@ Introducing Joseki: the open-source product to improve cloud infrastructure secu
 
 http://agilejazz.blogspot.com/p/the-devops-handbook-summary-4-of-4.html
 
-https://speakerdeck.com/rerickardjr/security-driven-development
 
-STDD
 
-https://www.linkedin.com/pulse/security-test-driven-development-stdd-surendran-ethiraj/
 
-https://blog.crisp.se/2017/03/20/gustavbostrom/security-test-driven-development-spreading-the-std-virus
-
-https://www.amazon.com/Software-Security-Building-Gary-McGraw/dp/0321356705
 
 ## Containers/ Docker
 
