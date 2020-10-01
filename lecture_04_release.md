@@ -157,6 +157,7 @@ Hints för 2a + 2b:
 * Artikel: [Build and push to Azure Container Registry](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/containers/acr-template?view=azure-devops)
 * Artikel: [Configure CI/CD for Azure Container Instances using Azure / Azure DevOps Pipelines](https://mohitgoyal.co/2018/11/01/configure-ci-cd-for-azure-container-instances-using-azure-azure-devops-pipelines/)
 * Video: [Build, Run, & Continuously Deploy Docker Containers to Azure App Service](https://www.youtube.com/watch?v=O5aXcmKc1HU) exempel med en nodes app
+* Artikel: [JSON Variable Substitution in Multi-Stage YAML Azure Pipeline](https://squarewidget.com/json-variable-substitution-in-multi-stage-yaml-azure-pipeline/)
 
 ## Övning 2a
 
