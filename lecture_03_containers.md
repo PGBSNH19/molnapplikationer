@@ -97,6 +97,8 @@ Lunch 12:00 till 13:00
 
 <span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span> [Where are Docker Images Stored? Docker Container Paths Explained](https://www.freecodecamp.org/news/where-are-docker-images-stored-docker-container-paths-explained/)
 
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Artikel: [Exploring a Docker Container’s Filesystem](https://www.baeldung.com/ops/docker-container-filesystem)
+
 <span style="color:#9F58B9; font-weight: 900; margin-right:0.5em;">&#12336;</span>Kurs (310 min): Microsoft Learn: [Administer containers in Azure](https://docs.microsoft.com/en-us/learn/paths/administer-containers-in-azure/)
 
 ## Orchestration
