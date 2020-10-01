@@ -158,6 +158,7 @@ Hints för 2a + 2b:
 * Artikel: [Configure CI/CD for Azure Container Instances using Azure / Azure DevOps Pipelines](https://mohitgoyal.co/2018/11/01/configure-ci-cd-for-azure-container-instances-using-azure-azure-devops-pipelines/)
 * Video: [Build, Run, & Continuously Deploy Docker Containers to Azure App Service](https://www.youtube.com/watch?v=O5aXcmKc1HU) exempel med en nodes app
 * Artikel: [JSON Variable Substitution in Multi-Stage YAML Azure Pipeline](https://squarewidget.com/json-variable-substitution-in-multi-stage-yaml-azure-pipeline/)
+* Artikel: [Azure Pipelines – Parameters + JSON File Substitution](https://codingwithtaz.blog/2020/09/13/azure-pipelines-parameters-and-file-substitution/)
 
 ## Övning 2a
 
