@@ -6,10 +6,10 @@
 
 **Draft status**:
 
-* Lektionsplan: 0% klar
-* Lektionsteori: 0% klar
-* Bakgrunds litteratur: 0% klar
-* Uppgifter: 0% klar
+* Lektionsplan: 90% klar
+* Lektionsteori: 60% klar
+* Bakgrunds litteratur: 20% klar
+* Uppgifter: 10% klar
 
 Målet med denna lektion är att lära vilka säkerhetsmekanismer som finns i Azure och vad man speciellt ska vara uppmärksam på när man utvecklar moln applikationer.
 
@@ -20,7 +20,7 @@ Lektion från kl. 8:30 till kl. 16:30
   * <img style="margin-right:0.5em;" src="assets/images/discord18.png" alt="Discord"/> Boarding card, PM på Discord
 * 9:15 <img style="margin-right:0.5em;" src="assets/images/teams18.png"  alt="Teams"/> Presentation av dagens teori: 
   * Moln säkerhet
-* 10:00 <img style="margin-right:0.5em;" src="assets/images/discord18.png" alt="Discord"/>[Buddy uppgifter](#Buddy uppgifter)
+* 10:00 <img style="margin-right:0.5em;" src="assets/images/discord18.png" alt="Discord"/>Frivilliga Buddy övningar / SpacePark-projekt
 
 Lunch 12:00 till 13:00
 
@@ -28,92 +28,58 @@ Lunch 12:00 till 13:00
 * 13:15 <img style="margin-right:0.5em;" src="assets/images/discord18.png" alt="Discord"/> SpacePark-projekt
 * 16:30 <img style="margin-right:0.5em;" src="assets/images/discord18.png" alt="Discord"/> Landing card, PM på Discord
 
+Deadline
+
+* 23:55 <img style="margin-right:0.5em;" src="assets/images/stream18.png" alt="Stream"/> Deadline för [video](https://pgbsnh19.github.io/molnapplikationer/video_presentation.html) på [stream](https://web.microsoftstream.com/channel/9c4a5233-5f83-4454-818e-035023491078)
+
 # Lektionsteori
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
 
+## Secutity
+
+* Video (6 min): [Hacking challenge at DEFCON](https://www.youtube.com/watch?v=fHhNWAKw0bY)
+
 ## Cloud security
 
-9 min: [DevOps Handbook Summary 4 of 4 - Security](http://agilejazz.blogspot.com/p/the-devops-handbook-summary-4-of-4.html)
+* Artikel (9 min): [DevOps Handbook Summary 4 of 4 - Security](http://agilejazz.blogspot.com/p/the-devops-handbook-summary-4-of-4.html)
 
-Video (6 min): [Google Data Center Security: 6 Layers Deep](https://www.youtube.com/watch?v=kd33UVZhnAA)
+* Video (6 min): [Google Data Center Security: 6 Layers Deep](https://www.youtube.com/watch?v=kd33UVZhnAA)
 
-Video (4 min): [Cloud Cybersecurity in Under 5 Minutes](https://www.youtube.com/watch?v=k2684fuzHLs)
-
-## Azure cloud secuirty
-
-Video (8 min), Azure Essentials: [Defense in depth security](https://www.youtube.com/watch?v=OTGMi0ksjXY)
-
-## Azure Data security
-
-https://medium.com/@nakivo/microsoft-office-365-data-safety-a-full-overview-of-the-shared-responsibility-model-62d52621c7de
-
-https://docs.microsoft.com/en-us/azure/backup/backup-overview
-
-11 min: [An Introduction to Cloud Backup: What, Why, and How](https://medium.com/@nakivo/an-introduction-to-cloud-backup-what-why-and-how-876e91a772bf)
-
-7 min : [Azure Storage encryption for data at rest](https://docs.microsoft.com/en-us/azure/storage/common/storage-service-encryption)
-
-## Azure access security
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* Video (4 min): [Cloud Cybersecurity in Under 5 Minutes](https://www.youtube.com/watch?v=k2684fuzHLs)
 
 ## Azure
 
-Introduction to Azure security, 28 min, https://docs.microsoft.com/en-us/azure/security/fundamentals/overview
+* Artikel (28 min): [Introduction to Azure security](https://docs.microsoft.com/en-us/azure/security/fundamentals/overview)
 
-Install the SIEM Connector for Cloud App Security https://www.youtube.com/watch?v=0qAHaCLKTIk
+* Artikel (4 min): [Secure development best practices on Azure](https://docs.microsoft.com/en-us/azure/security/develop/secure-dev-overview)
 
-Integrated Management and Security https://www.youtube.com/watch?v=rpOMEa7MBqk
+### Azure cloud security
 
+* Video (8 min), Azure Essentials: [Defense in depth security](https://www.youtube.com/watch?v=OTGMi0ksjXY)
 
+### Azure Data security
 
-What is Azure Databricks? https://docs.microsoft.com/en-us/azure/databricks/scenarios/what-is-azure-databricks
+* Artikel (3 min): [What is the Azure Backup service?](https://docs.microsoft.com/en-us/azure/backup/backup-overview)
 
-Azure Databricks Secret Scopes Tutorial  ; Secure your notebook secrets https://www.youtube.com/watch?v=9VzBS4OiP_A
+* Artikel (11 min): [An Introduction to Cloud Backup: What, Why, and How](https://medium.com/@nakivo/an-introduction-to-cloud-backup-what-why-and-how-876e91a772bf)
 
-[Azure Key Vault Tutorial; Secure secrets, keys and certificates easily](https://www.youtube.com/watch?v=PgujSug1ZbI)
+* Artikel (7 min): [Azure Storage encryption for data at rest](https://docs.microsoft.com/en-us/azure/storage/common/storage-service-encryption)
 
-Secure development best practices on Azure, 4 min, https://docs.microsoft.com/en-us/azure/security/develop/secure-dev-overview
+* Artikel (24 min): [Storing and using secrets in Azure](https://devblogs.microsoft.com/dotnet/storing-and-using-secrets-in-azure/)
 
-Azure Active Directory: Service Principal or Application? https://medium.com/@ihorkliushnikov/azure-active-directory-application-or-service-principal-b5a5e14f2a23
+### Azure access security
 
-https://azure.microsoft.com/en-us/services/security-center/
+* Video (28 min): [Integrated Management and Security](https://www.youtube.com/watch?v=rpOMEa7MBqk)
 
-https://damienbod.com/2020/07/20/using-key-vault-and-managed-identities-with-azure-functions/
+* Artikel (6 min): [Azure Active Directory: Service Principal or Application?](https://medium.com/@ihorkliushnikov/azure-active-directory-application-or-service-principal-b5a5e14f2a23)
 
-https://devblogs.microsoft.com/dotnet/storing-and-using-secrets-in-azure/
+* Kursus (19 min): [Hantera åtkomst till en Azure-prenumeration med hjälp av rollbaserad åtkomstkontroll (RBAC) i Azure](https://docs.microsoft.com/sv-se/learn/modules/manage-subscription-access-azure-rbac/)
 
-https://daniel-krzyczkowski.github.io/How-to-inject-Azure-Key-Vault-secrets-in-the-Azure-DevOps-CICD-pipelines/
+* Video (5 min): [Cloud Access Security Brokers (CASB) in 5 Minutes](https://www.youtube.com/watch?v=qhAC--N6b8w)
 
-## CASB / AD
+* Video (30 min): [Azure Active Directory (AD, AAD) Tutorial ; Identity and Access Management Service](https://www.youtube.com/watch?v=Ma7VAQE7ga4)
 
-Azure role-based access control (RBAC)
-
-https://docs.microsoft.com/sv-se/learn/modules/manage-subscription-access-azure-rbac/
-
-Video: [Cloud Access Security Brokers (CASB) in 5 Minutes](https://www.youtube.com/watch?v=qhAC--N6b8w)
-
-MSFT Azure AD Conditional Access vs CASB https://www.bitglass.com/blog/msft-azure-ad-conditional-access-vs-casb
-
-Microsoft Cloud App Security (CASB) https://www.youtube.com/watch?v=wLsXZ9MzJxY
-
-Azure Active Directory (AD, AAD) Tutorial ; Identity and Access Management Service https://www.youtube.com/watch?v=Ma7VAQE7ga4
-
-Use Azure Active Directory authentication, 10 min,  https://docs.microsoft.com/en-us/azure/azure-sql/database/authentication-aad-overview
-
-
+* Artikel (10 min): [Use Azure Active Directory authentication](https://docs.microsoft.com/en-us/azure/azure-sql/database/authentication-aad-overview)
 
 
 
@@ -134,33 +100,53 @@ Use Azure Active Directory authentication, 10 min,  https://docs.microsoft.com/e
 
 *Detta är material som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
 
+## Application Security
+
+Artikel (5 min): [Hardening ASP.NET Core 3.1 Docker Images](https://medium.com/@michaeldimoudis/hardening-asp-net-core-3-1-docker-images-f0c2ede1667f)
+
+Artikel (7 min): [Lesson 18: Application Isolation](https://devopsbootcamp.osuosl.org/application-isolation.html) 
+
 ## Cloud security
 
-Hacking challenge at DEFCON https://www.youtube.com/watch?v=fHhNWAKw0bY
+Artikel (5 min): [Introducing Joseki: the open-source product to improve cloud infrastructure security](https://medium.com/@ihorkliushnikov/introducing-joseki-the-open-source-product-to-improve-cloud-infrastructure-security-fb71d58f41bd)
 
-Introducing Joseki: the open-source product to improve cloud infrastructure security https://medium.com/@ihorkliushnikov/introducing-joseki-the-open-source-product-to-improve-cloud-infrastructure-security-fb71d58f41bd
+Install the SIEM Connector for Cloud App Security https://www.youtube.com/watch?v=0qAHaCLKTIk
 
-[Lesson 18: Application Isolation](https://devopsbootcamp.osuosl.org/application-isolation.html) 
+https://azure.microsoft.com/en-us/services/security-center/
 
+### Threats
 
-
-## Threats
-
-https://owasp.org/
+Website: [OWASP](https://owasp.org/)
 
 
-OWASP Top Ten https://owasp.org/www-project-top-ten/
+Artikel (4 min): [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
 
-Video, 3min,: [Cloud Security: It's Tuesday, Carl](https://www.youtube.com/watch?v=NI-plwor2Xw)
+Video (3 min): [Cloud Security: It's Tuesday, Carl](https://www.youtube.com/watch?v=NI-plwor2Xw)
 
+Artikel (6 min): [Top Cloud Computing Challenges you might face in 2020](https://medium.com/cloud-management-insider/top-cloud-computing-challenges-you-might-face-in-2020-5dcb56ddcc21)
 
+## Azure 
 
-[Top Cloud Computing Challenges you might face in 2020](https://medium.com/cloud-management-insider/top-cloud-computing-challenges-you-might-face-in-2020-5dcb56ddcc21)
+### Data security
+
+Artikel (5 min): [Microsoft Office 365 Data Safety: A Full Overview of the Shared Responsibility Model](https://medium.com/@nakivo/microsoft-office-365-data-safety-a-full-overview-of-the-shared-responsibility-model-62d52621c7de)
+
+Artikel (7 min): [How to inject Azure Key Vault secrets in the Azure DevOps CI/CD pipelines](https://daniel-krzyczkowski.github.io/How-to-inject-Azure-Key-Vault-secrets-in-the-Azure-DevOps-CICD-pipelines/)
+
+Video (19 min): [Azure Key Vault Tutorial; Secure secrets, keys and certificates easily](https://www.youtube.com/watch?v=PgujSug1ZbI)
+
+Artikel (8 min): [Using Key Vault and Managed Identities with Azure Functions](https://damienbod.com/2020/07/20/using-key-vault-and-managed-identities-with-azure-functions/)
+
+### Azure access 
+
+Artikel (7 min): [MSFT Azure AD Conditional Access vs CASB](https://www.bitglass.com/blog/msft-azure-ad-conditional-access-vs-casb)
+
+Video (41 min): [Microsoft Cloud App Security (CASB)](https://www.youtube.com/watch?v=wLsXZ9MzJxY)
 
 ## Compliance
 
 Cloud Compliance: What you need to know https://www.michalsons.com/blog/cloud-compliance/22643
 
-# Frivillia övningar 
+# Frivillia Buddy övningar
 
-Detta är övningar som du äntligen gör själv, i grupp eller i plenum tillsammans med hela klassen
+Jobba med Azure Key Vault
