@@ -26,6 +26,7 @@ Lunch 12:00 till 13:00
 
 * Artikel (13 min): [Overview of the reliability pillar](https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/overview)
 * Artikel (7 min): [Cloud Management: 5 Best Practices to Ensure Cloud Success](https://daydigital.com/cloud-management-best-practices)
+* Artikel (6 min): [Architecting for Resiliency](https://medium.com/capital-one-tech/architecting-for-resiliency-9ec663db5c94)
 
 ## Scaling out and up
 
@@ -44,9 +45,9 @@ Lunch 12:00 till 13:00
 * Video (5 min) [How to create a load balancer](https://www.youtube.com/watch?v=-VMPzVoo5Nk)
 * Video (18 min): [Autoscale on Azure App Services](https://www.youtube.com/watch?v=7SlUWlzpTS4)
 
-**Total** (96 min):
+**Total** (102 min):
 
-- Artiklar: 7 stk, total 54 min
+- Artiklar: 8 stk, total 60 min
 - Video: 3 stk, total 42 min
 
 ## Bok: Learn Azure In A Month of Lunches
@@ -96,6 +97,14 @@ Lunch 12:00 till 13:00
 <span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Video (12 min): [Azure Analysis Services Scale Out & Diagnostics](https://www.youtube.com/watch?v=j_lnbxwjgyw)
 
 <span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Artikel (12 min): [Load testing with Azure Pipelines](https://k6.io/blog/integrating-load-testing-with-azure-pipelines)
+
+## Multi cloud
+
+<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Artikel (4 min): [Multi Cloud Strategies](https://medium.com/@shunvel/multi-cloud-strategies-338cf81313a2)
+
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (8 min): [Multi-Cloud Architectures for the Enterprise: Part 1](https://medium.com/swlh/multi-cloud-architectures-for-the-enterprise-part-1-623530b6b4c4)
+
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (4 min): [Multi-cloud strategy: 8 things to know](https://enterprisersproject.com/article/2017/9/multi-cloud-strategy-8-things-know)
 
 # Frivillia Buddy övningar
 

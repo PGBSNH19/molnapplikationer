@@ -31,52 +31,43 @@ Lunch 12:00 till 13:00
 # Lektionsteori
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
 
-* Azure security
-* Backup
-* Encryption
-* Key vault
-* Security center
-* Praktisk Sikkerhed
-  1. Hack en computer
+## Cloud security
+
+9 min: [DevOps Handbook Summary 4 of 4 - Security](http://agilejazz.blogspot.com/p/the-devops-handbook-summary-4-of-4.html)
+
+Video (6 min): [Google Data Center Security: 6 Layers Deep](https://www.youtube.com/watch?v=kd33UVZhnAA)
+
+Video (4 min): [Cloud Cybersecurity in Under 5 Minutes](https://www.youtube.com/watch?v=k2684fuzHLs)
+
+## Azure cloud secuirty
+
+Video (8 min), Azure Essentials: [Defense in depth security](https://www.youtube.com/watch?v=OTGMi0ksjXY)
+
+## Azure Data security
+
+https://medium.com/@nakivo/microsoft-office-365-data-safety-a-full-overview-of-the-shared-responsibility-model-62d52621c7de
+
+https://docs.microsoft.com/en-us/azure/backup/backup-overview
+
+11 min: [An Introduction to Cloud Backup: What, Why, and How](https://medium.com/@nakivo/an-introduction-to-cloud-backup-what-why-and-how-876e91a772bf)
+
+7 min : [Azure Storage encryption for data at rest](https://docs.microsoft.com/en-us/azure/storage/common/storage-service-encryption)
+
+## Azure access security
 
 
 
-Cybersecurity through Threat Modeling https://teachingsecurity.org/lesson-1-the-security-mindset/
-
-
-Video: [Google Data Center Security: 6 Layers Deep](https://www.youtube.com/watch?v=kd33UVZhnAA)
-
-Video: [Cloud Cybersecurity in Under 5 Minutes](https://www.youtube.com/watch?v=k2684fuzHLs)
-
-Hacking challenge at DEFCON https://www.youtube.com/watch?v=fHhNWAKw0bY
-
-Introducing Joseki: the open-source product to improve cloud infrastructure security https://medium.com/@ihorkliushnikov/introducing-joseki-the-open-source-product-to-improve-cloud-infrastructure-security-fb71d58f41bd
-
-[Lesson 18: Application Isolation](https://devopsbootcamp.osuosl.org/application-isolation.html) 
-
-http://agilejazz.blogspot.com/p/the-devops-handbook-summary-4-of-4.html
 
 
 
 
 
-## Containers/ Docker
 
-Certify Docker images https://docs.docker.com/docker-hub/publish/certify-images/
 
-Trust in Docker Images https://www.praqma.com/stories/trust-in-docker-images/
 
-Content trust in Azure Container Registry https://docs.microsoft.com/en-us/azure/container-registry/container-registry-content-trust
 
-Integrated Container Security at Every Step of the Application Lifecycle https://www.docker.com/products/security
 
-Docker Security Cheat Sheet https://blog.container-solutions.com/docker-security-cheat-sheet
 
-Docker Security • Adrian Mouat https://www.youtube.com/watch?v=JcuYFQSplvE
-
-Github, Docker Bench for Security https://github.com/docker/docker-bench-security
-
-21 Days of Docker-Day 18 : [Docker Security](http://100daysofdevops.com/21-days-of-docker-day-18-docker-security/)
 
 ## Azure
 
@@ -86,7 +77,7 @@ Install the SIEM Connector for Cloud App Security https://www.youtube.com/watch?
 
 Integrated Management and Security https://www.youtube.com/watch?v=rpOMEa7MBqk
 
-Azure Essentials: Defense in depth security https://www.youtube.com/watch?v=OTGMi0ksjXY
+
 
 What is Azure Databricks? https://docs.microsoft.com/en-us/azure/databricks/scenarios/what-is-azure-databricks
 
@@ -122,16 +113,9 @@ Azure Active Directory (AD, AAD) Tutorial ; Identity and Access Management Servi
 
 Use Azure Active Directory authentication, 10 min,  https://docs.microsoft.com/en-us/azure/azure-sql/database/authentication-aad-overview
 
-## Compliance
 
-Cloud Compliance: What you need to know https://www.michalsons.com/blog/cloud-compliance/22643
 
-## Threats
 
-https://owasp.org/
-OWASP Top Ten https://owasp.org/www-project-top-ten/
-
-Video, 3min,: [Cloud Security: It's Tuesday, Carl](https://www.youtube.com/watch?v=NI-plwor2Xw)
 
 **Total** (0 min):
 
@@ -150,9 +134,33 @@ Video, 3min,: [Cloud Security: It's Tuesday, Carl](https://www.youtube.com/watch
 
 *Detta är material som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
 
-* TBD
-* TBD
+## Cloud security
 
-# Exemplar och övningar. 
+Hacking challenge at DEFCON https://www.youtube.com/watch?v=fHhNWAKw0bY
+
+Introducing Joseki: the open-source product to improve cloud infrastructure security https://medium.com/@ihorkliushnikov/introducing-joseki-the-open-source-product-to-improve-cloud-infrastructure-security-fb71d58f41bd
+
+[Lesson 18: Application Isolation](https://devopsbootcamp.osuosl.org/application-isolation.html) 
+
+
+
+## Threats
+
+https://owasp.org/
+
+
+OWASP Top Ten https://owasp.org/www-project-top-ten/
+
+Video, 3min,: [Cloud Security: It's Tuesday, Carl](https://www.youtube.com/watch?v=NI-plwor2Xw)
+
+
+
+[Top Cloud Computing Challenges you might face in 2020](https://medium.com/cloud-management-insider/top-cloud-computing-challenges-you-might-face-in-2020-5dcb56ddcc21)
+
+## Compliance
+
+Cloud Compliance: What you need to know https://www.michalsons.com/blog/cloud-compliance/22643
+
+# Frivillia övningar 
 
 Detta är övningar som du äntligen gör själv, i grupp eller i plenum tillsammans med hela klassen

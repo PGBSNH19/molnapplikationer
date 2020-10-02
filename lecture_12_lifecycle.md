@@ -57,6 +57,8 @@ Establish cloud governance using Cloud Adoption Framework for Azure https://www.
   The Ultimate Guide to Understanding and Using a System Development Life Cycle https://www.smartsheet.com/system-development-life-cycle-guide
 
   What Are the Best Practices for Software Development Lifecycle https://guru8.net/2019/04/what-are-the-best-practices-for-software-development-lifecycle/
+  
+  6 min How Cloud and Ops Teams Can Take Cloud Adoption From Bottleneck to Engineering Success https://medium.com/capital-one-tech/how-cloud-and-ops-teams-can-take-cloud-adoption-from-bottleneck-to-engineering-success-666d149db746
 ## Green cloud
 
 1. Green Cloud Computing – The Sustainable Way to Use the Cloud https://bigdataanalyticsnews.com/green-cloud-computing-sustainable-use/
