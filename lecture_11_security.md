@@ -110,9 +110,9 @@ Artikel (7 min): [Lesson 18: Application Isolation](https://devopsbootcamp.osuos
 
 Artikel (5 min): [Introducing Joseki: the open-source product to improve cloud infrastructure security](https://medium.com/@ihorkliushnikov/introducing-joseki-the-open-source-product-to-improve-cloud-infrastructure-security-fb71d58f41bd)
 
-Install the SIEM Connector for Cloud App Security https://www.youtube.com/watch?v=0qAHaCLKTIk
+Video (6 min): [Install the SIEM Connector for Cloud App Security](https://www.youtube.com/watch?v=0qAHaCLKTIk)
 
-https://azure.microsoft.com/en-us/services/security-center/
+Website: [Azure Security Center](https://azure.microsoft.com/en-us/services/security-center/)
 
 ### Threats
 
@@ -145,7 +145,7 @@ Video (41 min): [Microsoft Cloud App Security (CASB)](https://www.youtube.com/wa
 
 ## Compliance
 
-Cloud Compliance: What you need to know https://www.michalsons.com/blog/cloud-compliance/22643
+Artikel (7 min): [Cloud Compliance: What you need to know](https://www.michalsons.com/blog/cloud-compliance/22643)
 
 # Frivillia Buddy övningar
 
