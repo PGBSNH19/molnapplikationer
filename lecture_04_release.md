@@ -94,7 +94,7 @@ Lunch 12:00 till 13:00
 
 <span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span> Artikel (15 min): [Build and release tasks](https://docs.microsoft.com/en-us/azure/devops/pipelines/tasks/?view=azure-devops)
 
-* Github repo: [Azure Pipelines Tasks](https://github.com/microsoft/azure-pipelines-tasks)
+<span style="color:#9F58B9; font-weight: 900; margin-right:0.5em;">&#12336;</span>Github repo: [Azure Pipelines Tasks](https://github.com/microsoft/azure-pipelines-tasks)
 
 <span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Tutorial (4 min): Microsoft [DevOps build and deploy image](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/containers/build-image?view=azure-devops)
 
@@ -102,7 +102,7 @@ Lunch 12:00 till 13:00
 
 <span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>[Continuous Kubernetes blue-green deployments on Azure using Nginx, AppGateway or TrafficManager](https://medium.com/@denniszielke/continuous-kubernetes-blue-green-deployments-on-azure-using-nginx-appgateway-or-trafficmanager-4490bce29cb) (Part 2 of 2)
 
-
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>[Azure DevOps - Docker Release Pipeline](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/azure-devops-docker-release-pipeline/ba-p/890295)
 
 ## Github Actions
 
