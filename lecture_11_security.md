@@ -7,9 +7,9 @@
 **Draft status**:
 
 * Lektionsplan: 90% klar
-* Lektionsteori: 60% klar
-* Bakgrunds litteratur: 20% klar
-* Uppgifter: 10% klar
+* Lektionsteori: 100% klar
+* Bakgrunds litteratur: 40% klar
+* Uppgifter: 90% klar
 
 Målet med denna lektion är att lära vilka säkerhetsmekanismer som finns i Azure och vad man speciellt ska vara uppmärksam på när man utvecklar moln applikationer.
 
@@ -65,28 +65,19 @@ Deadline
 
 * Artikel (7 min): [Azure Storage encryption for data at rest](https://docs.microsoft.com/en-us/azure/storage/common/storage-service-encryption)
 
-* Artikel (24 min): [Storing and using secrets in Azure](https://devblogs.microsoft.com/dotnet/storing-and-using-secrets-in-azure/)
 
 ### Azure access security
 
-* Video (28 min): [Integrated Management and Security](https://www.youtube.com/watch?v=rpOMEa7MBqk)
+* Kurs (19 min): [Hantera åtkomst till en Azure-prenumeration med hjälp av rollbaserad åtkomstkontroll (RBAC) i Azure](https://docs.microsoft.com/sv-se/learn/modules/manage-subscription-access-azure-rbac/)
 
-* Artikel (6 min): [Azure Active Directory: Service Principal or Application?](https://medium.com/@ihorkliushnikov/azure-active-directory-application-or-service-principal-b5a5e14f2a23)
-
-* Kursus (19 min): [Hantera åtkomst till en Azure-prenumeration med hjälp av rollbaserad åtkomstkontroll (RBAC) i Azure](https://docs.microsoft.com/sv-se/learn/modules/manage-subscription-access-azure-rbac/)
-
-* Video (5 min): [Cloud Access Security Brokers (CASB) in 5 Minutes](https://www.youtube.com/watch?v=qhAC--N6b8w)
-
-* Video (30 min): [Azure Active Directory (AD, AAD) Tutorial ; Identity and Access Management Service](https://www.youtube.com/watch?v=Ma7VAQE7ga4)
-
-* Artikel (10 min): [Use Azure Active Directory authentication](https://docs.microsoft.com/en-us/azure/azure-sql/database/authentication-aad-overview)
+  
 
 
+**Total** (105 min):
 
-**Total** (0 min):
-
-- Artiklar: 0 stk, total 0 min
-- Video: 0 stk, total 0 min
+- Artiklar: 6 stk, total 62 min
+- Video: 4 stk, total 24 min
+- Kurs: 1 stk, total 19 min
 
 ## Bok: Learn Azure In A Month of Lunches
 
@@ -127,6 +118,10 @@ Artikel (6 min): [Top Cloud Computing Challenges you might face in 2020](https:/
 
 ## Azure 
 
+### Networking
+
+Kurs (43 min): [Secure and isolate access to Azure resources by using network security groups and service endpoints](https://docs.microsoft.com/da-dk/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints)
+
 ### Data security
 
 Artikel (5 min): [Microsoft Office 365 Data Safety: A Full Overview of the Shared Responsibility Model](https://medium.com/@nakivo/microsoft-office-365-data-safety-a-full-overview-of-the-shared-responsibility-model-62d52621c7de)
@@ -143,10 +138,23 @@ Artikel (7 min): [MSFT Azure AD Conditional Access vs CASB](https://www.bitglass
 
 Video (41 min): [Microsoft Cloud App Security (CASB)](https://www.youtube.com/watch?v=wLsXZ9MzJxY)
 
+* Video (28 min): [Integrated Management and Security](https://www.youtube.com/watch?v=rpOMEa7MBqk)
+* Artikel (6 min): [Azure Active Directory: Service Principal or Application?](https://medium.com/@ihorkliushnikov/azure-active-directory-application-or-service-principal-b5a5e14f2a23)
+* Video (5 min): [Cloud Access Security Brokers (CASB) in 5 Minutes](https://www.youtube.com/watch?v=qhAC--N6b8w)
+* Video (30 min): [Azure Active Directory (AD, AAD) Tutorial ; Identity and Access Management Service](https://www.youtube.com/watch?v=Ma7VAQE7ga4)
+
+* Artikel (10 min): [Use Azure Active Directory authentication](https://docs.microsoft.com/en-us/azure/azure-sql/database/authentication-aad-overview)
+
 ## Compliance
 
 Artikel (7 min): [Cloud Compliance: What you need to know](https://www.michalsons.com/blog/cloud-compliance/22643)
 
 # Frivillia Buddy övningar
 
-Jobba med Azure Key Vault
+## Azure Key Vault
+
+Skriv en Azure fuction som använder data från en Azure Key Vault.
+
+Hint:
+
+*  [Storing and using secrets in Azure](https://devblogs.microsoft.com/dotnet/storing-and-using-secrets-in-azure/)

@@ -228,6 +228,7 @@ Hints:
 * Tutorial (3 min): [Authenticate with Azure Container Registry from Azure Container Instances](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-auth-aci)
 * Video (7 min) : [How to use Azure Container Instance (ACI)](https://www.youtube.com/watch?v=hvvWtsYCObU)
 * Video (21 min): [Azure Container Instances Tutorial ; Serverless containers in cloud](https://www.youtube.com/watch?v=jAWLQFi4USk)
+* Kurs (48 min): [Run Docker containers with Azure Container Instances](https://docs.microsoft.com/da-dk/learn/modules/run-docker-with-azure-container-instances/)
 
 # Övning 4
 

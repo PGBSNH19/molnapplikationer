@@ -100,7 +100,6 @@ Kurs: [Powershell Tutorial](https://www.tutorialspoint.com/powershell/index.htm)
 ### HTTP/2
 
 * [HTTP/2](https://hpbn.co/http2/)
-
 * RFC 7540: [Hypertext Transfer Protocol Version 2 (HTTP/2)](https://tools.ietf.org/html/rfc7540)
 
 ## DNS
@@ -119,9 +118,8 @@ Kurs: [Powershell Tutorial](https://www.tutorialspoint.com/powershell/index.htm)
 
 ## The Internet
 
-Link till [The end of the internet](http://hmpg.net/)
-
-[How big is the internet?](https://starry.com/blog/inside-the-internet/how-big-is-the-internet)
+* [The end of the internet](http://hmpg.net/)
+* [How big is the internet?](https://starry.com/blog/inside-the-internet/how-big-is-the-internet)
 
 ## Azure
 

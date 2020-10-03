@@ -75,11 +75,16 @@ Lunch 12:00 till 13:00
 * Martin Fowler: [Blue Green Deployment](https://martinfowler.com/bliki/BlueGreenDeployment.html)
 * [5 Blue/Green Deployment Best Practices to Improve Your Releases](https://blog.inedo.com/blue-green-deployment-best-practices)
 
-## Pulumi
+### Azure Resource Manager
+
+* Kurs (36 min): [Build Azure Resource Manager templates](https://docs.microsoft.com/en-us/learn/modules/build-azure-vm-templates)
+* [ARMViz](http://armviz.io/designer) - web application for visualizing Resouce Manager templates
+
+### Pulumi
 
 * [Use Pulumi to Create and Provision an Azure VM for IoT Edge (Node.js)](https://geoffhudik.com/tech/2020/05/03/use-pulumi-to-create-and-provision-an-azure-vm-for-iot-edge/)
 
-## Terraform
+### Terraform
 
 Annat ramverk till att göra IaC
 
@@ -93,6 +98,9 @@ Annat ramverk till att göra IaC
 *Getting started with Linux*
 
 * [Linux: A Survival Guide for Beginners](https://medium.com/better-programming/linux-survival-guide-for-beginners-c18bfd982036)
+  * [Pipelines](https://www.gnu.org/software/bash/manual/html_node/Pipelines.html)
+  * [Redirections](https://www.gnu.org/software/bash/manual/html_node/Redirections.html)
+* Windows commandline: [Redirection](https://ss64.com/nt/syntax-redirection.html)
 * [Windows Subsystem for Linux Installation Guide for Windows 10](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
   * [Upgrading to WSL 2](https://medium.com/@callback.insanity/upgrading-to-wsl-2-9883688fcfa5)
   * [Trying the New WSL 2](https://scotch.io/bar-talk/trying-the-new-wsl-2-its-fast-windows-subsystem-for-linux)
