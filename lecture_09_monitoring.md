@@ -191,3 +191,9 @@ Hints:
 Skåpa en webb applikation (en ta en befintlig), och hosta den i en App Service (evt som ett docker image).
 
 Få alla logs + metrics från webb appliktionen att skickas till Azure Application Insights.
+
+# Frivilla övningar
+
+## Azure Monitor kurs
+
+Gå igenom denna kurs (34 min): [Analysera din Azure-infrastruktur med hjälp av Azure Monitor-loggar](https://docs.microsoft.com/sv-se/learn/modules/analyze-infrastructure-with-azure-monitor-logs/)

@@ -198,3 +198,7 @@ Detta är en förberedelse inför [lektion 2](lecture_02_iac_och_vm.md)
 Create an account at Azure and install the [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-windows)
 
 Browse around to get a feeling of the possibilities in Azure, but besides this you don't need to do anything.
+
+## Kurs om huvudprinciperna bakom molntjänster
+
+Gå igenom denna kurs (62 min): [Molnbegrepp – principerna bakom molnbaserad databehandling](https://docs.microsoft.com/sv-se/learn/modules/principles-cloud-computing/)

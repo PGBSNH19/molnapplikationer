@@ -108,7 +108,11 @@ Lunch 12:00 till 13:00
 
 # Frivillia Buddy övningar
 
-## Övning: Load balance VMs across availability zones
+## Skala applikationer med Azure
+
+Gå igenom denna kurs (57 min): [Bygg ett skalbart program med VM-skalningsuppsättningar](https://docs.microsoft.com/sv-se/learn/modules/build-app-with-scale-sets/)
+
+## Load balance VMs across availability zones
 
 [Tutorial: Load balance VMs across availability zones with a Standard Load Balancer using the Azure portal](https://docs.microsoft.com/en-us/azure/load-balancer/tutorial-load-balancer-standard-public-zone-redundant-portal)
 

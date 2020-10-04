@@ -147,11 +147,11 @@ Artikel (7 min): [Cloud Compliance: What you need to know](https://www.michalson
 
 ## Role Based Access Controll
 
-Gå igenom denna kurs kurs (19 min): [Hantera åtkomst till en Azure-prenumeration med hjälp av rollbaserad åtkomstkontroll (RBAC) i Azure](https://docs.microsoft.com/sv-se/learn/modules/manage-subscription-access-azure-rbac/)
+Gå igenom denna kurs (19 min): [Hantera åtkomst till en Azure-prenumeration med hjälp av rollbaserad åtkomstkontroll (RBAC) i Azure](https://docs.microsoft.com/sv-se/learn/modules/manage-subscription-access-azure-rbac/)
 
 ## Azure Backup
 
-Gå igenom denna kurs kurs (33 min): [Skydda dina virtuella datorer med hjälp av Azure Backup](https://docs.microsoft.com/sv-se/learn/modules/protect-virtual-machines-with-azure-backup)
+Gå igenom denna kurs (33 min): [Skydda dina virtuella datorer med hjälp av Azure Backup](https://docs.microsoft.com/sv-se/learn/modules/protect-virtual-machines-with-azure-backup)
 
 ## Azure Key Vault
 
