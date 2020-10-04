@@ -110,6 +110,8 @@ Deadline
 
 <span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Video (min 59): [Azure Security Basics](https://www.youtube.com/watch?v=YskZ3WcK2jM)
 
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Video (min 13): [Azure Security Center; Azure Friday](https://www.youtube.com/watch?v=t6gp9k78XEw)
+
 ### Networking
 
 <span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Kurs (43 min): [Skydda och isolera åtkomst till Azure-resurser med hjälp av nätverkssäkerhetsgrupper och tjänstslutpunkter](https://docs.microsoft.com/sv-se/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/) - [en](https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints)
