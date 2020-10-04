@@ -103,11 +103,13 @@ Deadline
 
 <span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (6 min): [Top Cloud Computing Challenges you might face in 2020](https://medium.com/cloud-management-insider/top-cloud-computing-challenges-you-might-face-in-2020-5dcb56ddcc21)
 
-## Azure 
+## Azure säkerhet
 
-<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Video (min 59): [Azure Security Basics](https://www.youtube.com/watch?v=YskZ3WcK2jM)
+<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Video (59 min): [Azure Security Basics](https://www.youtube.com/watch?v=YskZ3WcK2jM)
 
-<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Video (min 13): [Azure Security Center; Azure Friday](https://www.youtube.com/watch?v=t6gp9k78XEw)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Video (13 min): [Azure Security Center; Azure Friday](https://www.youtube.com/watch?v=t6gp9k78XEw)
+
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Kurs (76 min): [Säkerhet, ansvar och förtroende i Azure](https://docs.microsoft.com/sv-se/learn/modules/intro-to-security-in-azure/) - [en](https://docs.microsoft.com/en-ca/learn/modules/intro-to-security-in-azure/)
 
 ### Networking
 
