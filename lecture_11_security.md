@@ -42,15 +42,12 @@ Deadline
 ## Cloud security
 
 * Artikel (9 min): [DevOps Handbook Summary 4 of 4 - Security](http://agilejazz.blogspot.com/p/the-devops-handbook-summary-4-of-4.html)
-
 * Video (6 min): [Google Data Center Security: 6 Layers Deep](https://www.youtube.com/watch?v=kd33UVZhnAA)
-
 * Video (4 min): [Cloud Cybersecurity in Under 5 Minutes](https://www.youtube.com/watch?v=k2684fuzHLs)
 
 ## Azure
 
 * Artikel (28 min): [Introduction to Azure security](https://docs.microsoft.com/en-us/azure/security/fundamentals/overview)
-
 * Artikel (4 min): [Secure development best practices on Azure](https://docs.microsoft.com/en-us/azure/security/develop/secure-dev-overview)
 
 ### Azure cloud security
