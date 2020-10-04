@@ -20,7 +20,7 @@ Lektion från kl. 8:30 till kl. 16:30
   * <img style="margin-right:0.5em;" src="assets/images/discord18.png" alt="Discord"/> Boarding card, PM på Discord
 * 9:15 <img style="margin-right:0.5em;" src="assets/images/teams18.png"  alt="Teams"/> Presentation av dagens teori: 
   * Moln säkerhet
-* 10:00 <img style="margin-right:0.5em;" src="assets/images/discord18.png" alt="Discord"/>Frivilliga Buddy övningar / SpacePark-projekt
+* 10:00 <img style="margin-right:0.5em;" src="assets/images/discord18.png" alt="Discord"/>Frivilliga övningar / SpacePark-projekt
 
 Lunch 12:00 till 13:00
 
@@ -60,11 +60,8 @@ Deadline
 ### Azure Data security
 
 * Artikel (3 min): [What is the Azure Backup service?](https://docs.microsoft.com/en-us/azure/backup/backup-overview)
-
 * Artikel (11 min): [An Introduction to Cloud Backup: What, Why, and How](https://medium.com/@nakivo/an-introduction-to-cloud-backup-what-why-and-how-876e91a772bf)
-
-* Artikel (7 min): [Azure Storage encryption for data at rest](https://docs.microsoft.com/en-us/azure/storage/common/storage-service-encryption)
-
+* Artikel (7 min): [Capsulized overview of Azure Key Vault](https://medium.com/walmartglobaltech/azure-key-vault-d380b77fc31b)
 
 
 
@@ -126,6 +123,8 @@ Video (19 min): [Azure Key Vault Tutorial; Secure secrets, keys and certificates
 
 Artikel (8 min): [Using Key Vault and Managed Identities with Azure Functions](https://damienbod.com/2020/07/20/using-key-vault-and-managed-identities-with-azure-functions/)
 
+Artikel (7 min): [Azure Storage encryption for data at rest](https://docs.microsoft.com/en-us/azure/storage/common/storage-service-encryption)
+
 ### Azure access 
 
 Artikel (7 min): [MSFT Azure AD Conditional Access vs CASB](https://www.bitglass.com/blog/msft-azure-ad-conditional-access-vs-casb)
@@ -143,7 +142,7 @@ Video (41 min): [Microsoft Cloud App Security (CASB)](https://www.youtube.com/wa
 
 Artikel (7 min): [Cloud Compliance: What you need to know](https://www.michalsons.com/blog/cloud-compliance/22643)
 
-# Frivillia Buddy övningar
+# Frivillia övningar
 
 ## Role Based Access Controll
 
