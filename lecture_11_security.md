@@ -8,7 +8,7 @@
 
 * Lektionsplan: 90% klar
 * Lektionsteori: 100% klar
-* Bakgrunds litteratur: 40% klar
+* Bakgrunds litteratur: 90% klar
 * Uppgifter: 90% klar
 
 Målet med denna lektion är att lära vilka säkerhetsmekanismer som finns i Azure och vad man speciellt ska vara uppmärksam på när man utvecklar moln applikationer.
@@ -84,63 +84,67 @@ Deadline
 
 ## Application Security
 
-Artikel (5 min): [Hardening ASP.NET Core 3.1 Docker Images](https://medium.com/@michaeldimoudis/hardening-asp-net-core-3-1-docker-images-f0c2ede1667f)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (5 min): [Hardening ASP.NET Core 3.1 Docker Images](https://medium.com/@michaeldimoudis/hardening-asp-net-core-3-1-docker-images-f0c2ede1667f)
 
-Artikel (7 min): [Lesson 18: Application Isolation](https://devopsbootcamp.osuosl.org/application-isolation.html) 
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (7 min): [Lesson 18: Application Isolation](https://devopsbootcamp.osuosl.org/application-isolation.html) 
 
 ## Cloud security
 
-Artikel (5 min): [Introducing Joseki: the open-source product to improve cloud infrastructure security](https://medium.com/@ihorkliushnikov/introducing-joseki-the-open-source-product-to-improve-cloud-infrastructure-security-fb71d58f41bd)
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Artikel (5 min): [Introducing Joseki: the open-source product to improve cloud infrastructure security](https://medium.com/@ihorkliushnikov/introducing-joseki-the-open-source-product-to-improve-cloud-infrastructure-security-fb71d58f41bd)
 
-Video (6 min): [Install the SIEM Connector for Cloud App Security](https://www.youtube.com/watch?v=0qAHaCLKTIk)
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Video (6 min): [Install the SIEM Connector for Cloud App Security](https://www.youtube.com/watch?v=0qAHaCLKTIk)
 
-Website: [Azure Security Center](https://azure.microsoft.com/en-us/services/security-center/)
+<span style="color:#9F58B9; font-weight: 900; margin-right:0.5em;">&#12336;</span>Website: [Azure Security Center](https://azure.microsoft.com/en-us/services/security-center/)
 
 ### Threats
 
-Website: [OWASP](https://owasp.org/)
+<span style="color:#9F58B9; font-weight: 900; margin-right:0.5em;">&#12336;</span>Website: [OWASP](https://owasp.org/)
 
+<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Artikel (4 min): [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
 
-Artikel (4 min): [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Video (3 min): [Cloud Security: It's Tuesday, Carl](https://www.youtube.com/watch?v=NI-plwor2Xw)
 
-Video (3 min): [Cloud Security: It's Tuesday, Carl](https://www.youtube.com/watch?v=NI-plwor2Xw)
-
-Artikel (6 min): [Top Cloud Computing Challenges you might face in 2020](https://medium.com/cloud-management-insider/top-cloud-computing-challenges-you-might-face-in-2020-5dcb56ddcc21)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (6 min): [Top Cloud Computing Challenges you might face in 2020](https://medium.com/cloud-management-insider/top-cloud-computing-challenges-you-might-face-in-2020-5dcb56ddcc21)
 
 ## Azure 
 
+<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Video (min 59): [Azure Security Basics](https://www.youtube.com/watch?v=YskZ3WcK2jM)
+
 ### Networking
 
-Kurs (43 min): [Secure and isolate access to Azure resources by using network security groups and service endpoints](https://docs.microsoft.com/da-dk/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Kurs (43 min): [Skydda och isolera åtkomst till Azure-resurser med hjälp av nätverkssäkerhetsgrupper och tjänstslutpunkter](https://docs.microsoft.com/sv-se/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints/) - [en](https://docs.microsoft.com/en-us/learn/modules/secure-and-isolate-with-nsg-and-service-endpoints)
 
 ### Data security
 
-Artikel (5 min): [Microsoft Office 365 Data Safety: A Full Overview of the Shared Responsibility Model](https://medium.com/@nakivo/microsoft-office-365-data-safety-a-full-overview-of-the-shared-responsibility-model-62d52621c7de)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (5 min): [Microsoft Office 365 Data Safety: A Full Overview of the Shared Responsibility Model](https://medium.com/@nakivo/microsoft-office-365-data-safety-a-full-overview-of-the-shared-responsibility-model-62d52621c7de)
 
-Artikel (7 min): [How to inject Azure Key Vault secrets in the Azure DevOps CI/CD pipelines](https://daniel-krzyczkowski.github.io/How-to-inject-Azure-Key-Vault-secrets-in-the-Azure-DevOps-CICD-pipelines/)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (7 min): [How to inject Azure Key Vault secrets in the Azure DevOps CI/CD pipelines](https://daniel-krzyczkowski.github.io/How-to-inject-Azure-Key-Vault-secrets-in-the-Azure-DevOps-CICD-pipelines/)
 
-Video (19 min): [Azure Key Vault Tutorial; Secure secrets, keys and certificates easily](https://www.youtube.com/watch?v=PgujSug1ZbI)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Video (19 min): [Azure Key Vault Tutorial; Secure secrets, keys and certificates easily](https://www.youtube.com/watch?v=PgujSug1ZbI)
 
-Artikel (8 min): [Using Key Vault and Managed Identities with Azure Functions](https://damienbod.com/2020/07/20/using-key-vault-and-managed-identities-with-azure-functions/)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (8 min): [Using Key Vault and Managed Identities with Azure Functions](https://damienbod.com/2020/07/20/using-key-vault-and-managed-identities-with-azure-functions/)
 
-Artikel (7 min): [Azure Storage encryption for data at rest](https://docs.microsoft.com/en-us/azure/storage/common/storage-service-encryption)
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Artikel (7 min): [Azure Storage encryption for data at rest](https://docs.microsoft.com/en-us/azure/storage/common/storage-service-encryption)
 
 ### Azure access 
 
-Artikel (7 min): [MSFT Azure AD Conditional Access vs CASB](https://www.bitglass.com/blog/msft-azure-ad-conditional-access-vs-casb)
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Artikel (7 min): [MSFT Azure AD Conditional Access vs CASB](https://www.bitglass.com/blog/msft-azure-ad-conditional-access-vs-casb)
 
-Video (41 min): [Microsoft Cloud App Security (CASB)](https://www.youtube.com/watch?v=wLsXZ9MzJxY)
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Video (41 min): [Microsoft Cloud App Security (CASB)](https://www.youtube.com/watch?v=wLsXZ9MzJxY)
 
-* Video (28 min): [Integrated Management and Security](https://www.youtube.com/watch?v=rpOMEa7MBqk)
-* Artikel (6 min): [Azure Active Directory: Service Principal or Application?](https://medium.com/@ihorkliushnikov/azure-active-directory-application-or-service-principal-b5a5e14f2a23)
-* Video (5 min): [Cloud Access Security Brokers (CASB) in 5 Minutes](https://www.youtube.com/watch?v=qhAC--N6b8w)
-* Video (30 min): [Azure Active Directory (AD, AAD) Tutorial ; Identity and Access Management Service](https://www.youtube.com/watch?v=Ma7VAQE7ga4)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Video (28 min): [Integrated Management and Security](https://www.youtube.com/watch?v=rpOMEa7MBqk)
 
-* Artikel (10 min): [Use Azure Active Directory authentication](https://docs.microsoft.com/en-us/azure/azure-sql/database/authentication-aad-overview)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (6 min): [Azure Active Directory: Service Principal or Application?](https://medium.com/@ihorkliushnikov/azure-active-directory-application-or-service-principal-b5a5e14f2a23)
+
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Video (5 min): [Cloud Access Security Brokers (CASB) in 5 Minutes](https://www.youtube.com/watch?v=qhAC--N6b8w)
+
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Video (30 min): [Azure Active Directory (AD, AAD) Tutorial ; Identity and Access Management Service](https://www.youtube.com/watch?v=Ma7VAQE7ga4)
+
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (10 min): [Use Azure Active Directory authentication](https://docs.microsoft.com/en-us/azure/azure-sql/database/authentication-aad-overview)
 
 ## Compliance
 
-Artikel (7 min): [Cloud Compliance: What you need to know](https://www.michalsons.com/blog/cloud-compliance/22643)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (7 min): [Cloud Compliance: What you need to know](https://www.michalsons.com/blog/cloud-compliance/22643)
 
 # Frivillia övningar
 
@@ -154,7 +158,7 @@ Gå igenom denna kurs (33 min): [Skydda dina virtuella datorer med hjälp av Azu
 
 ## Azure Key Vault
 
-Skriv en Azure fuction som använder data från en Azure Key Vault.
+Bygg en Azure fuction som använder data från en Azure Key Vault.
 
 Hint:
 
