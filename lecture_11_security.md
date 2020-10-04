@@ -66,18 +66,12 @@ Deadline
 * Artikel (7 min): [Azure Storage encryption for data at rest](https://docs.microsoft.com/en-us/azure/storage/common/storage-service-encryption)
 
 
-### Azure access security
-
-* Kurs (19 min): [Hantera åtkomst till en Azure-prenumeration med hjälp av rollbaserad åtkomstkontroll (RBAC) i Azure](https://docs.microsoft.com/sv-se/learn/modules/manage-subscription-access-azure-rbac/)
-
-  
 
 
-**Total** (105 min):
+**Total** (86 min):
 
 - Artiklar: 6 stk, total 62 min
 - Video: 4 stk, total 24 min
-- Kurs: 1 stk, total 19 min
 
 ## Bok: Learn Azure In A Month of Lunches
 
@@ -150,6 +144,10 @@ Video (41 min): [Microsoft Cloud App Security (CASB)](https://www.youtube.com/wa
 Artikel (7 min): [Cloud Compliance: What you need to know](https://www.michalsons.com/blog/cloud-compliance/22643)
 
 # Frivillia Buddy övningar
+
+## Role Based Access Controll
+
+Gå igenom denna kurs kurs (19 min): [Hantera åtkomst till en Azure-prenumeration med hjälp av rollbaserad åtkomstkontroll (RBAC) i Azure](https://docs.microsoft.com/sv-se/learn/modules/manage-subscription-access-azure-rbac/)
 
 ## Azure Key Vault
 
