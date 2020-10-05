@@ -70,6 +70,7 @@ And remember to create unit tests, where possible.
 * It would be **really nice** if you could use:
   * Azure Blob Storage : [lecture 08](lecture_08_data.md)
   * Azure Application Insights: [lecture 09](lecture_09_monitoring.md)
+  * ServiceBus
 * The following technologies is **optional** to use (but a plus in the assessment):
   * Kubernetes
   * Private links : [lecture 07](lecture_07_networks.md)
