@@ -29,12 +29,12 @@ Lektion från kl. 8:30 till kl. 16:30
 Lunch 12:00 till 13:00
 
 * 13:00-15:30 Hemmabio + poäng (max 0 min)
-  * Grupp 1 (0:0) - [GitHub repo](https://github.com/PGBSNH19/spacepark-grupp-1-spacepark)
-  * Grupp 2 (0:0) - [GitHub repo](https://github.com/PGBSNH19/spacepark-grupp-2-b02-b04)
-  * Grupp 3 (0:0) - [GitHub repo](https://github.com/PGBSNH19/spacepark-grupp-3-spacepark)
-  * Grupp 4 (0:0) - [GitHub repo](https://github.com/PGBSNH19/spacepark-grupp-4)
-  * Grupp 5 (0:0) - [GitHub repo](https://github.com/PGBSNH19/spacepark-grupp-5-spacepark)  
-  * Grupp 6 (0:0) - [GitHub repo](https://github.com/PGBSNH19/spacepark-grupp-6-spacepark)
+  * Grupp 1 (0 min) - [GitHub repo](https://github.com/PGBSNH19/spacepark-grupp-1-spacepark)
+  * [Grupp 2](https://web.microsoftstream.com/video/079ed10d-4dc8-408d-bfea-16a3697ec9ad?channelId=9c4a5233-5f83-4454-818e-035023491078) (25 min) - [GitHub repo](https://github.com/PGBSNH19/spacepark-grupp-2-b02-b04)
+  * Grupp 3 (0 min) - [GitHub repo](https://github.com/PGBSNH19/spacepark-grupp-3-spacepark)
+  * [Grupp 4](https://web.microsoftstream.com/video/0fb5f302-528c-4a79-b16a-ccfe69de8839?channelId=9c4a5233-5f83-4454-818e-035023491078) (19 min) - [GitHub repo](https://github.com/PGBSNH19/spacepark-grupp-4)
+  * [Grupp 5](https://web.microsoftstream.com/video/04eea312-302c-47d4-8d0c-11975341e263?channelId=9c4a5233-5f83-4454-818e-035023491078) (19 min) - [GitHub repo](https://github.com/PGBSNH19/spacepark-grupp-5-spacepark)  
+  * Grupp 6 (0 min) - [GitHub repo](https://github.com/PGBSNH19/spacepark-grupp-6-spacepark)
 * 15:30 <img style="margin-right:0.5em;" src="assets/images/teams18.png" alt="Teams"/>Nästa kurs - Producera och leverera mjukvara
 * 16:00 <img style="margin-right:0.5em;" src="assets/images/teams18.png" alt="Teams"/> LIA + utvärdering
 * 16:30 <img style="margin-right:0.5em;" src="assets/images/discord18.png" alt="Discord"/> Landing card, PM på Discord
@@ -42,39 +42,24 @@ Lunch 12:00 till 13:00
 # Lektionsteori
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
 
-[The Twelve Factors](https://12factor.net/)
+## Moln livscykel 
 
-## Life cycle
-
-* Artikel (6 min): [Top Cloud Computing Challenges you might face in 2020](https://medium.com/cloud-management-insider/top-cloud-computing-challenges-you-might-face-in-2020-5dcb56ddcc21)
-
-* Video [Establish cloud governance using Cloud Adoption Framework for Azure](https://www.youtube.com/watch?v=gPEcqX9No-M)
-
-* Artikel Wikipedia: [app lifge](https://en.wikipedia.org/wiki/Application_lifecycle_management)
-* Artikel [Application Lifecycle Management](https://apprenda.com/library/glossary/a-definition-of-application-lifecycle-management/)
-* [Application Lifecycle in the Cloud](https://gevaperry.typepad.com/main/2009/11/application-lifecycle-in-the-cloud.html)
-* [The Cloud-Native Application Lifecycle Difference: Continuous Change](https://thenewstack.io/cloud-native-application-lifecycle-difference-continuous-change/)
-* [The Seven Phases of the System-Development Life Cycle](https://www.innovativearchitects.com/KnowledgeCenter/basic-IT-systems/system-development-life-cycle.aspx)
-* [The Ultimate Guide to Understanding and Using a System Development Life Cycle](https://www.smartsheet.com/system-development-life-cycle-guide)
-* [What Are the Best Practices for Software Development Lifecycle](https://guru8.net/2019/04/what-are-the-best-practices-for-software-development-lifecycle/)
-* Artikel (6 min): [How Cloud and Ops Teams Can Take Cloud Adoption From Bottleneck to Engineering Success](https://medium.com/capital-one-tech/how-cloud-and-ops-teams-can-take-cloud-adoption-from-bottleneck-to-engineering-success-666d149db746)
+* Video (13 min): [Establish cloud governance using Cloud Adoption Framework for Azure](https://www.youtube.com/watch?v=gPEcqX9No-M)
+* Artikel (6 min): [Application Lifecycle in the Cloud](https://gevaperry.typepad.com/main/2009/11/application-lifecycle-in-the-cloud.html)
+* Artikel (9 min): [The Cloud-Native Application Lifecycle Difference: Continuous Change](https://thenewstack.io/cloud-native-application-lifecycle-difference-continuous-change/)
 
 ## Green cloud
 
-* Artikel [Green Cloud Computing – The Sustainable Way to Use the Cloud](https://bigdataanalyticsnews.com/green-cloud-computing-sustainable-use/)
-* Slides [Green Cloud Computing 1](https://www.slideshare.net/bluse2/green-cloud-computing)
-* Slides [Green cloud computing 2](https://www.slideshare.net/IamShreyasK/green-cloud-computing-25761737)
-* Artikel [AI-Powered Green Cloud and Data Center](https://ieeexplore.ieee.org/document/8584429)
-* Website [Clickclean](http://www.clickclean.org/international/en/)
-  * PDF [How Clean  is Your Cloud?](https://storage.googleapis.com/planet4-international-stateless/2012/04/e7c8ff21-howcleanisyourcloud.pdf)
-* Video [Are tech companies green enough for their workers?](https://www.youtube.com/watch?v=F53dcBoTtww)
+* Artikel (6 min): [Green Cloud Computing – The Sustainable Way to Use the Cloud](https://bigdataanalyticsnews.com/green-cloud-computing-sustainable-use/)
+* Dokument (10 min): [How Clean  is Your Cloud?](https://storage.googleapis.com/planet4-international-stateless/2012/04/e7c8ff21-howcleanisyourcloud.pdf) (OBS från april 2012)
+* Video (2 min): [Are tech companies green enough for their workers?](https://www.youtube.com/watch?v=F53dcBoTtww)
 
-## Next .NET
+## Nästa version av .NET
 
-Nästa version av .NET kommer att lanseras på [.NET Conf 2020](https://www.dotnetconf.net/), 10:e till 12:e november 2020
+> Nästa version av .NET kommer att lanseras på [.NET Conf 2020](https://www.dotnetconf.net/), 10:e till 12:e november 2020
 
-* Video (88 min): [The journey to one .net ; .Net 5 and beyond ; Microsoft build 2020](https://www.youtube.com/watch?v=oyF6RGKlvi8)
 * Video (17 min): [What is the Future of .NET? Is .NET Framework Dead? Is .NET Core Dead?](https://www.youtube.com/watch?v=ZwxWCiW5uO4)
+
 
 
 **Total** (0 min):
@@ -95,9 +80,33 @@ Nästa version av .NET kommer att lanseras på [.NET Conf 2020](https://www.dotn
 
 *Detta är material som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
 
-[Azure App Configuration Tutorial](https://www.youtube.com/watch?v=t6m13DxUJMc)
+Artikel serie (totalt 39 min): [The Twelve Factors](https://12factor.net/) \- a methodology for building software-as-a-service apps
+
+Video (23 min): [Azure App Configuration Tutorial](https://www.youtube.com/watch?v=t6m13DxUJMc)
 
 <span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Video (28 min): [Integrated Management and Security](https://www.youtube.com/watch?v=rpOMEa7MBqk)
+
+Artikel (6 min): [Top Cloud Computing Challenges you might face in 2020](https://medium.com/cloud-management-insider/top-cloud-computing-challenges-you-might-face-in-2020-5dcb56ddcc21)
+
+## Moln livscykel 
+
+* Artikel (6 min), Wikipedia: [Application lifecycle management](https://en.wikipedia.org/wiki/Application_lifecycle_management)
+* Artikel (3 min) [Application Lifecycle Management](https://apprenda.com/library/glossary/a-definition-of-application-lifecycle-management/)
+* Artikel (8 min): [The Seven Phases of the System-Development Life Cycle](https://www.innovativearchitects.com/KnowledgeCenter/basic-IT-systems/system-development-life-cycle.aspx)
+* Artikel (19 min): [The Ultimate Guide to Understanding and Using a System Development Life Cycle](https://www.smartsheet.com/system-development-life-cycle-guide)
+* Artikel (5 min): [What Are the Best Practices for Software Development Lifecycle](https://guru8.net/2019/04/what-are-the-best-practices-for-software-development-lifecycle/)
+* Artikel (6 min): [How Cloud and Ops Teams Can Take Cloud Adoption From Bottleneck to Engineering Success](https://medium.com/capital-one-tech/how-cloud-and-ops-teams-can-take-cloud-adoption-from-bottleneck-to-engineering-success-666d149db746)
+
+## Green cloud
+
+* Slides [Green Cloud Computing 1](https://www.slideshare.net/bluse2/green-cloud-computing)
+* Slides [Green cloud computing 2](https://www.slideshare.net/IamShreyasK/green-cloud-computing-25761737)
+* Artikel (30 min): [AI-Powered Green Cloud and Data Center](https://ieeexplore.ieee.org/document/8584429)
+* Website: [Clickclean](http://www.clickclean.org/international/en/)
+
+## Nästa version av .NET
+
+Video (88 min): [The journey to one .net ; .Net 5 and beyond ; Microsoft build 2020](https://www.youtube.com/watch?v=oyF6RGKlvi8)
 
 # Exemplar och övningar. 
 
