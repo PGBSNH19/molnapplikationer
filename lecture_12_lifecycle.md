@@ -58,19 +58,15 @@ Lunch 12:00 till 13:00
 * [The Ultimate Guide to Understanding and Using a System Development Life Cycle](https://www.smartsheet.com/system-development-life-cycle-guide)
 * [What Are the Best Practices for Software Development Lifecycle](https://guru8.net/2019/04/what-are-the-best-practices-for-software-development-lifecycle/)
 * Artikel (6 min): [How Cloud and Ops Teams Can Take Cloud Adoption From Bottleneck to Engineering Success](https://medium.com/capital-one-tech/how-cloud-and-ops-teams-can-take-cloud-adoption-from-bottleneck-to-engineering-success-666d149db746)
+
 ## Green cloud
 
 * Artikel [Green Cloud Computing – The Sustainable Way to Use the Cloud](https://bigdataanalyticsnews.com/green-cloud-computing-sustainable-use/)
-
 * Slides [Green Cloud Computing 1](https://www.slideshare.net/bluse2/green-cloud-computing)
-
 * Slides [Green cloud computing 2](https://www.slideshare.net/IamShreyasK/green-cloud-computing-25761737)
-
 * Artikel [AI-Powered Green Cloud and Data Center](https://ieeexplore.ieee.org/document/8584429)
-
 * Website [Clickclean](http://www.clickclean.org/international/en/)
   * PDF [How Clean  is Your Cloud?](https://storage.googleapis.com/planet4-international-stateless/2012/04/e7c8ff21-howcleanisyourcloud.pdf)
-
 * Video [Are tech companies green enough for their workers?](https://www.youtube.com/watch?v=F53dcBoTtww)
 
 ## Next .NET
@@ -78,9 +74,7 @@ Lunch 12:00 till 13:00
 Nästa version av .NET kommer att lanseras på [.NET Conf 2020](https://www.dotnetconf.net/), 10:e till 12:e november 2020
 
 * Video (88 min): [The journey to one .net ; .Net 5 and beyond ; Microsoft build 2020](https://www.youtube.com/watch?v=oyF6RGKlvi8)
-
 * Video (17 min): [What is the Future of .NET? Is .NET Framework Dead? Is .NET Core Dead?](https://www.youtube.com/watch?v=ZwxWCiW5uO4)
-
 
 
 **Total** (0 min):
@@ -110,7 +104,6 @@ Nästa version av .NET kommer att lanseras på [.NET Conf 2020](https://www.dotn
 Detta är övningar som du äntligen gör själv, i grupp eller i plenum tillsammans med hela klassen
 
 
-
 # Hemmabio + poäng
 
 Se dom fem andra gruppers presentationer (om man vill kan man öka hastigheten på videon i Stream).
@@ -120,29 +113,20 @@ Se dom fem andra gruppers presentationer (om man vill kan man öka hastigheten p
 Bedöm varje grupp på:
 
 * Presentation överlag
-
 * Inblick i uppbyggnad av deras spaceport och tankar bakom
-
 * Demo av applikationen
-
 * Evt viktiga kod delar (borde vara moln- eller säkerhets relaterat)
-
 * Process som har används
-
   * Hur har dom bedrivet planering?
-
 * Nämns följande teknologier i presentationen:
-
   * Docker Containers (krav)
   * Azure DevOps pipeline (CI and/or CD) (krav)
   * En eller fler Azure DBaaS (SQL server, MariaDB or Cosmos DB) (krav)
   * Någon sorts av logging (krav)
-
-  - Azure Blob Storage (nice to have)
-  - Azure Application Insights (nive to have)
-  - Kubernetes (frivillig)
-  - Private links (frivillig)
-
+  * Azure Blob Storage (nice to have)
+  * Azure Application Insights (nive to have)
+  * Kubernetes (frivillig)
+  * Private links (frivillig)
 * Lärdomar från projektet
 
 ## Poäng
@@ -161,8 +145,8 @@ E.g. (team 9 gir team 10, 7 poäng):
 
 Korrekt: `9;10;7`
 
-Fel: `team 9; team 10; 7 point`
+Fel: `team 9; team 10; 7 point` enhet ska inte anges
 
-Fel: `[9];[10];[7]`
+Fel: `[9];[10];[7]` (man ska inte ha med **[** och **]**)
 
-Fel: `9;10;7,6`
+Fel: `9;10;7,6` eller `9;10;7.6` (man kan inte ge decimal betyg)
