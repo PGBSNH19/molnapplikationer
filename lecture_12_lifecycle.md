@@ -29,9 +29,9 @@ Lektion från kl. 8:30 till kl. 16:30
 Lunch 12:00 till 13:00
 
 * 13:00-15:30 Hemmabio + poäng (max 0 min)
-  * Grupp 1 (0 min) - [GitHub repo](https://github.com/PGBSNH19/spacepark-grupp-1-spacepark)
+  * [Grupp 1](https://web.microsoftstream.com/video/38cbbfb8-2515-4ce7-b46f-8b5752a31759?channelId=9c4a5233-5f83-4454-818e-035023491078) (29 min) - [GitHub repo](https://github.com/PGBSNH19/spacepark-grupp-1-spacepark)
   * [Grupp 2](https://web.microsoftstream.com/video/079ed10d-4dc8-408d-bfea-16a3697ec9ad?channelId=9c4a5233-5f83-4454-818e-035023491078) (25 min) - [GitHub repo](https://github.com/PGBSNH19/spacepark-grupp-2-b02-b04)
-  * Grupp 3 (0 min) - [GitHub repo](https://github.com/PGBSNH19/spacepark-grupp-3-spacepark)
+  * [Grupp 3](https://web.microsoftstream.com/video/36ecf567-f67d-425f-ab2f-5334185f4d37?channelId=9c4a5233-5f83-4454-818e-035023491078) (22 min) - [GitHub repo](https://github.com/PGBSNH19/spacepark-grupp-3-spacepark)
   * [Grupp 4](https://web.microsoftstream.com/video/0fb5f302-528c-4a79-b16a-ccfe69de8839?channelId=9c4a5233-5f83-4454-818e-035023491078) (19 min) - [GitHub repo](https://github.com/PGBSNH19/spacepark-grupp-4)
   * [Grupp 5](https://web.microsoftstream.com/video/04eea312-302c-47d4-8d0c-11975341e263?channelId=9c4a5233-5f83-4454-818e-035023491078) (19 min) - [GitHub repo](https://github.com/PGBSNH19/spacepark-grupp-5-spacepark)  
   * Grupp 6 (0 min) - [GitHub repo](https://github.com/PGBSNH19/spacepark-grupp-6-spacepark)
@@ -44,7 +44,6 @@ Lunch 12:00 till 13:00
 
 ## Moln livscykel 
 
-* Video (13 min): [Establish cloud governance using Cloud Adoption Framework for Azure](https://www.youtube.com/watch?v=gPEcqX9No-M)
 * Artikel (6 min): [Application Lifecycle in the Cloud](https://gevaperry.typepad.com/main/2009/11/application-lifecycle-in-the-cloud.html)
 * Artikel (9 min): [The Cloud-Native Application Lifecycle Difference: Continuous Change](https://thenewstack.io/cloud-native-application-lifecycle-difference-continuous-change/)
 
