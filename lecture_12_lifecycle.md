@@ -2,16 +2,6 @@
 
 *Lektion 12 av 12, onsdag den 7:e oktober 2020*
 
-![Draft](/assets/images/draft.png)
-
-**Draft status**:
-
-* Lektionsplan: 60% klar
-* Lektionsteori: 90% klar
-* Bakgrunds litteratur: 50% klar
-
-  
-
 Målet med denna lektion är runda av dom tidigare 11 lektioner, denna lektion kommer att vara ett upplägg båda till LIA men också till nästa kurs.
 
 Vi kommer här att prata om en molnapplikations livscykel, och om green cloud.
@@ -80,40 +70,49 @@ Lektion från kl. 8:30 till kl. 16:30
 
 *Detta är material som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
 
-Artikel serie (totalt 39 min): [The Twelve Factors](https://12factor.net/) \- a methodology for building software-as-a-service apps
-
-Video (23 min): [Azure App Configuration Tutorial](https://www.youtube.com/watch?v=t6m13DxUJMc)
+<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Artikel serie (totalt 39 min): [The Twelve Factors](https://12factor.net/) \- a methodology for building software-as-a-service apps
 
 <span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Video (28 min): [Integrated Management and Security](https://www.youtube.com/watch?v=rpOMEa7MBqk)
 
-Artikel (6 min): [Top Cloud Computing Challenges you might face in 2020](https://medium.com/cloud-management-insider/top-cloud-computing-challenges-you-might-face-in-2020-5dcb56ddcc21)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (6 min): [Top Cloud Computing Challenges you might face in 2020](https://medium.com/cloud-management-insider/top-cloud-computing-challenges-you-might-face-in-2020-5dcb56ddcc21)
 
 ## Moln livscykel 
 
-* Artikel (6 min), Wikipedia: [Application lifecycle management](https://en.wikipedia.org/wiki/Application_lifecycle_management)
-* Artikel (3 min) [Application Lifecycle Management](https://apprenda.com/library/glossary/a-definition-of-application-lifecycle-management/)
-* Artikel (8 min): [The Seven Phases of the System-Development Life Cycle](https://www.innovativearchitects.com/KnowledgeCenter/basic-IT-systems/system-development-life-cycle.aspx)
-* Artikel (19 min): [The Ultimate Guide to Understanding and Using a System Development Life Cycle](https://www.smartsheet.com/system-development-life-cycle-guide)
-* Artikel (5 min): [What Are the Best Practices for Software Development Lifecycle](https://guru8.net/2019/04/what-are-the-best-practices-for-software-development-lifecycle/)
-* Artikel (6 min): [How Cloud and Ops Teams Can Take Cloud Adoption From Bottleneck to Engineering Success](https://medium.com/capital-one-tech/how-cloud-and-ops-teams-can-take-cloud-adoption-from-bottleneck-to-engineering-success-666d149db746)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (6 min), Wikipedia: [Application lifecycle management](https://en.wikipedia.org/wiki/Application_lifecycle_management)
+
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (3 min) [Application Lifecycle Management](https://apprenda.com/library/glossary/a-definition-of-application-lifecycle-management/)
+
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (8 min): [The Seven Phases of the System-Development Life Cycle](https://www.innovativearchitects.com/KnowledgeCenter/basic-IT-systems/system-development-life-cycle.aspx)
+
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (19 min): [The Ultimate Guide to Understanding and Using a System Development Life Cycle](https://www.smartsheet.com/system-development-life-cycle-guide)
+
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (5 min): [What Are the Best Practices for Software Development Lifecycle](https://guru8.net/2019/04/what-are-the-best-practices-for-software-development-lifecycle/)
+
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (6 min): [How Cloud and Ops Teams Can Take Cloud Adoption From Bottleneck to Engineering Success](https://medium.com/capital-one-tech/how-cloud-and-ops-teams-can-take-cloud-adoption-from-bottleneck-to-engineering-success-666d149db746)
 
 ## Green cloud
 
-* Video (7 min): [Mission: Green Computing (2018) - Full Movie](https://www.youtube.com/watch?v=LlSUzlKUVMU) - Reklam
-* Artikel (30 min): [AI-Powered Green Cloud and Data Center](https://ieeexplore.ieee.org/document/8584429)
-* Website: [Clickclean](http://www.clickclean.org/international/en/)
-* Artikel (3 min): [Cloud gaming with PlayStation](https://www.scmp.com/abacus/games/article/3103488/cloud-gaming-playstation-titles-generates-more-carbon-emissions)
-* Webpage: [Microsoft Sustainability](https://www.microsoft.com/en-us/sustainability/)
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Video (7 min): [Mission: Green Computing (2018) - Full Movie](https://www.youtube.com/watch?v=LlSUzlKUVMU) - Reklam
+
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (30 min): [AI-Powered Green Cloud and Data Center](https://ieeexplore.ieee.org/document/8584429)
+
+<span style="color:#9F58B9; font-weight: 900; margin-right:0.5em;">&#12336;</span>Website: [Clickclean (Greenpeace)](http://www.clickclean.org/international/en/)
+
+<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Dokument (30 min), Clickclean (Greenpeace): [Who is winning the race to build a green internet?](http://www.clickclean.org/downloads/ClickClean2016%20HiRes.pdf) (rapport från 2017)
+
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (3 min): [Cloud gaming with PlayStation](https://www.scmp.com/abacus/games/article/3103488/cloud-gaming-playstation-titles-generates-more-carbon-emissions)
+
+<span style="color:#9F58B9; font-weight: 900; margin-right:0.5em;">&#12336;</span>Webpage: [Microsoft Sustainability](https://www.microsoft.com/en-us/sustainability/)
 
 ## Nästa version av .NET
 
-Video (88 min): [The journey to one .net ; .Net 5 and beyond ; Microsoft build 2020](https://www.youtube.com/watch?v=oyF6RGKlvi8)
+<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>Video (88 min): [The journey to one .net ; .Net 5 and beyond ; Microsoft build 2020](https://www.youtube.com/watch?v=oyF6RGKlvi8)
 
-GitHub issue: [Conatiner download cost savings](https://github.com/dotnet/dotnet-docker/issues/1814#issuecomment-625294750)
+<span style="color:#E78E35; font-weight: 900; margin-right:0.5em;">&#9651;</span>GitHub issue: [Conatiner download cost savings](https://github.com/dotnet/dotnet-docker/issues/1814#issuecomment-625294750)
 
-Artikel (7 min): [You won't need .NET Standard... except when you do need it: Microsoft sets out latest in ever-changing story](https://www.theregister.com/2020/09/16/no_more_net_standard_microsoft/)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (7 min): [You won't need .NET Standard... except when you do need it: Microsoft sets out latest in ever-changing story](https://www.theregister.com/2020/09/16/no_more_net_standard_microsoft/)
 
-Artikel (23 min): [The future of .NET Standard](https://devblogs.microsoft.com/dotnet/the-future-of-net-standard/)
+<span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>Artikel (23 min): [The future of .NET Standard](https://devblogs.microsoft.com/dotnet/the-future-of-net-standard/)
 
 
 # Hemmabio + poäng
