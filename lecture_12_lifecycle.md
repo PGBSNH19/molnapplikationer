@@ -7,9 +7,10 @@
 **Draft status**:
 
 * Lektionsplan: 60% klar
-* Lektionsteori: 50% klar
-* Bakgrunds litteratur: 10% klar
-* Uppgifter: 0% klar
+* Lektionsteori: 90% klar
+* Bakgrunds litteratur: 50% klar
+
+  
 
 Målet med denna lektion är runda av dom tidigare 11 lektioner, denna lektion kommer att vara ett upplägg båda till LIA men också till nästa kurs.
 
@@ -60,10 +61,11 @@ Lektion från kl. 8:30 till kl. 16:30
 
 
 
-**Total** (0 min):
+**Total** (63 min):
 
-- Artiklar: 0 stk, total 0 min
-- Video: 0 stk, total 0 min
+- Artiklar: 4 stk, total 34 min
+- Video: 2 stk, total 19 min
+- Dokument: 1 stk, total 10 min
 
 ## Bok: Learn Azure In A Month of Lunches
 
