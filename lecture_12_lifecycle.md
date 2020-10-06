@@ -24,7 +24,7 @@ Lektion från kl. 8:30 till kl. 16:30
   * [Grupp 5](https://web.microsoftstream.com/video/04eea312-302c-47d4-8d0c-11975341e263?channelId=9c4a5233-5f83-4454-818e-035023491078) (19 min) - [GitHub repo](https://github.com/PGBSNH19/spacepark-grupp-5-spacepark)  
   * [Grupp 6](https://web.microsoftstream.com/video/067c41e9-7b2d-4015-9134-fca5bb1a5fd7?channelId=9c4a5233-5f83-4454-818e-035023491078) (32 min) - [GitHub repo](https://github.com/PGBSNH19/spacepark-grupp-6-spacepark)
   * Lunch, när det passar in
-  * <img style="margin-right:0.5em;" src="assets/images/discord18.png" alt="Discord"/>Skicka poäng på Discord, individuellt per grupp
+  * <img style="margin-right:0.5em;" src="assets/images/discord18.png" alt="Discord"/>Skicka poäng som PM, individuellt per grupp
 * 14:30 <img style="margin-right:0.5em;" src="assets/images/teams18.png"  alt="Teams"/>Sammanfattning av kurs
 * 16:00 <img style="margin-right:0.5em;" src="assets/images/teams18.png" alt="Teams"/>Nästa kurs: Producera och leverera mjukvara
 * 16:30 <img style="margin-right:0.5em;" src="assets/images/discord18.png" alt="Discord"/> Landing card, PM på Discord
