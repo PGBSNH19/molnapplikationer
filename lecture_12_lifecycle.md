@@ -15,7 +15,7 @@ Lektion från kl. 8:30 till kl. 16:30
 * 9:30 <img style="margin-right:0.5em;" src="assets/images/teams18.png"  alt="Teams"/> Presentation av dagens teori: 
   * Life cycle
   * Green cloud
-  * Next .NET
+  * Nästa version av .NET
 * 10:30-14:30 [Hemmabio + poäng](#Hemmabio + poäng) (totalt 145 min, max 126 min)
   * [Grupp 1](https://web.microsoftstream.com/video/38cbbfb8-2515-4ce7-b46f-8b5752a31759?channelId=9c4a5233-5f83-4454-818e-035023491078) (29 min) - [GitHub repo](https://github.com/PGBSNH19/spacepark-grupp-1-spacepark)
   * [Grupp 2](https://web.microsoftstream.com/video/079ed10d-4dc8-408d-bfea-16a3697ec9ad?channelId=9c4a5233-5f83-4454-818e-035023491078) (25 min) - [GitHub repo](https://github.com/PGBSNH19/spacepark-grupp-2-b02-b04)
