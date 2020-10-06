@@ -24,17 +24,15 @@ Lektion från kl. 8:30 till kl. 16:30
   * Life cycle
   * Green cloud
   * Next .NET
-* 10:00 <img style="margin-right:0.5em;" src="assets/images/teams18.png"  alt="Teams"/> Uppsamling av kurs
-
-Lunch 12:00 till 13:00
-
-* 13:00-15:30 Hemmabio + poäng (totalt 145 min, max 126 min)
-  * [Grupp 1](https://web.microsoftstream.com/video/38cbbfb8-2515-4ce7-b46f-8b5752a31759?channelId=9c4a5233-5f83-4454-818e-035023491078) (29 min) - [GitHub repo](https://github.com/PGBSNH19/spacepark-grupp-1-spacepark)
+* 10:00-14:00 Hemmabio + poäng (totalt 145 min, max 126 min)
+* [Grupp 1](https://web.microsoftstream.com/video/38cbbfb8-2515-4ce7-b46f-8b5752a31759?channelId=9c4a5233-5f83-4454-818e-035023491078) (29 min) - [GitHub repo](https://github.com/PGBSNH19/spacepark-grupp-1-spacepark)
   * [Grupp 2](https://web.microsoftstream.com/video/079ed10d-4dc8-408d-bfea-16a3697ec9ad?channelId=9c4a5233-5f83-4454-818e-035023491078) (25 min) - [GitHub repo](https://github.com/PGBSNH19/spacepark-grupp-2-b02-b04)
   * [Grupp 3](https://web.microsoftstream.com/video/36ecf567-f67d-425f-ab2f-5334185f4d37?channelId=9c4a5233-5f83-4454-818e-035023491078) (22 min) - [GitHub repo](https://github.com/PGBSNH19/spacepark-grupp-3-spacepark)
   * [Grupp 4](https://web.microsoftstream.com/video/0fb5f302-528c-4a79-b16a-ccfe69de8839?channelId=9c4a5233-5f83-4454-818e-035023491078) (19 min) - [GitHub repo](https://github.com/PGBSNH19/spacepark-grupp-4)
   * [Grupp 5](https://web.microsoftstream.com/video/04eea312-302c-47d4-8d0c-11975341e263?channelId=9c4a5233-5f83-4454-818e-035023491078) (19 min) - [GitHub repo](https://github.com/PGBSNH19/spacepark-grupp-5-spacepark)  
   * [Grupp 6](https://web.microsoftstream.com/video/067c41e9-7b2d-4015-9134-fca5bb1a5fd7?channelId=9c4a5233-5f83-4454-818e-035023491078) (32 min) - [GitHub repo](https://github.com/PGBSNH19/spacepark-grupp-6-spacepark)
+  * Lunch, när det passar in
+* 14:00 <img style="margin-right:0.5em;" src="assets/images/teams18.png"  alt="Teams"/> Uppsamling av kurs
 * 15:30 <img style="margin-right:0.5em;" src="assets/images/teams18.png" alt="Teams"/>Nästa kurs - Producera och leverera mjukvara
 * 16:00 <img style="margin-right:0.5em;" src="assets/images/teams18.png" alt="Teams"/> LIA + utvärdering
 * 16:30 <img style="margin-right:0.5em;" src="assets/images/discord18.png" alt="Discord"/> Landing card, PM på Discord
@@ -57,6 +55,7 @@ Lunch 12:00 till 13:00
 
 > Nästa version av .NET kommer att lanseras på [.NET Conf 2020](https://www.dotnetconf.net/), 10:e till 12:e november 2020
 
+* Artikel (13 min): [Introducing .NET 5](https://devblogs.microsoft.com/dotnet/introducing-net-5/)
 * Video (17 min): [What is the Future of .NET? Is .NET Framework Dead? Is .NET Core Dead?](https://www.youtube.com/watch?v=ZwxWCiW5uO4)
 
 
@@ -98,18 +97,21 @@ Artikel (6 min): [Top Cloud Computing Challenges you might face in 2020](https:/
 
 ## Green cloud
 
-* Slides [Green Cloud Computing 1](https://www.slideshare.net/bluse2/green-cloud-computing)
-* Slides [Green cloud computing 2](https://www.slideshare.net/IamShreyasK/green-cloud-computing-25761737)
+* Video (7 min): [Mission: Green Computing (2018) - Full Movie](https://www.youtube.com/watch?v=LlSUzlKUVMU) - Reklam
 * Artikel (30 min): [AI-Powered Green Cloud and Data Center](https://ieeexplore.ieee.org/document/8584429)
 * Website: [Clickclean](http://www.clickclean.org/international/en/)
+* Artikel (3 min): [Cloud gaming with PlayStation](https://www.scmp.com/abacus/games/article/3103488/cloud-gaming-playstation-titles-generates-more-carbon-emissions)
+* Webpage: [Microsoft Sustainability](https://www.microsoft.com/en-us/sustainability/)
 
 ## Nästa version av .NET
 
 Video (88 min): [The journey to one .net ; .Net 5 and beyond ; Microsoft build 2020](https://www.youtube.com/watch?v=oyF6RGKlvi8)
 
-# Exemplar och övningar. 
+GitHub issue: [Conatiner download cost savings](https://github.com/dotnet/dotnet-docker/issues/1814#issuecomment-625294750)
 
-Detta är övningar som du äntligen gör själv, i grupp eller i plenum tillsammans med hela klassen
+Artikel (7 min): [You won't need .NET Standard... except when you do need it: Microsoft sets out latest in ever-changing story](https://www.theregister.com/2020/09/16/no_more_net_standard_microsoft/)
+
+Artikel (23 min): [The future of .NET Standard](https://devblogs.microsoft.com/dotnet/the-future-of-net-standard/)
 
 
 # Hemmabio + poäng
