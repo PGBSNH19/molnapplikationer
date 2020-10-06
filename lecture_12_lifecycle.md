@@ -16,7 +16,7 @@ Lektion från kl. 8:30 till kl. 16:30
   * Life cycle
   * Green cloud
   * Nästa version av .NET
-* 10:30-14:30 [Hemmabio med poäng](#Hemmabio med poäng) (totalt 145 min, max 126 min)
+* 10:30-14:30 [Hemmabio med poäng](#Hemmabio-med-poäng) (totalt 145 min, max 126 min)
   * [Grupp 1](https://web.microsoftstream.com/video/38cbbfb8-2515-4ce7-b46f-8b5752a31759?channelId=9c4a5233-5f83-4454-818e-035023491078) (29 min) - [GitHub repo](https://github.com/PGBSNH19/spacepark-grupp-1-spacepark)
   * [Grupp 2](https://web.microsoftstream.com/video/079ed10d-4dc8-408d-bfea-16a3697ec9ad?channelId=9c4a5233-5f83-4454-818e-035023491078) (25 min) - [GitHub repo](https://github.com/PGBSNH19/spacepark-grupp-2-b02-b04)
   * [Grupp 3](https://web.microsoftstream.com/video/36ecf567-f67d-425f-ab2f-5334185f4d37?channelId=9c4a5233-5f83-4454-818e-035023491078) (22 min) - [GitHub repo](https://github.com/PGBSNH19/spacepark-grupp-3-spacepark)
