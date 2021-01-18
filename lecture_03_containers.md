@@ -105,6 +105,10 @@ Video (14 min): [Pros and cons of stable and unique tags in Docker image tagging
 
 <span style="color:#9F58B9; font-weight: 900; margin-right:0.5em;">&#12336;</span>Kurs (310 min): Microsoft Learn: [Administer containers in Azure](https://docs.microsoft.com/en-us/learn/paths/administer-containers-in-azure/)
 
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Artikel: [Dockerless - series](https://mkdev.me/en/posts/dockerless-part-1-which-tools-to-replace-docker-with-and-why)
+
+<span style="color:#5874B9; font-weight: 900; margin-right:0.5em;">&#9661;</span>Artikel: [Docker, FROM scratch](https://codeburst.io/docker-from-scratch-2a84552470c8)
+
 ## Orchestration
 
 <span style="color:#7EAE42; font-weight: 900; margin-right:0.5em;">&#9711;</span>[Azure Container Orchestration 101: Azure Web Apps vs ACI vs AKS](https://www.dragonspears.com/blog/azure-container-orchestration-101-azure-web-apps-vs-aci-vs-aks)

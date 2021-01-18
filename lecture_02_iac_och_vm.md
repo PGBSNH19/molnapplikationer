@@ -74,6 +74,7 @@ Lunch 12:00 till 13:00
 * [What is Azure Resource Manager?](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overview)
 * Martin Fowler: [Blue Green Deployment](https://martinfowler.com/bliki/BlueGreenDeployment.html)
 * [5 Blue/Green Deployment Best Practices to Improve Your Releases](https://blog.inedo.com/blue-green-deployment-best-practices)
+* [The beginning of ‘Everything as Code’](https://medium.com/swlh/the-beginning-of-everything-as-code-a25c4e9a75e9)
 
 ### Azure Resource Manager
 
